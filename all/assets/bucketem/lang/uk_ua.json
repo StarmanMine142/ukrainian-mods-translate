@@ -1,0 +1,13 @@
+{
+  "item.bucketem.allay_possessed_book": "Книга зі збириком",
+  "item.bucketem.dry_temperate_frog_bucket": "Відро з помірною жабою",
+  "item.bucketem.dry_tropical_frog_bucket": "Відро з тропічною жабою",
+  "item.bucketem.dry_tundra_frog_bucket": "Відро з тундровою жабою",
+  "item.bucketem.temperate_frog_bucket": "Відро води з помірною жабою",
+  "item.bucketem.tropical_frog_bucket": "Відро води з тропічною жабою",
+  "item.bucketem.tundra_frog_bucket": "Відро води з тундровою жабою",
+  "item.bucketem.magma_bottle": "Магмокуб у пляшці",
+  "item.bucketem.vex_possessed_book": "Книга з бісиком",
+  "modmenu.descriptionTranslation.bucketem": "Мод, який допомагає в транспортуванні деяких мобів.",
+  "fml.menu.mods.info.description.bucketem": "Мод, який допомагає в транспортуванні деяких мобів."
+}

@@ -1,0 +1,35 @@
+{
+  "link.mod_observer.curseforge": "§6§nCurseforge",
+  "link.mod_observer.modrinth": "§2§nMondrinth",
+  "text.mod_observer.issue_tracker": "Проблеми",
+  "text.mod_observer.homepage": "Домашня сторінка",
+  "text.mod_observer.discord": "Discord",
+
+  "text.mod_observer.incompatible": "Несумісні моди",
+  "tooltip.mod_observer.incompatible": "Ці моди тут заборонені. Будь ласка, видаліть їх перед тим, як приєднатися.",
+  "text.mod_observer.required": "Потрібні моди",
+  "tooltip.mod_observer.required": "Вам потрібно встановити ці моди, щоби приєднатися до сервера.",
+  "text.mod_observer.hash_mismatch": "Невідповідність хешу",
+  "tooltip.mod_observer.hash_mismatch": "Файл jar відрізняється від очікуваного сервером. Спробуйте оновити або зверніться за допомогою до персоналу сервера.",
+  "text.mod_observer.bad_children": "Відсутні або різні залежності",
+  "tooltip.mod_observer.bad_children": "Деякі пов'язані моди або частини цих модів відсутні або не відповідають вимогам сервера. Оновіть їх або зверніться до персоналу сервера.",
+
+  "text.mod_observer.generate_config": "Генерувати налаштування",
+
+  "text.mod_observer.config_tool.warning": "§cВи збираєтеся відкрити генератор налаштування сервера.\n\nПродовжуйте, лише якщо знаєте, що робите!",
+  "text.mod_observer.config_tool.continue": "§cПродовжити",
+  "text.mod_observer.config_tool.back": "§aНазад",
+
+
+  "text.mod_observer.include.modmenu": "Уключити Modmenu",
+  "text.mod_observer.include.children": "Уключити вкладені моди",
+  "text.mod_observer.include.fabric_api": "Уключити Fabric API",
+  "text.mod_observer.include.hashes": "Уключити хеші",
+
+
+  "screen.mod_observer.mods_list": "Список модів",
+  "screen.mod_observer.config_generator": "Генератор налаштувань сервера",
+  "gui.mod_observer.show_mods": "Показати список модів",
+
+  "modmenu.descriptionTranslation.mod_observer": "Спостерігає, які моди завантажуються, і відправляє їх на сервер при приєднанні."
+}

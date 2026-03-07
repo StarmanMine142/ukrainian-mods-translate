@@ -1,0 +1,19 @@
+{
+    "atlas_jjam.datapack_name": "Just Atlas DP",
+
+    "item.atlas_jjam.atlas": "Атлас",
+    "item.atlas_jjam.atlas.empty.description": "Може містити мапи",
+    "item.atlas_jjam.atlas.scale_changed": "Бажаний %s тепер %sx",
+    "item.atlas_jjam.atlas.preferred_scaling": "Бажане %s: %s",
+     
+    "item.atlas_jjam.map.error.incompatible_must_be_in": "У %s повинна бути несумісна мапа",
+    "item.atlas_jjam.map.error.wrong_scaling": "Неправильне %s «%s», очікувалося одне з %s",
+    "item.atlas_jjam.map.incompatible.0": "Мапа була створена в попередній версії пакета даних.",
+    "item.atlas_jjam.map.incompatible.1": "Щоб оновити дані, перейдіть в область мапи і запустіть",
+    "item.atlas_jjam.map.incompatible.2": "команду «%1$s», укажіть %2$s в кінці команди.",
+
+    "atlas_jjam.scaling": "Масштаб",
+
+    "modmenu.descriptionTranslation.mr_just_atlas": "Зберігайте мапи в атласі, це зручно і практично для пригод!",
+    "fml.menu.mods.info.description.mr_just_atlas": "Зберігайте мапи в атласі, це зручно і практично для пригод!"
+}

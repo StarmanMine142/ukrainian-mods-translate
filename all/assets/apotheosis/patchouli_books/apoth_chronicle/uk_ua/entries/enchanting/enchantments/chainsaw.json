@@ -1,0 +1,13 @@
+{
+    "name": "Пила",
+    "icon": "minecraft:enchanted_book",
+    "category": "apotheosis:enchanting/enchantments",
+	"flag": "apotheosis:enchanting",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(2)Пила$() — це майстерне зачарування, яке можна застосувати до сокир.$(p)Якщо зламати дерево, усе дерево буде зрубано.$(p)Це використовує міцність сокири."
+        }
+	]
+}

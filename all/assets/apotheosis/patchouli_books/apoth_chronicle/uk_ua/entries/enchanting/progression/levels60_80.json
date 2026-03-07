@@ -1,0 +1,43 @@
+{
+    "name": "Рівні 61–80",
+    "icon": "apothic_enchanting:dormant_deepshelf",
+    "category": "apotheosis:enchanting/progression",
+	"flag": "apotheosis:enchanting",
+    "pages": [
+		{
+            "type": "patchouli:crafting",
+			"title": "Рівень 70",
+			"recipe": "apothic_enchanting:dormant_deepshelf",
+			"text": "Щоб досягти 70 рівня, потрібен стіл зачарування 60 рівня та доступ до глибосланцю."
+		},
+		{
+            "type": "patchouli:text",
+			"title": "Рівень 70",
+			"text": "Щойно ви створите $(9)дрімучу глибополицю$(), вам потрібно її влити.$(p)Цей рецепт вимагатиме вливання кількох додаткових блоків, щоб досягти порогу характеристик.$(p)Завершивши вливання, ви отримаєте $(9)глибополицю$(), який може підняти вас до рівня 70."
+		},
+		{
+            "type": "patchouli:text",
+			"title": "Рівень 75",
+			"text": "Щоб досягти рівня 75, вам потрібно буде оновити свої глибополиці.$(p)Для цих необхідних матеріалів, які можна знайти в $(9)темних глибинах$().$(p)$(9)Уламки відлунняs$() можна знайти в стародавній містах, а $(9)скалк$() можна добути за допомогою шавкового дотику."
+		},
+		{
+            "type": "patchouli:crafting",
+			"title": "Рівень 75",
+			"recipe": "apothic_enchanting:echoing_deepshelf",
+			"recipe2": "apothic_enchanting:soul_touched_deepshelf"
+		},
+		{
+            "type": "patchouli:entity",
+			"entity": "minecraft:warden",
+			"title": "Рівень 80",
+			"scale": 0.95,
+			"text": "Останній крок до рівня 80 вимагає вбити $(9)боронителя$(), що дає змогу створювати $(9)скалкполицю$()."
+		},
+		{
+            "type": "patchouli:crafting",
+			"title": "Рівень 80",
+			"recipe": "apothic_enchanting:echoing_sculkshelf",
+			"recipe2": "apothic_enchanting:soul_touched_sculkshelf"
+		}
+	]
+}

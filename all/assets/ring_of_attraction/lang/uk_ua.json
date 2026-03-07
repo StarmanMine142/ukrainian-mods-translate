@@ -1,0 +1,13 @@
+{
+	"item.ring_of_attraction.ring_of_attraction": "Кільце магнетизму",
+	
+	"item.ring_of_attraction.ring_of_attraction.line1": "Простий магніт для предметів",
+	"item.ring_of_attraction.ring_of_attraction.line2": "ПКМ для УВІМК./ВИМК.",
+	"item.ring_of_attraction.ring_of_attraction.line3": "Режим: %s",
+	"item.ring_of_attraction.ring_of_attraction.line4": "Діапазон: %s",
+		
+	"itemGroup.ring_of_attraction.ring_attraction_group": "Кільце магнетизму",
+
+        "modmenu.descriptionTranslation.ring_of_attraction": "Додає простий магніт для предметів.",
+        "fml.menu.mods.info.description.ring_of_attraction": "Додає простий магніт для предметів."
+}

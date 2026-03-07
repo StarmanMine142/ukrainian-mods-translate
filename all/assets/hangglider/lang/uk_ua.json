@@ -1,0 +1,9 @@
+{
+  "item.hangglider.glider_framework": "Каркас дельтаплана",
+  "item.hangglider.glider_wing": "Крило дельтаплана",
+  "item.hangglider.hang_glider": "Дельтаплан",
+  "item.hangglider.reinforced_hang_glider": "Посилений дельтаплан",
+  "itemGroup.hangglider.main": "Hang Glider",
+  "modmenu.descriptionTranslation.hangglider": "Злітайте в небо та досліджуйте красу світу на своєму абсолютно новому дельтаплані!",
+  "fml.menu.mods.info.description.hangglider": "Злітайте в небо та досліджуйте красу світу на своєму абсолютно новому дельтаплані!"
+}

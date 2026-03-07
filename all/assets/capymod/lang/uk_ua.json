@@ -1,0 +1,7 @@
+{
+  "entity.capymod.name": "Капібара",
+  "item.capymod.capybara_spawn_egg": "Яйце виклику капібари",
+  "item.capymod.staff": "Палка",
+  "itemGroup.capymod": "Capymod",
+  "modmenu.descriptionTranslation.capymod": "Додає капібару і нову структуру в Minecraft!"
+}

@@ -1,0 +1,6 @@
+{
+  "config.potionsreglint.title": "Налаштування Potions Re-Glint",
+  "config.potionsreglint.enablePotionGlint": "Блиск зачарування у зіллів",
+  "modmenu.descriptionTranslation.potionreglint": "Повторно впроваджує блиск для зіллів.",
+  "fml.menu.mods.info.description.potionreglint": "Повторно впроваджує блиск для зіллів."
+}

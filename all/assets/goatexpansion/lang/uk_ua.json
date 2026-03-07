@@ -1,0 +1,33 @@
+{
+  "item.goatexpansion.goat_milk_bucket": "Відро козячого молока",
+  "item.goatexpansion.ram": "Таран",
+  "item.goatexpansion.goat_ham": "Сире козяче стегно",
+  "item.goatexpansion.cooked_goat_ham": "Смажене козяче стегно",
+  "item.goatexpansion.copper_horn": "Мідний ріг",
+  "item.goatexpansion.copper_horn_exposed": "Наражений мідний ріг",
+  "item.goatexpansion.copper_horn_weathered": "Вивістрений мідний ріг",
+  "item.goatexpansion.copper_horn_oxidized": "Окиснений мідний ріг",
+  "item.goatexpansion.copper_horn_waxed": "Вощений мідний ріг",
+  "item.goatexpansion.copper_horn_exposed_waxed": "Вощений наражений мідний ріг",
+  "item.goatexpansion.copper_horn_weathered_waxed": "Вощений вівітрений мідний ріг",
+  "item.goatexpansion.copper_horn_oxidized_waxed": "Вощений окиснений мідний ріг",
+
+  "melody.goatexpansion.memory": "Пам'ять",
+  "melody.goatexpansion.resting": "Відпочінок",
+  "melody.goatexpansion.thought": "Мислення",
+  "tooltip.goatexpansion.copper_horn.switch_melody": "Shift+ПКМ, щоби змінити мелодію",
+
+  "itemGroup.goatexpansion.title": "Goat Expansion",
+
+  "advancements.adventure.horns_collector.title": "Рогозбирач",
+  "advancements.adventure.horns_collector.description": "Зберіть усі роги",
+  "advancements.adventure.no_more_tools_needed.title": "Більше інструменти не треба?",
+  "advancements.adventure.no_more_tools_needed.description": "Змайструйте таран",
+  "advancements.adventure.shouldnt_do_that.title": "Цить, замовкни!",
+  "advancements.adventure.shouldnt_do_that.description": "Використайте козячий ріг у стародавньому місті",
+  "advancements.adventure.get_goat_horn.title": "Майже розбійник",
+  "advancements.adventure.get_goat_horn.description": "Отримайте козячий ріг",
+
+
+  "modmenu.descriptionTranslation.goatexpansion": "Додає нові блоки, предмети та механіку навколо кіз! Особливості включають роговий (таран із поршневим приводом), козяче стегно та смажене козяче стегно, унікальне відро з козячим молоком, яке усуває ваш останній ефект, подію виклику боронителя та нові досягнення, пов'язані з козами та рогами."
+}

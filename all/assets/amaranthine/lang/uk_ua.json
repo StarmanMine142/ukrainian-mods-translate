@@ -1,0 +1,64 @@
+{
+     "item.amaranthine.amaranthine_greatsword": "Амарантнітовий великий меч",
+
+     "item.amaranthine.amaranthine_shard": "Амарантнітовий уламок",
+
+     "item.amaranthine.amaranthine_cleaver": "Амарантнітовий тесак",
+
+     "item.amaranthine.blind_obedience": "Сліпа слухняність",
+     "item.amaranthine.blind_obedience.desc": "Роздроблений сон колишнього монарха",
+
+     "item.amaranthine.chem_cookie": "Чемове печиво",
+
+     "item.amaranthine.irradiated_amaranthine_shard": "Опромінений амарантнітовий уламок",
+
+     "item.amaranthine.chrysaor": "Хризаор",
+     "item.amaranthine.chrysaor.desc": "Справжній масштаб амарантнітової зброї",
+
+     "item.amaranthine.arc_cookie": "Арк печиво",
+     "item.amaranthine.arc_cookie_breeze": "Арк печиво",
+
+     "block.amaranthine.amaranthine_block": "Блок амарантіну",
+
+     "item.amaranthine.captains_cutlass": "Капітанська різьба",
+
+     "effect.amaranthine.fractured": "Протикання",
+     "effect.amaranthine.insanity": "Божевілля",
+
+     "death.attack.impaled": "%1$s проткнуто кристалами",
+     "death.attack.impaled.player": "%2$s проткнув кристалами %1$s",
+
+     "death.attack.cleaver": "%1$s обезголовлено",
+     "death.attack.cleaver.player": "%2$s обезголовив %1$s",
+
+     "item.amaranthine.amaranthine_dust": "Амарантнітовий пил",
+
+     "item.amaranthine.infused_cookie": "Настояне печиво",
+     "item.amaranthine.cookie.inkwell": "Чорнильниця",
+     "item.amaranthine.cookie.chem": "Чем",
+     "item.amaranthine.cookie.arc": "Арк",
+     "item.amaranthine.cookie.breeze": "Вітрень",
+     "item.amaranthine.cookie.intel": "Інтел",
+
+     "advancement.amaranthine.monarch_and_maniac": "Монарх і маніяк",
+     "advancement.amaranthine.monarch_and_maniac.desc": "Отримайте амарантнітовий великий меч",
+
+     "advancement.amaranthine.butcher_vanity": "Марнославство м'ясника",
+     "advancement.amaranthine.butcher_vanity.desc": "Отримайте амарантнітовий тесак",
+
+     "advancement.amaranthine.deceiving": "Вигляд оманливий",
+     "advancement.amaranthine.deceiving.desc": "З'їжте чемове печиво, хороший вибір!",
+
+     "advancement.amaranthine.root": "Амарант",
+     "advancement.amaranthine.root.desc": "Доблесть, зброя, гармонія",
+
+     "advancement.amaranthine.sniffing": "Тобі не варто це їсти…",
+     "advancement.amaranthine.sniffing.desc": "З'їжте амарантнітовий пил, а тепер подумай про те, що ти зробив",
+
+     "amaranthine.subtitles.ambient.insanity_voices": "Ангельські голови",
+
+
+     "itemGroup.amaranthine": "Amaranthine",
+
+    "modmenu.descriptionTranslation.amaranthine": "Використовує чорте сонце з 2025 року."
+}

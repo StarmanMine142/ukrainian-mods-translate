@@ -1,0 +1,10 @@
+{
+  "text.autoconfig.betterwitchhuts-fabric-1_21.title": "Налаштування YUNG's Better Witch Huts",
+  "text.autoconfig.betterwitchhuts-fabric-1_21.option.general.disableVanillaWitchHuts": "Вимкнути стандартні хатинки відьом",
+  "text.autoconfig.betterwitchhuts-fabric-1_21.option.general.disableVanillaWitchHuts.@Tooltip": "Чи слід вимкнути стандартні §6хатинки відьом§r.",
+
+  "Use /locate structure betterwitchhuts:witch_hut instead!": "Використовуйте /locate structure betterwitchhuts:witch_hut!",
+
+  "modmenu.descriptionTranslation.betterwitchhuts": "Додає нові та покращені хатинки відом до Minecraft.",
+  "fml.menu.mods.info.description.betterwitchhuts": "Додає нові та покращені хатинки відом до Minecraft."
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Відновлення",
+    "icon": "apotheosis:salvaging_table",
+    "category": "apotheosis:adventure/affix_loot",
+	"flag": "apotheosis:adventure",
+	"sortnum": 3,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+			"recipe": "apotheosis:salvaging_table",
+			"text": "$(9)Таблиця відновлення$() використовується для розподілу предметів афіксу на відповідні $(9)рідкісні матеріали$()."
+		},
+		{
+            "type": "patchouli:spotlight",
+			"item": "apotheosis:common_material",
+			"link_recipe": true,
+            "text": "Шматок металу дивної форми, який неможливо ідентифікувати.$(p)Цей матеріал отримують під час відновлення звичайних предметів."
+        },
+		{
+            "type": "patchouli:spotlight",
+			"item": "apotheosis:uncommon_material",
+			"link_recipe": true,
+            "text": "Неймовірно міцна тканина, зношена незліченними віками. На ній немає жодної розриви.$(p)Знайдено під час відновлення незвичайних речей."
+        },
+		{
+            "type": "patchouli:spotlight",
+			"item": "apotheosis:rare_material",
+			"link_recipe": true,
+            "text": "Шматок найяскравішого кристала, який будь-коли існував. Хоча це всього лише уламок, він містить сильну магічну силу.$(p)Отримано під час порятунку рідкісних предметів."
+        },
+		{
+            "type": "patchouli:spotlight",
+			"item": "apotheosis:epic_material",
+			"link_recipe": true,
+            "text": "Піщинки з чарівного царства, де таємнича магія спотворює все життя.$(p)Порятунок епічного предмета перетворює їх на цю форму."
+        },
+		{
+            "type": "patchouli:spotlight",
+			"item": "apotheosis:mythic_material",
+			"link_recipe": true,
+            "text": "Перлина очищеної божественної енергії. Величезна сила, запечатана всередині, робить її досить мінливою.$(p)Ці надзвичайні творіння можна отримати лише шляхом відновлення мітичних предметів."
+        }
+	]
+}

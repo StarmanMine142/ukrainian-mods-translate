@@ -1,0 +1,29 @@
+{
+  "name": "Розсувні двері",
+  "icon": "ad_astra:ostrum_sliding_door",
+  "sortnum": 3,
+  "category": "ad_astra:surviving_mars",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "Розсувні двері",
+      "item": "ad_astra:airlock",
+      "text": "Розсувні двері - це великі двері 3х3. Вони закривають кисень у закритому стані, що робить їх чудовими кандидатами для шлюзів. Їх можна заблокувати, натиснувши ПКМ гайковим ключем. Замкнені двері можна відкрити лише редстоуном."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "ad_astra:iron_sliding_door",
+      "recipe2": "ad_astra:steel_sliding_door"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "ad_astra:desh_sliding_door",
+      "recipe2": "ad_astra:ostrum_sliding_door"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "ad_astra:airlock",
+      "recipe2": "ad_astra:reinforced_door"
+    }
+  ]
+}

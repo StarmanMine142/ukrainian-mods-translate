@@ -1,0 +1,35 @@
+{
+  "modifier": "frost",
+  "text": [
+    {
+      "text": "Покриття кров'ю льодяного дракона наділяє інструмент силою окутувати ворогів у лід."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Не можна застосувати до драконосталевих речей. Несумісний з пеклом"
+    },
+    {
+      "text": "\n"
+    }
+  ],
+  "effects": [
+    "Заморожує ворогів у блоки льоду на 10 секунд",
+    "Завдає додаткову шкоду льодяним драконам",
+    "Уповільнює",
+    "Лише 1 рівень"
+  ],
+  "demoTool": [
+    "tconstruct:broadsword",
+    "tconstruct:cleaver",
+    "tconstruct:hammer",
+    "tconstruct:arrow",
+    "tconstruct:longsword",
+    "tconstruct:shortbow",
+    "tconstruct:frypan",
+    "tconstruct:crossbow",
+    "tconstruct:scythe",
+    "tconstruct:shuriken"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "text.autoconfig.yungsmenutweaks-fabric-1_21.title": "Налаштування YUNG's Menu Tweaks",
+  "text.autoconfig.yungsmenutweaks-fabric-1_21.option.yungsMenuTweaks.enableRightClickCycleButton": "ПКМ повертає циклічні кнопки",
+  "text.autoconfig.yungsmenutweaks-fabric-1_21.option.yungsMenuTweaks.enableRightClickCycleButton.@Tooltip": "Дозволяє натиснути ПКМ, аби перейти назад через деякі кнопки.",
+  "text.autoconfig.yungsmenutweaks-fabric-1_21.option.yungsMenuTweaks.enableMouseScrollOnSliders": "Колесо прокрутки миші впливає на повзунки",
+  "text.autoconfig.yungsmenutweaks-fabric-1_21.option.yungsMenuTweaks.enableMouseScrollOnSliders.@Tooltip[0]": "Дозволяє прокручувати колесо миші, аби змінювати параметри за допомогою повзунка",
+  "text.autoconfig.yungsmenutweaks-fabric-1_21.option.yungsMenuTweaks.enableMouseScrollOnSliders.@Tooltip[1]": "під час наведення курсору на повзунок.",
+  "text.autoconfig.yungsmenutweaks-fabric-1_21.option.yungsMenuTweaks.enableBackgroundTexture": "Увімкнути користувацьку текстуру тла",
+  "text.autoconfig.yungsmenutweaks-fabric-1_21.option.yungsMenuTweaks.enableBackgroundTexture.@Tooltip[0]": "Якщо ввімкнено, у меню, де це можливо, використовуватиметься користувацька текстура тла.",
+  "text.autoconfig.yungsmenutweaks-fabric-1_21.option.yungsMenuTweaks.enableBackgroundTexture.@Tooltip[1]": "Текстура, яка використовується, керується параметром «Користувацька текстура тла» нижче.",
+  "text.autoconfig.yungsmenutweaks-fabric-1_21.option.yungsMenuTweaks.backgroundTexture": "Користувацька текстура тла",
+  "text.autoconfig.yungsmenutweaks-fabric-1_21.option.yungsMenuTweaks.backgroundTexture.@Tooltip[0]": "Текстура для використання як власне тло замість типового розмитого тла.",
+  "text.autoconfig.yungsmenutweaks-fabric-1_21.option.yungsMenuTweaks.backgroundTexture.@Tooltip[1]": "Діє, лише якщо параметр «Увімкнути користувацьку текстуру тла» ввімкнено.",
+
+  "modmenu.descriptionTranslation.yungsmenutweaks": "Невеликий, легкий мод, який значно полегшує перегляд меню!",
+  "fml.menu.mods.info.description.yungsmenutweaks": "Невеликий, легкий мод, який значно полегшує перегляд меню!"
+}

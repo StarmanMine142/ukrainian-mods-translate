@@ -1,0 +1,11 @@
+{
+  "key.category.evilcreativefly.creativefly": "Creative fly",
+  "key.evilcreativefly.toggle_fly": "Швидкий політ",
+  "text.creative_fly.message.creativefly.text": "Швидкий політ:",
+  "text.creative_fly.message.creativefly.enabled": " УВІМК.",
+  "text.creative_fly.message.creativefly.disabled": " ВИМК.",
+  "text.creative_fly.message.creativefly.speed": " Швидкість: ",
+  "text.autoconfig.creative_fly.option.toggledFlySpeed" : "Швидкість",
+  "text.autoconfig.creative_fly.title": "Налаштування Creative Fly",
+  "modmenu.descriptionTranslation.evilcreativefly": "Робить політ у режимі творчости швидшим."
+}

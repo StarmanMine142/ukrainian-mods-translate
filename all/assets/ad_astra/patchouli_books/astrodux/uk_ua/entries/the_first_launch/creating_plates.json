@@ -1,0 +1,18 @@
+{
+  "name": "Створення пластин",
+  "icon": "ad_astra:compressor",
+  "sortnum": 1,
+  "category": "ad_astra:the_first_launch",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "Компресор",
+      "item": "ad_astra:compressor",
+      "text": "Коли ви наберетеся енергії, ви захочете створити компресор. Ця машина може стискати злитки та блоки в пластини, які потрібні для виготовлення багатьох речей."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "ad_astra:compressor"
+    }
+  ]
+}

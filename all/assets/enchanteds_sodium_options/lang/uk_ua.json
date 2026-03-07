@@ -1,0 +1,37 @@
+{
+  "gui.enchanted_sodium_options.name": "Enchanted's Sodium Options",
+
+  "gui.enchanted_sodium_options.group.visual": "Вигляд",
+  "gui.enchanted_sodium_options.option.accent_bars": "Акцентні кольорові смуги",
+  "gui.enchanted_sodium_options.option.accent_bars.tooltip": "Якщо ввімкнено, ліворуч від налаштувань для кожного мода показуватися кольорова смуга.",
+  "gui.enchanted_sodium_options.option.show_mod_icons": "Значки модів",
+  "gui.enchanted_sodium_options.option.show_mod_icons.tooltip": "Чи мають показуватися значки модів на екрані налаштувань.",
+  "gui.enchanted_sodium_options.option.coloured_header_text": "Кольорові заголовки модів",
+  "gui.enchanted_sodium_options.option.coloured_header_text.tooltip": "Якщо ввімкнено, акцентні кольори модів використовуватимуться для назв модів на екрані налаштувань.",
+  "gui.enchanted_sodium_options.option.coloured_category_text": "Кольорові назви категорій",
+  "gui.enchanted_sodium_options.option.coloured_category_text.tooltip": "Якщо ввімкнено, акцентні кольори модів використовуватимуться для назв категорій налаштувань.",
+
+  "gui.enchanted_sodium_options.group.behaviour": "Поведінка",
+  "gui.enchanted_sodium_options.option.collapse_threshold": "Порогове значення згортання",
+  "gui.enchanted_sodium_options.option.collapse_threshold.value.collapse_all": "Згорнути все",
+  "gui.enchanted_sodium_options.option.collapse_threshold.tooltip": "Максимальна кількість параметрів, які може мати категорія налаштувань, перш ніж її вміст буде згорнуто у підменю.\nЦе не застосовується, доки ви не закриєте та не відкриєте знову екран налаштувань відео.",
+  "gui.enchanted_sodium_options.option.collapse_sodium_options": "Згорнути параметри Sodium",
+  "gui.enchanted_sodium_options.option.collapse_sodium_options.tooltip": "Чи налаштування Sodium згортаються у підменю, якщо досягнуто порогу згортання.\nЦе не застосовується, доки ви не закриєте та знову не відкриєте екран налаштувань відео.",
+
+  "gui.enchanted_sodium_options.group.more": "Більше",
+
+  "gui.enchanted_sodium_options.unknown_option": "Невідомо: %s",
+  "gui.enchanted_sodium_options.unknown_option.tooltip.1": "Повідомте про це в Enchanted's Sodium Options!! Не повідомляйте про цю проблему в Sodium, %s або будь-який інший мод!",
+  "gui.enchanted_sodium_options.unknown_option.tooltip.2": "Параметр «%s» не може бути показаний в Enchanted's Sodium Options.\nТип параметра: «%s»",
+
+  "gui.enchanted_sodium_options.error_screen.body.1": "Щось пішло катастрофічно не так під час спроби показати екран налаштувань відео.",
+  "gui.enchanted_sodium_options.error_screen.body.2": "Це проблема з Enchanted's Sodium Options, повідомте про це, натиснувши кнопку нижче!",
+  "gui.enchanted_sodium_options.error_screen.body.3": "НЕ повідомляйте про це розробникам Sodium!!",
+  "gui.enchanted_sodium_options.report_button": "Звітувати помилку",
+  "gui.enchanted_sodium_options.sodium_screen": "Продовжити в екрані Sodium",
+
+  "gui.enchanted_sodium_options.ellipsis": "%s…",
+
+  "modmenu.descriptionTranslation.enchanteds_sodium_options": "Змінює екран налаштувань відео Sodium, щоб краще відповідати стилю стандартних екранів.",
+  "fml.menu.mods.info.description.enchanteds_sodium_options": "Змінює екран налаштувань відео Sodium, щоб краще відповідати стилю стандартних екранів."
+}

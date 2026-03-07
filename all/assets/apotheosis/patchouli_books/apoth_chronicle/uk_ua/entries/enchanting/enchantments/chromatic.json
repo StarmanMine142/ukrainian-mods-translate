@@ -1,0 +1,13 @@
+{
+    "name": "Кольорова похибка",
+    "icon": "minecraft:enchanted_book",
+    "category": "apotheosis:enchanting/enchantments",
+	"flag": "apotheosis:enchanting",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Кольорова похибка$() — це зачарування для ножиць.$(p)Чар змушуює будь-яку зістрижену вовну набувати випадкового кольору."
+        }
+	]
+}

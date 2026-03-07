@@ -1,0 +1,6 @@
+{
+  "ftbpmapi.generic.mods": "Моди (%s)",
+  "ftbpmapi.tooltip.support_discord": "Потрібна допомога? Приєднуйтеся до сервера Discord!",
+  "ftbpmapi.tooltip.support_github": "Знайши помилку? Звітуйте на GitHub!",
+  "fml.menu.mods.info.description.ftbpmapi": "API уніфікації для модів, що змінюють меню павзи."
+}

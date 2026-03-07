@@ -1,0 +1,13 @@
+{
+    "name": "Надзцілення",
+    "icon": "minecraft:experience_bottle",
+    "category": "apotheosis:adventure/attributes",
+	"flag": "apotheosis:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Наявність $(9)надзцілення$() означає, що частина вашої фізичної шкоди буде отримана як поглинальний щит. На відміну від вампіризму, надзцілення працює, коли ви повністю здорові.$(p)Ця характеристика доступна лише для важкої зброї."
+        }
+	]
+}

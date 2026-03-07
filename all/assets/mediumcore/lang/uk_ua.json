@@ -1,0 +1,5 @@
+{
+  "selectWorld.gameMode.mediumcore": "§eМедіумкор§r",
+  "selectWorld.gameMode.mediumcore.info": "Режим виживання з максимальним здоров'ям, яке зменшується після кожної смерти.",
+  "gamerule.mediumcoreMode": "Режим медіумкору"
+}

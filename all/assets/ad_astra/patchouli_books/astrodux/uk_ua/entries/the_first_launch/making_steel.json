@@ -1,0 +1,24 @@
+{
+  "name": "Виготовлення сталі",
+  "icon": "ad_astra:etrionic_blast_furnace",
+  "sortnum": 2,
+  "category": "ad_astra:the_first_launch",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "Електронна доменна піч",
+      "item": "ad_astra:etrionic_blast_furnace",
+      "text": "Електронна доменна піч є покарщеною версією плавильної печі. Має два режими: сплавлення і виплавлення. Виплавлення працює як плавильня, але з 4 слотами для 4-кратної ефективности. Сплавлення поєднує матеріали для виготовлення сплаву."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "ad_astra:etrionic_blast_furnace"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Сталь",
+      "item": "ad_astra:steel_ingot",
+      "text": "Сталь виготовляється в електроннів доменній печі шляхом поєднання заліза та вугілля. Це дасть 1 сталевий злиток. Сталь необхідна для більшости рецептів і є основним матеріалом вашої першої ракети."
+    }
+  ]
+}

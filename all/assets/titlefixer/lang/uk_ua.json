@@ -1,0 +1,12 @@
+{
+  "text.autoconfig.titlefixer.title": "Налаштування Title Fixer",
+  "text.autoconfig.titlefixer.option.titleAlwaysFitsScreen": "Заголовок завжди відповідає розміру екрана",
+  "text.autoconfig.titlefixer.option.scoreboardMode": "Режим бокового табло",
+  "text.autoconfig.titlefixer.option.scoreboardFadeSpeed": "Швидкість зникнення табло",
+  "text.autoconfig.titlefixer.option.scoreboardHideMinAlpha": "Мінімальна непрозорість табло",
+  "text.autoconfig.titlefixer.option.titleMarginLeft": "Ліве поле заголовка",
+  "text.autoconfig.titlefixer.option.titleMarginRight": "Праве поле заголовка",
+  "text.autoconfig.titlefixer.option.preferredTitleScale": "Бажаний масштаб заголовка",
+  "text.autoconfig.titlefixer.option.preferredSubtitleScale": "Бажаний масштаб підзаголовка",
+  "modmenu.descriptionTranslation.titlefixer": "Робить так, щоби заголовок завжди відповідав екрану."
+}

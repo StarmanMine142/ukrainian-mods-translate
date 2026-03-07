@@ -1,0 +1,26 @@
+{
+    "item.pizzadelight.rolling_pin": "Качалка",
+    "item.pizzadelight.cheese": "Сир",
+    "item.pizzadelight.cheese_slice": "Шматок сиру",
+    "item.pizzadelight.cheese_bread": "Сирний сендвіч",
+    "item.pizzadelight.flat_dough": "Пласке тісто",
+    "item.pizzadelight.raw_sausage": "Сира ковбаса",
+    "item.pizzadelight.cooked_sausage": "Смажена ковбаса",
+    "item.pizzadelight.hotdog": "Хот-дог",
+    "item.pizzadelight.incomplete_pizza": "Незакінчена піца",
+    "item.pizzadelight.pizza_slice": "Шматок піци",
+
+    "block.pizzadelight.cheese_block": "Сирний блок",
+    "block.pizzadelight.cheese_bricks": "Сирна цегла",
+    "block.pizzadelight.polished_cheese": "Полірований сир",
+    "block.pizzadelight.pizza": "Піца",
+
+    "creativetab.pizzadelight_tab": "Pizza Delight",
+
+    "pizzadelight.advancement.cheese": "Жовте колесо!",
+    "pizzadelight.advancement.cheese.desc": "Створіть сир з кулінарним горщиком!",
+    "pizzadelight.advancement.scammer": "Шахрай!",
+    "pizzadelight.advancement.scammer.desc": "Спробуйте дати піґліну сир",
+
+    "fml.menu.mods.info.description.pizzadelight": "Доповнення для Farmer's Delight, що додає піцу."
+}

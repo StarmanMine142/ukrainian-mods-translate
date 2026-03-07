@@ -1,0 +1,13 @@
+{
+  "item.modern_nuclearization.detonator": "Детонатор",
+  "item.modern_nuclearization.goggles": "Окуляри",
+  "item.modern_nuclearization.railgun": "Рельсотрон",
+  "item.modern_nuclearization.rangefinder": "Далекомір",
+  "item.modern_nuclearization.coin": "Монета",
+  "death.attack.nuclear_blast": "%1$s розірвано ядерним вибухом",
+  "itemGroup.modern_nuclearization": "Modern Nuclearization",
+  "detonator.tooltip": "З'єднано з ядерною бомбою на:",
+  "detonator.message": "З'єднано з ядерною бомбою",
+  "rangefinder.tooltip": "Каже вам, скільки шкоди ви отримали б, якби ядерна бомба вибухнула на такій відстані",
+  "rangefinder.tooltip2": "Сира шкода не враховує обладунки"
+}

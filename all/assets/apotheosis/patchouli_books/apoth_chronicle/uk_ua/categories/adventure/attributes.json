@@ -1,0 +1,7 @@
+{
+    "name": "Атрибути",
+    "description": "На додаток до стадартних атрибутів, Apotheosis додає безліч нових.$(p)У цьому розділі детально описано всі.",
+    "icon": "minecraft:diamond_chestplate",
+	"flag": "apotheosis:adventure",
+	"parent": "apotheosis:adventure/adventure"
+}

@@ -1,0 +1,21 @@
+{
+  "key.mineshotter.capture": "Захопити знімок екрана",
+  "key.category.mineshotter.bindings": "Mineshotter",
+  "mineshotter.screen.title": "Mineshotter",
+  "mineshotter.chat.copied": "§a✓ Скопійовано до буферу обміну!",
+  "mineshotter.chat.copy_failed": "§cНе вдалося скопіювати: %s",
+  "mineshotter.chat.uploaded": "§a✓ Вивантажено та скопійовано: %s",
+  "mineshotter.chat.upload_failed": "§cНе вдалося вивантажити",
+  "mineshotter.chat.upload_error": "§cПомилка вивантаження",
+  "mineshotter.editor.mode.move": "Режим руху",
+  "mineshotter.editor.mode.draw": "Режим малювання",
+  "mineshotter.editor.button.copy": "Копіюв.",
+  "mineshotter.editor.button.upload": "Вивант.",
+  "mineshotter.editor.button.draw": "Малюв.",
+  "mineshotter.editor.button.move": "Рухати",
+  "mineshotter.editor.button.back": "Назад",
+  "mineshotter.editor.palette": "Палітра",
+  "mineshotter.editor.tip1": "Виберіть область екрана",
+  "mineshotter.editor.tip2": "Натисніть Enter, щоби підтвердити",
+  "modmenu.descriptionTranslation.mineshotter": "Простий мод для створення знімків екрана у грі у вибраній області."
+}

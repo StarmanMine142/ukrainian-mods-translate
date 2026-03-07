@@ -1,0 +1,39 @@
+{
+  "text.autoconfig.pochatok.title": "Налаштування Pochatok",
+
+  "text.autoconfig.pochatok.option.toggledFlySpeed" : "Швидкість швидкого польоту",
+  "text.autoconfig.pochatok.option.creativeFlyToggled" : "Швидкий політ",
+
+  "text.autoconfig.pochatok.option.nameTagForceRenderDistance" : "Дальність показу імен",
+  "text.autoconfig.pochatok.option.forceShowNameTags" : "Примусовий показ імен",
+  "text.autoconfig.pochatok.option.hidePlayersNameTags" : "Приховувати імена гравців",
+
+  "text.autoconfig.pochatok.option.isLightVisible" : "Показувати світло",
+  "text.autoconfig.pochatok.option.signClick" : "Натискати через підсвічені таблички",
+
+
+  "text.pochatok.message.sign.text": "Пошук табличок: ",
+  "text.pochatok.message.sign.disabled": " ВИМК.",
+  "text.pochatok.message.creativefly.text": "Швидкий політ:",
+  "text.pochatok.message.creativefly.enabled": " УВІМК.",
+  "text.pochatok.message.creativefly.disabled": " ВИМК.",
+  "text.pochatok.message.creativefly.speed": " Швидкість: ",
+  "text.pochatok.message.nametagrender.text": "Примусовий показ імен:",
+  "text.pochatok.message.nametagrender.enabled": " УВІМК.",
+  "text.pochatok.message.nametagrender.disabled": " ВИМК.",
+  "text.pochatok.message.player_nametagrender.text": "Приховання імен гравців:",
+  "text.pochatok.message.visible_light.text": "Показ світла:",
+  "text.pochatok.message.visible_light.enabled": " УВІМК.",
+  "text.pochatok.message.visible_light.disabled": " ВИМК.",
+
+
+  "key.category.pochatok.pochatok": "Pochatok",
+  "key.pochatok.toggle_creative_fly": "Швидкий політ",
+  "key.pochatok.toggle_visible_light": "Показати світло",
+  "key.pochatok.toggle_force_name_tag_render": "Примусово показати імен",
+  "key.nametagrender.toggle_player_name_tag_render": "Приховати імена гравців",
+
+
+
+  "modmenu.descriptionTranslation.pochatok": "Салат із всіляких приколів."
+}

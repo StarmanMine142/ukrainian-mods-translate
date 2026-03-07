@@ -1,0 +1,12 @@
+{
+  "config.citresewn.title": "Налаштування CIT Resewn",
+
+  "config.citresewn-defaults.title": "CIT Resewn: Defaults",
+  "config.citresewn-defaults.tooltip": "Перейти до меню налаштувань Defaults",
+
+  "config.citresewn-defaults.type_enchantment_scroll_multiplier.title": "Тип зачарувань: множник прокрутки",
+  "config.citresewn-defaults.type_enchantment_scroll_multiplier.tooltip": "Загальний множник швидкости прокрутки блиску CIT",
+
+  "modmenu.descriptionTranslation.citresewn": "Повторно впроваджує систему CIT з MCPatcher.",
+  "modmenu.descriptionTranslation.citresewn-defaults": "Типи і умови для CIT Resewn усталено."
+}

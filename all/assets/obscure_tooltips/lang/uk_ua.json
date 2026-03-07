@@ -1,0 +1,237 @@
+{
+  "rarity.common": "Звичайний",
+  "rarity.uncommon": "Незвичайний",
+  "rarity.rare": "Рідкісний",
+  "rarity.epic": "Епічний",
+
+  "toast.obscure_tooltips.hint_1": "Увімкнути вбудований пакет ресурсів %s",
+  "toast.obscure_tooltips.hint_2": "Він містить анімаційні ефекти та візуальні стилі.",
+
+  "obscure_tooltips.configuration.section.obscuria.obscure.tooltips.client.toml.title": "Obscure Tooltips",
+
+  "obscure_tooltips.configuration.enabled": "Мод увімкнено",
+  "obscure_tooltips.configuration.enabled.tooltip": "Умикає або повністю вимикає Obscure Tooltips.",
+
+  "obscure_tooltips.configuration.labelsEnabled": "Мітки заголовків",
+  "obscure_tooltips.configuration.labelsEnabled.tooltip": "Показує допоміжний рядок у заголовку підказки.",
+
+  "obscure_tooltips.configuration.shadowsEnabled": "Тіні",
+  "obscure_tooltips.configuration.shadowsEnabled.tooltip": "Умикає тіні для панелей підказок.",
+
+  "obscure_tooltips.configuration.shadowOpacity": "Непрозорість тіні",
+  "obscure_tooltips.configuration.shadowOpacity.tooltip": "Керує непрозорістю тіні підказки.",
+
+  "obscure_tooltips.configuration.contentMargin": "Поля вмісту",
+  "obscure_tooltips.configuration.contentMargin.tooltip": "Відстань (у пікселях) між рамкою підказки та її вмістом.",
+
+  "obscure_tooltips.configuration.showVibrantTooltipsHint": "Показати підказку пакета ресурсів",
+  "obscure_tooltips.configuration.showVibrantTooltipsHint.tooltip": "Показує підказку щодо запуску, яка пропонує вбудований пакет ресурсів Vibrant Tooltips.\n\nАвтоматично вимикається після одного показу.",
+
+  "obscure_tooltips.configuration.ignoredItems": "Ігноровані предмети",
+  "obscure_tooltips.configuration.ignoredItems.tooltip": "Список ID предметів, на які не повинні впливати Obscure Tooltips.",
+
+
+  "obscure_tooltips.configuration.Sounds": "Налаштування звукуSound Settings",
+  "obscure_tooltips.configuration.Sounds.tooltip": "Керує звуковими ефектами підказки.",
+
+  "obscure_tooltips.configuration.soundsEnabled": "Увімкнено",
+  "obscure_tooltips.configuration.soundsEnabled.tooltip": "Відтворює звукові ефекти, коли з'являються підказки.",
+
+  "obscure_tooltips.configuration.soundVolume": "Гучність",
+  "obscure_tooltips.configuration.soundVolume.tooltip": "Множник гучности для звукових ефектів підказки.",
+
+
+  "obscure_tooltips.configuration.Scrolling-and-Wrapping": "Прокручування та обтікання",
+  "obscure_tooltips.configuration.Scrolling-and-Wrapping.tooltip": "Керує тим, як довго спливні підказки обертаються та прокручуються.",
+
+  "obscure_tooltips.configuration.autoWrapEnabled": "Автоматичне обтікання",
+  "obscure_tooltips.configuration.autoWrapEnabled.tooltip": "Автоматично обертає довгі рядки в спливні підказки.",
+
+  "obscure_tooltips.configuration.scrollEnabled": "Увімкнути прокручування",
+  "obscure_tooltips.configuration.scrollEnabled.tooltip": "Дозволяє прокручувати підказки, коли вони перевищують висоту екрана.",
+
+  "obscure_tooltips.configuration.scrollSpeed": "Швидкість прокручування",
+  "obscure_tooltips.configuration.scrollSpeed.tooltip": "Керує швидкістю прокручування підказок під час використання колеса миші.",
+
+  "obscure_tooltips.configuration.scrollMargin": "Поле прокручування",
+  "obscure_tooltips.configuration.scrollMargin.tooltip": "Додатковий інтервал (у пікселях) над і під підказкою, що прокручується.",
+
+
+  "obscure_tooltips.configuration.Model-Preview": "3D попередній перегляд",
+  "obscure_tooltips.configuration.Model-Preview.tooltip": "Керує попереднім переглядом тривимірних предметів у підказках.",
+
+  "obscure_tooltips.configuration.armorPreviewEnabled": "Попередній перегляд обладунків",
+  "obscure_tooltips.configuration.armorPreviewEnabled.tooltip": "Показує 3D-моделі обладунків в підказках.",
+
+  "obscure_tooltips.configuration.armorPreviewWidth": "Ширина попереднього перегляду обладунків",
+  "obscure_tooltips.configuration.armorPreviewWidth.tooltip": "Ширина попереднього перегляду обладунків в пікселях.",
+
+  "obscure_tooltips.configuration.armorPreviewWhitelist": "Білий список обладунків",
+  "obscure_tooltips.configuration.armorPreviewWhitelist.tooltip": "ID предметів, які мають завжди показувати попередній перегляд обладунків.",
+
+  "obscure_tooltips.configuration.armorPreviewBlacklist": "Чорний список обладунків",
+  "obscure_tooltips.configuration.armorPreviewBlacklist.tooltip": "ID предметів, які ніколи не повинні показувати попередній перегляд обладунків.",
+
+  "obscure_tooltips.configuration.toolPreviewEnabled": "Попередній перегляд інструмента",
+  "obscure_tooltips.configuration.toolPreviewEnabled.tooltip": "Показує 3D інструменти та зброю в підказках.",
+
+  "obscure_tooltips.configuration.toolPreviewWidth": "Ширина попереднього перегляду інструмента",
+  "obscure_tooltips.configuration.toolPreviewWidth.tooltip": "Ширина попереднього перегляду інструмента або зброї в пікселях.",
+
+  "obscure_tooltips.configuration.toolPreviewWhitelist": "Білий список інструментів",
+  "obscure_tooltips.configuration.toolPreviewWhitelist.tooltip": "ID предметів, які мають завжди показувати попередній перегляд інструмента чи зброї.",
+
+  "obscure_tooltips.configuration.toolPreviewBlacklist": "Чорний список інструментів",
+  "obscure_tooltips.configuration.toolPreviewBlacklist.tooltip": "ID предметів, які ніколи не повинні показувати попередній перегляд інструмента чи зброї.",
+
+
+  "obscure_tooltips.configuration.Styles": "Налаштування стилю",
+  "obscure_tooltips.configuration.Styles.tooltip": "Керує візуальними стилями для різних категорій предметів.",
+
+
+  "obscure_tooltips.configuration.Default": "Усталений стиль",
+  "obscure_tooltips.configuration.Default.tooltip": "Резервний стиль, який використовується, коли не застосовано жодного певного перевизначення стилю.",
+
+  "obscure_tooltips.configuration.defaultPanelBackgroundTop": "Верхнє тло",
+  "obscure_tooltips.configuration.defaultPanelBackgroundTop.tooltip": "Колір верхнього тла у форматі #AARRGGBB (ARGB).",
+
+  "obscure_tooltips.configuration.defaultPanelBackgroundBottom": "Нижнє тло",
+  "obscure_tooltips.configuration.defaultPanelBackgroundBottom.tooltip": "Колір нижнього тла у форматі #AARRGGBB (ARGB).",
+
+  "obscure_tooltips.configuration.defaultPanelBorderTop": "Верхня рамка",
+  "obscure_tooltips.configuration.defaultPanelBorderTop.tooltip": "Колір верхньої рамки у форматі #AARRGGBB (ARGB).",
+
+  "obscure_tooltips.configuration.defaultPanelBorderBottom": "Нижня рамка",
+  "obscure_tooltips.configuration.defaultPanelBorderBottom.tooltip": "Колір нижньої рамки у форматі #AARRGGBB (ARGB).",
+
+
+  "obscure_tooltips.configuration.Uncommon-Items": "Незвичайні предмети",
+  "obscure_tooltips.configuration.Uncommon-Items.tooltip": "Перевизначення стилю для незвичайних предметів.",
+
+  "obscure_tooltips.configuration.uncommonStyleEnabled": "Увімкнено",
+  "obscure_tooltips.configuration.uncommonStyleEnabled.tooltip": "Застосовує унікальний стиль до незвичайних предметів.",
+
+  "obscure_tooltips.configuration.uncommonPanelBackgroundTop": "Верхнє тло",
+  "obscure_tooltips.configuration.uncommonPanelBackgroundTop.tooltip": "Колір верхнього тла у форматі #AARRGGBB (ARGB).",
+
+  "obscure_tooltips.configuration.uncommonPanelBackgroundBottom": "Нижнє тло",
+  "obscure_tooltips.configuration.uncommonPanelBackgroundBottom.tooltip": "Колір нижнього тла у форматі #AARRGGBB (ARGB).",
+
+  "obscure_tooltips.configuration.uncommonPanelBorderTop": "Верхня рамка",
+  "obscure_tooltips.configuration.uncommonPanelBorderTop.tooltip": "Колір верхньої рамки у форматі #AARRGGBB (ARGB).",
+
+  "obscure_tooltips.configuration.uncommonPanelBorderBottom": "Нижня рамка",
+  "obscure_tooltips.configuration.uncommonPanelBorderBottom.tooltip": "Колір нижньої рамки у форматі #AARRGGBB (ARGB).",
+
+
+  "obscure_tooltips.configuration.Rare-Items": "Рідкісні предмети",
+  "obscure_tooltips.configuration.Rare-Items.tooltip": "Перевизначення стилю для рідкісних предметів.",
+
+  "obscure_tooltips.configuration.rareStyleEnabled": "Увімкнено",
+  "obscure_tooltips.configuration.rareStyleEnabled.tooltip": "Застосовує унікальний стиль до рідкісних предметів.",
+
+  "obscure_tooltips.configuration.rarePanelBackgroundTop": "Верхнє тло",
+  "obscure_tooltips.configuration.rarePanelBackgroundTop.tooltip": "Колір верхнього тла у форматі #AARRGGBB (ARGB).",
+
+  "obscure_tooltips.configuration.rarePanelBackgroundBottom": "Нижнє тло",
+  "obscure_tooltips.configuration.rarePanelBackgroundBottom.tooltip": "Колір нижнього тла у форматі #AARRGGBB (ARGB).",
+
+  "obscure_tooltips.configuration.rarePanelBorderTop": "Верхня рамка",
+  "obscure_tooltips.configuration.rarePanelBorderTop.tooltip": "Колір верхньої рамки у форматі #AARRGGBB (ARGB).",
+
+  "obscure_tooltips.configuration.rarePanelBorderBottom": "Нижня рамка",
+  "obscure_tooltips.configuration.rarePanelBorderBottom.tooltip": "Колір нижньої рамки у форматі #AARRGGBB (ARGB).",
+
+
+  "obscure_tooltips.configuration.Epic-Items": "Епічні предмети",
+  "obscure_tooltips.configuration.Epic-Items.tooltip": "Перевизначення стилю для епічних предметів.",
+
+  "obscure_tooltips.configuration.epicStyleEnabled": "Увімкнено",
+  "obscure_tooltips.configuration.epicStyleEnabled.tooltip": "Застосовує унікальний стиль до епічних предметів.",
+
+  "obscure_tooltips.configuration.epicPanelBackgroundTop": "Верхнє тло",
+  "obscure_tooltips.configuration.epicPanelBackgroundTop.tooltip": "Колір верхнього тла у форматі #AARRGGBB (ARGB).",
+
+  "obscure_tooltips.configuration.epicPanelBackgroundBottom": "Нижнє тло",
+  "obscure_tooltips.configuration.epicPanelBackgroundBottom.tooltip": "Колір нижнього тла у форматі #AARRGGBB (ARGB).",
+
+  "obscure_tooltips.configuration.epicPanelBorderTop": "Верхня рамка",
+  "obscure_tooltips.configuration.epicPanelBorderTop.tooltip": "Колір верхньої рамки у форматі #AARRGGBB (ARGB).",
+
+  "obscure_tooltips.configuration.epicPanelBorderBottom": "Нижня рамка",
+  "obscure_tooltips.configuration.epicPanelBorderBottom.tooltip": "Колір нижньої рамки у форматі #AARRGGBB (ARGB).",
+
+  "obscure_tooltips.configuration.epicRayGlowPrimary": "Первинне сяяння променя",
+  "obscure_tooltips.configuration.epicRayGlowPrimary.tooltip": "Колір первинно сяяння променя у форматі #AARRGGBB (ARGB).",
+
+  "obscure_tooltips.configuration.epicRayGlowSecondary": "Вторинне сяяння променя",
+  "obscure_tooltips.configuration.epicRayGlowSecondary.tooltip": "Колір вторинного сяяння променя у форматі #AARRGGBB (ARGB).",
+
+  "obscure_tooltips.configuration.epicShimmerInner": "Унутрішнє мерехтіння",
+  "obscure_tooltips.configuration.epicShimmerInner.tooltip": "Колір унутрішнього мерехтіння у форматі #AARRGGBB (ARGB).",
+
+  "obscure_tooltips.configuration.epicShimmerOuter": "Зовнішнє мерехтіння",
+  "obscure_tooltips.configuration.epicShimmerOuter.tooltip": "Колір зовнішнього мерехтіння у форматі #AARRGGBB (ARGB).",
+
+  "obscure_tooltips.configuration.epicShimmerAccent": "Акцент мерехтіння",
+  "obscure_tooltips.configuration.epicShimmerAccent.tooltip": "Колір акценту мерехтіння у форматі #AARRGGBB (ARGB).",
+
+
+  "obscure_tooltips.configuration.Enchanted-Items": "Зачаровані предмети",
+  "obscure_tooltips.configuration.Enchanted-Items.tooltip": "Спеціальні анімовані візуальні ефекти для зачарованих предметів.",
+
+  "obscure_tooltips.configuration.enchantedStyleEnabled": "Увімкнено",
+  "obscure_tooltips.configuration.enchantedStyleEnabled.tooltip": "Застосовує унікальний анімований стиль до зачарованих предметів.",
+
+  "obscure_tooltips.configuration.enchantedParticleCenter": "Центр частинки",
+  "obscure_tooltips.configuration.enchantedParticleCenter.tooltip": "Колір центру частинки у форматі #AARRGGBB (ARGB).",
+
+  "obscure_tooltips.configuration.enchantedParticleEdge": "Край частинки",
+  "obscure_tooltips.configuration.enchantedParticleEdge.tooltip": "Колір краю частинки у форматі #AARRGGBB (ARGB).",
+
+  "obscure_tooltips.configuration.enchantedGlintPrimaryWave": "Первинна хвиля блиску",
+  "obscure_tooltips.configuration.enchantedGlintPrimaryWave.tooltip": "Колір первинної хвилі блиску у форматі #AARRGGBB (ARGB).",
+
+  "obscure_tooltips.configuration.enchantedGlintPrimaryWaveGlow": "Сяяння первинної хвилі блиску",
+  "obscure_tooltips.configuration.enchantedGlintPrimaryWaveGlow.tooltip": "Колір світіння первинної хвилі блиску у форматі #AARRGGBB (ARGB).",
+
+  "obscure_tooltips.configuration.enchantedGlintSecondaryWave": "Вторинна хвиля блиску",
+  "obscure_tooltips.configuration.enchantedGlintSecondaryWave.tooltip": "Колір вторинної хвилі блиску у форматі #AARRGGBB (ARGB).",
+
+  "obscure_tooltips.configuration.enchantedGlintSecondaryWaveGlow": "Сяяння первинної хвилі блиску",
+  "obscure_tooltips.configuration.enchantedGlintSecondaryWaveGlow.tooltip": "Колір світіння вторинної хвилі блиску у форматі #AARRGGBB (ARGB).",
+
+  "obscure_tooltips.configuration.enchantedGlintRing": "Кільце блиску",
+  "obscure_tooltips.configuration.enchantedGlintRing.tooltip": "Колір кільця блиску у форматі #AARRGGBB (ARGB).",
+
+
+  "obscure_tooltips.configuration.Cursed-Items": "Прокляті предмети",
+  "obscure_tooltips.configuration.Cursed-Items.tooltip": "Спеціальні анімовані візуальні ефекти для проклятих предметів.",
+
+  "obscure_tooltips.configuration.cursedStyleEnabled": "Увімкнено",
+  "obscure_tooltips.configuration.cursedStyleEnabled.tooltip": "Застосовує унікальний анімований стиль до проклятих предметів.",
+
+  "obscure_tooltips.configuration.cursedParticleCenter": "Центр частинки",
+  "obscure_tooltips.configuration.cursedParticleCenter.tooltip": "Колір центру частинки у форматі #AARRGGBB (ARGB).",
+
+  "obscure_tooltips.configuration.cursedParticleEdge": "Край частинки",
+  "obscure_tooltips.configuration.cursedParticleEdge.tooltip": "Колір краю частинки у форматі #AARRGGBB (ARGB).",
+
+  "obscure_tooltips.configuration.cursedGlintPrimaryWave": "Первинна хвиля блиску",
+  "obscure_tooltips.configuration.cursedGlintPrimaryWave.tooltip": "Колір первинної хвилі блиску у форматі #AARRGGBB (ARGB).",
+
+  "obscure_tooltips.configuration.cursedGlintPrimaryWaveGlow": "Сяяння первинної хвилі блиску",
+  "obscure_tooltips.configuration.cursedGlintPrimaryWaveGlow.tooltip": "Колір світіння первинної хвилі блиску у форматі #AARRGGBB (ARGB).",
+
+  "obscure_tooltips.configuration.cursedGlintSecondaryWave": "Вторинна хвиля блиску",
+  "obscure_tooltips.configuration.cursedGlintSecondaryWave.tooltip": "Колір вторинної хвилі блиску у форматі #AARRGGBB (ARGB).",
+
+  "obscure_tooltips.configuration.cursedGlintSecondaryWaveGlow": "Сяяння первинної хвилі блиску",
+  "obscure_tooltips.configuration.cursedGlintSecondaryWaveGlow.tooltip": "Колір світіння вторинної хвилі блиску у форматі #AARRGGBB (ARGB).",
+
+  "obscure_tooltips.configuration.cursedGlintRing": "Кільце блиску",
+  "obscure_tooltips.configuration.cursedGlintRing.tooltip": "Колір кільця блиску у форматі #AARRGGBB (ARGB).",
+
+  "modmenu.descriptionTranslation.obscure_tooltips": "Стилізовані підказки з красивими ефектами та плавною анімацією!",
+  "fml.menu.mods.info.description.obscure_tooltips": "Стилізовані підказки з красивими ефектами та плавною анімацією!"
+}

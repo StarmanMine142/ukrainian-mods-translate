@@ -1,0 +1,13 @@
+{
+    "name": "Пробивання захисту",
+    "icon": "apothic_attributes:textures/mob_effect/sundering.png",
+    "category": "apotheosis:adventure/attributes",
+	"flag": "apotheosis:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Пробивання захисту$() дозволяє ігнорувати фіксовану кількість одиниць захисту вашої цілі під час атаки.$(p)Додаткове пробивання захисту не призводить до негативного захисту вашої цілі."
+        }
+	]
+}

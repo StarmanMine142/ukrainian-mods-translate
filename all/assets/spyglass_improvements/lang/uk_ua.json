@@ -1,0 +1,18 @@
+{
+  "category.spyglass-improvements": "Spyglass Improvements",
+  "key.spyglass-improvements.use": "Використати підзорну трубу",
+  "options.spyglass-improvements.zoomQuantity": "Збільшення масштабу: %s кроків",
+  "options.spyglass-improvements.hideSettingsButton": "Приховати кнопку налаштувань: %s",
+  "options.spyglass-improvements.hideSettingsButton.tooltip": "Приховує кнопку налаштувань на екрані налаштувань Minecraft. Ви все ще можете відкрити налаштування через Mod Menu",
+  "options.spyglass-improvements.showCrosshair": "Показати перехрестя: %s",
+  "options.spyglass-improvements.smoothCamera": "Плавна камера: %s",
+  "options.spyglass-improvements.spyglassOverlay": "Накладання підзорної труби: %s",
+  "options.spyglass-improvements.spyglassOverlay.0": "Усталено",
+  "options.spyglass-improvements.spyglassOverlay.1": "Очищено",
+  "options.spyglass-improvements.spyglassOverlay.2": "Коло",
+  "options.spyglass-improvements.spyglassOverlay.3": "Немає",
+  "options.spyglass-improvements.title": "Spyglass Improvements",
+  "options.spyglass-improvements.reset": "Скинути налаштування",
+  "modmenu.descriptionTranslation.spyglass_improvements": "Покращує підзорну трубу за допомогою масштабування, швидкого доступу та різних накладень підзорної труби.",
+  "fml.menu.mods.info.description.spyglass_improvements": "Покращує підзорну трубу за допомогою масштабування, швидкого доступу та різних накладень підзорної труби."
+}

@@ -1,0 +1,17 @@
+{
+	"item.ring_of_return.ring_of_return": "Кільце повернення",
+
+	"item.ring_of_return.ring_of_return.tip1": "Повертає гравця до точки відродження останнього ліжка",
+	"item.ring_of_return.ring_of_return.tip2": "Потрібно налаштувати точку відродження перед використанням",
+	"item.ring_of_return.ring_of_return.tip3": "Shift + ПКМ, щоби повернутися до точки появи",
+	"item.ring_of_return.ring_of_return.tip4": "Ласкаво просимо додому!",
+	"item.ring_of_return.ring_of_return.tip5": "Спочатку встановіть точку відродження!",
+	"item.ring_of_return.ring_of_return.tip6": "Працює лише у верхньому світі",
+	"item.ring_of_return.ring_of_return.tip7": "Ласкаво просимо до точки появи світу!",
+	"item.ring_of_return.ring_of_return.tip8": "Не працює в цьому вимірі.",
+		
+	"itemGroup.ring_of_return.ring_return_group": "Ring of Return",
+
+	"modmenu.descriptionTranslation.ring_of_return": "Простий предмет, аби повернутися до ліжка.",
+	"fml.menu.mods.info.description.ring_of_return": "Простий предмет, аби повернутися до ліжка."
+}

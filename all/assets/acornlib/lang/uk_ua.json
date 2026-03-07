@@ -1,0 +1,43 @@
+{
+     "acornlib.midnightconfig.allowSupporterNameColors": "Дозволити підтримку кольорів імен",
+     "acornlib.midnightconfig.allowSupporterNameColors.tooltip": "Чи повинні підтримувати/друзі мати спеціальні кольори імен.\nПризначено для забезпечення сумісности з іншими модами з власними кольорами імен",
+     "acornlib.midnightconfig.nameColorCompat": "Сумісні кольори імен",
+     "acornlib.midnightconfig.nameColorCompat.tooltip": "Якщо вбудована колекція сумісних модів повинна мати кольори назв меню модів.",
+     "acornlib.midnightconfig.displayModIds": "Показувати ID модів",
+     "acornlib.midnightconfig.displayModIds.tooltip": "Якщо ID модів повинні показуватися в меню модів",
+     "acornlib.midnightconfig.category.config": "Налаштування",
+     "acornlib.midnightconfig.category.debug": "Налагодження",
+
+     "acornlib.subtitles.aco_plush.honk": "Іграшка Ако гудить",
+     "acornlib.subtitles.gnarp_plush.honk": "Ґнарп >:3",
+     "acornlib.subtitles.kio_plush.honk": "Агресивні звуки бензопили",
+     "acornlib.subtitles.myth_plush.honk": "РРРААААХХХ",
+     "acornlib.subtitles.silly.clairdelune": "Клер де Луна",
+     "acornlib.subtitles.toast_plush.honk": "Мрреу :3",
+
+     "advancements.acornlib.complete_collection.description": "Лише за $29,99!",
+     "advancements.acornlib.complete_collection.title": "Повна колекція",
+     "advancements.acornlib.honk.description": "Вони такі дурні :3",
+     "advancements.acornlib.honk.title": "ГУДОК!!!",
+
+     "block.acornlib.aco_plush": "Іграшка Ако",
+     "block.acornlib.aco_plush.desc": "Синя каптурка",
+     "block.acornlib.clown_aco_plush": "Іграшка Ако",
+     "block.acornlib.clown_aco_plush.desc": "Клоун",
+     "block.acornlib.festive_aco_plush": "Іграшка Ако",
+     "block.acornlib.festive_aco_plush.desc": "Святкова",
+     "block.acornlib.gnarp_plush": "Іграшка Ґнарп",
+     "block.acornlib.kio_plush": "Іграшка Кіо",
+     "block.acornlib.kio_plush.desc": "Тупі слова, гострі мечі.",
+     "block.acornlib.mythorical_plush": "Міфічна іграшка",
+     "block.acornlib.toast_plush": "Тостова вграшка",
+     "block.acornlib.toast_plush.desc": "Мрреу :3",
+
+     "item.acornlib.acorn": "Жолудь",
+     "item.acornlib.golden_acorn": "Золотий Жолудь",
+     "item.acornlib.test_item": "Тестовий предмет",
+
+     "tooltip.supporter_only": "Косметика призначена для учасників і друзів Ko-Fi.\nЯкщо ви хочете отримати до неї доступ, вважайте, що вона підтримується :3",
+
+     "modmenu.descriptionTranslation.acornlib": "Колекція допоміжних ресурсів для модів AcoYT."
+}

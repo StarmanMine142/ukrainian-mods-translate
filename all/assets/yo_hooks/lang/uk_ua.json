@@ -1,0 +1,46 @@
+{
+  "item.yo_hooks.iron_grappling_hook": "Залізний гак-кішка",
+  "item.yo_hooks.gold_grappling_hook": "Золотий гак-кішка",
+  "item.yo_hooks.diamond_grappling_hook": "Діамантовий гак-кішка",
+  "item.yo_hooks.netherite_grappling_hook": "Незеритовий гак-кішка",
+  "item.yo_hooks.copper_grappling_hook": "Мідний гак-кішка",
+
+  "item.yo_hooks.iron_hook_head": "Залізний гак",
+  "item.yo_hooks.gold_hook_head": "Золотий гак",
+  "item.yo_hooks.diamond_hook_head": "Діамантовий гак",
+  "item.yo_hooks.netherite_hook_head": "Незеритовий гак",
+  "item.yo_hooks.copper_hook_head": "Мідний гак",
+
+  "gui.yo_hooks.hooks.desc_1": "Максимальна дальність: %d блоків",
+
+  "key.yo_hooks.jump": "Стрибнути з гаком",
+  "key.yo_hooks.climb": "Піднятися по ланцюгу",
+  "key.yo_hooks.climb_down": "Спуститися по ланцюгу",
+  "category.yo_hooks": "Yori3o's Grappling Hooks",
+  "key.category.yo_hooks.hook": "Yori3o's Grappling Hooks",
+
+  "enchantment.yo_hooks.gentle_touch": "Ніжний дотик",
+  "enchantment.yo_hooks.gentle_touch.desc": "Гак не ламатиме крихкі блоки, такі як скло чи камінь.",
+  "enchantment.yo_hooks.long_reach": "Довгий доступ",
+  "enchantment.yo_hooks.long_reach.desc": "Збільшує довжину гака-кішки.",
+  "enchantment.yo_hooks.agility": "Спритність",
+  "enchantment.yo_hooks.agility.desc": "Прискорює підйом ланцюгом і збільшує стрибок.",
+
+  "entity.yo_hooks.hook_entity": "Гак",
+
+  "sounds.yo_hooks.cast": "Гак-кішку використано",
+
+  "settings.yo_hooks.save_and_close": "Зберегти та вийти",
+  "settings.yo_hooks.reset_settings": "Скинути налаштування до усталеного",
+  "settings.yo_hooks.open_file": "Відкрити файл",
+  "settings.yo_hooks.funny_mode": "Кумедний режим",
+  "settings.yo_hooks.soft_hook": "М'який хук",
+  "settings.yo_hooks.stiffness": "Жорсткість",
+  "settings.yo_hooks.climb_speed": "Швидкість підйому",
+  "settings.yo_hooks.decrease_satiety": "Споживання ситости",
+  "settings.yo_hooks.breaking_fragile_blocks": "Ламання крихких блоків",
+  "settings.yo_hooks.file_note": "Деякі значення можна налаштувати лише у файлах налаштувань:",
+
+  "modmenu.descriptionTranslation.yo_hooks": "Додає подібні стандартній грі та фізично реалістичні гаки-кішки.",
+  "fml.menu.mods.info.description.yo_hooks": "Додає подібні стандартній грі та фізично реалістичні гаки-кішки."
+}

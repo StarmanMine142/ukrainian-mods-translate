@@ -1,0 +1,13 @@
+{
+    "name": "Благо природи",
+    "icon": "minecraft:enchanted_book",
+    "category": "apotheosis:enchanting/enchantments",
+	"flag": "apotheosis:enchanting",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Благо природи$() — це зачарування мотики.$(p)Це дозволяє використовувати мотику як кісткове борошно коштом міцности.$(p)Вищі рівні чарів зменшують вартість міцности."
+        }
+	]
+}

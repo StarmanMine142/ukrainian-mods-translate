@@ -1,0 +1,7 @@
+{
+    "name": "рецепти зіллів",
+	"parent": "apotheosis:potion/potion",
+    "description": "У цьому розділі детально описано всі нові рецепти стандартних зіллів, які додаються.",
+    "icon": "minecraft:nether_wart",
+	"flag": "apotheosis:potion"
+}

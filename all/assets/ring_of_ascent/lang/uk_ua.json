@@ -1,0 +1,14 @@
+{
+	"item.ring_of_ascent.ring_of_ascent": "Кільце підйому",
+
+	"item.ring_of_ascent.ring_of_ascent.tip1": "Забезпечує кілька хвилин плавання",
+	"item.ring_of_ascent.ring_of_ascent.tip2": "Без шкоди від падіння в інвентарі",
+	"item.ring_of_ascent.ring_of_ascent.tip3": "Щоб активувати, ПКМ, перебуваючи на місці",
+	"item.ring_of_ascent.ring_of_ascent.tip4": "Shift + ПКМ, щоби ввімкнути лазання по стінах",
+	"item.ring_of_ascent.ring_of_ascent.tip5": "Лазіння по стіні ввімкнено",
+		
+	"itemGroup.ring_of_ascent.ring_of_ascent_group": "Ring of Ascent",
+
+	"modmenu.descriptionTranslation.ring_of_ascent": "Предмет, який забезпечує повільний підйом, відсутність шкоди від падіння та лазання по стіні.",
+	"fml.menu.mods.info.description.ring_of_ascent": "Предмет, який забезпечує повільний підйом, відсутність шкоди від падіння та лазання по стіні."
+}

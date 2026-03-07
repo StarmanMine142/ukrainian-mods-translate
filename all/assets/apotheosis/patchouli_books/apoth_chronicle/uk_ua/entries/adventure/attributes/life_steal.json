@@ -1,0 +1,13 @@
+{
+    "name": "Вампіризм",
+    "icon": "apothic_attributes:textures/mob_effect/bleeding.png",
+    "category": "apotheosis:adventure/attributes",
+	"flag": "apotheosis:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Вампіризм$() — це відсоток завданої фізичної шкоди, яка безпосередньо додається до вашого здоров’я.$(p)Загалом, лише зброя надає цю характеристику."
+        }
+	]
+}

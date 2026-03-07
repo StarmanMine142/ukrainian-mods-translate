@@ -1,0 +1,51 @@
+{
+	"text.config.particulate.title": "Налаштування Particulate",
+
+	"text.config.particulate.section.enabledEffects": "Ефекти",
+	"text.config.particulate.section.advancedSettings": "Розширені",
+	"text.config.particulate.section.frequencyModifiers": "Модифікатор частоти",
+
+	"text.config.particulate.option.waterSplash": "Сплески води",
+	"text.config.particulate.option.cascades": "Каскади",
+	"text.config.particulate.option.waterfallSpray": "Водоспадний розпил",
+	"text.config.particulate.option.fireflies": "Світляки",
+	"text.config.particulate.option.fallingLeaves": "Падуче листя",
+	"text.config.particulate.option.caveDust": "Печерний пил",
+	"text.config.particulate.option.chestBubbles": "Бульбашки скринь",
+	"text.config.particulate.option.soulSandBubbles": "Бульбашки скринь від піску душ",
+	"text.config.particulate.option.barrelBubbles": "Бульбашки діжки",
+	"text.config.particulate.option.poppingBubbles": "Лопання більбашок",
+	"text.config.particulate.option.rainRipples": "Брижі дощу",
+	"text.config.particulate.option.waterDripRipples": "Брижі крапель води",
+	"text.config.particulate.option.cakeEatingParticles": "Поїдання води",
+	"text.config.particulate.option.emissiveLavaDrips": "Сяйні краплі води",
+
+	"text.config.particulate.category.fireflySettings": "Налаштування світляків",
+	"text.config.particulate.option.fireflySettings.startTime": "Час початку",
+	"text.config.particulate.option.fireflySettings.endTime": "Час кінця",
+	"text.config.particulate.option.fireflySettings.canSpawnInRain": "Поява при дощу",
+	"text.config.particulate.option.fireflySettings.minTemp": "Мінімальна температура",
+	"text.config.particulate.option.fireflySettings.maxTemp": "Максимальний температура",
+	"text.config.particulate.option.fireflySettings.dailyRandom": "Денна випадковість",
+	"text.config.particulate.option.fireflySettings.grass": "Трава",
+	"text.config.particulate.option.fireflySettings.tallGrass": "Висока трава",
+	"text.config.particulate.option.fireflySettings.flowers": "Квіти",
+	"text.config.particulate.option.fireflySettings.tallFlowers": "Високі квіти",
+
+	"text.config.particulate.category.fallingLeavesSettings": "Налаштування падучого листя",
+	"text.config.particulate.option.fallingLeavesSettings.spawnChance": "Шанс появи",
+	"text.config.particulate.option.fallingLeavesSettings.spawnRipples": "Поява бриж",
+	"text.config.particulate.option.fallingLeavesSettings.layFlatOnGround": "Лягання на землю",
+	"text.config.particulate.option.fallingLeavesSettings.layFlatRightAngles": "Закріплення під прямим кутом при розкладанні",
+
+	"text.config.particulate.category.caveDustSettings": "Налаштування печерного пилу",
+	"text.config.particulate.option.caveDustSettings.spawnChance": "Шанс появи",
+	"text.config.particulate.option.caveDustSettings.baseMaxAge": "Базовий максимальний вік",
+	"text.config.particulate.option.caveDustSettings.color": "Колір",
+	"text.config.particulate.option.caveDustSettings.fadeDuration": "Тривалість затухання",
+	"text.config.particulate.option.caveDustSettings.maxAcceleration": "Максимальне прискорення",
+	"text.config.particulate.option.caveDustSettings.accelChangeChance": "Шанс зміни прискорення",
+	"text.config.particulate.option.caveDustSettings.excludeBiomes": "Виключені біоми біоми",
+
+        "modmenu.descriptionTranslation.particulate": "Покращує атмосферу Minecraft створеними вручну візуальними ефектами, такими як світляки, падуче листя та каскади водоспадів."
+}

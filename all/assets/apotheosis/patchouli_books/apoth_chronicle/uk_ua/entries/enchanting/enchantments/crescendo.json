@@ -1,0 +1,13 @@
+{
+    "name": "Дублювання",
+    "icon": "minecraft:enchanted_book",
+    "category": "apotheosis:enchanting/enchantments",
+	"flag": "apotheosis:enchanting",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(2)Дублювання$() — майстерне зачарування для арбалетів.$(p)Для кожного рівня цього зачарування ви отримуєте додатковий постріл за перезавантаження.$(p)Додаткові постріли не використовуватимуть більше старядів."
+        }
+	]
+}

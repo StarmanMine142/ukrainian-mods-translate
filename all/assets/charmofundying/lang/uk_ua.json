@@ -1,0 +1,14 @@
+{
+  "gui.charmofundying.config.xOffset.name": "Зміщення віссю X",
+  "gui.charmofundying.config.xOffset.description": "Зміщення осі X для показу тотема на гравці",
+  "gui.charmofundying.config.yOffset.name": "Зміщення віссю Y",
+  "gui.charmofundying.config.yOffset.description": "Зміщення осі Y для показу тотема на гравці.",
+  "gui.charmofundying.config.zOffset.name": "Зміщення віссю Z",
+  "gui.charmofundying.config.zOffset.description": "Зміщення осі Z для показу тотема на гравці.",
+  "gui.charmofundying.config.renderTotem.name": "Показ екіпірованого тотема",
+  "gui.charmofundying.config.renderTotem.description": "Якщо ввімкнено, гравцям показується екіпірований тотем.",
+  "trinkets.slot.charm.charm": "Амулет",
+  "charmofundying.networking.failed": "Помилка мережі",
+  "modmenu.descriptionTranslation.charmofundying": "Додає слот для тотема безсмертя до інвентарю.",
+  "fml.menu.mods.info.description.charmofundying": "Додає слот для тотема безсмертя до інвентарю."
+}

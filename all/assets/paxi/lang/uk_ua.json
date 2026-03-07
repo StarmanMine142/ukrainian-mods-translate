@@ -1,0 +1,8 @@
+{
+  "text.autoconfig.paxi-fabric-1_21.title": "Paxi",
+  "text.autoconfig.paxi-fabric-1_21.option.general.loadFromBaseDatapacksDirectory": "Завантажувати з базового каталогу «datapacks»",
+  "text.autoconfig.paxi-fabric-1_21.option.general.loadFromBaseDatapacksDirectory.@Tooltip": "Чи слід Paxi також примусово завантажувати всі пакети даних, розміщені в теці «datapacks» у базовій теці Minecraft. Це для сумісности з новою системою пакетів даних CurseForge.",
+
+  "modmenu.descriptionTranslation.paxi": "Перетягніть свої пакети даних, а Paxi зробить все інше! Глобальні пакети даних — легко.",
+  "fml.menu.mods.info.description.paxi": "Перетягніть свої пакети даних, а Paxi зробить все інше! Глобальні пакети даних — легко."
+}

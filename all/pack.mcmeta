@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "min_format": 15,
+    "max_format": 9999,
+    "supported_formats": [15, 9999],
+    "description":"§6Переклад для модів. §cСтворив Starman"
+  }
+}

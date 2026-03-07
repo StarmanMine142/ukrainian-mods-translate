@@ -1,0 +1,19 @@
+{
+  "text.config.damageful.title": "Налаштування Damageful",
+
+  "text.config.damageful.option.enabled": "Увімкнено",
+  "text.config.damageful.option.showPercentageText": "Показати шкоду в відсотках", 
+  "text.config.damageful.option.showSelfDamage": "Показувати шкоду завдану вам",
+  "text.config.damageful.option.maxDistance": "Максимальна дистанція",
+  "text.config.damageful.option.velocityMultiplier": "Множник направлення частинок",
+  "text.config.damageful.option.gravityStrength": "Сила гравітації",
+  "text.config.damageful.option.lifeTime": "Час життя",
+  "text.config.damageful.option.randomVelocityXZ": "Випадкова швидкість X і Z",
+  "text.config.damageful.option.velocity": "Швидкість",
+  "text.config.damageful.option.offset": "Зсув",
+  "text.config.damageful.option.scale": "Масштаб",
+  "text.config.damageful.option.drawShadow": "Малювати тінь",
+  "text.config.damageful.option.lowestDamageColor": "Колір маленької шкоди",
+  "text.config.damageful.option.highestDamageColor": "Колір великої шкоди",
+  "text.config.damageful.option.healColor": "Колір зцілення"
+}

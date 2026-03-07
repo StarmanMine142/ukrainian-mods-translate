@@ -1,0 +1,24 @@
+{
+  "item.mace_port.mace": "Булава",
+  "item.mace_port.heavy_core": "Важке ядро",
+  "item.mace_port.breeze_rod": "Стрижень вітреня",
+  "item.mace_port.wind_charge": "Заряд вітру",
+
+  "block.mace_port.heavy_core": "Важке ядро",
+
+  "entity.mace_port.wind_charge": "Заряд вітру",
+
+  "enchantment.mace_port.density": "Щільність",
+  "enchantment.mace_port.breach": "Пробивання",
+  "enchantment.mace_port.wind_burst": "Порив вітру",
+
+  "subtitles.item.mace.smash_ground": "Булава розбиває",
+  "subtitles.item.mace.smash_air": "Булава розбиває",
+  "subtitles.entity.wind_charge.throw": "Заряд вітру летить",
+  "subtitles.entity.generic.wind_burst": "Заряд вітру вибухає",
+
+  "advancements.adventure.overoverkill.description": "Нанесіть 50 сердець шкоди за один удар булавою",
+  "advancements.adventure.overoverkill.title": "Перебір",
+  "advancements.adventure.who_needs_rockets.description": "Використайте заряд вітру, щоби запустити себе на 8 блоків угору",
+  "advancements.adventure.who_needs_rockets.title": "Кому потрібні ракети?"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Льодяні шипи",
+    "icon": "minecraft:enchanted_book",
+    "category": "apotheosis:enchanting/enchantments",
+	"flag": "apotheosis:enchanting",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Льодяні шипи$() — це зачарування нагрудника.$(p) Воно застосовує повільність до нападників. Шкала тривалости та сили з рівнем зачарування.$(p)Це ексклюзивно для $(9)шипів$()."
+        }
+	]
+}

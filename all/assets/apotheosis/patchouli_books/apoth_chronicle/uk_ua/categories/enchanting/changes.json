@@ -1,0 +1,7 @@
+{
+    "name": "Зміни стандартної гри",
+    "description": "У цьому розділі розглядаються нові предмети, які можна зачаровувати, і механічні зміни.$(p)Якщо відбудуться незначні зміни вмісту, їх буде зазначено тут.",
+    "icon": "minecraft:trident",
+	"flag": "apotheosis:enchanting",
+	"parent": "apotheosis:enchanting/enchanting"
+}

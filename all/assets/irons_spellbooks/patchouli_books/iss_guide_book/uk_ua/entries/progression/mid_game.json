@@ -1,0 +1,50 @@
+{
+  "name": "Середня гра",
+  "icon": "irons_spellbooks:scroll_forge",
+  "category": "irons_spellbooks:root",
+  "sortnum": -2,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Кузня сувоїв",
+      "text": "Досягнувши ресурсів нижнього рівня, ви розблокуєте абсолютно нову динаміку для отримання сили: кузня сувоїв.$(br2)Кузня сувоїв використовується для виготовлення сувоїв за допомогою чорнила, паперу та фокусу. Чорнило визначає рідкість (і, отже, рівень), а фокус визначає школу заклинань."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:scroll_forge"
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Нові книги заклинань",
+      "text": "Крім того, проміжні книги заклинань можна створити за допомогою інших ресурсів.",
+      "recipe": "irons_spellbooks:gold_spell_book"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:diamond_spell_book",
+      "text": "Гоґліни скидають шкіру."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:magic_cloth",
+      "title": "Нові матеріали",
+      "text": "Вам також слід почати створювати міцніші обладунки, використовуючи магічну тканину. Щоб отримати велику кількість таємничої есенції, вам потрібно буде зосередитися на набігах на магічні структури."
+    },
+    {
+      "type": "patchouli:entity",
+      "name": "Обладунки опудала",
+      "entity": "minecraft:armor_stand{ArmorItems:[{id:'irons_spellbooks:pumpkin_boots',Count:1b},{id:'irons_spellbooks:pumpkin_leggings',Count:1b},{id:'irons_spellbooks:pumpkin_chestplate',Count:1b},{id:'irons_spellbooks:pumpkin_helmet',Count:1b}],NoBasePlate:1b}"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "irons_spellbooks:blank_rune",
+      "title": "Рідкісні матеріали",
+      "text": "Щоб продовжити прогрес, слідкуйте за рунокаменем в магічних структурах. Рунні камені використовуються для виготовлення ще потужніших обладунків. Маги класу завжди скидають руну своєї школи."
+    },
+    {
+      "type": "patchouli:empty",
+      "draw_filler": false
+    }
+  ]
+}

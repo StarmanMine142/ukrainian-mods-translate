@@ -1,0 +1,13 @@
+{
+  "cullleaves.midnightconfig.title":"Налаштування Cull Leaves",
+  "cullleaves.midnightconfig.enabled.tooltip":"Умикає вибракування листя, забезпечуючи хороше підвищення продуктивности.\n§cПісля зміни цього параметра ви повинні перезавантажити всі чанки (F3 + A).",
+  "cullleaves.midnightconfig.enabled.tooltip.sodium":"Умикає вибракування листя.",
+  "cullleaves.midnightconfig.enabled":"Вибракування листя",
+  "cullleaves.midnightconfig.sodiumBlockFaceCullingFix.tooltip": "Виправляє пакети ресурсів, які спричиняють мерехтіння при вибракувані листя, з використанням Sodium.\nЙмовірно, ви хочете, щоб це було увімкнено.",
+  "cullleaves.midnightconfig.sodiumBlockFaceCullingFix": "Виправлення в Sodium вибракування сторін блока для листя",
+  "cullleaves.midnightconfig.cullRoots.tooltip.sodium":"Умикає вибракування мангрового коріння.",
+  "cullleaves.midnightconfig.cullRoots":"Вибракування мангрового коріння",
+  "cullleaves.midnightconfig.cullRoots.tooltip":"Умикає вибракування мангрового коріння, забезпечуючи хороше підвищення продуктивности.\n§cПісля зміни цього параметра ви повинні перезавантажити всі чанки (F3 + A).",
+  "modmenu.descriptionTranslation.cullleaves":"Додає вибракування до листя, забезпечуючи величезне підвищення продуктивности порівняно з усталеною грою.",
+  "fml.menu.mods.info.description.cullleaves": "Додає вибракування до листя, забезпечуючи величезне підвищення продуктивности порівняно з усталеною грою."
+}

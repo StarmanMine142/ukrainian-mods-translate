@@ -1,0 +1,7 @@
+{
+    "name": "Світові рівні",
+    "description": "Коли ви стаєте сильнішими, світ навколо вас також стає сильнішим.$(p)У цьому розділі розповідається про рівні апотичних світів — що вони змінюють, як їх розблокувати та як змінити поточний.",
+    "icon": "apotheosis:textures/gui/book/summit_icon.png",
+    "flag": "apotheosis:adventure",
+    "parent": "apotheosis:adventure/adventure"
+}

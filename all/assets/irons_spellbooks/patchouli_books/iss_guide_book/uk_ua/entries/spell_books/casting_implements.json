@@ -1,0 +1,34 @@
+{
+  "name": "Знаряддя заклинання",
+  "icon": "irons_spellbooks:graybeard_staff",
+  "category": "irons_spellbooks:root",
+  "sortnum": 3,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Знаряддя заклинання",
+      "text": "Знаряддя заклинання — це предмети, якими можна натиснути ПКМ (використовувати їх), щоб застосувати активне заклинання. Найчастіше вони також надають пасивні переваги, дозволяючи спеціальний стиль гри чарівника."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:greybeard_staff",
+      "text": "Щоб покотити кристалічну кулю, потрібна проста палиця."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:artificer_cane",
+      "text": "Іноді додатковий стиль — це все, що потрібно, щоб вивести ваше заклинання на новий рівень."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:ice_staff",
+      "text": "Подейкують, що шматки містичного матового посоха брешуть про надземний світ. Можливо, кріомант сховав у своїй вежі дослідження, які розкривають більше."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "irons_spellbooks:blood_staff",
+      "text": "Стародавній скіпетр із незрівнянними здібностями виклику, його можна отримати, лише відібравши у нежиті власника."
+    }
+  ]
+}

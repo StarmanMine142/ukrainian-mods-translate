@@ -1,0 +1,52 @@
+{
+  "vulkanmod.options.unknown": "Невідомо",
+
+  "vulkanmod.options.pages.video": "Відео",
+  "vulkanmod.options.pages.graphics": "Графіка",
+  "vulkanmod.options.pages.optimizations": "Оптимізація",
+  "vulkanmod.options.pages.other": "Інше",
+
+  "vulkanmod.options.buttons.apply": "Застосувати",
+  "vulkanmod.options.buttons.kofi": "Підтримайте",
+
+  "vulkanmod.options.advCulling": "Розширене вибракування чанків",
+  "vulkanmod.options.advCulling.aggressive": "Агресивне",
+  "vulkanmod.options.advCulling.conservative": "Консервативне",
+  "vulkanmod.options.advCulling.normal": "Звичайне",
+  "vulkanmod.options.advCulling.tooltip": "Використовує алгоритм вилучення, який може підвищити продуктивність за рахунок зменшення кількости промальовування невидимих ​​секцій чанків.",
+
+  "vulkanmod.options.ao.subBlock": "УВІМК. (Підблок",
+  "vulkanmod.options.ao.subBlock.tooltip": "УВІМК. (Підблок): Умикає плавне освітлення для неповних блоків (експериментально).",
+
+  "vulkanmod.options.deviceSelector": "Селектор пристрою",
+  "vulkanmod.options.deviceSelector.auto": "Авто",
+  "vulkanmod.options.deviceSelector.tooltip": "Поточний пристрій",
+
+  "vulkanmod.options.entityCulling": "Вибракування сутностей",
+  "vulkanmod.options.entityCulling.tooltip": "Умикає вибракування сутностей в невидимих секціях.",
+
+  "vulkanmod.options.frameQueue": "Розмір черги промальовування",
+  "vulkanmod.options.frameQueue.tooltip": "Вищі значення можуть допомогти стабілізувати час кадрів, але призведуть до збільшення затримки введення.",
+
+  "vulkanmod.options.backfaceCulling": "Вибракування тильної сторони",
+  "vulkanmod.options.backfaceCulling.tooltip": "Вилучає невидимі сторони блоків на ЦП, покращуючи продуктивність ГП. Щоби запобігти збільшенню навантажень ЦП, увімкніть «Непряме малювання».",
+
+  "vulkanmod.options.indirectDraw": "Непряме малювання",
+  "vulkanmod.options.indirectDraw.tooltip": "Зменшує навантаження на процесор, але може збільшити навантаження на ГП.",
+
+  "vulkanmod.options.refreshRate": "Частота оновлення",
+
+  "vulkanmod.options.uniqueOpaqueLayer": "Унікальний непрозорий шар",
+  "vulkanmod.options.uniqueOpaqueLayer.tooltip": "Використовує унікальний шар промлаьовування для непрозорого ландшафту, щоби покращити продуктивність.",
+
+  "vulkanmod.options.windowMode": "Віконний режим",
+  "vulkanmod.options.windowMode.windowed": "Віконний",
+  "vulkanmod.options.windowMode.windowedFullscreen": "Вікон. пов. екр.",
+
+  "vulkanmod.options.builderThreads": "Потоки будівника блоків",
+  "vulkanmod.options.builderThreads.auto": "Авто",
+
+  "vulkanmod.options.textureAnimations": "Анімації текстур",
+
+  "modmenu.descriptionTranslation.vulkanmod": "Вітайте Vulkan в Minecraft!""
+}

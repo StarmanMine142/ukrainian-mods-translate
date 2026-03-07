@@ -1,0 +1,116 @@
+{
+    "item.apothic_spawners.spawner": "Породжувач %s",
+
+    "enchantment.apothic_spawners.capturing": "Захоплення",
+    "enchantment.apothic_spawners.capturing.desc": "Додає шанс, що моби викинуть своє яйце виклику.",
+
+    "misc.apothic_spawners.concat": "%s %s",
+    "misc.apothic_spawners.value_concat": "%s: %s",
+    "misc.apothic_spawners.min_value": "Мін. значення: %s",
+    "misc.apothic_spawners.max_value": "Макс. значення: %s",
+    "misc.apothic_spawners.mainhand": "У основный руці",
+    "misc.apothic_spawners.offhand": "У другій руці",
+    "misc.apothic_spawners.not_consumed": "Цей предмет не витрачається",
+    "misc.apothic_spawners.rclick_spawner": "Натисніть ПКМ по породжувачу",
+    "misc.apothic_spawners.entity": "Сутність",
+    "misc.apothic_spawners.shift_stats": "Утримуйте Shift для характеристики",
+    "misc.apothic_spawners.ctrl_stats": "Утримуйте Ctrl для характеристики",
+    "misc.apothic_spawners.banned": "Не можна використати на породжувачі",
+    "misc.apothic_spawners.on": "%s: УВІМК.",
+    "misc.apothic_spawners.off": "%s: ВИМК.",
+    
+    "stat.apothic_spawners.min_delay": "Мін. затримка породження",
+    "stat.apothic_spawners.min_delay.desc": "Мінімальна кількість тактів між породженнями.",
+    
+    "stat.apothic_spawners.max_delay": "Макс. затримка породження",
+    "stat.apothic_spawners.max_delay.desc": "Максимальна кількість тактів між породженнями.",
+    
+    "stat.apothic_spawners.spawn_count": "Кількість породження",
+    "stat.apothic_spawners.spawn_count.desc": "Кількість сутностей, які з'являються одночасно.",
+    
+    "stat.apothic_spawners.max_nearby_entities": "Макс. істот поруч",
+    "stat.apothic_spawners.max_nearby_entities.desc": "Загальна кількість істот, дозволених поруч.",
+    
+    "stat.apothic_spawners.req_player_range": "Дільність активації",
+    "stat.apothic_spawners.req_player_range.desc": "На якій відстані гравець може бути, щоб породжувач працював.",
+    
+    "stat.apothic_spawners.spawn_range": "Дільність породження",
+    "stat.apothic_spawners.spawn_range.desc": "Радіус (у блоках), в якому можуть з'являтися моби.",
+    
+    "stat.apothic_spawners.ignore_players": "Ігнорує гравців",
+    "stat.apothic_spawners.ignore_players.desc": "Породжувачу не потрібен гравець поруч.",
+    
+    "stat.apothic_spawners.ignore_conditions": "Ігнорує умови",
+    "stat.apothic_spawners.ignore_conditions.desc": "Породжувач ігнорує умови породження.",
+    
+    "stat.apothic_spawners.redstone_control": "Керування редстоуном",
+    "stat.apothic_spawners.redstone_control.desc": "Для активації породжувача потрібен сигнал редстоуну.",
+    
+    "stat.apothic_spawners.ignore_light": "Ігнорує освітлення",
+    "stat.apothic_spawners.ignore_light.desc": "Породжувач ігнорує рівень освітлення.",
+    
+    "stat.apothic_spawners.no_ai": "Без ШІ",
+    "stat.apothic_spawners.no_ai.desc": "Породжені істоти не матимуть ШІ.",
+    
+	"stat.apothic_spawners.silent": "Беззвучний",
+	"stat.apothic_spawners.silent.desc": "Породжені істоти не видаватимуть звуків.",
+    
+	"stat.apothic_spawners.youthful": "Молодість",
+	"stat.apothic_spawners.youthful.desc": "Породжувач завжди буде породжувати дитинчат, якщо це можливо.",
+
+	"stat.apothic_spawners.initial_health": "Початкове здоров'я",
+	"stat.apothic_spawners.initial_health.desc": "Відсоток початкового здоров'я породжених мобів.",
+
+	"stat.apothic_spawners.burning": "Горючі",
+	"stat.apothic_spawners.burning.desc": "Породжені моби будуть горіти.",
+
+	"stat.apothic_spawners.echoing": "Відлуння",
+	"stat.apothic_spawners.echoing.desc": "Породжені моби даватимуть додаткову здобич, що зростає з рівнем.",
+
+    "title.apothic_spawners.spawner": "Модифікація породжувача",
+    "info.apothic_spawners.spawner": "Породжувачі можна модифікувати різними предметами та збирати за допомогою %s.",
+    "info.apothic_spawners.spawner.no_silk": "Породжувачі можна модифікувати різними предметами, але збір шовковим дотиком наразі вимкнено.",
+    "info.apothic_spawners.spawner.always_drop": "Породжувачі можна модифікувати різними предметами, і вони завжди випадатимуть при зламі.",
+    "info.apothic_spawners.capturing": "Зачарування «Захоплення» дає мобам шанс аикинути своє яйце виклику.\\n \\nШанс: %s%% за рівень",
+
+    "config.jade.plugin_apothic_spawners.spawner": "Апотичні породжувачі",
+
+    "advancements.apothic_spawners.spawner.root": "Апотичні породжувачі",
+    "advancements.apothic_spawners.spawner.root.desc": "Породжувачі можна збирати та модифікувати, дивіться JEI для деталей",
+    "advancements.apothic_spawners.spawner": "Апотичні породжувачі",
+    "advancements.apothic_spawners.spawner.desc": "Зберіть породжувач мобів за допомогою шовкового дотику",
+    "advancements.apothic_spawners.capturing": "Захоплено!",
+    "advancements.apothic_spawners.capturing.desc": "Отримайте яйце виклику з моба, використовуючи зачарування «Захоплення»",
+    "advancements.apothic_spawners.modifier": "Трохи налаштувань…",
+    "advancements.apothic_spawners.modifier.desc": "Використайте модифікатор породженн, щоб змінити його характеристики",
+    "advancements.apothic_spawners.spawncount": "Поглянь на розмір його породжувачі!",
+    "advancements.apothic_spawners.spawncount.desc": "Збільшіть кількість породження породжувача до 16",
+    "advancements.apothic_spawners.maxdelay": "Спотворений часом породжувач",
+    "advancements.apothic_spawners.maxdelay.desc": "Зменшіть максимальну затримку породження до 20",
+    "advancements.apothic_spawners.mindelay": "Я — швидкість",
+    "advancements.apothic_spawners.mindelay.desc": "Зменшіть мінімальну затримку породження до 20",
+    "advancements.apothic_spawners.nearbyents": "Створення орди",
+    "advancements.apothic_spawners.nearbyents.desc": "Збільшіть максимальну кількість істот поруч до 32",
+    "advancements.apothic_spawners.playerrange": "Далеко від бою",
+    "advancements.apothic_spawners.playerrange.desc": "Збільшіть діапазон активації породжувача до 48",
+    "advancements.apothic_spawners.spawnrange": "Моби на милі навколо",
+    "advancements.apothic_spawners.spawnrange.desc": "Збільшіть діапазон породження породжувача до 32",
+    "advancements.apothic_spawners.conditions": "Без обмежень породження",
+    "advancements.apothic_spawners.conditions.desc": "Вимкніть умови породження для породжувача",
+    "advancements.apothic_spawners.players": "Готовий до фабрики",
+    "advancements.apothic_spawners.players.desc": "Вимкніть потребу в гравцях поруч для породжувача",
+    "advancements.apothic_spawners.redstone": "Додаємо перемикач",
+    "advancements.apothic_spawners.redstone.desc": "Увімкніть керування редстоуном для породжувача",
+    "advancements.apothic_spawners.light": "Навіщо темрява?",
+    "advancements.apothic_spawners.light.desc": "Зробіть так, щоб ваш породжувач працював при будь-якому рівні освітлення",
+    "advancements.apothic_spawners.noai": "Відкачка мізків",
+    "advancements.apothic_spawners.noai.desc": "Вимкніть ШІ мобів для породжувача",
+    "advancements.apothic_spawners.ultimate_spawner": "Абсолютний породжувач",
+    "advancements.apothic_spawners.ultimate_spawner.desc": "Створіть породжувач з мінімальними затримками, керуванням редстоуном, без ШІ, що ігнорує умови породження та гравців",
+
+    "enchantment.level.0": "0",
+
+    "emi.category.apothic_spawners.spawner": "Модифікація породжувача",
+
+    "fml.menu.mods.info.description.apothic_spawners": "Модуль породжувачів Apotheosis, що дозволяє добувати шовковим дотиком та модифікувати."
+}

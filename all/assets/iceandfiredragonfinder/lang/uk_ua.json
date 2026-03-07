@@ -1,0 +1,16 @@
+{
+  "item.dragonfinder.coocked_fire_dragon_flesh": "Смажене м'ясо вогняного дракона",
+  "item.dragonfinder.coocked_ice_dragon_flesh": "Смажене м'ясо льодяного дракона",
+  "item.dragonfinder.coocked_lightning_dragon_flesh": "Смажене м'ясо громового дракона",
+
+  "item.dragonfinder.fire_dragon_eye": "Око вогняного дракона",
+  "item.dragonfinder.ice_dragon_eye": "Око льодяного дракона",
+  "item.dragonfinder.lightning_dragon_eye": "Око громового дракона",
+
+  "item.dragonfinder.dragoneye.nonfound": "Не вдалося знайти дракона",
+
+  "itemGroup.dragonfinder": "Ice and fire: Dragon Finder",
+
+  "advancements.dragonfinder.dragon_eye.title": "Знаходження кожного",
+  "advancements.dragonfinder.dragon_eye.description": "Створіть око дракона"
+}

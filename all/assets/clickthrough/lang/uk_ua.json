@@ -1,0 +1,33 @@
+{
+    "clickthrough.config.sneaktodye": "Shift, щоб пофарбувати таблички",
+    "clickthrough.config.tt.sneaktodye": "УВІМК.: фарбування табличок тільки із утриманим Shift\nВИМК.: не фарбування табличок із утриманим Shift",
+
+    "clickthrough.config.ignore.1": "Вимкнути для табличок, що містять в 1 рядку: ",
+    "clickthrough.config.ignore.2": "Вимкнути для табличок, що містять в 2 рядку: ",
+    "clickthrough.config.ignore.3": "Вимкнути для табличок, що містять в 3 рядку: ",
+    "clickthrough.config.ignore.4": "Вимкнути для табличок, що містять в 4 рядку: ",
+    "clickthrough.config.onlycontainers": "Відкривати лише сховища",
+    "clickthrough.config.switchonattack": "Перенаправте ліву кнопку",
+    "clickthrough.config.isActive": "Увімкнути мод",
+    "clickthrough.config.containers": "Додаткові вмістища",
+
+
+    "clickthrough.config.tt.ignore.1": "Не натискати через ці таблички, задля крамниць на скринях",
+    "clickthrough.config.tt.ignore.2": "Не натискати через ці таблички, задля крамниць на скринях",
+    "clickthrough.config.tt.ignore.3": "Не натискати через ці таблички, задля крамниць на скринях",
+    "clickthrough.config.tt.ignore.4": "Не натискати через ці таблички, задля крамниць на скринях",
+    "clickthrough.config.tt.onlycontainers": "Натискати через діжки, скрині тощо, але не через верстак, компостер тощо",
+    "clickthrough.config.tt.switchonattack": "Також перенаправляти ЛКМ на те, що знаходиться за табличкою",
+
+    "key.categories.clickthrough": "ClickThrough Plus",
+    "key.clickthrough.toggle": "Перемкнути ClickThrough",
+    "clickthrough.msg.active": "ClickThrough увімкнено",
+    "clickthrough.msg.inactive": "ClickThrough вимкнено",
+
+    "clickthrough.config.switchonattack.never": "Ніколи",
+    "clickthrough.config.switchonattack.first": "Перший натиск",
+    "clickthrough.config.switchonattack.always": "Завжди",
+
+    "modmenu.descriptionTranslation.clickthrough": "Додає можливість натискати через таблички і рамки.",
+    "fml.menu.mods.info.description.clickthrough": "Додає можливість натискати через таблички і рамки."
+}

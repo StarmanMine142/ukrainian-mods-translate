@@ -1,0 +1,44 @@
+{
+    "name": "Рівні 31–60",
+    "icon": "apothic_enchanting:hellshelf",
+    "category": "apotheosis:enchanting/progression",
+	"flag": "apotheosis:enchanting",
+    "pages": [
+		{
+            "type": "patchouli:crafting",
+			"title": "Рівень 45",
+			"recipe": "apothic_enchanting:hellshelf",
+			"text": "Щоб досягти рівня 45, ви маєте створити кілька $(9)пекельних полиць$() і додати їх до наявних книжкових полиць."
+		},
+		{
+            "type": "patchouli:crafting",
+			"title": "Рівень 45",
+			"recipe": "apothic_enchanting:seashelf",
+			"text": "Якщо ви не любите Незер, ви можете вирушити в океан і замість цього створити $(9)морську полицю$()."
+		},
+		{
+            "type": "patchouli:spotlight",
+			"title": "Рівень 60",
+			"item": "apothic_enchanting:infused_hellshelf",
+			"text": "Коли ви досягнете рівня 45, вам потрібно буде дослідити $(l:apotheosis:enchanting/table/infusion)вливання зачарувань$(), щоб оновити свої полиці."
+		},
+		{
+            "type": "patchouli:spotlight",
+			"title": "Рівень 60",
+			"item": "apothic_enchanting:infused_seashelf",
+			"text": "Створіть ще кілька полиць того типу, якими ви користувалися, доповніть їх і оновіть.$(p)Ці нові полиці, поверх ваших старих, дозволять вам досягти рівня 60."
+		},
+		{
+            "type": "patchouli:spotlight",
+			"title": "Підказки",
+			"item": "apothic_enchanting:sightshelf",
+			"text": "Тепер у вас є доступ до кращих варіантів збільшення інших характеристик.$(p)Окрім бонусів від пекельних полиць і морських полиць, ви також можете створити $(9)оглядові полиці$(), щоб збільшити $(#00AAAA)підказки зачарування$()."
+		},
+		{
+            "type": "patchouli:crafting",
+			"title": "Кількісна стабільність",
+			"recipe": "apothic_enchanting:geode_shelf",
+			"text": "Виконуючи вливання, щоб створити аметист, що бадає перспективи, ви можете створити $(9)стабільну полицю$().$(p)Це запобіжить вам отриманя негативного кванта."
+		}
+	]
+}

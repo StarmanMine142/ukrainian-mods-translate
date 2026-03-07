@@ -1,0 +1,112 @@
+{
+  "item.yo_relics.netherite_ring": "Незеритовий перстень",
+  "item.yo_relics.diamond_ring": "Діамантовий перстень",
+  "item.yo_relics.emerald_ring": "Смарагдовий перстень",
+  "item.yo_relics.amethyst_ring": "Аметистовий перстень",
+  "item.yo_relics.quartz_ring": "Кварцовий перстень",
+  
+  "item.yo_relics.golden_aglet": "Золотий аксельбант",
+  "item.yo_relics.amethyst_aglet": "Аметистовий аксельбант",
+
+
+  "item.yo_relics.sun_amulet": "Амулет Сонця",
+  "item.yo_relics.sun_amulet.desc": "Забезпечує регенерацію на сонці, поки ви стоїте нерухомо.",
+
+  "item.yo_relics.void_amulet": "Амулет порожнечі",
+  "item.yo_relics.void_amulet.desc": "Рятує вас від падіння в порожнечу Енду з часом відновлення %s хвилин.",
+  "item.yo_relics.void_amulet.desc_2": "Кожне використання споживає %s здоров'я назавжди.",
+  
+  "item.yo_relics.witch_vial": "Пляшка відьми",
+  "item.yo_relics.witch_vial.desc": "Надає імунітет до отруєння та ваші атаки його завдають.",
+
+  "item.yo_relics.fallen_archer_quiver": "Сагайдак упалого лучника",
+  "item.yo_relics.fallen_archer_quiver.desc": "Дає %s шанс, що стріла не використовується під час стрільби з лука.",
+  "item.yo_relics.fallen_archer_quiver.desc_pa_suggest": "Для додаткових функцій рекомендується встановити §rмод атрибутів §lPufferfish's Attributes.",
+
+  "item.yo_relics.water_walking_boots": "Чобіт водохід",
+  "item.yo_relics.water_walking_boots.desc": "Дозволяє вам ходити по воді.",
+  "item.yo_relics.water_walking_boots.desc_2": "Натисніть %s, щоби пірнути у воду.",
+
+
+  "item.yo_relics.fire_spellbook": "Книга заклинання вогню",
+  "item.yo_relics.fire_spellbook.desc": "Дозволяє підпалити істот поблизу, натиснувши %s.",
+
+  "item.yo_relics.frosty_spellbook": "Книга заклинання морозу",
+  "item.yo_relics.frosty_spellbook.desc": "Дозволяє заморозити істот поблизу, натиснувши %s.",
+
+  "item.yo_relics.nature_spellbook": "Книга заклинання природи",
+  "item.yo_relics.nature_spellbook.desc": "Дозволяє отруювати істот у напрямку, куди ви дивитесь, натиснувши %s.",
+
+  
+  "item.yo_relics.hunter_belt": "Румінь мисливця",
+  "item.yo_relics.hunter_belt.desc": "Має %s шанс збільшити здобич від мобів, подібно до зачарування грабунку I.",
+  
+  "item.yo_relics.reinforced_hunter_belt": "Посилений ремінь мисливця",
+  "item.yo_relics.reinforced_hunter_belt.desc": "Має %s шанс збільшити здобич від мобів, подібно до зачарування грабунку II.",
+
+
+  "item.yo_relics.netherite_shield": "Незеритовий щит",
+  "item.yo_relics.netherite_shield.desc": "Надає імунітет до відкидання та шкоди від вогню.",
+
+  "item.yo_relics.frosty_shield": "Морозний щит",
+  "item.yo_relics.frosty_shield.desc": "Надає імунітет до замороження та ваші атаки заморожують.",
+
+  "item.yo_relics.distorted_shield": "Спотворений щит",
+  "item.yo_relics.distorted_shield.desc": "Дозволяє робити ривок в напрямку руху, натиснувши %s із часом відновлення %s секунд.",
+
+  "item.yo_relics.celestial_aegis": "Небесна егіда",
+  "item.yo_relics.celestial_aegis.desc": "Дозволяє робити ривок в напрямку руху, натиснувши %s із часом відновлення %s секунд.",
+  "item.yo_relics.celestial_aegis.desc_2": "Надає імунітет до відкидання, шкоди від вогню та заморожування.",
+  "item.yo_relics.celestial_aegis.desc_3": "Ваші атаки спричиняють ефект заморожування ворогів.",
+
+  "item.yo_relics.crimson_covenant_ring": "Багряна угода",
+  "item.yo_relics.crimson_covenant_ring.desc_lore": "Ніхто не пам'ятає його попереднього носія, тим більше, хто його створив.",
+  "item.yo_relics.crimson_covenant_ring.desc_lore_2": "Чи зможете ви нести цей тягар протягом усієї вашої подорожі?",
+  "item.yo_relics.crimson_covenant_ring.desc_press_shift": "Натисніть §oShift§r для подробиць",
+  "item.yo_relics.crimson_covenant_ring.desc_1": "Умикає механіку люті.",
+  "item.yo_relics.crimson_covenant_ring.desc_2": "Надає унікальні бонуси іншим аксесуарам.",
+  "item.yo_relics.crimson_covenant_ring.desc_3": "Уся завдана шкода збільшується на %s.",
+  "item.yo_relics.crimson_covenant_ring.desc_4": "Кожного разу, коли ви помрете, ви назавжди втрачаєте %s здоров'я.",
+  "item.yo_relics.crimson_covenant_ring.desc_5": "Одягнувши цей перстень, ви ніколи не зможете його зняти.",
+
+
+  
+  "effect.yo_relics.freezing": "Замороження",
+
+  "key.yo_relics.dash": "Зробити ривок",
+  "key.yo_relics.use_rage": "Активувати лють",
+  "key.yo_relics.spell": "Чаклувати заклинання",
+  "key.category.yo_relics.abilities": "Yori3o's Relics 'n Jewelry",
+
+  "death.attack.yo_relics_spell": "%1$s убито заклинанням",
+  "death.attack.yo_relics_spell.player": "%2$s убив %1$s заклинанням",
+
+  "attribute.name.yo_relics.fire_spell_damage_multiplier": "шкоди заклинання вогню",
+  "attribute.name.yo_relics.frosty_spell_damage_multiplier": "шкоди заклинання морозу",
+  "attribute.name.yo_relics.nature_spell_damage_multiplier": "шкоди заклинання природи",
+  "attribute.name.yo_relics.spell_cooldown_multiplier": "затримки чаклування заклинання",
+  
+  "tooltip.yo_relics.when_in_hand_or_slot": "Коли надягнуто або в руці:",
+  "tooltip.yo_relics.spell_damage": "%s шкоди",
+  "tooltip.yo_relics.spell_xp_cost": "%s ціни одиниць досвіду",
+  "tooltip.yo_relics.spell_cooldown": "%s секунд затримки",
+
+
+
+
+  "settings.yo_relics.save_and_close": "Зберегти та закрити",
+  "settings.yo_relics.reset_settings": "Скинуто до усталеного",
+  "settings.yo_relics.open_file": "Відкрити файл",
+  "settings.yo_relics.file_note": "Більшість значень можна налаштувати лише в загальному файлі:",
+  "settings.yo_relics.cooldown_bars_enabled": "Зарядка дисплея",
+  "settings.yo_relics.time_left_on_cooldown_bars": "Показати час, що залишився",
+  
+  "message.yo_relics.not_enough_experience": "Недостатньо досвіду!",
+
+  "trinkets.slot.other.amulet": "Амулет",
+  "trinkets.slot.other.spellbook": "Книга заклинань",
+  "item_group.yo_relics": "Yori3o's Relics 'n Jewelry",
+
+  "modmenu.descriptionTranslation.yo_relics": "Додає різні аксесуари, реліквії, книги заклинань тощо.",
+  "fml.menu.mods.info.description.yo_relics": "Додає різні аксесуари, реліквії, книги заклинань тощо."
+}

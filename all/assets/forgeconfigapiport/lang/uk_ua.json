@@ -1,0 +1,48 @@
+{
+  "commands.config.getwithtype": "Налаштування для %s типу %s знайдено в %s",
+  "commands.config.noconfig": "Налаштування для %s типу %s не знайдено",
+
+  "neoforge.configuration.uitext.title": "%s налаштування",
+  "neoforge.configuration.uitext.type.client": "Налаштування клієнта",
+  "neoforge.configuration.uitext.type.server": "Налаштування сервера",
+  "neoforge.configuration.uitext.type.common": "Загальні налаштування",
+  "neoforge.configuration.uitext.type.startup": "Налаштування запуску",
+
+  "neoforge.configuration.uitext.title.client": "%s налаштування клієнта",
+  "neoforge.configuration.uitext.title.server": "%s налаштування сервера",
+  "neoforge.configuration.uitext.title.common": "%s загальні налаштування",
+  "neoforge.configuration.uitext.title.startup": "%s налаштування запуску",
+
+  "neoforge.configuration.uitext.notonline": "§cНалаштування тут визначаються сервером і не можуть бути змінені під час онлайн§r",
+  "neoforge.configuration.uitext.notlan": "§cНалаштування тут не можна редагувати, поки ваша гра відкрита в локальній мережі. Поверніться до головного меню та знову завантажте світ§r",
+  "neoforge.configuration.uitext.notloaded": "§cНалаштування тут доступні тільки під час завантаження світу§r",
+  "neoforge.configuration.uitext.unsupportedelement": "§cЦе значення не можна редагувати в інтерфейсі. Будь ласка, зв’яжіться з автором мода, щоб надати для нього власний інтерфейс§r",
+  "neoforge.configuration.uitext.section": "%s…",
+  "neoforge.configuration.uitext.sectiontext": "Редагувати",
+  "neoforge.configuration.uitext.breadcrumb": "%s §6§l>§r %s",
+  "neoforge.configuration.uitext.listelement": "%s:",
+  "neoforge.configuration.uitext.undo": "Скасувати",
+  "neoforge.configuration.uitext.undo.tooltip": "Скасовує зміни лише на цьому екрані.",
+  "neoforge.configuration.uitext.reset": "Скинути",
+  "neoforge.configuration.uitext.reset.tooltip": "Повертає все на цьому екрані до стандартних значень.",
+  "neoforge.configuration.uitext.newlistelement": "+",
+  "neoforge.configuration.uitext.listelementup": "⏶",
+  "neoforge.configuration.uitext.listelementdown": "⏷",
+  "neoforge.configuration.uitext.listelementremove": "❌",
+  "neoforge.configuration.uitext.rangetooltip": "§7\n\nДіапазон: §r%s",
+  "neoforge.configuration.uitext.filenametooltip": "§7Файл: «§r%s§7»§r",
+  "neoforge.configuration.uitext.common": "Налаштування клієнта",
+  "neoforge.configuration.uitext.client": "Налаштування сервера",
+  "neoforge.configuration.uitext.server": "Загальні налаштування",
+  "neoforge.configuration.uitext.startup": "Налаштування запуску",
+  "neoforge.configuration.uitext.restart.game.title": "Minecraft потрібно перезапустити",
+  "neoforge.configuration.uitext.restart.game.text": "Один або кілька налаштувань, які було змінено, набудуть чинности лише після запуску гри",
+  "neoforge.configuration.uitext.restart.server.title": "Світ потрібно перезавантажити",
+  "neoforge.configuration.uitext.restart.server.text": "Один або кілька налаштувань, які було змінено, набудуть чинности лише після перезавантаження світу",
+  "neoforge.configuration.uitext.restart.return": "Ігнорувати",
+  "neoforge.configuration.uitext.restart.return.tooltip": "§c§lВаші зміни не матимуть ефекту, доки ви не перезапустите!§r."
+
+  "modmenu.summaryTranslation.forgeconfigapiport": "Порт системи налаштувань NeoForge і Forge.",
+  "modmenu.descriptionTranslation.forgeconfigapiport": "Системи налаштувань NeoForge і Forge, портовані на інші завантажувачі модів. Розроблено для багатоплатформової архітектури.",
+  "fml.menu.mods.info.description.forgeconfigapiport": "Системи налаштувань NeoForge і Forge, портовані на інші завантажувачі модів. Розроблено для багатоплатформової архітектури."
+}

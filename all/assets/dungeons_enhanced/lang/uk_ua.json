@@ -1,0 +1,38 @@
+{
+    "advancements.dungeons_enhanced.root": "Dungeons Enhanced",
+    "advancements.dungeons_enhanced.root.desc": "Розповідь дослідника",
+    "advancements.dungeons_enhanced.hidden_under_the_roots": "Схований під корінням",
+    "advancements.dungeons_enhanced.hidden_under_the_roots.desc": "Знайдіть лабіринт монстрів",
+    "advancements.dungeons_enhanced.thats_a_dungeon": "Підземне підземелля!",
+    "advancements.dungeons_enhanced.thats_a_dungeon.desc": "Знайдіть велике підземелля",
+    "advancements.dungeons_enhanced.traps_and_curses": "Пастки та прокляття",
+    "advancements.dungeons_enhanced.traps_and_curses.desc": "Знайдіть пустельний храм",
+    "advancements.dungeons_enhanced.ancient_civilizations": "Стародавні цивілізації",
+    "advancements.dungeons_enhanced.ancient_civilizations.desc": "Знайдіть монумент у джунглях",
+    "advancements.dungeons_enhanced.wars_and_kingdoms": "Забуті війни та королівства",
+    "advancements.dungeons_enhanced.wars_and_kingdoms.desc": "Знайдіть замок",
+    "advancements.dungeons_enhanced.rarest_structure": "Найрідкісніша структура в грі?",
+    "advancements.dungeons_enhanced.rarest_structure.desc": "Знайдіть грибний дім",
+    "advancements.dungeons_enhanced.chilled_halls": "Охолоджені зали",
+    "advancements.dungeons_enhanced.chilled_halls.desc": "Знайдіть льодяну впадину",
+    "advancements.dungeons_enhanced.ahoy": "Агой капітане",
+    "advancements.dungeons_enhanced.ahoy.desc": "Знайдіть піратський корабель",
+    "advancements.dungeons_enhanced.in_the_air": "Політ у повітрі",
+    "advancements.dungeons_enhanced.in_the_air.desc": "Знайдіть Летючого Голландця",
+    "advancements.dungeons_enhanced.seven_world_wonders": "Сім чудес світу",
+    "advancements.dungeons_enhanced.seven_world_wonders.desc": "Знайдіть сім найбільших споруд",
+    "advancements.dungeons_enhanced.ambitious_explorer": "Амбітний дослідник",
+    "advancements.dungeons_enhanced.ambitious_explorer.desc": "Віднайдіть всі структури",
+    "advancements.dungeons_enhanced.sunken_deeps": "Затонулий у глибині",
+    "advancements.dungeons_enhanced.sunken_deeps.desc": "Знайдіть храм старійшини",
+
+    "advancements.dungeons_enhanced.spooky_scary_citadel": "Моторошна цитадель",
+    "advancements.dungeons_enhanced.spooky_scary_citadel.desc": "Знайдіть чорну цитадель",
+
+    "filled_map.dungeons_enhanced.castle": "Мапа дослідника замку",
+    "filled_map.dungeons_enhanced.desert_temple": "Мапа дослідника пустелі",
+    "filled_map.dungeons_enhanced.monster_maze": "Мапа дослідника монстрів",
+    "filled_map.dungeons_enhanced.elders_temple": "Мапа дослідника старійшини",
+
+    "fml.menu.mods.info.description.dungeons_enhanced": "        Minecraft — чудова гра, але дослідження завжди здавалося нам трохи нудним.\n        Існує не так багато структур або підземель, які ви можете досліджувати, а ті, які ви знаходите, стають повторюваними.\n        Ми вирішили трохи оживити ситуацію, додавши нові підземелля та споруди, які ви можете досліджувати.\n        Зараз у наш мод включено 27 нових підземель і споруд.\n        Усі вони відповідають темі середньовіччя/фентезі та можуть підходити до інших модів, схожих на фентезі чи RPG.\n        Деякі з наших структур також виглядають так, ніби вони можуть бути вдосконаленою версією ванільної структури або її варіантом.\n        Будьте готові знайти величезні лабіринти під деревами, замки, вежі та забуті храми.\n        Сподіваємось, вам буде весело!"
+}

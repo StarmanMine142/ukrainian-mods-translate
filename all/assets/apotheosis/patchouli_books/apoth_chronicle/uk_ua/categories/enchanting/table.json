@@ -1,0 +1,8 @@
+{
+    "name": "Стіл зачарування",
+    "description": "У цьому розділі розглядаються зміни в столі чарів.",
+    "icon": "minecraft:enchanting_table",
+	"flag": "apotheosis:enchanting",
+	"parent": "apotheosis:enchanting/enchanting",
+	"sortnum": -2
+}

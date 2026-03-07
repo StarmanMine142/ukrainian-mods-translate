@@ -1,0 +1,21 @@
+{
+  "Use /locate structure betterjungletemples:jungle_temple instead!": "Використовуйте /locate structure betterjungletemples:jungle_temple!",
+
+  "text.autoconfig.betterjungletemples-fabric-1_21.title": "Налаштування YUNG's Better Jungle Temples",
+
+  "text.autoconfig.betterjungletemples-fabric-1_21.option.betterJungleTemples": "YUNG's Better Jungle Temples",
+
+  "text.autoconfig.betterjungletemples-fabric-1_21.option.betterJungleTemples.general": "Загальні",
+  "text.autoconfig.betterjungletemples-fabric-1_21.option.betterJungleTemples.general.@Tooltip": "Загальні налаштування.",
+  "text.autoconfig.betterjungletemples-fabric-1_21.option.betterJungleTemples.compat": "Сумісніть",
+  "text.autoconfig.betterjungletemples-fabric-1_21.option.betterJungleTemples.compat.@Tooltip": "Налаштування сумісности модів.",
+
+  "text.autoconfig.betterjungletemples-fabric-1_21.option.betterJungleTemples.general.disableVanillaJungleTemples": "Вимкнути стандартні тропічні піраміди",
+  "text.autoconfig.betterjungletemples-fabric-1_21.option.betterJungleTemples.general.disableVanillaJungleTemples.@Tooltip": "Чи слід вимикнути стандартні троіпчні піраміди.",
+
+  "text.autoconfig.betterjungletemples-fabric-1_21.option.betterJungleTemples.compat.pickYourPoisonEnabled": "Увімкнути сумісність Pick Your Poison",
+  "text.autoconfig.betterjungletemples-fabric-1_21.option.betterJungleTemples.compat.pickYourPoisonEnabled.@Tooltip": "Чи отруйні дротики PYP можуть з'являтися в кращих тропічних пірамідах.",
+
+  "modmenu.descriptionTranslation.betterjungletemples": "Повний редизайн тропічної піраміди Minecraft.",
+  "fml.menu.mods.info.description.betterjungletemples": "Повний редизайн тропічної піраміди Minecraft."
+}

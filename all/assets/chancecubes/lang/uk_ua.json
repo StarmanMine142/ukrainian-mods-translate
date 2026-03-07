@@ -1,0 +1,54 @@
+{
+    "itemGroup.chancecubes": "Chance Cubes",
+
+    "block.chancecubes.chance_cube": "Куб шансу",
+    "block.chancecubes.chance_icosahedron": "Ікосаедр шансу",
+    "block.chancecubes.giant_chance_cube": "Величезний куб шансу",
+    "block.chancecubes.compact_giant_chance_cube": "Компактний величезний куб шансу",
+    "block.chancecubes.cube_dispenser": "Роздавач-куб шансу",
+
+    "item.chancecubes.chance_pendant_tier1": "Кулон шансу рівня 1",
+    "item.chancecubes.chance_pendant_tier2": "Кулон шансу рівня 2",
+    "item.chancecubes.chance_pendant_tier3": "Кулон шансу рівня 3",
+
+    "item.chancecubes.creative_pendant": "Кулон шансу творчости",
+    "item.chancecubes.reward_selector_pendant": "Кулон селектора винагород",
+    "item.chancecubes.single_use_reward_selector_pendant": "Одноразовий кулон вибору винагороди",
+
+    "item.chancecubes.silk_touch_pendant": "Підвіска шансу шовкового дотику",
+
+    "item.chancecubes.scanner": "Сканер кубів шансів",
+
+    "death.attack.mathdeath": "Розум %1$s вибухнув завдяки силі математики",
+    "death.attack.mazedeath": "%1$s назавжди загубився в лабіринті куба шансу",
+    "death.attack.questiondeath": "%1$s постраждав від наслідків неправильної відповіді",
+    "death.attack.digbuilddeath": "Руки %1$s, мабуть, зламані",
+    "death.attack.matchingdeath": "%1$s зустрів свою пару",
+
+    "advancements.chancecubes:root.desc": "Гра на випадок і майстерність",
+    "advancements.chancecubes:chance_icosahedron": "Диско-куля!",
+    "advancements.chancecubes:chance_icosahedron.desc": "Зламайте ікосаедр шансу",
+    "advancements.chancecubes:giant_chance_cube": "БАБАМ!",
+    "advancements.chancecubes:giant_chance_cube.desc": "Зламайте величещний куб шансу",
+    "advancements.chancecubes:lonely_dirt": "Самотній ґрунт",
+    "advancements.chancecubes:lonely_dirt.desc": "Отримайте самотній шматок ґрунту",
+    "advancements.chancecubes:wither": "Це реально??",
+    "advancements.chancecubes:wither.desc": "Змусьте ківі фактично з'явитися",
+    "advancements.chancecubes:herobrine": "Він справжній??",
+    "advancements.chancecubes:herobrine.desc": "Нехай Геробрін справді з'явиться",
+    "advancements.chancecubes:its_a_lie": "Це брехня!",
+    "advancements.chancecubes:its_a_lie.desc": "Так, торт — це брехня",
+
+    "chancecubes.reward.raining_potions": "Це називається мистецтвом! Подивіться!",
+
+    "stat.chancecubes.opened_chance_cube": "Кубів шансу відкрито",
+    "stat.chancecubes.opened_giant_chance_cube": "Величезних кубів шансу відкрито",
+    "stat.chancecubes.opened_d20": "Ікосаедрів шансу відкрито",
+
+    "chancecubes.networking.trigger_d20.failed": "Не вдалося запустити D20: %s",
+    "chancecubes.networking.creative_pendant.failed": "Не вдалося запустити кулон творчости: %s",
+    "chancecubes.networking.reward_selector.failed": "Не вдалося запустити селектор винагород: %s",
+    "chancecubes.networking.cube_scan.failed": "Не вдалося запустити сканування куба: %s",
+
+  "fml.menu.mods.info.description.chancecubes": "Гра на випадковість і майстерність."
+}

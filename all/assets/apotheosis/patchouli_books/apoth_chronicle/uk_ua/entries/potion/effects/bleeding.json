@@ -1,0 +1,17 @@
+{
+    "name": "Кровотеча",
+    "icon": "apothic_attributes:textures/mob_effect/bleeding.png",
+    "category": "apotheosis:potion/effects",
+	"flag": "apotheosis:potion",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(c)Кровотеча$() — це негативний ефект, застосований $(l:apotheosis:village/fletching#broadhead)широкоголовою стрілою$().$(p)Він завдає вам шкоду кожні дві секунди."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "Шкода збільшується з рівнем $(c)кровотечі$().$(p)Шкода від $(c)кровотечі$() ігнорую обладунки."
+        }
+	]
+}

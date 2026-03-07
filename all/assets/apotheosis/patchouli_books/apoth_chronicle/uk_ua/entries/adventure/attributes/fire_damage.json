@@ -1,0 +1,13 @@
+{
+    "name": "Шкода від вогню",
+    "icon": "minecraft:blaze_powder",
+    "category": "apotheosis:adventure/attributes",
+	"flag": "apotheosis:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Шкода від вогню$() це додаткова магічна шкода, що наноситься на атаки ближнього бою. Вона також підпалює ціль на короткий час. Більша шкода збільшує тривалість вогню.$(p)Знайдено на зброї ближнього бою."
+        }
+	]
+}

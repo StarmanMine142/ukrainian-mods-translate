@@ -1,0 +1,13 @@
+{
+    "name": "Макс. здоров'я",
+    "icon": "minecraft:apple",
+    "category": "apotheosis:adventure/attributes",
+	"flag": "apotheosis:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Максимальне здоров'я$() керує кількістю ОЗ, які ви маєте. Одна одиниця — півсерця.$(p)Зазвичай забезпечується обладунками або щитами."
+        }
+	]
+}

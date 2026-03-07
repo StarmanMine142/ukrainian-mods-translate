@@ -1,0 +1,54 @@
+{
+  "name": "Звичайні книги заклинань",
+  "icon": "irons_spellbooks:iron_spell_book",
+  "category": "irons_spellbooks:root",
+  "sortnum": 1,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Змайстровувані книги",
+      "text": "Багато книг заклинань можна створити з комбінації стандартних і магічних матеріалів. Кожен наступний створений рівень збільшує кількість слотів у книзі заклинань і часто супроводжується додатковими бонусами, збільшуючи силу та кількість заклинань, які вона може містити."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:copper_spell_book",
+      "recipe2": "irons_spellbooks:iron_spell_book"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:gold_spell_book",
+      "recipe2": "irons_spellbooks:diamond_spell_book"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:netherite_spell_book",
+      "recipe2": "irons_spellbooks:dragonskin_spell_book"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Іменні книги заклинань",
+      "text": "Книги заклинань з іменами можна знайти в багатьох куточках світу, часто пропонуючи бонуси щасливим шукачам пригод, які шукають у потрібних місцях."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "irons_spellbooks:rotten_spell_book",
+      "text": "Те, що колись могло бути могутнішою книгою, з тих пір згнило, залишивши лише три сторінки. Але все ще сильніше, ніж більшість книг заклинань Верхнього світу. Їх можна пограбувати з таких же гнилих місць по всьому Верхньому світі."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "irons_spellbooks:villager_spell_book",
+      "text": "Звичайна книга з невеликим благословенням є відповідним каналом для божественної магії. Здобувши репутацію серед жителів села, особливо звільнивши полонених від Архівокера, ви гарантуєте, що один зрештою потрапить у ваші руки."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "irons_spellbooks:blaze_spell_book",
+      "text": "Кожне полум'я, без їхнього відома, приходить із одним із них. Головне вбити їх і сподіватися, що воно не перетвориться на попіл."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:druidic_spell_book",
+      "text": "Сильна магічна енергія все ще зберігається в гнилій книзі заклинань. Книга може бути благословенна заново, якщо застосувати відповідний засіб."
+    }
+  ]
+}

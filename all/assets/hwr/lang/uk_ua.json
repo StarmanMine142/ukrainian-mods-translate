@@ -1,0 +1,16 @@
+{
+  "item.minecraft.potion.effect.water_resistance_potion": "Зілля водостійкости",
+  "item.minecraft.splash_potion.effect.water_resistance_potion": "Вибухове зілля водостійкости",
+  "item.minecraft.lingering_potion.effect.water_resistance_potion": "Осідальне зілля водостійкости",
+  "item.minecraft.tipped_arrow.effect.water_resistance_potion": "Стріла водостійкости",
+
+  "item.minecraft.potion.effect.long_water_resistance_potion": "Зілля водостійкости",
+  "item.minecraft.splash_potion.effect.long_water_resistance_potion": "Вибухове зілля водостійкости",
+  "item.minecraft.lingering_potion.effect.long_water_resistance_potion": "Осідальне зілля водостійкости",
+  "item.minecraft.tipped_arrow.effect.long_water_resistance_potion": "Стріла водостійкости",
+
+  "effect.hwr.water_resistance": "Водостійкість",
+  
+  "modmenu.descriptionTranslation.hwr": "Додає зілля водостійкости до Minecraft.",
+  "fml.menu.mods.info.description.hwr": "Додає зілля водостійкости до Minecraft."
+}

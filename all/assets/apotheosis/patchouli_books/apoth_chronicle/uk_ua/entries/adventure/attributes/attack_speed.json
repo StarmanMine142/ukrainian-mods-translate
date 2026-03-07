@@ -1,0 +1,13 @@
+{
+    "name": "Швидкість атаки",
+    "icon": "minecraft:golden_sword",
+    "category": "apotheosis:adventure/attributes",
+	"flag": "apotheosis:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Швидкість атаки$() керує, як часто ви можете атакувати. Якщо ваша швидкість атаки 2, ви можете атакувати двічі на секунду.$(p)Різні предмети можуть збільшити вашу швидкість атаки."
+        }
+	]
+}

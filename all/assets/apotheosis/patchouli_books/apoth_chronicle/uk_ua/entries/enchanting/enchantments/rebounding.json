@@ -1,0 +1,13 @@
+{
+    "name": "Відскок",
+    "icon": "minecraft:enchanted_book",
+    "category": "apotheosis:enchanting/enchantments",
+	"flag": "apotheosis:enchanting",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Відскок$() — це зачарування для нагрудників та нагоілнників.$(p)Це змушує всіх нападників ближнього бою відкидатися від носія.$(p)Вищі рівні збільшують відстань."
+        }
+	]
+}

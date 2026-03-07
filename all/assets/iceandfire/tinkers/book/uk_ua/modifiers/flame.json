@@ -1,0 +1,34 @@
+{
+  "modifier": "flame",
+  "text": [
+    {
+      "text": "Покриття кров'ю вогняного дракона наділяє інструмент силою запалювати ворогів."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Не можна застосувати до драконосталевих речей. Несумісний з хуртовиною"
+    },
+    {
+      "text": "\n"
+    }
+  ],
+  "effects": [
+    "Запалює ціль на 10 секунд",
+    "Завдає долаткову шкоду вогняним драконам",
+    "Лише 1 рівень"
+  ],
+  "demoTool": [
+    "tconstruct:broadsword",
+    "tconstruct:cleaver",
+    "tconstruct:hammer",
+    "tconstruct:arrow",
+    "tconstruct:longsword",
+    "tconstruct:shortbow",
+    "tconstruct:frypan",
+    "tconstruct:crossbow",
+    "tconstruct:scythe",
+    "tconstruct:shuriken"
+  ]
+}

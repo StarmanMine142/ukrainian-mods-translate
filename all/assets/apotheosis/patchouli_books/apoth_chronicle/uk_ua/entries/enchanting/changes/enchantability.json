@@ -1,0 +1,17 @@
+{
+    "name": "Зачаровуваність",
+    "icon": "minecraft:golden_sword",
+    "category": "apotheosis:enchanting/changes",
+	"flag": "apotheosis:enchanting",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Зазвичай всі предмети без явної $(l:apotheosis:enchanting/table/enchantability)зачаровуваности$() мають усталене значення нуль.$(p)Apotheosis змінює усталене значення на одиницю.$(p)Це має побічний ефект, коли деякі предмети мимоволі стають зачарованими."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "Це налаштування не змінює можливості зачаровування предметів, які мають явне значення.$(p)Предмети з нульовою можливістю зачаровування ніколи не можуть бути зачаровані."
+        }
+	]
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Wither",
+    "icon": "minecraft:textures/mob_effect/wither.png",
+    "category": "apotheosis:potion/recipes",
+	"flag": "&apotheosis:potion,apotheosis:wstloaded",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(c)Висушування$() — це негативний ефект, який зазвичай не можна створити.$(p)Поки він у вас, ви отримуватимете шкоди.$(p)На відміну від отрути, ця шкода є смертельною."
+        },
+		{
+            "type": "patchouli:spotlight",
+			"title": "Рецепт зіллєваріння",
+			"item": "minecraft:wither_skeleton_skull",
+            "text": "Це зілля можна створювати за допомогою незгарбного зілля та фрагмента черепа візера-скелета.$(p)Його можна розширити, посилити або перетворити на вибухове зілля за допомогою звичайних інгредієнтів."
+        }
+	]
+}

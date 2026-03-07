@@ -1,0 +1,207 @@
+{
+  "planet.planetsplus.jada": "Джада",
+  "planet.planetsplus.diater": "Діатер",
+  "planet.planetsplus.ceres": "Церера",
+  
+  "planet.planetsplus.ganymede": "Ганімед",
+  "planet.planetsplus.europa": "Європа",
+  "planet.planetsplus.callisto": "Калісто",
+  "planet.planetsplus.io": "Іо",
+  
+  "planet.planetsplus.enceladus": "Енцелад",
+  "planet.planetsplus.iapetus": "Япер",
+  "planet.planetsplus.mimas": "Мімас",
+  "planet.planetsplus.titan": "Титан",
+  
+  "planet.planetsplus.pluto": "Плутон",
+  "planet.planetsplus.charon": "Харон",
+
+  "planet.planetsplus.jada_orbit": "Орбіта Джади",
+  "planet.planetsplus.diater_orbit": "Орбіта Діатеру",
+  "planet.planetsplus.Ceres_orbit": "Орбіта Церери",
+
+  "planet.planetsplus.ganymede_orbit": "Орбіта Ганімеду",
+  "planet.planetsplus.europa_orbit": "Орбіта Європи",
+  "planet.planetsplus.callisto_orbit": "Орбіта Калісто",
+  "planet.planetsplus.io_orbit": "Орбіта Іо",
+  
+  "planet.planetsplus.enceladus_orbit": "Орбіта Енцеладу",
+  "planet.planetsplus.iapetus_orbit": "Орбіта Яперу",
+  "planet.planetsplus.mimas_orbit": "Орбіта Мімасу",
+  "planet.planetsplus.titan_orbit": "Орбіта Титану",
+  
+  "planet.planetsplus.pluto_orbit": "Орбіта Плутону",
+  "planet.planetsplus.charon_orbit": "Орбіта Харону",
+  
+
+  "solar_system.planetsplus.kepler_centauri": "Кеплер Центавра",
+
+  "planet.planetsplus.vulcan": "Вулканія",
+  "planet.planetsplus.fierer": "Фієрера",
+  "planet.planetsplus.galia": "Галія",
+  "planet.planetsplus.lazap": "Лазап",
+
+  "planet.planetsplus.vulcan_orbit": "Орбіта Вулканії",
+  "planet.planetsplus.fierer_orbit": "Орбіта Фієрери",
+  "planet.planetsplus.galia_orbit": "Орбіта Галії",
+  "planet.planetsplus.soulfer_orbit": "Орбіта Сольферу",
+
+
+ "solar_system.planetsplus.kepler_38516": "Кеплер 38516",
+
+  "planet.planetsplus.soulfer": "Соульфер",
+
+  "planet.planetsplus.flade": "Флейд",
+  "planet.planetsplus.mixeus": "Міксеус",
+  "planet.planetsplus.dune": "Дюна",
+
+  "planet.planetsplus.unity": "Юніті",
+  "planet.planetsplus.dread": "Дред",
+
+  "planet.planetsplus.glacies": "Гляцієс",
+  "planet.planetsplus.cration": "Краціо",
+
+  "planet.planetsplus.voltic": "Вольтіо",
+  "planet.planetsplus.vonic": "Воніяк",
+  "planet.planetsplus.reveda": "Реведа",
+  "planet.planetsplus.obrina": "Обріна",
+  "planet.planetsplus.baydin": "Бейдін",
+  "planet.planetsplus.evedva": "Евідва",
+
+  "planet.planetsplus.eclipsa": "Екліпса",
+  "planet.planetsplus.atmas": "Атмос",
+  "planet.planetsplus.ringetic": "Рингет",
+  
+
+  "planet.planetsplus.flade_orbit": "Орбіта Флейду",
+  "planet.planetsplus.mixeus_orbit": "Орбіта Міксеусу",
+  "planet.planetsplus.dune_orbit": "Орбіта Дюни",
+
+  "planet.planetsplus.unity_orbit": "Орбіта Юніті",
+  "planet.planetsplus.dread_orbit": "Орбіта Дреду",
+
+  "planet.planetsplus.glacies_orbit": "Орбіта Гляцієсу",
+  "planet.planetsplus.cration_orbit": "Орбіта Краціо",
+  
+  "planet.planetsplus.voltic_orbit": "Орбіта Вольтіо",
+  "planet.planetsplus.vonic_orbit": "Орбіта Воніяку",
+  "planet.planetsplus.reveda_orbit": "Орбіта Реведи",
+  "planet.planetsplus.obrina_orbit": "Орбіта Обріни",
+  "planet.planetsplus.baydin_orbit": "Орбіта Бейдіна",
+  "planet.planetsplus.evedva_orbit": "Орбіта Евідви",
+
+  "planet.planetsplus.eclipsa_orbit": "Орбіта Екліпсу",
+  "planet.planetsplus.atmas_orbit": "Орбіта Атмосу",
+  "planet.planetsplus.ringetic_orbit": "Орбіта Рингету",
+  
+  
+  
+  "solar_system.planetsplus.kepler_10352": "Кеплер 10352",
+  
+  "planet.planetsplus.sorea": "Сорея",
+  "planet.planetsplus.molvon": "Мольвон",
+  
+  "planet.planetsplus.sorea_orbit": "Орбіта Сореї",
+  "planet.planetsplus.molvon_orbit": "Орбіта Мольвону",
+  
+  
+  
+  "advancements.solar_system.jada_landed.title": "Цього нема на мапах?",
+  "advancements.solar_system.jada_landed.description": "Приземліться на Джаду",
+  
+  "advancements.solar_system.diater_landed.title": "Цього теж нема на мапах?",
+  "advancements.solar_system.diater_landed.description": "Приземліться на Діатер",
+  
+  
+  "advancements.solar_system.jupiter.title": "Що таке радіанція?",
+  "advancements.solar_system.jupiter.description": "Увійдіть у систему Джовієна",
+  
+  "advancements.solar_system.jupiter.callisto_landed.title": "Це камінь",
+  "advancements.solar_system.jupiter.callisto_landed.description": "Приземліться на Калісто",
+  
+  "advancements.solar_system.jupiter.europa_landed.title": "Тут підземні океани!?",
+  "advancements.solar_system.jupiter.europa_landed.description": "Приземліться на Європу",
+  
+  "advancements.solar_system.jupiter.ganymede_landed.title": "Справжній титан",
+  "advancements.solar_system.jupiter.ganymede_landed.description": "Приземліться на Ганімед",
+  
+  "advancements.solar_system.jupiter.io_landed.title": "10?",
+  "advancements.solar_system.jupiter.io_landed.description": "Приземліться на Іо",
+  
+  
+  "advancements.solar_system.saturn.title": "Красиво!",
+  "advancements.solar_system.saturn.description": "Увійдіть у сатурнову систему",
+  
+  "advancements.solar_system.saturn.titan_landed.title": "Де рідкий метан?",
+  "advancements.solar_system.saturn.titan_landed.description": "Приземліться на Титан. ЗАРАЗ БЕЗ РІДИН",
+  
+  "advancements.solar_system.saturn.iapetus_landed.title": "Льодо-кам'яно-льодо-кам'яно-льодо-камінь",
+  "advancements.solar_system.saturn.iapetus_landed.description": "Приземліться на Япеті. Це як Енцелад, але тепер З КАМЕНЮ",
+  
+  "advancements.solar_system.saturn.enceladus_landed.title": "Лід-лід-лід-лід-лід-лід",
+  "advancements.solar_system.saturn.enceladus_landed.description": "Приземліться на Енцелад. Дитина не входить до комплекту!",
+  
+  
+  "advancements.solar_system.pluto_landed.title": "Майже повний 0",
+  "advancements.solar_system.pluto_landed.description": "Приземліться на Плутон. Лід на цьому місці просто камінь!",
+  
+  "advancements.solar_system.charon_landed.title": "Надокучлива сестра",
+  "advancements.solar_system.charon_landed.description": "Приземліться на Харон",
+  
+  
+  "advancements.kelper_centauri.vulcan_landed.title": "Меркурій 2.0",
+  "advancements.kelper_centauri.vulcan_landed.description": "Приземліться на Вулканію. Це планета, але з рідкого металу!?",
+  
+  "advancements.kelper_centauri.fierer_landed.title": "Меркурій, але супер",
+  "advancements.kelper_centauri.fierer_landed.description": "Приземліться на Фієреру.",
+  
+  "advancements.kelper_centauri.galia_landed.title": "Наскільки краще, ніж справжні розробники!",
+  "advancements.kelper_centauri.galia_landed.description": "Приземліться на Галію",
+  
+  "advancements.kelper_centauri.dytiona_landed.title": "Це не Лазап?",
+  "advancements.kelper_centauri.dytiona_landed.description": "Приземліться на Датіону",
+  
+  
+  "advancements.kelper_10352.soulfer_landed.title": "Що думає? Сірка",
+  "advancements.kelper_10352.soulfer_landed.description": "Приземліться на Соульфер",
+  
+  
+  "advancements.kelper_10352.graze.title": "Тут немає Джулса!",
+  "advancements.kelper_10352.graze.description": "Приземліться на Грасс",
+  
+  "advancements.kelper_10352.graze.flade_landed.title": "Гарячіше, ніж Венера",
+  "advancements.kelper_10352.graze.flade_landed.description": "Приземліться на Флейд",
+  
+  "advancements.kelper_10352.graze.mixeus_landed.title": "Не міксер",
+  "advancements.kelper_10352.graze.mixeus_landed.description": "Приземліться на Міксеус",
+  
+  "advancements.kelper_10352.graze.dune_landed.title": "Високі дюни",
+  "advancements.kelper_10352.graze.dune_landed.description": "Приземліться на Дюну",
+  
+  
+  "advancements.kelper_10352.dread_landed.title": "Юніті не сирний місяць",
+  "advancements.kelper_10352.dread_landed.description": "Приземліться на Дред",
+  "advancements.kelper_10352.dread_redstone_caves_discover.title": "Редстоунова планета",
+  "advancements.kelper_10352.dread_redstone_caves_discover.description": "Знайдіть редстоунові печери на Дреді",
+  
+  
+  "advancements.kelper_10352.glacies_landed.title": "Лід",
+  "advancements.kelper_10352.glacies_landed.description": "Знайдіть Гляцієс",  
+  
+  
+  "advancements.kelper_10352.eclipsa_landed.title": "Великий розрив",
+  "advancements.kelper_10352.eclipsa_landed.description": "Приземліться на Екліпсу",  
+  
+  "advancements.kelper_10352.atmas_landed.title": "Крихітна маленька Мінму — я маю на увазі Атмос",
+  "advancements.kelper_10352.atmas_landed.description": "Приземліться на на Атмос",  
+  "advancements.kelper_10352.atmas_crystal_caves_discover.title": "Буквально нескінченний аметист",
+  "advancements.kelper_10352.atmas_crystal_caves_discover.description": "Знайти кришталеві печери Атмосу",  
+  "advancements.kelper_10352.atmas_friction_caves_discover.title": "Натираючи Алькакор, не пийте",
+  "advancements.kelper_10352.atmas_friction_caves_discover.description": "Знайти печери тертя Атмосу",  
+  
+  "advancements.kelper_10352.ringetic_landed.title": "Неможлива система кільця",
+  "advancements.kelper_10352.ringetic_landed.description": "Приземліться на Рінгетіку",
+
+
+  "modmenu.descriptionTranslation.": "Додає більше планет і супутників для дослідження в Ad Astra."
+}

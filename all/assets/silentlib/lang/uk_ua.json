@@ -1,0 +1,8 @@
+{
+  "command.silentlib.nbt.noItemInHand": "Немає предметів в основній руці",
+  "command.silentlib.nbt.noItemTag": "%s не має NBT",
+  "command.silentlib.nbt.notBlockEntity": "%s не блок-сутність",
+  "item.silentlib.lootContainer.itemReceived": "Отримано: %dx %s",
+  "item.silentlib.lootContainer.table": "Таблиця здобичі: %s",
+  "fml.menu.mods.info.description.silentlib": "Спільна бібліотека для модів SilentChaos512."
+}

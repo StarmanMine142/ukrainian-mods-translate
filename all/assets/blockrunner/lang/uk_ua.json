@@ -1,0 +1,11 @@
+{
+  "block.blockrunner.speedMultiplier": "Множник швидкости: %s"
+  "tag.block.blockrunner.quick_blocks": "Пришвидшувальні блоки",
+  "tag.block.blockrunner.slightly_quick_blocks": "Трохи пришвидшувальні блоки",
+  "tag.block.blockrunner.slightly_slow_blocks": "Трохи вповільнювальні блоки",
+  "tag.block.blockrunner.slow_blocks": "Уповільнювальні блоки",
+  "tag.block.blockrunner.very_quick_blocks": "Дуже пришвидшувальні блоки",
+  "tag.block.blockrunner.very_slow_blocks": "Дуже вповільнювальні блоки",
+  "modmenu.descriptionTranslation.blockrunner": "Стимулює побудову стежок, змушуючи вас бігати швидше на певних блоках, наприклад блоках стежки.",
+  "fml.menu.mods.info.description.blockrunner": "Стимулює побудову стежок, змушуючи вас бігати швидше на певних блоках, наприклад блоках стежки."
+}

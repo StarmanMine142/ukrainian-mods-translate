@@ -1,0 +1,13 @@
+{
+{
+	"item.ring_of_growth.ring_of_growth": "Кільце росту",
+	
+	"item.ring_of_growth.ring_of_growth.line1": "Просте кільце росту",
+	"item.ring_of_growth.ring_of_growth.line2": "Тримайте у головній руці, щоби впливати на врожай",
+	"item.ring_of_growth.ring_of_growth.line3": "Дальність у блоках: %s",
+	
+	"itemGroup.ring_of_growth.ring_growth_group": "Ring of Growth",
+
+	"modmenu.descriptionTranslation.ring_of_growth": "Просте кільце росту.",
+	"fml.menu.mods.info.description.ring_of_growth": "Просте кільце росту."
+}

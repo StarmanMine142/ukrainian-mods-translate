@@ -1,0 +1,20 @@
+{
+  "beehivetooltip.title": "Загальні",
+  "beehivetooltip.option.enabled": "УВІМК.",
+  "beehivetooltip.option.unicodemode": "Режим юнікоду",
+  "beehivetooltip.option.honeyhevel": "Мед",
+  "beehivetooltip.option.healthdisplay": "Здоров'я",
+  "beehivetooltip.option.displaymode": "Режим показу",
+  "beehivetooltip.option.enabled.description": " ",
+  "beehivetooltip.option.healthdisplay.description": "Як показувати здоров'я",
+  "beehivetooltip.option.unicodemode.description": "🐝",
+  "beehivetooltip.option.honeyhevel.description": " ",
+  "beehivetooltip.option.displaymode.description": "Контролює показ опису.\n КОМПАКТНО — показує бджіл.\n РОЗШИРЕНО — показує бджіл з власними іменами(якщо вони є).",
+  "beehivetooltip.empty": "Порожньо",
+  "beehivetooltip.honeylevel": "Мед: %d/%d",
+  "beehivetooltip.compact": "Бджоли: %d/%d",
+  "beehivetooltip.extended.title": "Вміст:",
+  "beehivetooltip.healthdisplay.compact": ": %dОЗ",
+  "beehivetooltip.healthdisplay.extended": "   %s%s",
+  "modmenu.descriptionTranslation.beehivetooltip": "Додає до підказок бджолиного глізда і вулика інформацію про те скільки там бджіл і меду."
+}

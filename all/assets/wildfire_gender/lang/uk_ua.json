@@ -1,0 +1,187 @@
+{
+	"key.category.wildfire_gender.generic": "Female Gender Mod",
+	"key.wildfire_gender.gender_menu": "Меню жіночої статі",
+	"key.wildfire_gender.toggle": "Перемкнути промальовування грудей",
+	"toast.wildfire_gender.get_started": "Натисніть %s, щоби почати!",
+
+	"wildfire_gender.armor.tooltip": "+%s підтримки грудей",
+
+	"wildfire_gender.uv_editor": "Редактор текстури",
+	"wildfire_gender.uv_editor.reset_defaults_all": "Скинути до усталеного всі UV",
+	"wildfire_gender.uv_editor.reset_defaults": "Скинути до усталеного UV",
+	"wildfire_gender.uv_editor.no_face_selected": "Виберіть лице текстури зліва, щоби редагувати це.",
+	"wildfire_gender.uv_editor.selection.left_breast": "Ліво",
+	"wildfire_gender.uv_editor.selection.right_breast": "Право",
+	"wildfire_gender.uv_editor.selection.left_breast_overlay": "Ліво",
+	"wildfire_gender.uv_editor.selection.right_breast_overlay": "Право",
+
+	"wildfire_gender.uv_editor.selection.layer_body": "Шар тіла",
+	"wildfire_gender.uv_editor.selection.layer_jacket": "Шар куртки",
+
+	"wildfire_gender.uv_editor.xpos": "Поза X",
+	"wildfire_gender.uv_editor.ypos": "Поза Y",
+	"wildfire_gender.uv_editor.width": "Ширина",
+	"wildfire_gender.uv_editor.height": "Висота",
+	"wildfire_gender.uv_editor.increment_tip.line1": "Shift для +10",
+	"wildfire_gender.uv_editor.increment_tip.line2": "Shift+Ctrl для +20",
+	"wildfire_gender.uv_editor.add": "Додати",
+	"wildfire_gender.uv_editor.remove": "Видалити",
+
+	"wildfire_gender.uv_editor.faces.inner": "Унітрішнє лице",
+	"wildfire_gender.uv_editor.faces.outer": "Зовнішнє лице",
+	"wildfire_gender.uv_editor.faces.top": "Верхнє лице",
+	"wildfire_gender.uv_editor.faces.bottom": "Нижнє лице",
+	"wildfire_gender.uv_editor.faces.front": "Переднє лице",
+
+	"wildfire_gender.credits.title": "Згадки мода",
+	"wildfire_gender.credits.description": "Це список чудових людей, які зробили цей мод можливим!",
+	"wildfire_gender.credits.general": "Загальні",
+	"wildfire_gender.credits.translators": "Перекладачі",
+
+	"wildfire_gender.player_list.title": "Female Gender Mod",
+	"wildfire_gender.player_list.settings_button": "Налаштування",
+	"wildfire_gender.player_list.sync_status": "Синхронізація стану",
+	"wildfire_gender.player_list.state.loading": "Завантаження даних…",
+	"wildfire_gender.player_list.state.synced": "Синхронізований гравець",
+	"wildfire_gender.player_list.bounce_multiplier": "Пружність: %sx",
+	"wildfire_gender.player_list.breast_momentum": "Імпульс: %s%%",
+	"wildfire_gender.player_list.female_sounds": "Жіночі звуки: %s",
+	"wildfire_gender.wardrobe.players_using_mod": "Синхронні гравці:",
+
+	"wildfire_gender.always_show_list": "Показ синхрон. гравців: %s",
+	"wildfire_gender.always_show_list.mod_ui_only": "Тут",
+	"wildfire_gender.always_show_list.mod_ui_only.tooltip": "Список синхронізованих гравців буде видно лише в цьому меню",
+	"wildfire_gender.always_show_list.tab_list_open": "Список",
+	"wildfire_gender.always_show_list.tab_list_open.tooltip": "Список синхронізованих гравців буде видно в цьому меню або після натискання %s",
+	"wildfire_gender.always_show_list.always": "Завжди",
+	"wildfire_gender.always_show_list.always.tooltip": "Список синхронізованих гравців завжди буде видно",
+
+	"wildfire_gender.wardrobe.title": "Меню налаштування",
+	"wildfire_gender.breast_customization.tab_customization": "Налаштування",
+	"wildfire_gender.breast_customization.tab_physics": "Фізика грудей",
+	"wildfire_gender.breast_customization.tab_miscellaneous": "Різне",
+
+	"wildfire_gender.breast_customization.presets.add_new": "Додати нове…",
+	"wildfire_gender.breast_customization.presets.delete": "Видалити",
+
+	"wildfire_gender.wardrobe.slider.breast_size": "Розмір грудей: %s%%",
+	"wildfire_gender.wardrobe.slider.separation": "Відстань: %s",
+	"wildfire_gender.wardrobe.slider.height": "Висота: %s",
+	"wildfire_gender.wardrobe.slider.depth": "Глибина: %s",
+	"wildfire_gender.wardrobe.slider.rotation": "Оберт: %s°",
+	"wildfire_gender.slider.voice_pitch": "Тембр: %s%%",
+
+	"wildfire_gender.appearance_settings.title": "Зовнішній вигляд",
+	"wildfire_gender.char_settings.title": "Налаштування персонажа",
+	"wildfire_gender.char_settings.physics": "Фізика грудей: %s",
+	"wildfire_gender.char_settings.jump": "Стрибати",
+	"wildfire_gender.char_settings.jumping": "Зупинити",
+
+	"wildfire_gender.char_settings.override_armor_physics": "Фізика обладунків: %s",
+	"wildfire_gender.tooltip.override_armor_physics.line1": "Фізика грудей більше не буде зменшена/пригнічена будь-якими пошкодженими обладунками, коли ввімкнено; це насамперед призначено для використання з пакетами ресурсів, які приховують обладунки.",
+	"wildfire_gender.tooltip.override_armor_physics.line2": "Це впливає на те, як ви бачите інших гравців і себе, але не впливає на те, як інші бачать вас.",
+
+	"wildfire_gender.char_settings.hide_in_armor": "Прихов. під обладунками: %s",
+	"wildfire_gender.char_settings.show_armor_stat": "Підказка обладунків: %s",
+	"wildfire_gender.char_settings.hurt_sounds": "Жіночі звуки поранення: %s",
+	"wildfire_gender.tooltip.hurt_sounds": "Умикає жіночі звуки поранення",
+
+	"wildfire_gender.breast_customization.dual_physics": "Подвійна фізика: %s",
+
+	"wildfire_gender.label.gender": "Стать",
+	"wildfire_gender.label.female": "Жінка",
+	"wildfire_gender.label.male": "Чоловік",
+	"wildfire_gender.label.other": "Інше",
+
+	"wildfire_gender.label.enabled": "УВІМК.",
+	"wildfire_gender.label.disabled": "ВИМК.",
+	"wildfire_gender.label.on": "УВІМК.",
+	"wildfire_gender.label.off": "ВИМК.",
+	"wildfire_gender.label.yes": "Так",
+	"wildfire_gender.label.no": "Ні",
+	"wildfire_gender.label.with_creator": "Ви граєте на одному ж сервері з творцем цього мода!",
+	"wildfire_gender.label.with_contributor": "Ви граєте на сервері з дописувачем цього мода!",
+	"wildfire_gender.label.with_both": "Ви граєте на сервері разом з творцем та дописувачем цього мода!",
+
+	"wildfire_gender.slider.bounce": "Пружність: %s%%",
+	"wildfire_gender.slider.floppy": "Імпульс: %s%%",
+
+	"wildfire_gender.cancer_awareness.title": "Привіт, сьогодні Місяць боротьби з раком молочної залози!",
+
+	"wildfire_gender.first_time_setup.title": "Ласкаво просимо до Female Gender Mod!",
+	"wildfire_gender.first_time_setup.description": "Бажаєте ввімкнути синхронізацію хмарного сервера для налаштувань статі? Ця функція дозволяє іншим гравцям переглядати ваш налаштований зовнішній вигляд статі, навіть якщо на сервері не встановлено мод.",
+	"wildfire_gender.first_time_setup.notice": "Ви завжди можете змінити це налаштування пізніше в меню мода.",
+	"wildfire_gender.first_time_setup.enable": "Увімкнути хмарну синхронізацію",
+	"wildfire_gender.first_time_setup.disable": "Вимкнути хмарну синхронізацію",
+	"wildfire_gender.first_time_setup.enable.tooltip.line1": "З увімкненою хмарною синхронізацією ваші налаштування буде збережено та надано іншим гравцям, навіть якщо у вас зараз не встановлено мод.",
+	"wildfire_gender.first_time_setup.enable.tooltip.line2": "Ви можете видалити свій профіль хмарної синхронізації в будь-якому місці в меню налаштувань хмарної синхронізації після його вимкнення.",
+
+	"wildfire_gender.cloud_settings": "Сервер хмарної синхрон.",
+	"wildfire_gender.cloud.tooltip": "Хмарна синхронізація",
+	"wildfire_gender.cloud.unavailable.invalid_account": "Хмарна синхронізація недоступна, оскільки ви не ввійшли в дійсний обліковий запис Minecraft",
+	"wildfire_gender.cloud.unavailable.offline_server": "Хмарна синхронізація недоступна, оскільки сервер, до якого ви приєднані, знаходиться в автономному режимі",
+	"wildfire_gender.cloud.status": "Хмарна синхронізація: %s",
+	"wildfire_gender.cloud.automatic": "Автосинхронізація: %s",
+	"wildfire_gender.cloud.automatic.tooltip.line1": "Якщо ввімкнено, ваші налаштування буде автоматично синхронізована з хмарою після внесення будь-яких змін.",
+	"wildfire_gender.cloud.automatic.tooltip.line2": "Ви все ще можете синхронізувати вручну за допомогою кнопки нижче, якщо цю функцію вимкнено.",
+
+	"wildfire_gender.cloud.sync": "Синхроніз.",
+	"wildfire_gender.cloud.syncing": "Синхронізація…",
+	"wildfire_gender.cloud.syncing.success": "Синхронізовано",
+	"wildfire_gender.cloud.syncing.fail": "Не вдалося синхронізувати",
+
+	"wildfire_gender.cloud.delete": "Видалити",
+	"wildfire_gender.cloud.deleted": "Видалити",
+	"wildfire_gender.cloud.delete_failed": "Не вдалося видалити",
+
+	"wildfire_gender.cloud.status_log": "Журнал стану",
+
+	"wildfire_gender.sync_log.authenticating_mojang": "Автентифікація з Mojang…",
+	"wildfire_gender.sync_log.authenticating_sync": "Автентифікація з хмарною синхронізацією…",
+	"wildfire_gender.sync_log.authentication_failed": "Помилка автентифікації",
+	"wildfire_gender.sync_log.reauthenticating": "Переавтентифікація…",
+
+	"wildfire_gender.sync_log.failed_to_sync_data": "Помилка синхронізації даних.",
+	"wildfire_gender.sync_log.attempting_sync": "Синхронізація профілю…",
+	"wildfire_gender.sync_log.sync_success": "Успішно синхронізовано.",
+	"wildfire_gender.sync_log.sync_too_frequently": "Частоту синхронізації обмежено.",
+
+	"wildfire_gender.sync_log.data_deleted": "Видалено профіль хмарної синхронізації.",
+	"wildfire_gender.sync_log.data_deletion_failed": "Не вдалося видалити профіль хмарної синхронізації.",
+	"wildfire_gender.sync_log.no_data_to_delete": "Профіль синхронізації не знайдено.",
+
+	"wildfire_gender.sync_log.get_single_profile": "Отримання профілю…",
+	"wildfire_gender.sync_log.get_multiple_profiles": "Отримання пакету профілів…",
+
+	"wildfire_gender.details.next_page": "Уперед",
+	"wildfire_gender.details.prev_page": "Назад",
+	"wildfire_gender.details.go_back": "Поверн.",
+
+	"wildfire_gender.cloud_details.title": "Інформація сервера хмарної синхронізації",
+
+	"wildfire_gender.contributor.role.mod_creator": "Творчиня Female Gender Mod",
+	"wildfire_gender.contributor.role.mod_creator.short": "Творчиня мода",
+	"wildfire_gender.contributor.role.fabric_maintainer": "Супровідниця Female Gender Mod",
+	"wildfire_gender.contributor.role.fabric_maintainer.short": "Супровідниця (Fabric)",
+	"wildfire_gender.contributor.role.neoforge_maintainer": "Супровідниця Female Gender Mod",
+	"wildfire_gender.contributor.role.neoforge_maintainer.short": "Супровідниця (NeoForge)",
+	"wildfire_gender.contributor.role.developer": "Програмістка Female Gender Mod",
+	"wildfire_gender.contributor.role.developer.short": "Програмістка",
+	"wildfire_gender.contributor.role.translator": "Перекладач(-ка) Female Gender Mod",
+	"wildfire_gender.contributor.role.translator.short": "Перекладач(-ка) мода",
+	"wildfire_gender.contributor.role.mascot": "Талісманка Female Gender Mod",
+	"wildfire_gender.contributor.role.mascot.short": "Талісманка мода",
+	"wildfire_gender.contributor.role.voice_actor_female": "Кіра Емберлін, актриса озвучення",
+	"wildfire_gender.contributor.role.voice_actor_female.short": "Актриса озвучення",
+	"wildfire_gender.contributor.role.generic": "Дописувачка Female Gender Mod",
+	"wildfire_gender.contributor.role.generic.short": "Дописувачка",
+
+	"wildfire_gender.misc.holiday_themes": "Святкова тема: %s",
+	"wildfire_gender.tooltip.holiday_themes.line1": "Якщо ввімкнено, ця функція автоматично демонструє косметику, як-от капелюхи Санти та інші предмети святкової тематики, під час відповідних свят.",
+
+	"wildfire_gender.not_in_world.title": "Недоступно в головному меню",
+	"wildfire_gender.not_in_world": "Вам потрібно бути у світі, щоби налаштувати параметри статі.",
+
+	"modmenu.descriptionTranslation.wildfire_gender": "Додає додаткові можливості налаштування до моделі гравця, додаючи груди для більш жіночного вигляду.",
+	"fml.menu.mods.info.description.wildfire_gender": "Додає додаткові можливості налаштування до моделі гравця, додаючи груди для більш жіночного вигляду."
+}

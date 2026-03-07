@@ -1,0 +1,11 @@
+{
+	"item.ring_of_enderchest.ring_of_enderchest": "Кільце скрині Енду",
+	"item.ring_of_enderchest.ring_of_enderchest.line1": "Надає гравцям доступ до їхньої скрині Енду",
+	"item.ring_of_enderchest.ring_of_enderchest.line2": "ПКМ для використання",
+	"item.ring_of_enderchest.ring_of_enderchest.line3": "Скриня Енду на ходу",
+		
+	"itemGroup.ring_of_enderchest.ring_enderchest_group": "Кільце скрині Енду",
+
+        "modmenu.descriptionTranslation.ring_of_enderchest": "Дає доступ до скрині Енду.",
+        "fml.menu.mods.info.description.ring_of_enderchest": "Дає доступ до скрині Енду."
+}

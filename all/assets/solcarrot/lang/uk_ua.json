@@ -1,0 +1,76 @@
+{
+	"tooltip.solcarrot.hearty.not_eaten": "Ще не з'їдено! Яке воно на смак?",
+	"tooltip.solcarrot.hearty.eaten": "З'їдено: допомога в додаванні сердець",
+	"tooltip.solcarrot.cheap.eaten": "З'їдено: немає помітного ефекту",
+	"tooltip.solcarrot.cheap": "Ця їжа недостатньо поживна, щоб покращити ваше здоров'я.",
+	"tooltip.solcarrot.disabled.blacklist": "Ця їжа в чорному списку, тому не може покращити ваше здоров'я.",
+	"tooltip.solcarrot.disabled.whitelist": "Ця їжа не внесена в білий список і тому не може покращити ваше здоров'я.",
+	"tooltip.solcarrot.disabled.eaten": "З'їдено: немає помітного ефекту",
+	
+	"command.solcarrot.foodlist.no_permissions": "У вас немає дозволів, необхідних для застосування цієї команди до інших гравців!",
+	
+	"command.solcarrot.foodlist.size.desc.foods_eaten.singular": "Ви з'їли одну унікальну їжу!",
+	"command.solcarrot.foodlist.size.desc.foods_eaten.plural": "Ви з'їли %s унікальної їжі!",
+	"command.solcarrot.foodlist.size.desc.milestone.max": "На жаль, ви не можете отримати більше здоров'я, пробуючи нову їжу.",
+	"command.solcarrot.foodlist.size.desc.milestone.more": "Вам потрібно ще %s, щоб збільшити максимальне здоров'я.",
+	
+	"command.solcarrot.foodlist.clear.success": "Список їжі скинуто!",
+	
+	"command.solcarrot.foodlist.sync.success": "Список їжі синхронізовано!",
+	
+	"message.solcarrot.chat_wrapper": "[SoL: Carrot] %s",
+	"message.solcarrot.hearts.singular": "серце",
+	"message.solcarrot.hearts.plural": "%s сердець",
+	"message.solcarrot.milestone_achieved": "Який унікальний смак! Ви отримали %s!",
+	"message.solcarrot.finished.chat": "Ваше бажання шукати унікальну їжу нарешті задоволено.",
+	"message.solcarrot.finished.hotbar": "Ви отримали %s. Ваше бажання шукати унікальну їжу нарешті задоволено.",
+	
+	"item.solcarrot.food_book": "Книга їжі",
+	
+	"gui.solcarrot.food_book.stats": "Огляд",
+	"gui.solcarrot.food_book.eaten_foods": "Уже з'їдено: %s",
+	"gui.solcarrot.food_book.uneaten_foods": "Ще не з'їли: %s",
+	"gui.solcarrot.food_book.config": "Налаштувнаня",
+	
+	"gui.solcarrot.food_book.fraction": "%1$s/%2$s",
+	
+	"gui.solcarrot.food_book.stats.foods_tasted": "З'їдена їжа",
+	"gui.solcarrot.food_book.stats.hearts_gained": "Здобуто сердець",
+	"gui.solcarrot.food_book.stats.tooltip.progress": "Ще %s до наступного етапу",
+	"gui.solcarrot.food_book.stats.tooltip.progress.max": "Досягнуто найвищої віхи!",
+	"gui.solcarrot.food_book.stats.tooltip.previous_milestone": "Останній етап: %s",
+	"gui.solcarrot.food_book.stats.tooltip.next_milestone": "Наступна віха: %s",
+	"gui.solcarrot.food_book.stats.tooltip.total_foods": "%s загальної кількости їжі",
+	"gui.solcarrot.food_book.stats.tooltip.foods_tasted": "Спробована їжа: %s",
+	"gui.solcarrot.food_book.stats.tooltip.hearts_per_milestone.singular": "1 серце на віху",
+	"gui.solcarrot.food_book.stats.tooltip.hearts_per_milestone.plural": "%s сердець на етап",
+	
+	"gui.solcarrot.food_book.config.minimum_food_value": "Мінімальна харчова вартість",
+	"gui.solcarrot.food_book.config.tooltip.minimum_food_value": "Мінімальна кількість голоду, яку необхідно забезпечити, щоби зарахувати до основних етапів.",
+	"gui.solcarrot.food_book.config.hearty_fraction": "Поживна їжа",
+	"gui.solcarrot.food_book.config.tooltip.hearty_fraction": "З %1$s їжі %2$s достатньо поживні, щоби покращити ваше здоров'я.",
+	"gui.solcarrot.food_book.config.eaten_cheap_foods": "Скуштовано нудну їжу",
+	"gui.solcarrot.food_book.config.tooltip.eaten_cheap_foods": "З %1$s їжі, яка недостатньо поживна для покращення вашого здоров'я, ви з'їли %2$s.",
+	"gui.solcarrot.food_book.config.blacklist": "Їжа в чорному списку",
+	"gui.solcarrot.food_book.config.whitelist": "Їжа в білому списку",
+	"gui.solcarrot.food_book.config.tooltip.blacklist": "Скільки продуктів було вимкнено через чорний список.",
+	"gui.solcarrot.food_book.config.tooltip.whitelist": "Скільки продуктів дозволяє білий список.",
+	
+	"config.solcarrot.base_hearts": "Базові серця",
+	"config.solcarrot.hearts_per_milestone": "Кількість сердець за віху",
+	"config.solcarrot.milestones": "Віхи",
+	"config.solcarrot.is_food_tooltip_enabled": "Увімкнути підказку про їжу",
+	"config.solcarrot.should_show_progress_above_hotbar": "Показати прогрес над панеллю швидкого доступу",
+	"config.solcarrot.should_show_uneaten_foods": "Показати нез'їдену їжу",
+	"config.solcarrot.should_play_milestone_sounds": "Увімкнути звуки віхи",
+	"config.solcarrot.should_spawn_intermediate_particles": "Увімкнути проміжні частинки",
+	"config.solcarrot.should_spawn_milestone_particles": "Увімкнути частки віхи",
+	"config.solcarrot.food_blacklist": "Чорний список",
+	"config.solcarrot.food_whitelist": "Білий список (вимикає чорний список)",
+	"config.solcarrot.minimum_food_value": "Мінімальна вартість їжі",
+	"config.solcarrot.reset_on_death": "Скидання після смерти",
+
+	"solcarrot.networking.food_list_message.failed": "Не вдалося синхронізувати список їжі! %s",
+
+        "fml.menu.mods.info.description.solcarrot": "Мод, створений для заохочення різноманітности в харчуванні!\n\nЦе робиться шляхом винагороди гравця за те, що він їсть різноманітну їжу, замість покарання за те, що він не врізноманітнює її.\nЗамість батога ми використовуємо моркву!"
+}

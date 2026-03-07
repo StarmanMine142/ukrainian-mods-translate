@@ -1,0 +1,19 @@
+{
+  "name": "Промислові лампи",
+  "icon": "ad_astra:lime_industrial_lamp",
+  "sortnum": 2,
+  "category": "ad_astra:surviving_mars",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "Промислові лампи",
+      "item": "ad_astra:small_blue_industrial_lamp",
+      "text": "Промислові лампи доступні у всіх 16 кольорах, у малих і великих розмірах. Усталено усі вони випромінюють звичайне біле світло; однак, якщо у вас є $(l:https://modrinth.com/mod/shimmer!)Shimmer$(/l), кожне світло випромінює відповідний колір."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "ad_astra:magenta_industrial_lamp",
+      "recipe2": "ad_astra:small_red_industrial_lamp"
+    }
+  ]
+}

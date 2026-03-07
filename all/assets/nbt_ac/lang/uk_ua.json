@@ -1,0 +1,152 @@
+{
+  "nbt_ac.options": "Налаштування NBT Autocomplete",
+
+  "nbt_ac.options.style": "Стиль",
+  "nbt_ac.options.suggestions": "Пропозиції",
+  "nbt_ac.options.suggestion_priority": "Пріоритет пропозиції",
+  "nbt_ac.options.item_components": "Компоненти предмета",
+  "nbt_ac.options.mods_and_plugins_support": "Підтримка модів і плаґінів",
+  "nbt_ac.options.advanced_settings": "Розширені налаштування",
+  "nbt_ac.options.debugging_options": "Налаштування налагодження",
+
+
+
+  "nbt_ac.options.field.short_boolean": "Короткий логічний вираз",
+  "nbt_ac.options.field.short_boolean.desc": "Пропонує 1b/0b замість так/ні для логічного значення. Зауважте, що це не стосується необробленого формату JSON, оскільки для нього потрібна форма так/ні.",
+
+  "nbt_ac.options.field.tag_quotation_marks": "Поставте теґи в лапки",
+  "nbt_ac.options.field.tag_quotation_marks.false": "За потреби",
+  "nbt_ac.options.field.tag_quotation_marks.true": "Завжди",
+  "nbt_ac.options.field.tag_quotation_marks.desc": "Назви теґів беруться в лапки.\nТак — завжди.\nНі — за потреби.",
+
+  "nbt_ac.options.field.string_quotation_marks": "Поставте рядки в лапки",
+  "nbt_ac.options.field.string_quotation_marks.false": "За потреби",
+  "nbt_ac.options.field.string_quotation_marks.true": "Завжди",
+  "nbt_ac.options.field.string_quotation_marks.desc": "Значення типу рядку бере в лапки.\nТак — завжди\nНі — за потреби.",
+
+  "nbt_ac.options.field.default_quotation_mark_type": "Тип лапок усталено",
+  "nbt_ac.options.field.default_quotation_mark_type.1": "Одна (')",
+  "nbt_ac.options.field.default_quotation_mark_type.2": "Подвійна (\")",
+  "nbt_ac.options.field.default_quotation_mark_type.desc": "Визначає, який тип лапок використовуватиметься усталено.\n1 — Одна (').\n2 — Подвійна (\").\nІнші значення розглядатимуться як 2.\nЯкщо ви використовуєте версію 1.19.4 або старішу, зверніть увагу, що для них встановлено одну (особливо з «Додати теґи в знаки лапок» встановленим на «Завжди») можуть спричинити певні проблеми зі шляхами NBT через помилку MC-175504. Це також не стосується текстових компонентів JSON.",
+
+  "nbt_ac.options.field.json_string_suggestion": "Пропозиція рядка JSON",
+  "nbt_ac.options.field.json_string_suggestion.0": "Немає",
+  "nbt_ac.options.field.json_string_suggestion.1": "Рекомендовано",
+  "nbt_ac.options.field.json_string_suggestion.2": "Усталено для рядків",
+  "nbt_ac.options.field.json_string_suggestion.3": "Стара, відокремлена (' \")",
+  "nbt_ac.options.field.json_string_suggestion.4": "Стара, об'єднана ('\")",
+  "nbt_ac.options.field.json_string_suggestion.5": "Стара, зворотна коса риска (\"\\\")",
+  "nbt_ac.options.field.json_string_suggestion.desc": "Визначає просту пропозицію відкриття рядка для текстових компонентів JSON.\n0 — Нічого.\n1 — Рекомендовано — так само, як 2 у версії 1.20.4 і новіших, так само, як 3 у старіших версіях.\n2 — Усталено для рядків використовує тип лапок із «Тип лапок усталено».\n3 — Застаріле, розділене (' \").\n4 — Застаріле, об'єднане ('\") — подібне до 3, але без пробілу.\n5 — Застаріле, зворотна коса риска (\"\\\").\nІнші значення розглядатимуться як 1.",
+
+  "nbt_ac.options.field.hide_mc_namespace_in_tags": "Приховати простір імен Minecraft у теґах",
+  "nbt_ac.options.field.hide_mc_namespace_in_tags.desc": "Приховує простір імен «minecraft:» від пропозицій теґів.",
+
+  "nbt_ac.options.field.hide_mc_namespace_in_strings": "Приховати простір імен Minecraft у рядках",
+  "nbt_ac.options.field.hide_mc_namespace_in_strings.desc": "Приховує простір імен «minecraft:» від пропозицій рядків.",
+
+
+  "nbt_ac.options.field.ignore_letter_case": "Ігнорувати регістр",
+  "nbt_ac.options.field.ignore_letter_case.desc": "Ігнорує регістр літер під час надання пропозицій назв теґів.",
+
+  "nbt_ac.options.field.show_tag_hints": "Показати підказки теґів",
+  "nbt_ac.options.field.show_tag_hints.desc": "Показує підказки теґу (як-от його тип або джерело) поруч із його назвою у списку пропозицій.",
+
+  "nbt_ac.options.field.hide_forge_tags": "Приховати теґи Forge",
+  "nbt_ac.options.field.hide_forge_tags.desc": "Приховує спеціальні теґи Forge. Потрібно видалити «./minecraft/cache/nbt_ac» і перезапустити гру, щоби набула чинности.",
+
+
+  "nbt_ac.options.field.custom_sorting": "Власне сортування",
+  "nbt_ac.options.field.custom_sorting.desc": "Дозволяє моду використовувати сортування пропозицій не за алфавітом.",
+
+  "nbt_ac.options.field.mark_recommended": "Позначити як рекомендоване",
+  "nbt_ac.options.field.mark_recommended.desc": "Позначає рекомендовані пропозиції «<*>» у підказці.",
+
+  "nbt_ac.options.field.recommended_at_the_top": "Рекомендовано вгорі",
+  "nbt_ac.options.field.recommended_at_the_top.desc": "Розміщує рекомендовані пропозиції вгорі списку. Потрібне спеціальне сортування.",
+
+  "nbt_ac.options.field.mark_irrelevant": "Позначити як невідповідне",
+  "nbt_ac.options.field.mark_irrelevant.desc": "Позначає нерелевантні пропозиції «<I>» у підказці.",
+
+  "nbt_ac.options.field.gray_out_irrelevant": "Сірий не має значення",
+  "nbt_ac.options.field.gray_out_irrelevant.desc": "Виділяє сірим невідповідні пропозиції.",
+
+  "nbt_ac.options.field.placing_of_irrelevant": "Розміщення нерелевантних",
+  "nbt_ac.options.field.placing_of_irrelevant.0": "Звичайне",
+  "nbt_ac.options.field.placing_of_irrelevant.1": "Унизу",
+  "nbt_ac.options.field.placing_of_irrelevant.2": "Приховано",
+  "nbt_ac.options.field.placing_of_irrelevant.desc": "Визначає розміщення нерелевантних пропозицій.\n0 — Звичайне.\n1 — Унизу.\n2 — Прихований.\nІнші значення розглядатимуться як 1.\nЗначення, відмінні від «Звичайне», вимагають спеціального сортування.",
+
+
+  "nbt_ac.options.field.hide_mc_namespace_in_components": "Приховати простір імен Minecraft у компонентах",
+  "nbt_ac.options.field.hide_mc_namespace_in_components.desc": "Приховує простір імен «minecraft:» від пропозицій компонентів елементів.",
+
+  "nbt_ac.options.field.show_custom_data_as_relevant": "Показати «custom_data» як релевантні",
+  "nbt_ac.options.field.show_custom_data_as_relevant.desc": "Якщо увімкнено, компонент предмета «minecraft:custom_data» завжди буде відповідною пропозицією. Якщо вимкнено, воно завжди буде нерелевантне.",
+
+  "nbt_ac.options.field.show_custom_model_data_as_relevant": "Показати «custom_model_data» як релевантні",
+  "nbt_ac.options.field.show_custom_model_data_as_relevant.desc": "Якщо увімкнено, компонент предмета «minecraft:custom_model_data» завжди буде відповідною пропозицією. Якщо вимкнено, воно завжди буде нерелевантне.",
+
+
+  "nbt_ac.options.field.vanilla_ids_sorting": "Усталене сортування ID",
+  "nbt_ac.options.field.vanilla_ids_sorting.0": "Без спеціального сортування",
+  "nbt_ac.options.field.vanilla_ids_sorting.1": "Залежність",
+  "nbt_ac.options.field.vanilla_ids_sorting.2": "Завжди вгорі",
+  "nbt_ac.options.field.vanilla_ids_sorting.3": "Завжди посередині",
+  "nbt_ac.options.field.vanilla_ids_sorting.desc": "Визначає метод сортування мінімальних ID (у просторі імен «minecraft:») по відношенню до інших ID (з модів). Це стосується лише пропозицій, наданих NBT Autocomplete. Це налаштування також тісно пов'язане з «Приховати простір імен Minecraft у рядках».\n0 — Без користувацького сортування — із прихованим простором імен усталеного типу це спричинить розкид ID навколо ID із модів, тому це не рекомендовано.\n1 — Залежність — розміщується вгорі лише з прихованим простором імен, інакше — посередині.\n2 — Завжди вгорі.\n3 — Завжди посередині.\nІнші значення розглядатимуться як 1.",
+
+  "nbt_ac.options.field.support_command_namespace": "Підтримка простору імен команд",
+  "nbt_ac.options.field.support_command_namespace.desc": "Ігнорує «minecraft:» як префікс команди. Корисно під час використання з плаґінами, які розміщують команди Minecraft у цьому просторі імен.",
+
+
+  "nbt_ac.options.field.use_new_thread": "Використовувати нову тему",
+  "nbt_ac.options.field.use_new_thread.desc": "Використовує новий потік для завантаження пропозицій під час завантаження Minecraft.",
+
+  "nbt_ac.options.field.use_disassembler": "Використовувати дизассемблер",
+  "nbt_ac.options.field.use_disassembler.desc": "Завантажує пропозиції за допомогою дизассемблера щодо методів «завантаження» сутностей і блоків сутностей.",
+
+  "nbt_ac.options.field.load_from_resources": "Завантажити з ресурсів",
+  "nbt_ac.options.field.load_from_resources.desc": "Завантажує пропозиції з файлів ресурсів (потрібно для завантаження теґів предметів і передбачень теґів).",
+
+  "nbt_ac.options.field.allow_block_entity_extraction": "Дозволити вилучення блока-сутности",
+  "nbt_ac.options.field.allow_block_entity_extraction.desc": "Дозволяє використовувати метод вилучення блока-сутности (схожий на той, що використовується дизассемблером) після завантаження пропозицій.",
+
+  "nbt_ac.options.field.use_cache": "Використовувати кеш",
+  "nbt_ac.options.field.use_cache.desc": "Вмикає кешування пропозицій.",
+
+  "nbt_ac.options.field.max_cached_instances": "Максимум кешованих екземплярів",
+  "nbt_ac.options.field.max_cached_instances.-1": "[необмежено]",
+  "nbt_ac.options.field.max_cached_instances.desc": "Максимальна кількість кешованих екземплярів Minecraft. Використовуйте -1, щоби вимкнути обмеження.",
+
+
+  "nbt_ac.options.field.max_stack_traces": "Максимальна кількість зареєстрованих трасувань стека",
+  "nbt_ac.options.field.max_stack_traces.-1": "[необмежена]",
+  "nbt_ac.options.field.max_stack_traces.0": "0 (ВИМК.)",
+  "nbt_ac.options.field.max_stack_traces.desc": "Ліміт надрукованих трасувань стека для винятків.\n-1 — Необмежено.\n 0 — Трасування стека вимкнено.",
+
+  "nbt_ac.options.field.debug_mode": "Режим налагодження",
+  "nbt_ac.options.field.debug_mode.desc": "Вмикає додаткові повідомлення та перевірки, корисні для налагодження.",
+
+  "nbt_ac.options.field.debug_sleep": "Налагодження завантаження сплячого режиму",
+  "nbt_ac.options.field.debug_sleep.0": "[вимкнено]",
+  "nbt_ac.options.field.debug_sleep.desc": "Затримує завантаження пропозицій для кращого вимірювання часу (значення в мілісекундах, рекомендовано встановлювати на кілька тисяч).",
+
+  "nbt_ac.options.field.debug_config_screen": "Екран конфігурації налагодження",
+  "nbt_ac.options.field.debug_config_screen.desc": "Показує інтерфейс налаштувань після виходу з екрана Realms. Кнопка скидання інтерфейсу не скидає усталене значення!",
+
+  "nbt_ac.options.field.save_suggestions": "Зберегти пропозиції",
+  "nbt_ac.options.field.save_suggestions.0": "ВИМК.",
+  "nbt_ac.options.field.save_suggestions.1": "УВІМК.",
+  "nbt_ac.options.field.save_suggestions.2": "УВІМК. та відсортовано",
+  "nbt_ac.options.field.save_suggestions.desc": "Зберігає пропозиції у файлі — «.minecraft/nbt_ac_output.txt».\n0 — ВИМК.\n1 — УВІМК.\n2 — УВІМК. та відсортовано (простіше для порівняння).\nІнші значення розглядатимуться як 0.",
+
+
+
+  "nbt_ac.options.common.tooltip": "%s\n§8Усталене значення: %s",
+  "nbt_ac.options.common.reset_settings": "Скинути налаштування",
+  "nbt_ac.options.common.undefined": "[невизначено]",
+  "nbt_ac.options.common.gui_debug_warning": "Режим налагодження екрана налаштувань увімкнено!",
+
+
+  "modmenu.descriptionTranslation.nbt_ac": "Додає пропозиції для теґів NBT.",
+  "fml.menu.mods.info.description.nbt_ac": "Додає пропозиції для теґів NBT."
+}

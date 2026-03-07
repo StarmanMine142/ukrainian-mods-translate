@@ -1,0 +1,13 @@
+{
+	"item.cardiac.life_bottle": "Пляшка життя",
+
+	"enchantment.cardiac.lifesteal": "Життєкрад",
+
+	"entity.cardiac.life_orb": "Сфера життя",
+	"entity.cardiac.thrown_life_bottle": "Пляшка життя",
+
+	"sound.cardiac.life_orb_pickup": "Сферу життя поглинуто",
+
+        "modmenu.descriptionTranslation.cardiac": "Сфери здоров'я, які можна підібрати після смерти моба.",
+        "fml.menu.mods.info.description.cardiac": "Сфери здоров'я, які можна підібрати після смерти моба."
+}

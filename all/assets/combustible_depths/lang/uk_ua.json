@@ -1,0 +1,15 @@
+{
+  "item.combustible_depths.ignite": "Запал",
+  "item.combustible_depths.soul_ignite": "Запал душ",
+
+  "block.combustible_depths.ignite": "Запал",
+  "block.combustible_depths.soul_ignite": "Запал душ",
+
+  "entity.combustible_depths.primed_ignite": "Запалений запал",
+
+  "subtitles.combustible_depths.ignite.ignite": "Запал запалюється",
+  "subtitles.combustible_depths.ignite.charge": "Запал заряджається",
+  "subtitles.combustible_depths.ignite.explode": "Запал вибухає",
+
+  "modmenu.descriptionTranslation.combustible_depths": "Мод, який додає 2 нових вибухових блока до Незеру, щоб зробити видобуток незериту веселішим."
+}

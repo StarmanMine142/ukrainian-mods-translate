@@ -1,0 +1,13 @@
+{
+    "name": "Стійкість відкидання",
+    "icon": "minecraft:shulker_shell",
+    "category": "apotheosis:adventure/attributes",
+	"flag": "apotheosis:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Стійкість до відкидання$() вказує на те, наскільки ви стійкі до відкидання при атакці. При максимальному значенні ви маєте імунітет до відкидання.$(p)Зазвичай забезпечується обладунками або щитами."
+        }
+	]
+}

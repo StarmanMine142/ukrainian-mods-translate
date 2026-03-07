@@ -1,0 +1,18 @@
+{
+  "text.autoconfig.betterendisland-fabric-1_21.title": "Налаштування YUNG's Better End Island",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.resummonedDragonDropsEgg": "Відроджені дракони скидаються яйце",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.resummonedDragonDropsEgg.@Tooltip": "Чи слід переродженому дракону Енду скидати яйце кожного разу після перемоги над ним.",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.useVanillaSpawnPlatform": "Поява стандартної обсидіанової платформи",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.useVanillaSpawnPlatform.@Tooltip": "Чи соід стандартній обсидіановій платформі з'являтися в Енді замість оновленої.",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.useVanillaEndGateways": "Поява стандратних воріт Енду",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.useVanillaEndGateways.@Tooltip": "Чи повинні стандартні ворота Енду з'являтися В Енді замість оновлених.",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.playBellSound": "Відтворити звук дзвона",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.playBellSound.@Tooltip": "Чи має відтворюватися звук дзвона перед першим викликом дракона Енду та під час повторних викликів.",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.spawnCentralTowerInitially": "Спочатку створити центральну вежу",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.spawnCentralTowerInitially.@Tooltip": "Чи повинна центральна вежа з'явитися в Енді, коли світ буде створено вперше.",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.spawnCentralTowerOnResummon": "Відродження Центральної вежі під час повторного виклику",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.spawnCentralTowerOnResummon.@Tooltip": "Чи повинна центральна вежа відроджуватися в Енді, коли дракон Енду буде повторно викликаний.",
+
+  "modmenu.descriptionTranslation.betterendisland": "Повний редизайн острова Енду, що робить бій з драконом Енду набагато веселішим і цікавішим!",
+  "fml.menu.mods.info.description.betterendisland": "Повний редизайн острова Енду, що робить бій з драконом Енду набагато веселішим і цікавішим!"
+}

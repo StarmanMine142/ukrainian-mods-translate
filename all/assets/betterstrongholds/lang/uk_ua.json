@@ -1,0 +1,21 @@
+{
+ "betterstrongholds.commands.locate.stronghold": "Використовуйте /locate structure betterstrongholds:stronghold!",
+ "Use /locate structure betterstrongholds:stronghold instead!": "Використовуйте /locate structure betterstrongholds:stronghold!",
+
+ "text.autoconfig.betterstrongholds-fabric-1_21.title": "Налаштування YUNG's Better Strongholds",
+
+ "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds": "YUNG's Better Strongholds",
+
+ "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general": "Загальні налаштування",
+ "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general.@Tooltip": "Загальні налаштування.",
+
+ "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general.enableStructureRuin": "Увімкнути руйнування структури",
+ "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general.enableStructureRuin.@Tooltip[0]": "Дозволяє злегка руйнувати цитаделі малими печерами.",
+ "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general.enableStructureRuin.@Tooltip[1]": "Зверніть увагу, що великі печери не впливатимуть на них.",
+
+ "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general.filledPortalFrameChance": "Шанс заповненої рамки порталу",
+ "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general.filledPortalFrameChance.@Tooltip": "Шанс для кожного блока рамки порталу Енду з'явитися, вже з оком Енду.",
+
+  "modmenu.descriptionTranslation.betterstrongholds": "Повний редизайн цитаделі Minecraft.",
+  "fml.menu.mods.info.description.betterstrongholds": "Повний редизайн цитаделі Minecraft."
+}

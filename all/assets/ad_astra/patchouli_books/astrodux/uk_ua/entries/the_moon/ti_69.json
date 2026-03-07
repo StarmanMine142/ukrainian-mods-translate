@@ -1,0 +1,19 @@
+{
+  "name": "ТІ-69",
+  "icon": "ad_astra:ti_69",
+  "sortnum": 4,
+  "category": "ad_astra:the_moon",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "ТІ-69",
+      "item": "ad_astra:ti_69",
+      "text": "Ti-69 — це мобільний пристрій, який відображатиме місцевий рівень кисню, температуру та силу тяжіння. Використовуйте його, щоб перевірити, чи безпечна ця область."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Рецепт",
+      "recipe": "ad_astra:ti_69"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "modmenu.nameTranslation.toggle-perspective-addons": "Toggle Perspective Addons",
+  "modmenu.descriptionTranslation.toggle-perspective-addons": "Забезпечує розширене керування перспективами погляду спереду та ззаду.",
+
+  "config.toggle-perspective-addons.title": "Налаштування Toggle Perspective Addons",
+
+  "config.toggle-perspective-addons.category.camera": "Налаштування Toggle Perspective Addons",
+  "config.toggle-perspective-addons.category.camera.tooltip": "Налаштування Toggle Perspective Addons.",
+
+  "config.toggle-perspective-addons.group.camera": "Камера",
+  "config.toggle-perspective-addons.group.camera.description": "Глобальні налаштування поведінки камери.",
+
+  "config.toggle-perspective-addons.group.frontview": "Погляд спереду",
+  "config.toggle-perspective-addons.group.frontview.description": "Налаштування властивостей погляду спереду.",
+
+  "config.toggle-perspective-addons.group.backview": "Погляд ззаду",
+  "config.toggle-perspective-addons.group.backview.description": "Налаштування властивостей погляду ззаду.",
+
+  "config.toggle-perspective-addons.custom_fov": "Користувацьке поле зору",
+  "config.toggle-perspective-addons.custom_fov.description": "Умикає налаштовуване поле зору для погляду.",
+
+  "config.toggle-perspective-addons.backto_mode": "Повернутися до режиму",
+  "config.toggle-perspective-addons.backto_mode.description": "Виберіть, до якої перспективи повернутися під час вимкнення поглядів.",
+
+  "config.toggle-perspective-addons.frontview_mode": "Режим погляду спереду",
+  "config.toggle-perspective-addons.frontview_mode.description": "Виберіть режим перемикання або утримання для погляду спереду.",
+
+  "config.toggle-perspective-addons.frontview_fov": "Поле зору попереду",
+  "config.toggle-perspective-addons.frontview_fov.description": "Поле зору в режимі при погляді спереду.",
+
+  "config.toggle-perspective-addons.backview_mode": "Режим погляду ззаду",
+  "config.toggle-perspective-addons.backview_mode.description": "Виберіть режим перемикання або утримання для погляду ззаду.",
+
+  "config.toggle-perspective-addons.backview_fov": "Поле огляду назад",
+  "config.toggle-perspective-addons.backview_fov.description": "Поле зору в режимі погляду ззаду.",
+
+  "key.toggle-perspective-addons.frontview": "Перемкнути погляд спереду",
+  "key.toggle-perspective-addons.backview": "Перемкнути погляд ззаду",
+  "key.toggle-perspective-addons.open_settings": "Відкрити налаштування мода",
+  "category.toggle-perspective-addons": "Toggle Perspective Addons"
+}

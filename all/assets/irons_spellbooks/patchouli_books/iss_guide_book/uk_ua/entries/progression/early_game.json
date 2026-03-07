@@ -1,0 +1,41 @@
+{
+  "name": "Рання гра",
+  "icon": "irons_spellbooks:inscription_table",
+  "category": "irons_spellbooks:root",
+  "sortnum": -3,
+  "read_by_default": false,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Огляд",
+      "text": "На початку гри переважають дослідження та пошук здобичі. Світ сповнений магічної здобичі, особливо в нових магічних структурах, які можна знайти по всіх землях. Але будьте обережні! У кожній магічній структурі живе могутній маг, який не сприйме вас добре."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "irons_spellbooks:scroll",
+      "title": "Сувої",
+      "text": "Сувої стануть вашим першим смаком магії. Хоча їх можна використати, щоб накласти заклинання, які вони зберігають, краще зберегти їх, доки ви не зможете вписати їх у книгу заклинань, де їх можна використовувати неодноразово через стіл уписування >>>"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Стіл уписування",
+      "text": "Щоб правильно використовувати книгу заклинань, ви повинні вписати в неї заклинання за допомогою стола вписування за допомогою сувоїв. Сувої можна відновити, поклавши їх у книгу заклинань, але це скасує написання заклинань. Книги заклинань для початківців можна створити з базових матеріалів."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:inscription_table",
+      "recipe2": "irons_spellbooks:copper_spell_book"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "irons_spellbooks:arcane_essence",
+      "title": "Базові матеріали",
+      "text": "Деякі базові матеріали можна знайти навіть у стандартних структурах.$(br2)Магічний субстрат можна поєднати зі шкіряними обладунками для створення обладунків мандрівного чарівнику, раннього джерела додаткової максимальної кількости мани."
+    },
+    {
+      "type": "patchouli:entity",
+      "name": "Обладунки мандрівного чарівника",
+      "entity": "minecraft:armor_stand{ArmorItems:[{id:'irons_spellbooks:wandering_magician_boots',Count:1b},{id:'irons_spellbooks:wandering_magician_leggings',Count:1b},{id:'irons_spellbooks:wandering_magician_chestplate',Count:1b},{id:'irons_spellbooks:wandering_magician_helmet',Count:1b}],NoBasePlate:1b}"
+    }
+  ]
+}

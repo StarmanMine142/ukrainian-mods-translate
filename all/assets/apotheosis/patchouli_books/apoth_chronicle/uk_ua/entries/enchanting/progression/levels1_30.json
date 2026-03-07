@@ -1,0 +1,20 @@
+{
+    "name": "Рівні 1–30",
+    "icon": "minecraft:bookshelf",
+    "category": "apotheosis:enchanting/progression",
+	"flag": "apotheosis:enchanting",
+    "pages": [
+		{
+            "type": "patchouli:crafting",
+			"title": "Рівень 30",
+			"recipe": "minecraft:bookshelf",
+			"text": "Досягнення 30-го рівня відбувається звичайним способом із п’ятнадцятьма книжковими полицями."
+		},
+		{
+            "type": "patchouli:spotlight",
+			"title": "Інші характеристики",
+			"item": "minecraft:skeleton_skull",
+			"text": "На цьому етапі є кілька основних варіантів підвищення інших характеристик.$(p)Ви можете використовувати свічки, щоб збільшити $(#A800A8)аркану$(), і черепи, щоб збільшити$(#FC5454)кванту$()."
+		}
+	]
+}

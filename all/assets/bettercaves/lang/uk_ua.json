@@ -1,0 +1,10 @@
+{
+  "text.autoconfig.bettercaves-fabric-1_21_1.title": "Налаштування YUNG's Better Caves",
+  "text.autoconfig.bettercaves-fabric-1_21_1.option.general.liquidRegions": "Рідкі області",
+  "text.autoconfig.bettercaves-fabric-1_21_1.option.general.liquidRegions.liquidRegionSize": "Розмір рідких областей",
+  "text.autoconfig.bettercaves-fabric-1_21_1.option.general.liquidRegions.waterRegionSpawnChance": "Шанс появи у водному регіоні",
+  "text.autoconfig.bettercaves-fabric-1_21_1.option.general.liquidRegions.liquidAltitude": "Висота рідини",
+
+  "modmenu.descriptionTranslation.bettercaves": "Повне перероблення генерації печер Minecraft!",
+  "fml.menu.mods.info.description.bettercaves": "Повне перероблення генерації печер Minecraft!"
+}

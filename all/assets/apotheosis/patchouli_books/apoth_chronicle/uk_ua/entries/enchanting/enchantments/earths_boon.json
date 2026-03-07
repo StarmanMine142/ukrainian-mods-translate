@@ -1,0 +1,13 @@
+{
+    "name": "Благо Землі",
+    "icon": "minecraft:enchanted_book",
+    "category": "apotheosis:enchanting/enchantments",
+	"flag": "apotheosis:enchanting",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(2)Благо Землі$() — це майстерне зачарування для кайла.$(p)Під час добування простого каміння існує ймовірність випадіння блока руди."
+        }
+	]
+}

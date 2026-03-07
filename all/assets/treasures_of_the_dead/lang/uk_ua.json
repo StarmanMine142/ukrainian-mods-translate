@@ -1,0 +1,105 @@
+{
+  "entity.treasures_of_the_dead.totd_skeleton": "Пірат-скелет",
+  "entity.treasures_of_the_dead.captain_skeleton": "Капітан-скелет",
+  "entity.treasures_of_the_dead.blooming_skeleton": "Зарослий скелет",
+  "entity.treasures_of_the_dead.captain_blooming_skeleton": "Зарослий капітан-скелет",
+  "entity.treasures_of_the_dead.shadow_skeleton": "Тіньовий скелет",
+  "entity.treasures_of_the_dead.captain_shadow_skeleton": "Тіньовий капітан-скелет",
+  "entity.treasures_of_the_dead.golden_skeleton": "Золотий скелет",
+  "entity.treasures_of_the_dead.captain_golden_skeleton": "Золотий капітан-скелет",
+  
+  "entity.treasures_of_the_dead.foul_skull": "Нечистий череп",
+  "entity.treasures_of_the_dead.disgraced_skull": "Знеславлений череп",
+  "entity.treasures_of_the_dead.hateful_skull": "Ненависний череп",
+  "entity.treasures_of_the_dead.villainous_skull": "Мерзенний череп",
+
+  "entity.treasures_of_the_dead.treasure_chest": "Скриня скарбів",
+
+  "entity.treasures_of_the_dead.powder_keg": "Порохова діжка",
+
+  "entity.treasures_of_the_dead.blunder_bomb": "Груба бомба",
+
+  "entity.minecraft.villager.treasures_of_the_dead.skull_merchant": "Черепний торговець",
+
+  "item.treasures_of_the_dead.ruby": "Рубін",
+  "item.treasures_of_the_dead.bicorn_test": "Дворогий (тест)",
+
+  "item.treasures_of_the_dead.pistol": "Пістоль",
+  "item.treasures_of_the_dead.cartridge": "Набій",
+
+  "item.treasures_of_the_dead.message_in_bottle": "Повідомлення в пляшці",
+  "item.treasures_of_the_dead.skeletons_order": "Розпорядження пірата",
+  "item.treasures_of_the_dead.skeleton_crew_assignment": "Призначення основного екіпажу",
+
+  "item.treasures_of_the_dead.treasure_key": "Ключ скарбів",
+
+  "item.treasures_of_the_dead.bicorn": "Дворогий",
+  "item.treasures_of_the_dead.captain_jacket": "Піджак пірата",
+  "item.treasures_of_the_dead.captain_pants": "Ногавиці пірата",
+
+  "item.treasures_of_the_dead.captain_hat": "Капелюх капітана",
+  "item.treasures_of_the_dead.captain_crop_vest": "Жилет капітана",
+  "item.treasures_of_the_dead.captain_skirt": "Спідниця капітана",
+
+  "item.treasures_of_the_dead.green_bandana": "Зелена бандана",
+  "item.treasures_of_the_dead.vest": "Жилет",
+  "item.treasures_of_the_dead.pants": "Ногавиці",
+  "item.treasures_of_the_dead.boots": "Чоботи",
+
+  "item.treasures_of_the_dead.red_bandana": "Червона бандана",
+  "item.treasures_of_the_dead.black_vest": "Чорний жилет",
+  "item.treasures_of_the_dead.black_pants": "Чорні ногавиці",
+  "item.treasures_of_the_dead.black_boots": "Чорні чоботи",
+
+  "item.treasures_of_the_dead.blue_bandana": "Синя бандана",
+  "item.treasures_of_the_dead.blue_vest": "Синій жилет",
+  "item.treasures_of_the_dead.blue_pants": "Сині ногавиці",
+  "item.treasures_of_the_dead.blue_boots": "Сині чоботи",
+
+  "item.treasures_of_the_dead.totd_skeleton_spawn_egg": "Яйце виклику пірата-скелета",
+  "item.treasures_of_the_dead.captain_skeleton_spawn_egg": "Яйце виклику капітана-скелета",
+  "item.treasures_of_the_dead.blooming_skeleton_spawn_egg": "Яйце виклику зарослого скелета",
+  "item.treasures_of_the_dead.captain_blooming_skeleton_spawn_egg": "Яйце виклику зарослого капітана-скелета",
+  "item.treasures_of_the_dead.shadow_skeleton_spawn_egg": "Яйце виклику тіньогово скелета",
+  "item.treasures_of_the_dead.captain_shadow_skeleton_spawn_egg": "Яйце виклику тіньогово капітана-скелета",
+  "item.treasures_of_the_dead.golden_skeleton_spawn_egg": "Яйце виклику золотого скелета",
+  "item.treasures_of_the_dead.captain_golden_skeleton_spawn_egg": "Яйце виклику золотого капітана-скелета"
+
+  "item.treasures_of_the_dead.foul_skull": "Нечистий череп",
+  "item.treasures_of_the_dead.disgraced_skull": "Знеславлений череп",
+  "item.treasures_of_the_dead.hateful_skull": "Ненависний череп",
+  "item.treasures_of_the_dead.villainous_skull": "Мерзенний череп",
+
+  "item.treasures_of_the_dead.treasure_chest": "Скриня скарбів",
+
+  "item.treasures_of_the_dead.powder_keg": "Порохова діжка",
+
+  "item.treasures_of_the_dead.blunder_bomb": "Груба бомба",
+
+  "item.treasures_of_the_dead.order_of_souls_armor_trim_smithing_template": "Smithing Template",
+  "trim_pattern.treasures_of_the_dead.order_of_souls": "Орнамент обладунків «Орден душ»",
+
+  "block.treasures_of_the_dead.skull_merchant_table": "Стіл торговця черепами",
+  "block.treasures_of_the_dead.small_iron_brazier": "Маленька залізна жаровня",
+  "block.treasures_of_the_dead.iron_brazier": "Залізна жаровня",
+  "block.treasures_of_the_dead.big_iron_brazier": "Велика залізна жаровня",
+  "block.treasures_of_the_dead.small_golden_brazier": "Маленька золота жаровня",
+  "block.treasures_of_the_dead.golden_brazier": "Золота жаровня",
+  "block.treasures_of_the_dead.big_golden_brazier": "Велика золота жаровня",
+  "block.treasures_of_the_dead.small_iron_soul_brazier": "Мала залізна жаровня душ",
+  "block.treasures_of_the_dead.iron_soul_brazier": "Жаровня залізної душ",
+  "block.treasures_of_the_dead.big_iron_soul_brazier": "Велика залізна жаровня душ",
+  "block.treasures_of_the_dead.small_golden_soul_brazier": "Мала золота жаровня душ",
+  "block.treasures_of_the_dead.golden_soul_brazier": "Золота жаровня душ",
+  "block.treasures_of_the_dead.big_golden_soul_brazier": "Велика золота жаровня душ",
+
+  "creativetab.totd_tab": "Treasures of The Dead",
+  "filled_map.treasures_of_the_dead.buried_treasure": "Мапа скарбів",
+  "filled_map.treasures_of_the_dead.skeleton_crew": "Мапа скелетного екіпажу",
+  "filled_map.treasures_of_the_dead.legendary_buried_treasure": "Легендарна мапа скарбів",
+  "tooltip.treasures_of_the_dead.chest_is_robbed.tooltip": "Пограбовано",
+  "tooltip.treasures_of_the_dead.quest_difficulty.tooltip": "Складність завдання: %s",
+  "sounds.treasures_of_the_dead.blunder_bomb_explode": "Груба бомба вибухає",
+
+  "fml.menu.mods.info.description.treasures_of_the_dead": "Treasures of the dead — це мод, який додає нових ворогів-піратів і кілька інших функцій,\nза мотивами Sea of ​​thieves."
+}

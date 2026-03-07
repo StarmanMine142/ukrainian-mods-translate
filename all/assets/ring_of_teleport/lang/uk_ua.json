@@ -1,0 +1,18 @@
+{
+	"item.ring_of_teleport.ring_of_teleport": "Кільце телепортації",
+
+	"item.ring_of_teleport.ring_of_teleport.tip1": "Телепорт до збереженого місця",
+	"item.ring_of_teleport.ring_of_teleport.tip2": "Shift + ПКМ на вершині блока для встановлення",
+	"item.ring_of_teleport.ring_of_teleport.tip3": "Shift + ПКМ вказуючи вгору в повітрі, щоб очистити",
+	"item.ring_of_teleport.ring_of_teleport.tip4": "ПКМ, щоби телепортуватися",
+	"item.ring_of_teleport.ring_of_teleport.tip5": "Збережене місце: %s",
+	"item.ring_of_teleport.ring_of_teleport.tip6": "Місце встановлено на: %s",
+	"item.ring_of_teleport.ring_of_teleport.tip7": "Місце вже встановлено на: %s",
+	"item.ring_of_teleport.ring_of_teleport.tip8": "Місце очищено.",
+	"item.ring_of_teleport._ring_of_teleport.tip9": "Місце ще не встановлено",
+		
+	"itemGroup.ring_of_teleport.ring_teleport_group": "Ring of Teleport",
+
+	"modmenu.descriptionTranslation.ring_of_teleport": "Надає предмет для телепортації до збережених місць.",
+	"fml.menu.mods.info.description.ring_of_teleport": "Надає предмет для телепортації до збережених місць."
+}

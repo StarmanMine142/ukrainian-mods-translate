@@ -1,0 +1,42 @@
+{
+  "title.betterenchants.config": "Налаштування BetterEnchants",
+
+  "category.betterenchants.render": "Промальовування",
+  "category.betterenchants.armor": "Обладунки",
+  "category.betterenchants.special": "Особливі",
+  "category.betterenchants.uvs": "UVS",
+
+  "option.betterenchants.render.enabled": "Основне промальовування",
+  "option.betterenchants.render.solid": "Використовувати суцільний контур",
+  "option.betterenchants.render.color": "Колір контуру",
+  "option.betterenchants.render.size": "Розмір контуру",
+
+  "option.betterenchants.armor.render": "Промальовування",
+  "option.betterenchants.armor.solid": "Використовувати суцільний контур",
+  "option.betterenchants.armor.originaluv": "Використовуйте оригінальні uvs",
+  "option.betterenchants.armor.doubleside": "Двосторонність",
+
+  "option.betterenchants.special.render": "Промальовування",
+  "option.betterenchants.special.solid": "Використовувати суцільний контур",
+  "option.betterenchants.special.originaluv": "Використовуйте оригінальні uvs",
+  "option.betterenchants.uvs.u": "U",
+  "option.betterenchants.uvs.v": "V",
+
+  "tooltip.betterenchants.render.enabled": "Перемикає усі промальовування.",
+  "tooltip.betterenchants.render.solid": "Перемикається між суцільними контурами та блиском зачарування. Цей перемикач не впливає на обладунки чи спеціальні предмети.",
+  "tooltip.betterenchants.render.color": "Колір контуру, коли ми використовуємо суцільне промальовування. Перемикає загальний для всіх перемикачів промальовування суцільної форми.",
+  "tooltip.betterenchants.render.size": "Розмір ефекту контуру. Деякі довільні одиниці.",
+
+  "tooltip.betterenchants.armor.render": "Промальовувати ефект на зношених обладунках чи ні.",
+  "tooltip.betterenchants.armor.solid": "Перемикається між суцільними контурами та блиском зачарування. Ефект зачарування не дуже помітний, якщо це вимкнено без спеціального шейдера зачарування",
+  "tooltip.betterenchants.armor.doubleside": "Чи промальовувати контур на внутрішній стороні шолома. Ви можете вимкнути це за допомогою деяких модів або пакетів ресурсів.",
+
+  "tooltip.betterenchants.special.render": "Чи промальовувати ефект спеціальних предметів. Спеціальні предмети — це предмети, які викликають окремий код промальовування (наприклад, тризубець, шалкерова коробка, щит).",
+  "tooltip.betterenchants.special.solid1": "Перемикається між суцільними контурами та блиском зачарувань.",
+  "tooltip.betterenchants.special.originaluv": "Якщо ми маємо використовувати оригінальний UV предмета. В іншому випадку ми усталено використовуємо UV, указаний у налаштування. Корисно для галасливих або несправних UV.",
+
+  "tooltip.betterenchants.uvs.u": "Запасне значення UV U.",
+  "tooltip.betterenchants.uvs.v": "Запасне значення UV V.",
+
+  "modmenu.descriptionTranslation.better-enchants": "Додає вигадливий контур зачарованим предметам. Працює з пакетами ресурсів і шейдерами. Сумісний з Sodium."
+}

@@ -1,0 +1,28 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Вітаємо в первісних печерах…
+    • {Вступ|primordial_caves/general.json}
+    • {Ресурси|primordial_caves/resources.json}
+    • Мешканці
+        • {Субтеранодон|primordial_caves/subterranodon.json}
+        • {Валумраптор|primordial_caves/vallumraptor.json}
+        • {Ґротоцераптос|primordial_caves/grottoceratops.json}
+        • {Трилокарис|primordial_caves/trilocaris.json}
+        • {Тремозавр|primordial_caves/tremorsaurus.json}
+        • {Реліхейрус|primordial_caves/relicheirus.json}
+        • {Люкструктозавр|primordial_caves/luxtructosaurus.json}
+        • {Атлатитан|primordial_caves/atlatitan.json}
+    • {Приладдя|primordial_caves/utilities.json}

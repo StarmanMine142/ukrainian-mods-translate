@@ -1,0 +1,20 @@
+{
+  "voxy_extra.sodium.config_page": "Налаштування",
+
+  "voxy_extra.config.fix_nether_fog": "Виправлення туману Незеру",
+  "voxy_extra.config.fix_nether_fog.tooltip": "Вимикає туман Незеру з увімкненим навколишнім туманом.",
+
+  "voxy_extra.config.save_old_lods": "Копіювати зони РД з повторами",
+  "voxy_extra.config.save_old_lods.tooltip": "Умикає копіювання зон РД до спецііаольної теки Flashback (не підтримує об'єднання повторів). Якщо вимкнено, розміщення зон РД записуватиметься в метадані, які не можна отримати під час повторів.",
+
+  "voxy_extra.config.flashback_ingest": "Увід в повторах",
+  "voxy_extra.config.flashback_ingest.tooltip": "Дозволяє надсилати сумісні повтори Flashback (які мають скопійовані зони РД).",
+
+  "voxy_extra.config.server_blacklist": "Чорний список серверів",
+  "voxy_extra.config.server_blacklist.tooltip": "Дозволяє додавати до чорного списку сирвери, аби вимкнути Voxy в них (додайте до server_blacklist_list у voxy-extra.json, формат: [\"IP\", \"IP\"]).",
+
+  "voxy_extra.config.lod_mirror": "Дзеркало зон РД",
+  "voxy_extra.config.lod_mirror.tooltip": "Дозволяє встановити одне сховище зон РД для кількох IP-адресів. Додайте до lod_mirror_list у voxy-extra.json у такому форматі: [[\"BaseIP\", \"AltIP\", \"AltIP\"], [\"BaseIP2\", \"AltIP2\"]].",
+
+  "modmenu.descriptionTranslation.voxy-extra": "Додає функції, яких не повинно бути у Voxy."
+}

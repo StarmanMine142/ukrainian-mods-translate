@@ -1,0 +1,13 @@
+{
+    "name": "Рій",
+    "icon": "minecraft:spider_eye",
+    "category": "apotheosis:adventure/rogue_spawners",
+	"flag": "apotheosis:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Рій породжувачів — це мерзенний підтип шахрайського породжувача, який дуже швидко породжує мобів у великій кількості.$(p)Зазвичай вони обмежені слабшими мобами, часто павукоподібними, тому вони не є жахливо переважними."
+        }
+	]
+}

@@ -1,0 +1,15 @@
+{
+  "advancements.husbandry.obtain_resin_cookie.title": "Печиво, наповнене смолою",
+  "advancements.husbandry.obtain_resin_cookie.description": "Отримайте смоляне печиво",
+  "item.resin_cookie.resin_cookie": "Смоляне печиво",
+  "item.minecraft.potion.effect.haste": "Зілля квапливости",
+  "item.minecraft.splash_potion.effect.haste": "Вибухове зілля квапливости",
+  "item.minecraft.lingering_potion.effect.haste": "Осідальне зілля квапливости",
+  "item.minecraft.tipped_arrow.effect.haste": "Стріла квапливости",
+  "item.minecraft.potion.effect.mining_fatigue": "Зілля утоми",
+  "item.minecraft.splash_potion.effect.mining_fatigue": "Вибухове зілля утоми",
+  "item.minecraft.lingering_potion.effect.mining_fatigue": "Осідальне зілля утоми",
+  "item.minecraft.tipped_arrow.effect.mining_fatigue": "Стріла утоми",
+  "modmenu.descriptionTranslation.resin_cookie": "Мод, що додає смоляне печиво.",
+  "fml.menu.mods.info.description.resin_cookie": "Мод, що додає смоляне печиво."
+}
