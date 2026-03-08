@@ -1,4 +1,4 @@
-Перекладено Vibrancy https://modrinth.com/mod/vibrancy, Nether Infection https://modrinth.com/mod/nether-infection
+Перекладено Nether Infection https://modrinth.com/mod/nether-infection
 
 Покращено переклад <br>
 Оновлено переклад <br>
