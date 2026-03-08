@@ -1,5 +1,5 @@
 {
-  "text.autoconfig.vibrancy.title": "Налаштування Vibrancy ",
+  "text.autoconfig.vibrancy.title": "Налаштування Vibrancy",
 
   "text.autoconfig.vibrancy.option.blockLights": "Світло блоків",
 
@@ -37,4 +37,5 @@
   
   "modmenu.descriptionTranslation.vibrancy": "Візуальний мод Minecraft, який додає динамічне світло/тіні від блоків, предметів і сонця.",
   "fml.menu.mods.info.description.vibrancy": "Візуальний мод Minecraft, який додає динамічне світло/тіні від блоків, предметів і сонця."
+
 }
