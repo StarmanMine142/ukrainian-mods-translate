@@ -1,0 +1,24 @@
+{
+  "puddleflood.title": "Puddles & Floods",
+
+  "block.puddleflood.puddle": "Калюжа",
+  "item.puddleflood.puddle": "Калюжа",
+
+  "puddleflood.doFloods": "Виливання",
+  "puddleflood.doRainPuddles": "Калюжі від дощу",
+  "puddleflood.doDripPuddles":"Калюжі від крапель",
+  "puddleflood.doPotionPuddles": "Калюжі від зіллів",
+  "puddleflood.doCauldronPuddles":"Калюжі від казана",
+  "puddleflood.doFlowingWaterPuddles": "Калюжі від текучої води",
+  "puddleflood.doMeltingSnowPuddles":"Калюжі від танення снігу",
+  "puddleflood.useShaderpackWater": "Калюжі пакетів шейдерів",
+
+  "puddleflood.range": "Діапазон збирання",
+  "puddleflood.collectionSpeed": "Швидкість збирання",
+  "puddleflood.evaporationSpeed": "Швидкість випаровування",
+  "puddleflood.rainLevel": "Покриття під час дощу",
+  "puddleflood.stormLevel": "Покриття під час шторму",
+
+  "modmenu.descriptionTranslation.puddleflood": "Додає деталізовані калюжі та дозволяє річкам візуально виходити з берегів.",
+  "fml.menu.mods.info.description.puddleflood": "Додає деталізовані калюжі та дозволяє річкам візуально виходити з берегів."
+}

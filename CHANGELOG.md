@@ -1,4 +1,4 @@
-Перекладено [Nether Infection](https://modrinth.com/mod/nether-infection)
+Перекладено [Nether Infection](https://modrinth.com/mod/nether-infection), [Puddles & Floods](https://modrinth.com/mod/puddles-floods)
 
 Покращено переклад <br>
 Оновлено переклад <br>
