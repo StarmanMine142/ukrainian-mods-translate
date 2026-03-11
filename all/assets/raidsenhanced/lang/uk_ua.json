@@ -1,0 +1,22 @@
+{
+  "item.raidsenhanced.player_blimp": "Дирижабль",
+  "item.raidsenhanced.zapper_staff": "Дубина заппера",
+  "item.raidsenhanced.blimp_parts": "Частини дирижабля",
+  "item.raidsenhanced.handcannon": "Ручна гармата",
+  "itemGroup.raidsenhanced": "Raids: Enhanced",
+  "raidsenhanced.mount": "Взаємодійте з дирижаблем, щоби спішитится.",
+  "entity.raidsenhanced.zapper": "Заппер",
+  "entity.raidsenhanced.golem_of_last_resort": "Ґолем останнього надходження",
+  "entity.raidsenhanced.raid_blimp": "Дирижабль мародерів",
+  "entity.raidsenhanced.player_blimp": "Дирижабль",
+  "entity.raidsenhanced.raid_drill": "Бур мародерів",
+  "item.raidsenhanced.zapper_spawn_egg": "Яйце виклику заппера",
+  "item.raidsenhanced.golem_of_last_resort_spawn_egg": "Яйце виклику ґолема останнього надходження",
+  "item.raidsenhanced.raid_blimp_spawn_egg": "Яйце виклику дирижабля мародерів",
+  "item.raidsenhanced.raid_drill_spawn_egg": "Яйце виклику буру мародерів",
+  "raidsenhanced.item_description.player_blimp": "Покладіть на землю, щоби викликати власний дирижабль",
+  "raidsenhanced.item_description.handcannon": "Використовуйте для стрільби потужної бомби",
+  "raidsenhanced.item_description.zapper_staff": "Використовуйте, щоби випустити кульову блискавку. Якщо використовувати, дивлячись на землю, блискавки кидають навколо користувача.",
+  "raidsenhanced.item_description.blimp_parts": "Змайструйте будь-який човен, щоби перетворити його на дирижабль",
+  "fml.menu.mods.info.description.raidsenhanced": "Додає міні босів до набігу."
+}
