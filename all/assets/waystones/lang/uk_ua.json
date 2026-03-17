@@ -198,7 +198,7 @@
   "waystones.configuration.teleports.enableCosts.tooltip": "Установіть «Ні», щоби просто вимкнути всі витрати досвіду. Дивіться warpRequirements для точнішого керування.",
   "waystones.configuration.teleports.enableModifiers": "Увімкнути модифікатори",
   "waystones.configuration.teleports.enableModifiers.tooltip": "Установіть «Так», щоби ввімкнути предмети модифікатора телепортації для застосування ефектів стану до телепортів.",
-  "waystones.configuration.teleports.enableDurability": "Увімкнути довговічність",
+  "waystones.configuration.teleports.enableDurability": "Увімкнути міцність",
   "waystones.configuration.teleports.enableDurability.tooltip": "Установіть «Ні», щоби просто вимкнути всі витрати міцности. Дивіться WarpRequirements для точнішого керування.",
   "waystones.configuration.teleports.enableCooldowns": "Увімкнути затримку",
   "waystones.configuration.teleports.enableCooldowns.tooltip": "Установіть «Ні», щоби просто вимкнути затримку. Дивіться warpRequirements для точнішого керування.",
