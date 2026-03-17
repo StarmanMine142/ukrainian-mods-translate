@@ -1,0 +1,6 @@
+{
+  "gamerule.detailed_mobgriefing.mob_griefing_creeper": "Дозволити руйнування від кріпера",
+  "gamerule.detailed_mobgriefing.mob_griefing_ghast": "Дозволити руйнування від ґаста",
+  "gamerule.detailed_mobgriefing.mob_griefing_enderman": "Дозволити руйнування від ендермена",
+  "modmenu.descriptionTranslation.detailed_mobgriefing": "MobGriefing можна перемкнути окремо для мобів."
+}
