@@ -1,4 +1,4 @@
-Перекладено 
+Перекладено [Artisan Tools](https://modrinth.com/mod/artisantools)
 
 Покращено переклад <br>
 Оновлено переклад <br>
