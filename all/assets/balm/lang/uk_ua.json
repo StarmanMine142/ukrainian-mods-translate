@@ -43,9 +43,9 @@
   "balm.configuration.exampleCategory.exampleFloat": "Приклад Float",
   "balm.configuration.exampleCategory": "Приклад категорії",
   "disconnect.balm.mod_missing_on_server": "На сервері не встановлено %s. Будь ласка, видаліть мод зі своєї гри або також установіть його на сервері.",
-  "disconnect.balm.mod_missing_on_client": "У вас не встановлено %s. Установіть %s версію %s, щоб грати на цьому сервері.",
+  "disconnect.balm.mod_missing_on_client": "У вас не встановлено %s. Установіть %s версію %s, щоби грати на цьому сервері.",
   "disconnect.balm.mod_version_mismatch": "Невідповідність версій для %s. Сервер очікує версії %s, але наразі у вас встановлено %s. Установіть правильну версію.",
   "config.jade.plugin_balm.jade": "Balm",
-  "modmenu.descriptionTranslation.balm": "Рівень абстракції (але не зовсім) для багатоплатформенних модів Blay.",
-  "fml.menu.mods.info.description.balm": "Рівень абстракції (але не зовсім) для багатоплатформенних модів Blay."
+  "modmenu.descriptionTranslation.balm": "Рівень абстракції (але не зовсім) для багатоплатформових модів Blay.",
+  "fml.menu.mods.info.description.balm": "Рівень абстракції (але не зовсім) для багатоплатформових модів Blay."
 }
