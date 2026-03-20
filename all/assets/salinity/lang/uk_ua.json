@@ -1,0 +1,145 @@
+{
+
+  "item.minecraft.potion.effect.salinity_haste": "Зілля квапливости",
+  "item.minecraft.splash_potion.effect.salinity_haste": "Вибухове зілля квапливости",
+  "item.minecraft.lingering_potion.effect.salinity_haste": "Осідальне зілля квапливости",
+  "item.minecraft.tipped_arrow.effect.salinity_haste": "Стріла квапливости",
+
+  "item.minecraft.potion.effect.strong_salinity_haste": "Зілля квапливости",
+  "item.minecraft.splash_potion.effect.strong_salinity_haste": "Вибухове зілля квапливости",
+  "item.minecraft.lingering_potion.effect.strong_salinity_haste": "Осідальне зілля квапливости",
+  "item.minecraft.tipped_arrow.effect.strong_salinity_haste": "Стріла квапливости",
+
+  "item.minecraft.potion.effect.long_salinity_haste": "Зілля квапливости",
+  "item.minecraft.splash_potion.effect.long_salinity_haste": "Вибухове зілля квапливости",
+  "item.minecraft.lingering_potion.effect.long_salinity_haste": "Осідальне зілля квапливости",
+  "item.minecraft.tipped_arrow.effect.long_salinity_haste": "Стріла квапливости",
+
+  "itemgroup.salinity": "Salinity",
+
+  "biome.salinity.salty_cave": "Соляні печери",
+
+  "item.salinity.sodistone_coal_ore": "Натрікам'яна вугільна руда",
+  "item.salinity.sodistone_copper_ore": "Натрікам'яна мідна руда",
+  "item.salinity.sodistone_iron_ore": "Натрікам'яна залізна руда",
+  "item.salinity.sodistone_gold_ore": "Натрікам'яна золота руда",
+  "item.salinity.sodistone_redstone_ore": "Натрікам'яна редстоунова руда",
+  "item.salinity.sodistone_lapis_ore": "Натрікам'яна лазуритова руда",
+  "item.salinity.sodistone_diamond_ore": "Натрікам'яна діамантова руда",
+  "item.salinity.sodistone_emerald_ore": "Натрікам'яна смарагдова руда",
+
+  "item.salinity.sodistone": "Натрікамінь",
+  "item.salinity.sodistone_stairs": "Натрікам'яні сходи",
+  "item.salinity.sodistone_slab": "Натрікам'яна плита",
+  "item.salinity.sodistone_wall": "Натрікам'яна",
+
+  "item.salinity.sodistone_brick": "Натрікам'яна цегла",
+  "item.salinity.sodistone_brick_stairs": "Сходи з натрікам'яної цегли",
+  "item.salinity.sodistone_brick_slab": "Плита з натрікам'яної цегли",
+  "item.salinity.sodistone_brick_wall": "Стіна з натрікам'яної цегли",
+
+  "item.salinity.polished_sodistone": "Полірований натрікамінь",
+  "item.salinity.polished_sodistone_stairs": "Сходи з полірованого натрікаменю",
+  "item.salinity.polished_sodistone_slab": "Плита з полірованого натрікаменю",
+  "item.salinity.polished_sodistone_wall": "Стіна з з полірованого натрікаменю",
+
+  "item.salinity.salty_sand": "Соляний пісок",
+
+  "item.salinity.petrified_sahuaro": "Скам'янілий сахуаро",
+  "item.salinity.petrified_sahuaro_flower": "Скам'яніла квітка сахуаро",
+
+  "item.salinity.petrified_planks": "Скам'янілі дошки",
+  "item.salinity.petrified_stairs": "Скам'янілі сходи",
+  "item.salinity.petrified_slab": "Скам'яніла плита",
+  "item.salinity.petrified_fence": "Скам'янілий паркан",
+  "item.salinity.petrified_fence_gate": "Скам'яніла хвіртка",
+  "item.salinity.petrified_door": "Скам'янілі двері",
+  "item.salinity.petrified_trapdoor": "Скам'янілий люк",
+
+  "item.salinity.petrified_truffle_block": "Скам'янілий блок трюфеля",
+  "item.salinity.petrified_truffle_stem": "Скам'яніла ніжка трюфеля",
+
+  "item.salinity.sodium_grass": "Натрієва трава",
+  "item.salinity.sodium_short_grass": "Натрієва коротка трава",
+  "item.salinity.halite_orchid": "Галітова орхідея",
+
+  "item.salinity.salt_block": "Блок соли",
+  "item.salinity.budding_salt_block": "Родючий блок соли",
+
+  "item.salinity.salt_cluster": "Соляна друза",
+  "item.salinity.large_salt_bud": "Великий соляний зародок",
+  "item.salinity.medium_salt_bud": "Середній соляний зародок",
+  "item.salinity.small_salt_bud": "Малий соляний зародок",
+
+  "item.salinity.salar_block": "Блок салару",
+  "item.salinity.sodium_bomb": "Натрієва бомба",
+
+  "item.salinity.petrified_truffle": "Скам'янілий трюфель",
+
+  "item.salinity.salt_powder": "Соляний порошок",
+  "item.salinity.salar_ingot": "Саларовий злиток",
+  "item.salinity.nitrosalt": "Нітросіль",
+
+  "item.salinity.nitro_pocket_watch": "Кишеньковий нітрогодинник",
+
+  "item.salinity.salar_shovel": "Саларова лопата",
+  "item.salinity.salar_pickaxe": "Саларове кайло",
+  "item.salinity.salar_axe": "Саларова сокира",
+  "item.salinity.salar_hoe": "Саларова мотика",
+  "item.salinity.salar_sword": "Саларовий меч",
+
+  "item.salinity.salar_helmet": "Саларовий шолом",
+  "item.salinity.salar_chestplate": "Саларовий нагрудник",
+  "item.salinity.salar_leggings": "Саларові наголінники",
+  "item.salinity.salar_boots": "Саларові чоботи",
+
+  "item.salinity.broken_salar_helmet": "Саларовий шолом",
+  "item.salinity.broken_salar_chestplate": "Саларовий нагрудник",
+  "item.salinity.broken_salar_leggings": "Саларові наголінники",
+  "item.salinity.broken_salar_boots": "Саларові чоботи",
+
+  "item.salinity.sunglasses": "Сонячні окуляри",
+  "item.salinity.music_disc_22989": "Платівка",
+  "jukebox_song.salinity.22989": "Coffee — 22.989",
+
+  "item.salinity.hot_rod_creeper_spawn_egg": "Яйце виклику натрікріпера",
+
+  "entity.salinity.sodium_bomb": "Запалена натрієва бомба",
+  "entity.salinity.hot_rod_creeper": "Натрікріпер",
+
+  "author.salinity.rawer": "Rawer",
+  "painting.salinity.coffee": "Coffee",
+  "painting.salinity.rawer": "Rawer",
+
+  "key.salinity.dash": "Ривок",
+
+  "tooltip.salinity.broken": "Зламано",
+  "tooltip.salinity.hotbar": "Коли в панелі швидкого доступу:",
+  "tooltip.salinity.dash_1": "Натисніть ",
+  "tooltip.salinity.dash_2": " для ривку.",
+
+  "advancements.salinity.salty_caves.description": "Знайдіть соляні печери",
+  "advancements.salinity.salty_caves.title": "Salinity!",
+  "advancements.salinity.salt_powder.description": "Отримайте соляний порошок",
+  "advancements.salinity.salt_powder.title": "НЕ їж це!",
+  "advancements.salinity.sodium_bomb.description": "Змайструйте соляну бомбу",
+  "advancements.salinity.sodium_bomb.title": "Ходяча небезпека",
+  "advancements.salinity.salar_armor.description": "Отримайте повний комплект саларових обладунків",
+  "advancements.salinity.salar_armor.title": "Укрийте мене… сіллю?",
+  "advancements.salinity.broken_salar_armor.description": "Зламайте повний комплект саларових обладунків",
+  "advancements.salinity.broken_salar_armor.title": "Майже незламний",
+  "advancements.salinity.petrified_sahuaro.description": "Знайдіть та добудьте скам'янілий сахуаро",
+  "advancements.salinity.petrified_sahuaro.title": "Стародавній кактус",
+  "advancements.salinity.budding_salt_block.description": "Використайте шовковий дотик, щоб видобути родючий блок солі",
+  "advancements.salinity.budding_salt_block.title": "Забери додому",
+  "advancements.salinity.petrified_truffle.description": "Знайдіть скам'янілий трюфель, що висить зі стелі",
+  "advancements.salinity.petrified_truffle.title": "Їстівне…?",
+  "advancements.salinity.hot_rod_creeper.description": "Знайдіть та вбийте натрікріпера",
+  "advancements.salinity.hot_rod_creeper.title": "Команда Стіва, перегони!",
+  "advancements.salinity.nitro_pocket_watch.description": "Створіть кишеньковий нітрогодинник",
+  "advancements.salinity.nitro_pocket_watch.title": "Котра година?",
+  "advancements.salinity.music_disc.description": "Знайдіть спосіб змусити скелета вбити натрікріпера та отримати нову платівку",
+  "advancements.salinity.music_disc.title": "Поліритмія!",
+
+  "modmenu.descriptionTranslation.salinity": "Соляний досвід Minecraft!"
+}
