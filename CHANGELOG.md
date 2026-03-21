@@ -4,4 +4,6 @@
 Оновлено переклад [Waystones](https://modrinth.com/mod/waystones) <br>
 Оновлено і покращено переклад 
 
+До перекладу [Tarot Cards](https://modrinth.com/mod/tarot-cards) додано підтримку [TarotCards: Remastered](https://modrinth.com/mod/tarotcards-remastered)
+
 Видалено переклад [Balm](https://modrinth.com/mod/balm) оскільки додано в самі моди
