@@ -8,5 +8,5 @@
   "text.autoconfig.titlefixer.option.titleMarginRight": "Праве поле заголовка",
   "text.autoconfig.titlefixer.option.preferredTitleScale": "Бажаний масштаб заголовка",
   "text.autoconfig.titlefixer.option.preferredSubtitleScale": "Бажаний масштаб підзаголовка",
-  "modmenu.descriptionTranslation.titlefixer": "Робить так, щоби заголовок завжди відповідав екрану."
+  "modmenu.descriptionTranslation.titlefixer": "Робить так, щоб заголовок завжди відповідав екрану."
 }

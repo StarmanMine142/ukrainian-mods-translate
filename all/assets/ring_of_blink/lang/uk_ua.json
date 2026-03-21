@@ -1,7 +1,7 @@
 {
 	"item.ring_of_blink.ring_of_blink": "Кільце кліпання",
 
-	"item.ring_of_blink.ring_of_blink.tip1": "ПКМ, щоби телепортуватися туди, куди ви дивитесь",
+	"item.ring_of_blink.ring_of_blink.tip1": "ПКМ, що телепортуватися туди, куди ви дивитесь",
 	"item.ring_of_blink.ring_of_blink.tip2": "Обмеження дальности: %s",
 		
 	"itemGroup.ring_of_blink.ring_of_blink_group": "Ring of Blink",

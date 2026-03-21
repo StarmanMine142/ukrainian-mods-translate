@@ -49,8 +49,8 @@
   "tooltip.cold_sweat.unmet_attributes": "Незадоволені вимоги:",
   "tooltip.cold_sweat.temperature_effect": "%d температури",
   "tooltip.cold_sweat.per_second": "/sec",
-  "tooltip.cold_sweat.waterskin.drink": "Утримуйте [%s], щоби випити",
-  "tooltip.cold_sweat.waterskin.pour": "Утримуйте [%s], щоби вилити",
+  "tooltip.cold_sweat.waterskin.drink": "Утримуйте [%s], щоб випити",
+  "tooltip.cold_sweat.waterskin.pour": "Утримуйте [%s], щоб вилити",
 
   "item.modifiers.insulation": "Коли застосувано до обладунків:",
   "item.modifiers.curio": "Коли одягнено як дрібничку:",
@@ -349,7 +349,7 @@
 
   "message.cold_sweat.mod_name": "Cold Sweat",
   "message.cold_sweat.warning": "Увага!",
-  "message.cold_sweat.disable": "натисніть, щоби вимкнути",
+  "message.cold_sweat.disable": "натисніть, щоб вимкнути",
   "message.cold_sweat.disable_feedback": "Повідомленняв вимкнено",
   "message.cold_sweat.creative_warning_message": "Через помилку Minecraft введення інвентарю творчости на сервері видалить ізоляцію з ваших предметів обалдунків!",
 
@@ -364,6 +364,5 @@
 
   "jei.cold_sweat.fuel_duration": "Паливо %s",
 
-  "fml.menu.mods.info.description.cold_sweat": "Cold Sweat — це температурний мод із можливістю розширення для Minecraft. Перегляньте документацію тут:
-https://mikul.gitbook.io/cold-sweat/"
+  "fml.menu.mods.info.description.cold_sweat": "Cold Sweat — це температурний мод із можливістю розширення для Minecraft. Перегляньте документацію тут: https://mikul.gitbook.io/cold-sweat"
 }

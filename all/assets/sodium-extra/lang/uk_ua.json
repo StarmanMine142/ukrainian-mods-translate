@@ -312,7 +312,7 @@
   "sodium-extra.option.moon": "Місяць",
   "sodium-extra.option.moon.tooltip": "Якщо ввімкнено, місяць промальовуватиметься.",
   "sodium-extra.option.multi_dimension_fog": "Багатовимірний туман",
-  "sodium-extra.option.multi_dimension_fog.tooltip": "Якщо ввімкнено, туман у вимірах промальовуватиметься згідно з трьома повзунками; якщо вимкнено — згідно з одним загальним. При ввімкненні, ви маєте вийти з меню та зайти повторно, щоби побачити всі повзунки.",
+  "sodium-extra.option.multi_dimension_fog.tooltip": "Якщо ввімкнено, туман у вимірах промальовуватиметься згідно з трьома повзунками; якщо вимкнено — згідно з одним загальним. При ввімкненні, ви маєте вийти з меню та зайти повторно, щоб побачити всі повзунки.",
   "sodium-extra.option.overlay_corner": "Накладення інформації",
   "sodium-extra.option.overlay_corner.bottom_left": "Знизу зліва",
   "sodium-extra.option.overlay_corner.bottom_right": "Знизу справа",

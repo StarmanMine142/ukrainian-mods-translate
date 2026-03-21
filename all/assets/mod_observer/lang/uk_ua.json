@@ -8,7 +8,7 @@
   "text.mod_observer.incompatible": "Несумісні моди",
   "tooltip.mod_observer.incompatible": "Ці моди тут заборонені. Будь ласка, видаліть їх перед тим, як приєднатися.",
   "text.mod_observer.required": "Потрібні моди",
-  "tooltip.mod_observer.required": "Вам потрібно встановити ці моди, щоби приєднатися до сервера.",
+  "tooltip.mod_observer.required": "Вам потрібно встановити ці моди, щоб приєднатися до сервера.",
   "text.mod_observer.hash_mismatch": "Невідповідність хешу",
   "tooltip.mod_observer.hash_mismatch": "Файл jar відрізняється від очікуваного сервером. Спробуйте оновити або зверніться за допомогою до персоналу сервера.",
   "text.mod_observer.bad_children": "Відсутні або різні залежності",

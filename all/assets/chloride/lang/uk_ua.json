@@ -60,7 +60,7 @@
   "chloride.options.displayfps.gpu": "ГП",
   "chloride.options.displayfps.mem": "Пам'ять",
 
-  "chloride.options.culling.page": Вибракування сутностей",
+  "chloride.options.culling.page": "Вибракування сутностей",
   "chloride.options.culling.entity.title": "Максимальна відстань до сутностей",
   "chloride.options.culling.entity.desc": "Якщо ввімкнено, сутності будуть приховані відповідно до налаштованого обмеження відстані.",
   "chloride.options.culling.entity.distance.horizontal.title": "Максимальна горизонтальна відстань до сутностей",

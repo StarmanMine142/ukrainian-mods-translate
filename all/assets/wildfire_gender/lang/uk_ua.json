@@ -2,14 +2,14 @@
 	"key.category.wildfire_gender.generic": "Female Gender Mod",
 	"key.wildfire_gender.gender_menu": "Меню жіночої статі",
 	"key.wildfire_gender.toggle": "Перемкнути промальовування грудей",
-	"toast.wildfire_gender.get_started": "Натисніть %s, щоби почати!",
+	"toast.wildfire_gender.get_started": "Натисніть %s, щоб почати!",
 
 	"wildfire_gender.armor.tooltip": "+%s підтримки грудей",
 
 	"wildfire_gender.uv_editor": "Редактор текстури",
 	"wildfire_gender.uv_editor.reset_defaults_all": "Скинути до усталеного всі UV",
 	"wildfire_gender.uv_editor.reset_defaults": "Скинути до усталеного UV",
-	"wildfire_gender.uv_editor.no_face_selected": "Виберіть лице текстури зліва, щоби редагувати це.",
+	"wildfire_gender.uv_editor.no_face_selected": "Виберіть лице текстури зліва, щоб редагувати це.",
 	"wildfire_gender.uv_editor.selection.left_breast": "Ліво",
 	"wildfire_gender.uv_editor.selection.right_breast": "Право",
 	"wildfire_gender.uv_editor.selection.left_breast_overlay": "Ліво",
@@ -180,7 +180,7 @@
 	"wildfire_gender.tooltip.holiday_themes.line1": "Якщо ввімкнено, ця функція автоматично демонструє косметику, як-от капелюхи Санти та інші предмети святкової тематики, під час відповідних свят.",
 
 	"wildfire_gender.not_in_world.title": "Недоступно в головному меню",
-	"wildfire_gender.not_in_world": "Вам потрібно бути у світі, щоби налаштувати параметри статі.",
+	"wildfire_gender.not_in_world": "Вам потрібно бути у світі, щоб налаштувати параметри статі.",
 
 	"modmenu.descriptionTranslation.wildfire_gender": "Додає додаткові можливості налаштування до моделі гравця, додаючи груди для більш жіночного вигляду.",
 	"fml.menu.mods.info.description.wildfire_gender": "Додає додаткові можливості налаштування до моделі гравця, додаючи груди для більш жіночного вигляду."

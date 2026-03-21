@@ -22,7 +22,7 @@
   "chat.formatting.white": "Білий",
   "chat.formatting.yellow": "Жовтий",
   "container.invalidBlock": "Неможливо відкрити. Добудьте та замініть для використання.",
-  "item.easyanvils.name_tag.description": "%s + %s, щоби встановити нову назву без ковадла.",
+  "item.easyanvils.name_tag.description": "%s + %s, щоб установити нову назву без ковадла.",
   "easyanvils.name_tag.edit": "Редагувати %s",
   "tag.block.easyanvils.unaltered_anvils": "Незмінені ковадла",
   "modmenu.descriptionTranslation.easyanvils": "Будьте готові до глобальних змін ковадла! Предмети залишаються, кращі теґи назв, багато змін!",

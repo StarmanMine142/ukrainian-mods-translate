@@ -16,7 +16,7 @@
   "message.artisantools.altar_xp": "Досвід вівтаря: %d/100",
   "message.artisantools.not_enough_xp": "Вам потрібно 5 рівнів досвіду!",
   "message.artisantools.invalid_tool": "Цей предмет не можна відновити.",
-  "message.artisantools.style_available": "Доступний вибір стилю! ПКМ, щоби вибрати.",
+  "message.artisantools.style_available": "Доступний вибір стилю! ПКМ, щоб вибрати.",
   "message.artisantools.level_5_required": "Для вибору стилю потрібен 5 рівень!",
   "message.artisantools.style_already_selected": "Стиль уже вибрано!",
   "message.artisantools.invalid_style": "Недійсний стиль!",

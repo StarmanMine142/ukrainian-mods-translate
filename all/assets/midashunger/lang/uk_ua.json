@@ -1,5 +1,4 @@
 {
-    "modmenu.descriptionTranslation.midashunger": "Додає більше золотої їжі, яка дає ефекти",
     "item.midashunger.dried_golden_kelp": "Золота висушена ламінарія",
     "item.midashunger.cooked_golden_salmon": "Золотий лосось",
     "item.midashunger.cooked_golden_cod": "Золота смажена тріска",
@@ -22,5 +21,6 @@
     "block.midashunger.sweet_golden_berry_bush": "Кущ солодких золотих ягід",
     "block.midashunger.dried_golden_kelp_block": "Блок висушеної золотої ламінарії",
     "block.midashunger.golden_kelp": "Золота ламінарія",
-    "block.midashunger.golden_kelp_plant": "Золота ламінарія"
+    "block.midashunger.golden_kelp_plant": "Золота ламінарія",
+    "modmenu.descriptionTranslation.midashunger": "Додає більше золотої їжі, яка дає ефекти."
 }

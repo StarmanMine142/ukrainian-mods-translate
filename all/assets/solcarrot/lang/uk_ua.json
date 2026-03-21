@@ -46,9 +46,9 @@
 	"gui.solcarrot.food_book.stats.tooltip.hearts_per_milestone.plural": "%s сердець на етап",
 	
 	"gui.solcarrot.food_book.config.minimum_food_value": "Мінімальна харчова вартість",
-	"gui.solcarrot.food_book.config.tooltip.minimum_food_value": "Мінімальна кількість голоду, яку необхідно забезпечити, щоби зарахувати до основних етапів.",
+	"gui.solcarrot.food_book.config.tooltip.minimum_food_value": "Мінімальна кількість голоду, яку необхідно забезпечити, щоб зарахувати до основних етапів.",
 	"gui.solcarrot.food_book.config.hearty_fraction": "Поживна їжа",
-	"gui.solcarrot.food_book.config.tooltip.hearty_fraction": "З %1$s їжі %2$s достатньо поживні, щоби покращити ваше здоров'я.",
+	"gui.solcarrot.food_book.config.tooltip.hearty_fraction": "З %1$s їжі %2$s достатньо поживні, щоб покращити ваше здоров'я.",
 	"gui.solcarrot.food_book.config.eaten_cheap_foods": "Скуштовано нудну їжу",
 	"gui.solcarrot.food_book.config.tooltip.eaten_cheap_foods": "З %1$s їжі, яка недостатньо поживна для покращення вашого здоров'я, ви з'їли %2$s.",
 	"gui.solcarrot.food_book.config.blacklist": "Їжа в чорному списку",

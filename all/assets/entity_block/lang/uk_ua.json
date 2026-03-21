@@ -10,5 +10,5 @@
     "block.entity_block.entity_block.invalid_id": "Недійсний ID сутности: «%s»",
     "block.entity_block.entity_block.invalid_nbt": "Недійсний NBT сутности: «%s»",
     "block.entity_block.entity_block.invalid_state": "Недійсний ID блока: «%s»",
-    "modmenu.descriptionTranslation.entity_block": "Додає блок сутности, щоби полегшити створення власних структур."
+    "modmenu.descriptionTranslation.entity_block": "Додає блок сутности, щоб полегшити створення власних структур."
 }

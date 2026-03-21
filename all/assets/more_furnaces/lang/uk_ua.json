@@ -1,8 +1,10 @@
 {
-  "modmenu.descriptionTranslation.lolmfv": "Додає більше варіантів печі",
   "block.lolmfv.deepslate_furnace": "Глибосланцева піч",
   "block.lolmfv.blackstone_furnace": "Чорнокам'яна піч",
 
   "container.deepslate_furnace": "Глибосланцева піч",
-  "container.blackstone_furnace": "Чорнокам'яна піч"
+  "container.blackstone_furnace": "Чорнокам'яна піч",
+
+
+  "modmenu.descriptionTranslation.lolmfv": "Додає більше варіантів печі."
 }

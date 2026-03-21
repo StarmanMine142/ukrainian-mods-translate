@@ -11,7 +11,7 @@
   "gui.picturemode.degrees": "%s градусів",
   "gui.picturemode.centerCamera": "Камеру на центр",
   "gui.picturemode.showPlayer": "Показ гравців: %s",
-  "gui.picturemode.helpText": "Натисніть і перетягніть, щоби перемістити та повернути.",
+  "gui.picturemode.helpText": "Натисніть і перетягніть, щоб перемістити та повернути.",
   "shader.picturemode.blur": "Розмиття",
   "shader.picturemode.distantblur": "Дальнє розмиття",
   "shader.picturemode.eerie": "Моторошний",

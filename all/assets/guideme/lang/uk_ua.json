@@ -19,7 +19,7 @@
   "guideme.guidebook.HideAnnotations": "Приховати анотації",
   "guideme.guidebook.HistoryGoBack": "Горнути назад на 1 стронку",
   "guideme.guidebook.HistoryGoForward": "Горнути вперел на 1 сторінку",
-  "guideme.guidebook.HoldToShow": "Устримуйте [%s], щоби відкрити посібник",
+  "guideme.guidebook.HoldToShow": "Устримуйте [%s], щоб відкрити посібник",
   "guideme.guidebook.ItemInvalidGuideId": "Недійсний ID посібника: %s",
   "guideme.guidebook.ItemNoGuideId": "Немає ID посібника",
   "guideme.guidebook.ResetView": "Скинути погляд",

@@ -118,7 +118,7 @@
   "lootr.message.refresh_start": "Умістище оновиться новим умістом через %sс.",
   "lootr.message.refreshed": "Уміст умістища оновився від вашого дотику!",
   "lootr.message.should_sneak": "Ламання скрині видалить вашу унікальну здобич і всі предмети в скрині! Ламайте лише, якщо це справді треба.",
-  "lootr.message.should_sneak2": "Щоби зламати блок у будь-якому випадку, ламайте крадькома",
+  "lootr.message.should_sneak2": "Щоб зламати блок у будь-якому випадку, ламайте крадькома",
   "stat.lootr.looted_stat": "Скринь пограбовано",
   "tag.block.lootr.barrels": "Діжки Lootr",
   "tag.block.lootr.cats_can_block": "Блоки, на які кіт може сісти",

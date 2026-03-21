@@ -619,7 +619,7 @@
   "item.simplyswords.volcanicfurysworditem.tooltip4": "Направте свою лють, обмінявши здоров'я на",
   "item.simplyswords.volcanicfurysworditem.tooltip5": "отримання стійкости, водночас викликаючи",
   "item.simplyswords.volcanicfurysworditem.tooltip6": "поштовхи, що тягнути ворогів до вас.",
-  "item.simplyswords.volcanicfurysworditem.tooltip7": "Припиняє направлення, щоби дати волю своїй",
+  "item.simplyswords.volcanicfurysworditem.tooltip7": "Припиняє направлення, щоб дати волю своїй",
   "item.simplyswords.volcanicfurysworditem.tooltip8": "люті запуск, запалювання та завдає більше",
   "item.simplyswords.volcanicfurysworditem.tooltip9": "шкоди, чим довший напрям.",
 
@@ -690,7 +690,7 @@
   "item.simplyswords.icewhispersworditem.tooltip1": "Унікальний ефект: Вічна мерзлота",
   "item.simplyswords.icewhispersworditem.tooltip2": "Надає морозну авру, яка завдає шкоду",
   "item.simplyswords.icewhispersworditem.tooltip3": "та сповільнює ворогів у межах %d блоків.",
-  "item.simplyswords.icewhispersworditem.tooltip4": "Угамуйте свій голод, щоби викликати",
+  "item.simplyswords.icewhispersworditem.tooltip4": "Угамуйте свій голод, щоб викликати",
   "item.simplyswords.icewhispersworditem.tooltip5": "хуртовину у вашому місці, що уповільнює та",
   "item.simplyswords.icewhispersworditem.tooltip6": "збільшує шкоду ворогам у межах %d блоків.",
 
@@ -801,7 +801,7 @@
   "item.simplyswords.starsedgesworditem.tooltip3": "%s додаткової шкоди.",
   "item.simplyswords.starsedgesworditem.tooltip4": "Уночі ваші атаки крадуть життя.",
   "item.simplyswords.starsedgesworditem.tooltip5": "Ухиляйтеся назад, набираючи швидкість.",
-  "item.simplyswords.starsedgesworditem.tooltip6": "Активуйте вдруге, щоби зробити ривок",
+  "item.simplyswords.starsedgesworditem.tooltip6": "Активуйте вдруге, щоб зробити ривок",
   "item.simplyswords.starsedgesworditem.tooltip7": "уперед, отримуючи стійкість і",
   "item.simplyswords.starsedgesworditem.tooltip8": "квапливість.",
 
@@ -929,7 +929,7 @@
   "item.simplyswords.chompolotlsworditem.tooltip2": "Викликати аксолотлів після удару.",
   "item.simplyswords.chompolotlsworditem.tooltip3": "Аксолотлі атакують найближчих",
   "item.simplyswords.chompolotlsworditem.tooltip4": "ворогів і можуть сидіти на ваших",
-  "item.simplyswords.chompolotlsworditem.tooltip5": "плечах, щоби надавати корисні",
+  "item.simplyswords.chompolotlsworditem.tooltip5": "плечах, щоб надавати корисні",
   "item.simplyswords.chompolotlsworditem.tooltip6": "ефекти области.",
   "item.simplyswords.chompolotlsworditem.tooltip7": "Викликає рідкісного синього аксолотля.",
 
@@ -1013,7 +1013,7 @@
   "item.simplyswords.throwingsworditem.tooltip3": "вроджену вірність III. ",
   "item.simplyswords.unidentifiedsworditem.tooltip1": "Рунічна сила: ????",
   "item.simplyswords.netherfused_gem.tooltip1": "Незерська сила: ????",
-  "item.simplyswords.unidentifiedsworditem.tooltip2": "\uAB39 Натисніть, щоби визначити.",
+  "item.simplyswords.unidentifiedsworditem.tooltip2": "\uAB39 Натисніть, щоб визначити.",
   "item.simplyswords.runic_tablet.tooltip": "Можна використовувати для виготовлення",
   "item.simplyswords.runic_tablet.tooltip2": "та перекування рунічної зброї.",
   "item.simplyswords.runic_tablet.tooltip3": "Також можна використовувати",

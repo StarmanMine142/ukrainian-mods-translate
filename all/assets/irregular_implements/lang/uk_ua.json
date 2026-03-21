@@ -547,7 +547,7 @@
   "tooltip.irregular_implements.anchored": "Якір",
   "tooltip.irregular_implements.blacklist": "Чорний список",
   "tooltip.irregular_implements.block": "Блок: %s",
-  "tooltip.irregular_implements.block_replacer_alt_for_list": "Утримуйте Alt, щоби побачити збережені предмети",
+  "tooltip.irregular_implements.block_replacer_alt_for_list": "Утримуйте Alt, щоб побачити збережені предмети",
   "tooltip.irregular_implements.block_replacer_loading": "Помістіть блоки, натиснувши ПКМ по стосу",
   "tooltip.irregular_implements.block_replacer_unloading": "Видаліть блоки, натиснувши ПКМ по порожньом слоті",
   "tooltip.irregular_implements.charge": "Заряд: %d%%",

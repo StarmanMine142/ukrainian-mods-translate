@@ -64,5 +64,5 @@
   "block.mantle.tank.drained": "Спустошено %s мВ %s",
   "block.mantle.tank.filled": "Наповнено %s мВ %s",
 
-  "item.mantle.book.click_to_open": "ПКМ, щоби відкрити"
+  "item.mantle.book.click_to_open": "ПКМ, щоб відкрити"
 }

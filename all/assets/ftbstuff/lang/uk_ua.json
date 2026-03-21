@@ -156,7 +156,7 @@
   "ftbstuff.temperature.normal": "Нормальний",
   "ftbstuff.temperature.superheated": "Надгарячий",
   "ftbstuff.temperature_source": "Температурне джерело",
-  "ftbstuff.temperature_source.click": "Натисніть, щоби показати температурні джерела.",
+  "ftbstuff.temperature_source.click": "Натисніть, щоб показати температурні джерела.",
   "ftbstuff.tooltip.energy": "Енергія: %s FE",
   "ftbstuff.tooltip.fluid": "Рідина: %sмВ %s",
   "ftbstuff.tooltip.hammers": "Подрібнює матеріали до їх основних компонентів.",

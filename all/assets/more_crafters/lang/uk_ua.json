@@ -1,5 +1,4 @@
 {
-  "modmenu.descriptionTranslation.quad-lolmcrv": "Додає більше варіантів майструвача",
   "block.quad-lolmcrv.acacia_crafter": "Акацієвий майструвач",
   "block.quad-lolmcrv.bamboo_crafter": "Бамбуковий майструвач",
   "block.quad-lolmcrv.birch_crafter": "Березовий майструвач",
@@ -19,5 +18,6 @@
   "container.quad-lolmcrv.jungle_crafter": "Тропічний майструвач",
   "container.quad-lolmcrv.mangrove_crafter": "Мангровий майструвач",
   "container.quad-lolmcrv.spruce_crafter": "Смерековий майструвач",
-  "container.quad-lolmcrv.warped_crafter": "Химерний майструвач"
+  "container.quad-lolmcrv.warped_crafter": "Химерний майструвач",
+  "modmenu.descriptionTranslation.quad-lolmcrv": "Додає більше варіантів майструвача."
 }

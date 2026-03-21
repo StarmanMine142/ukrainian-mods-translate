@@ -17,7 +17,6 @@
   "entity.nemos_copper.copper_minecart": "Мідна вагонетка",
   "entity.nemos_copper.copper_spawner_minecart": "Мідна вагонетка зі спавнером монстрів",
   "entity.nemos_copper.copper_tnt_minecart": "Мідна вагонетка з динамітом",
-  "entity.nemos_copper.copper_hopper_minecart": "Мідна вагонетка з лійкою",
   "item.nemos_copper.copper_axe": "Мідна сокира",
   "item.nemos_copper.copper_axolotl_bucket": "Мідне відро з аксолотлем",
   "item.nemos_copper.copper_boots": "Мідні чоботи",
@@ -64,7 +63,6 @@
   "item.nemos_copper.copper_tnt_minecart": "Мідна вагонетка з динамітом",
   "item.nemos_copper.copper_tropical_fish_bucket": "Мідне відро з тропічною рибою",
   "item.nemos_copper.copper_water_bucket": "Мідне відро води",
-  "item.nemos_copper.copper_hopper_minecart": "Мідна вагонетка з лійкою",
   "itemGroup.nemos_copper": "Nemo's Copper",
   "modmenu.descriptionTranslation.nemos_copper": "Зробіть більше речей з міді!",
   "fml.menu.mods.info.description.nemos_copper": "Зробіть більше речей з міді!"

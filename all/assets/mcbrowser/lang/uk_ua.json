@@ -22,7 +22,7 @@
   "text.autoconfig.mcbrowser.option.zoomScalingFactor": "Коефіцієнт масштабування",
   "text.autoconfig.mcbrowser.option.zoomScalingFactor.@Tooltip": "Установлює ступінь збільшення та зменшення масштабу.",
   "text.autoconfig.mcbrowser.option.killJcefHelperOnClose": "Закривати допоміжні процеси JCEF під час завершення роботи",
-  "text.autoconfig.mcbrowser.option.killJcefHelperOnClose.@Tooltip": "Тимчасовий обхідний шлях, щоб запобігти затримці фонових процесів JCEF, які споживають ресурси ЦП після завершення роботи Minecraft.\nНастійно не рекомендується вимикати це, якщо у вас немає проблем з іншими програмами, які використовують JCEF.",
+  "text.autoconfig.mcbrowser.option.killJcefHelperOnClose.@Tooltip": "Тимчасовий обхідний шлях, щоб запобігти затримці процесів тла JCEF, які споживають ресурси ЦП після завершення роботи Minecraft.\nНастійно не рекомендується вимикати це, якщо у вас немає проблем з іншими програмами, які використовують JCEF.",
   "text.autoconfig.mcbrowser.option.allowDownloads": "Дозволити завантаження",
   "text.autoconfig.mcbrowser.option.allowDownloads.@Tooltip": "Дозволити завантаження файлів на ваш комп'ютер при використані MCBrowser.",
   "mcbrowser.download.toast.started": "Почати завантаження",
@@ -38,5 +38,5 @@
   "mcbrowser.download.toast.failed.description": "Перевірте журнал для отримання додаткової інформації.",
   "mcbrowser.download.toast.disabled.description": "\nБудь ласка, увімкніть «Дозволити завантаження» в налаштуваннях мода для того, щаб завантажити файл.",
   "mcbrowser.zoom.percent": "Масштаб: %d%%",
-  "modmenu.descriptionTranslation.mcbrowser": "Інтернет браузер для блокової гри"
+  "modmenu.descriptionTranslation.mcbrowser": "Інтернет браузер для блокової гри."
 }

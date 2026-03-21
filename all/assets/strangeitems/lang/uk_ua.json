@@ -55,7 +55,7 @@
 	"key.strangeitems.show_time_in_dimension": "Показати час у вимірах (якщо доступно)",
 	"key.strangeitems.show_tracker_ids": "Показати ID трекерів",
 	"key.strangeitems.debug_list_trackers": "[НАЛАГОДЖЕННЯ] Список зареєстрованих трекерів",
-        "key.category.strangeitems.keys": "Strange Items",
+    "key.category.strangeitems.keys": "Strange Items",
 	"key.category.strangeitems.debug": "Strange Items: Керування налагодженням",
 
 	"dimension.minecraft.overworld": "Верхній світ",
@@ -68,5 +68,5 @@
 	"tag.item.strangeitems.trackers.logs_stripped": "Може відстежувати «Блоків обтесано»",
 	"tag.item.strangeitems.trackers.sheep_sheared": "Може відстежувати «Овець пострижено»",
 
-         "modmenu.descriptionTranslation.strangeitems": "Дозволяє інструментам та іншим предметам показувати певну статистику окремо для кожного стоса."
+    "modmenu.descriptionTranslation.strangeitems": "Дозволяє інструментам та іншим предметам показувати певну статистику окремо для кожного стоса."
 }

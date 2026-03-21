@@ -7,7 +7,7 @@
   "dataPack.ohmega.description": "Ресурси мода для Ohmega",
   "item.ohmega.angel_ring": "Ангельське кільце",
   "item.ohmega.angel_ring.tooltip": "Надає носію політ",
-  "item.ohmega.angel_ring.tooltip.keybind": "Натистіть %s, щоби літати",
+  "item.ohmega.angel_ring.tooltip.keybind": "Натистіть %s, щоб літати",
   "key.category.ohmega.ohmega": "Ohmega",
   "key.ohmega.accessory_type": "%s %s",
   "key.ohmega.open_acc_inv": "Відкрити/закрити інвентар аксесуарів",

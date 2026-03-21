@@ -18,7 +18,7 @@
   "treechop.gui.settings.label.tooltips": "Підказки",
   "treechop.gui.settings.tooltip.chop_in_creative_mode.on": "Дозволити рубання в режимі творчости",
   "treechop.gui.settings.tooltip.chop_in_creative_mode.off": "Заборонити рубання в режимі творчости",
-  "treechop.gui.settings.tooltip.chopping.on": "Рубати дерева замість того, щоби ламати",
+  "treechop.gui.settings.tooltip.chopping.on": "Рубати дерева замість того, щоб ламати",
   "treechop.gui.settings.tooltip.chopping.off": "Не рубати дерева",
   "treechop.gui.settings.tooltip.chopping_indicator.on": "Показувати індикатор на екрані, коли ви збираєтеся рубати блок",
   "treechop.gui.settings.tooltip.chopping_indicator.off": "Не показувати індикатор рубання на екрані",
@@ -30,8 +30,8 @@
   "treechop.gui.settings.tooltip.felling_options.off": "Приховати налаштування, пов'язані з рубкою, на першій сторінці налаштувань",
   "treechop.gui.settings.tooltip.only_chop_trees_with_leaves.on": "Рубати лише блоки, які не приєднанні до листя",
   "treechop.gui.settings.tooltip.only_chop_trees_with_leaves.off": "Рубати лише блоки, які приєднанні до листя",
-  "treechop.gui.settings.tooltip.sneaking_enables_x": "Підкрадатися, щоби ввімкнути «%s»",
-  "treechop.gui.settings.tooltip.sneaking_disables_x": "Підкрадатися, щоби вимкнути «%s»",
+  "treechop.gui.settings.tooltip.sneaking_enables_x": "Підкрадатися, щоб ввімкнути «%s»",
+  "treechop.gui.settings.tooltip.sneaking_disables_x": "Підкрадатися, щоб вимкнути «%s»",
   "treechop.gui.settings.tooltip.sneaking_does_nothing": "Підкрадання не впливає на рубання",
   "treechop.gui.settings.tooltip.tooltips": "Показати підказки",
   "treechop.gui.settings.title": "Налаштування %s",
@@ -58,6 +58,6 @@
   "config.jade.plugin_treechop.plugin": "HT's TreeChop",
   "config.jade.plugin_treechop.show_num_chops_remaining": "Кількість рубок",
   "config.jade.plugin_treechop.show_tree_block_counts": "Кількість блоків",
-  "modmenu.descriptionTranslation.treechop": "Робить так, щоби дерева можна було рубати.",
-  "fml.menu.mods.info.description.treechop": "Робить так, щоби дерева можна було рубати."
+  "modmenu.descriptionTranslation.treechop": "Робить так, щоб дерева можна було рубати.",
+  "fml.menu.mods.info.description.treechop": "Робить так, щоб дерева можна було рубати."
 }

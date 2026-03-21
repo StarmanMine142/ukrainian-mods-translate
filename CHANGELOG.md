@@ -6,4 +6,4 @@
 
 До перекладу [Tarot Cards](https://modrinth.com/mod/tarot-cards) додано підтримку [TarotCards: Remastered](https://modrinth.com/mod/tarotcards-remastered)
 
-Видалено переклад [Balm](https://modrinth.com/mod/balm) оскільки додано в самі моди
+Видалено переклад [Balm](https://modrinth.com/mod/balm), [TerraFirmaCraft](https://modrinth.com/mod/terrafirmacraft) оскільки додано в самі моди

@@ -6,7 +6,7 @@
   "gui.csearcher.search.title": "Шукати у вмістищах",
   "gui.csearcher.search.search": "Пошук предметів",
   "gui.csearcher.search.nothing": "Тут немає нічого… спробуйте відкрити кілька скринь",
-  "gui.csearcher.search.disabled": "Цей світ вимкнено, натсиніть значок світу, щоби ввімкнути його повторно",
+  "gui.csearcher.search.disabled": "Цей світ вимкнено, натсиніть значок світу, щоб увімкнути його повторно",
   "gui.csearcher.search.stat": "%s кешованих умістищ у поточному світі\nРозмір кешу: %s",
   "gui.csearcher.search.sort_mode": "Сортувати за %s",
   "gui.csearcher.search.dimension_mode": "Вимір: %s",
@@ -17,9 +17,9 @@
   "gui.csearcher.search.entry_info.at": "у %s (%s)",
   "gui.csearcher.search.entry_info.time_ago": "Відкрито %s тому",
   "gui.csearcher.search.entry_info.full": "(повний)",
-  "gui.csearcher.search.entry_info.click_to_show": " » Натисніть, щоби показати",
-  "gui.csearcher.search.entry_info.shift_info": " » Утримуйте SHIFT, щоби виділити предмети одного вмістища",
-  "gui.csearcher.search.entry_info.ctrl_send": " » Утримуйте CTRL, щоби надіслати власне повідомлення для цього",
+  "gui.csearcher.search.entry_info.click_to_show": " » Натисніть, щоб показати",
+  "gui.csearcher.search.entry_info.shift_info": " » Утримуйте SHIFT, щоб виділити предмети одного вмістища",
+  "gui.csearcher.search.entry_info.ctrl_send": " » Утримуйте CTRL, щоб надіслати власне повідомлення для цього",
 
   "gui.csearcher.world_options.title": "Налаштування світу",
   "gui.csearcher.world_options.click_to_show": "Натисніть, щоб показати",
@@ -100,9 +100,9 @@
   "text.csearcher.no_entry": "Не вдається знайти кеш для поточного світу",
   "text.csearcher.entry_load_failed": "[ContainerSearcher] ПОПЕРЕДЖЕННЯ: Не вдалося завантажити запис для поточного світу!",
   "text.csearcher.no_near_matches": "Немає збігів для цього предмета в найближчих умістищах",
-  "text.csearcher.wrong_dimension": "Ви не в тому вимірі, щоби показати це вмістище",
+  "text.csearcher.wrong_dimension": "Ви не в тому вимірі, щоб показати це вмістище",
   "text.csearcher.confirm_clear": "Ви впевнені, що бажаєте очистити кеш цього світу?",
-  "text.csearcher.click_to_show": "*Натсиніть, щоби показати*",
+  "text.csearcher.click_to_show": "*Натисніть, щоб показати*",
 
   "modmenu.descriptionTranslation.csearcher": "Кешує відкриті вмістища та дозволяє шукати в них за допомогою ігрового меню."
 }

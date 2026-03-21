@@ -524,7 +524,7 @@
   "_comment": "Potion",
 
   "fluid.tconstruct.potion": "Зілля",
-  "fluid.tconstruct.potion.fluid_effect": "Зілля дозволяють створювати різноманітні ефекти у варильній стійці. Можна зливати зілля в баки, щоби наповнити інструменти.",
+  "fluid.tconstruct.potion.fluid_effect": "Зілля дозволяють створювати різноманітні ефекти у варильній стійці. Можна зливати зілля в баки, щоб наповнити інструменти.",
 
   "item.tconstruct.potion_bucket": "Нестворюване зілля у відрі",
   "item.tconstruct.potion_bucket.effect.water": "Відро води",
@@ -655,7 +655,7 @@
   "fluid.tconstruct.molten_iron": "Розтоплене залізо",
   "fluid.tconstruct.flowing_molten_iron": "Текуче розтоплене залізо",
   "item.tconstruct.molten_iron_bucket": "Відро розтопленого заліза",
-  "fluid.tconstruct.molten_iron.fluid_effect": "Розтоплене залізо використовується, щоби притягнути до вас предмети поблизу, хоча в крайньому випадку воно може бути корисним у бою.",
+  "fluid.tconstruct.molten_iron.fluid_effect": "Розтоплене залізо використовується, щоб притягнути до вас предмети поблизу, хоча в крайньому випадку воно може бути корисним у бою.",
 
   "block.tconstruct.molten_gold_fluid": "Розтоплене золото",
   "fluid.tconstruct.molten_gold": "Розтоплене золото",
@@ -704,7 +704,7 @@
   "fluid.tconstruct.molten_pig_iron": "Розтоплене свинозалізо",
   "fluid.tconstruct.flowing_molten_pig_iron": "Текуче розтоплене свинозалізо",
   "item.tconstruct.molten_pig_iron_bucket": "Відро розтопленого свинозаліза",
-  "fluid.tconstruct.molten_pig_iron.fluid_effect": "Розтоплене свинозалізо найсмачніший з розтоплених металів. Не те, щоби це була велика конкуренція.",
+  "fluid.tconstruct.molten_pig_iron.fluid_effect": "Розтоплене свинозалізо найсмачніший з розтоплених металів. Не те, щоб це була велика конкуренція.",
 
   "_comment": "Tier 4 Alloys",
 
@@ -844,7 +844,7 @@
   "fluid.tconstruct.molten_pewter": "Розтоплений п'ютер",
   "fluid.tconstruct.flowing_molten_pewter": "Текучий розтоплений п'ютер",
   "item.tconstruct.molten_pewter_bucket": "Відро розтопленого п'ютеру",
-  "fluid.tconstruct.molten_pewter.fluid_effect": "Ймовірно, розтоплений п'ютер має менший ризик, ніж отрута, щоби збільшити вашу силу, але ненабагато.",
+  "fluid.tconstruct.molten_pewter.fluid_effect": "Ймовірно, розтоплений п'ютер має менший ризик, ніж отрута, щоб збільшити вашу силу, але ненабагато.",
 
   "block.tconstruct.molten_steel_fluid": "Розтоплена сталь",
   "fluid.tconstruct.molten_steel": "Розтоплена сталь",
@@ -864,7 +864,7 @@
   "fluid.tconstruct.molten_lumium": "Розтоплений люмій",
   "fluid.tconstruct.flowing_molten_lumium": "Текучий розтоплений люмій",
   "item.tconstruct.molten_lumium_bucket": "Відро розтопленого люмію",
-  "fluid.tconstruct.molten_lumium.fluid_effect": "Розтоплений люмій використовується або для того, щоби стежити за ціллю, або для швидкої, але очевидної втечі.",
+  "fluid.tconstruct.molten_lumium.fluid_effect": "Розтоплений люмій використовується або для того, щоб стежити за ціллю, або для швидкої, але очевидної втечі.",
 
   "block.tconstruct.molten_signalum_fluid": "Розтоплений сигналум",
   "fluid.tconstruct.molten_signalum": "Розтоплений сигналум",
@@ -982,7 +982,7 @@
   "block.tconstruct.magma_cake": "Торт із магми",
 
   "item.tconstruct.piggy_backpack": "Свинорюкзак",
-  "item.tconstruct.piggy_backpack.tooltip": "Використайте на мобі, щоби його підняти",
+  "item.tconstruct.piggy_backpack.tooltip": "Використайте на мобі, щоб його підняти",
   "effect.tconstruct.carry": "Носіння",
   
   "block.tconstruct.blaze_head":            "Голова пломеня",
@@ -1097,7 +1097,7 @@
   "item.tconstruct.dummy_tool_part.tooltip": "Використовуйте для створення форм, не може використовуватися для створення інструментів.",
 
   "item.tconstruct.repair_kit": "Набір лагодження",
-  "item.tconstruct.repair_kit.tooltip": "Використовуйте на інструменті в інвентарі, щоби полагодити його, еквівалент %s злитків.",
+  "item.tconstruct.repair_kit.tooltip": "Використовуйте на інструменті в інвентарі, щоб полагодити його, еквівалент %s злитків.",
 
   "item.tconstruct.pick_head": "Наконечник кайла",
   "item.tconstruct.hammer_head": "Наконечник молота",
@@ -1198,7 +1198,7 @@
   "death.attack.tconstruct.fluid.spike.item": "%2$s проткнув %1$s за допомогою: %3$s",
 
   "gui.tconstruct.melting.no_recipe": "Предмет не можна розтопити.",
-  "gui.tconstruct.melting.no_heat": "Недостатньо тепла, щоби розтопити цей предмет.",
+  "gui.tconstruct.melting.no_heat": "Недостатньо тепла, щоб розтопити цей предмет.",
   "gui.tconstruct.melting.no_space": "Недостатньо вільного місця для рідини.",
 
   "gui.tconstruct.melting.fuel.no_tank": "У структурі немає бака",
@@ -1213,7 +1213,7 @@
   "gui.tconstruct.tank.bucket.empty_item.description": "Слот спробує спорожнити предмет",
   "gui.tconstruct.tank.bucket.fill_item.title": "Режим: Наповнити предмет",
   "gui.tconstruct.tank.bucket.fill_item.description": "Слот спробує заповнити предмет",
-  "gui.tconstruct.tank.bucket.clickable": "Натисніть, щоби ввімкнути режим передачі рідини",
+  "gui.tconstruct.tank.bucket.clickable": "Натисніть, щоб ввімкнути режим передачі рідини",
 
   "gui.tconstruct.duct": "Труба",
 
@@ -1230,7 +1230,7 @@
   "multiblock.tconstruct.generic.invalid_floor_frame": "Неприпустимий блок кута підлоги",
   "multiblock.tconstruct.generic.invalid_ceiling_frame": "Неприпустимий блок кута даху",
 
-  "multiblock.tconstruct.tiny.no_fuel_tank": "Має бути поставлено над паливним баком або нагрівачем, щоби працювати",
+  "multiblock.tconstruct.tiny.no_fuel_tank": "Має бути поставлено над паливним баком або нагрівачем, щоб працювати",
 
 
   "_comment": "Tinkers Smeltery",
@@ -1304,7 +1304,7 @@
   "block.tconstruct.seared_table.tooltip": "Відливає предмети, використовуючи розтоплені метали з топильні.",
 
   "block.tconstruct.seared_melter": "Обпалений топильник",
-  "block.tconstruct.seared_melter.tooltip": "Перша топильня.\nРозмістіть над баком чи нагрівачем, щоби розтопити.",
+  "block.tconstruct.seared_melter.tooltip": "Перша топильня.\nРозмістіть над баком чи нагрівачем, щоб розтопити.",
   "gui.tconstruct.melter": "Топильник",
   "gui.tconstruct.melting.capacity": "Місткість:",
   "gui.tconstruct.melting.available": "Вільно:",
@@ -1397,7 +1397,7 @@
   "block.tconstruct.scorched_channel.tooltip": "Розподіляє рідини, вилиті з крану над ним.",
 
   "block.tconstruct.scorched_alloyer": "Випалений стоплювач",
-  "block.tconstruct.scorched_alloyer.tooltip": "Проста машина для стоплювання.\nРозмістіть над баком чи нагрівачем, щоби розтопити.",
+  "block.tconstruct.scorched_alloyer.tooltip": "Проста машина для стоплювання.\nРозмістіть над баком чи нагрівачем, щоб розтопити.",
   "gui.tconstruct.alloyer": "Стоплювач",
 
   "block.tconstruct.foundry_controller": "Контролер ливарні",
@@ -1429,7 +1429,7 @@
   "gui.tconstruct.fluid.bowl": "%s мисок",
   "gui.tconstruct.fluid.bottle": "%s пляшок",
 
-  "gui.tconstruct.fluid.hold_shift": "Утримайте §e§oShift§r§7, щоби побачити у відрах",
+  "gui.tconstruct.fluid.hold_shift": "Утримайте §e§oShift§r§7, щоб побачити у відрах",
 
 
   "_comment": "Tinkers World",
@@ -1508,15 +1508,15 @@
   "block.tconstruct.ender_ender_slime_grass.tooltip": "Дозволяє вам вище стрибати та викликає ендерслимаки в Енді",
 
   "item.tconstruct.earth_slime_grass_seeds": "Слизове насіння",
-  "item.tconstruct.earth_slime_grass_seeds.tooltip": "Посадіть на ґрунт чи слизоґрунт, щоби створити слизотраву",
+  "item.tconstruct.earth_slime_grass_seeds.tooltip": "Посадіть на ґрунт чи слизоґрунт, щоб створити слизотраву",
   "item.tconstruct.sky_slime_grass_seeds": "Слизове насіння",
-  "item.tconstruct.sky_slime_grass_seeds.tooltip": "Посадіть на ґрунт чи слизоґрунт, щоби створити слизотраву, або на лозу для слизистої лози",
+  "item.tconstruct.sky_slime_grass_seeds.tooltip": "Посадіть на ґрунт чи слизоґрунт, щоб створити слизотраву, або на лозу для слизистої лози",
   "item.tconstruct.blood_slime_grass_seeds": "Слизове насіння",
-  "item.tconstruct.blood_slime_grass_seeds.tooltip": "Посадіть на ґрунт чи слизоґрунт, щоби створити слизонілій",
+  "item.tconstruct.blood_slime_grass_seeds.tooltip": "Посадіть на ґрунт чи слизоґрунт, щоб створити слизонілій",
   "item.tconstruct.ichor_slime_grass_seeds": "Слизове насіння",
-  "item.tconstruct.ichor_slime_grass_seeds.tooltip": "Посадіть на ґрунт чи слизоґрунт, щоби створити слизонілій",
+  "item.tconstruct.ichor_slime_grass_seeds.tooltip": "Посадіть на ґрунт чи слизоґрунт, щоб створити слизонілій",
   "item.tconstruct.ender_slime_grass_seeds": "Слизове насіння",
-  "item.tconstruct.ender_slime_grass_seeds.tooltip": "Посадіть на ґрунт чи слизоґрунт, щоби створити слизотраву, або на лозу для слизистої лози",
+  "item.tconstruct.ender_slime_grass_seeds.tooltip": "Посадіть на ґрунт чи слизоґрунт, щоб створити слизотраву, або на лозу для слизистої лози",
 
   "block.tconstruct.earth_slime_leaves": "Слизове листя",
   "block.tconstruct.sky_slime_leaves": "Слизове листя",
@@ -1739,7 +1739,7 @@
   "material.tconstruct.iron.oxidized": "Необроблене залізо",
   "material.tconstruct.iron.flavor": "Залізне як Залізняк.",
   "material.tconstruct.iron.encyclopedia": "Надає 10% додаткової міцности на частину.",
-  "material.tconstruct.iron.ranged": "Примушує стріли, щоби притягнути сусідні предмети до власника.",
+  "material.tconstruct.iron.ranged": "Примушує стріли, щоб притягнути сусідні предмети до власника.",
   "material.tconstruct.iron.armor": "Зменшує шкоду від снарядів на 10% за рівень і надає 5% стійкости відкидання, помноженого на максимальний рівень.",
   "material.tconstruct.iron.skull_flavor": "Порушення карантину",
   "material.tconstruct.iron.skull_encyclopedia": "Ближні атаки копіюють негативні ефекти з носія на ціль",
@@ -1849,7 +1849,7 @@
   "material.tconstruct.darkthread.flavor": "Перейди на темну сторону, у нас тут шиття.",
   "material.tconstruct.darkthread.encyclopedia": "Збільшує шанси випадіння здобичі з мобів, сумісно з удачею.",
   "material.tconstruct.darkthread.ranged": "Збільшує шанс випадання з мобів, убитих стрілами.",
-  "material.tconstruct.darkthread.skull_flavor": "Ідеально для битв умів, коли треба напитись, щоби визначити правоту.",
+  "material.tconstruct.darkthread.skull_flavor": "Ідеально для битв умів, коли треба напитись, щоб визначити правоту.",
   "material.tconstruct.darkthread.skull_encyclopedia": "Робить носія стійким до отруєння, але не видаляє наявне отруєння.",
 
 
@@ -1878,7 +1878,7 @@
   "material.tconstruct.ichorskin": "Іхорошкіра",
   "material.tconstruct.ichorskin.format": "%s з іхорошкіри",
   "material.tconstruct.ichorskin.flavor": "У іхору точно немає шкіри.",
-  "material.tconstruct.ichorskin.encyclopedia": "Споживає до 5 надлишкового слизу, щоби зменшити шкоду на 1% за спожитий надлишковий слиз (до 5%).",
+  "material.tconstruct.ichorskin.encyclopedia": "Споживає до 5 надлишкового слизу, щоб зменшити шкоду на 1% за спожитий надлишковий слиз (до 5%).",
 
   "material.tconstruct.cinderslime": "Незерслиз",
   "material.tconstruct.cinderslime.format": "%s з незерслизу",
@@ -1996,7 +1996,7 @@
   "__comment": "Tier 2 Integration Materials",
   "material.tconstruct.osmium": "Осмій",
   "material.tconstruct.osmium.format": "%s з осмію",
-  "material.tconstruct.osmium.flavor": "Надто тупий, щоби зрозуміти більшість жартів.",
+  "material.tconstruct.osmium.flavor": "Надто тупий, щоб зрозуміти більшість жартів.",
   "material.tconstruct.osmium.encyclopedia": "Запобігає 33% шкоди  ціною 25% додаткової вартости лагодження на першому рівні.",
 
   "material.tconstruct.tungsten": "Вольфрам",
@@ -2190,7 +2190,7 @@
   "modifier.tconstruct.knockback.description": "Ударяння речей жбурляє їх на більшу відстань!",
   "modifier.tconstruct.padded": "Пом'якшеність",
   "modifier.tconstruct.padded.flavor": "Пухкенько!",
-  "modifier.tconstruct.padded.description": "Зменшує віддачу інструмента, щоби не дати вашим ворогам утекти.",
+  "modifier.tconstruct.padded.description": "Зменшує віддачу інструмента, щоб не дати вашим ворогам утекти.",
   "modifier.tconstruct.severing": "Відсічення",
   "modifier.tconstruct.severing.flavor": "Не лише голови, а й лапки та пір'я!",
   "modifier.tconstruct.severing.description": "Потенційно відрізає голови чи інші частини мобів!",
@@ -2274,7 +2274,7 @@
   "modifier.tconstruct.blindshot.description": "Зменшує точність зброї.",
   "modifier.tconstruct.freezing": "Замороження",
   "modifier.tconstruct.freezing.flavor": "Добре, усім. Розслабтеся!",
-  "modifier.tconstruct.freezing.description": "Спричиняє атаки ближнього бою, випущені стріли та контратаки, щоби заморозити ціль.",
+  "modifier.tconstruct.freezing.description": "Спричиняє атаки ближнього бою, випущені стріли та контратаки, щоб заморозити ціль.",
   "modifier.tconstruct.bulk_quiver": "Насипний сагайдак",
   "modifier.tconstruct.bulk_quiver.flavor": "Утримування стріл переоцінено.",
   "modifier.tconstruct.bulk_quiver.description": "Дозволяє луку витягувати стріли з власного інвентарю, коли у вас закінчуються стріли, отримати доступ можна, крадькома + ЛКМ.",
@@ -2313,7 +2313,7 @@
   "modifier.tconstruct.golden.description": "Надає вашим обладункам трохи золотого блиску, піґліни це обожнюють!",
   "modifier.tconstruct.ricochet": "Рикошет",
   "modifier.tconstruct.ricochet.flavor": "Додаткова стрибучість.",
-  "modifier.tconstruct.ricochet.description": "Відстрибуй далі, коли тебе атаковано, щоби легше тікати.",
+  "modifier.tconstruct.ricochet.description": "Відстрибуй далі, коли тебе атаковано, щоб легше тікати.",
   "modifier.tconstruct.revitalizing": "Оживлення",
   "modifier.tconstruct.revitalizing.flavor": "Відчуваю, як тече енергія.",
   "modifier.tconstruct.revitalizing.description": "Підсилює серце, що надає більше сердець.",
@@ -2611,7 +2611,7 @@
   "modifier.tconstruct.wetting.description": "Змушує вас мочитися при отриманні шкоди, що накладає на вас різні ефекти залежно від рідини",
   "modifier.tconstruct.spitting": "Плювання",
   "modifier.tconstruct.spitting.flavor": "Стань кращою ламою",
-  "modifier.tconstruct.spitting.description": "Може заряджати інструмент, щоби запускати рідкі снаряди з танка, застосовуючи ефект до цілі. На нього впливають характеристики лука.",
+  "modifier.tconstruct.spitting.description": "Може заряджати інструмент, щоб запускати рідкі снаряди з танка, застосовуючи ефект до цілі. На нього впливають характеристики лука.",
 
   "_comment": "Bonus modifier slots",
   "modifier.tconstruct.creative_slot": "Слот творчости",
@@ -2655,16 +2655,16 @@
   "__comment": "Three more +1 upgrade modifiers for modpacks",
   "modifier.tconstruct.red_extra_upgrade": "Червоне додаткове покращення",
   "modifier.tconstruct.red_extra_upgrade.flavor": "Для пакетів модів!",
-  "modifier.tconstruct.red_extra_upgrade.description": "Попроси автора свого пакета модів, щоби він надав пакет ресурсів, який надав би краще знання.",
+  "modifier.tconstruct.red_extra_upgrade.description": "Попроси автора свого пакета модів, щоб він надав пакет ресурсів, який надав би краще знання.",
   "modifier.tconstruct.green_extra_upgrade": "Зелене додаткове покращення",
   "modifier.tconstruct.green_extra_upgrade.flavor": "Для пакетів модів!",
-  "modifier.tconstruct.green_extra_upgrade.description": "Попроси автора свого пакета модів, щоби він надав пакет ресурсів, який надав би краще знання.",
+  "modifier.tconstruct.green_extra_upgrade.description": "Попроси автора свого пакета модів, щоб він надав пакет ресурсів, який надав би краще знання.",
   "modifier.tconstruct.blue_extra_upgrade": "Синє додаткове покращення",
   "modifier.tconstruct.blue_extra_upgrade.flavor": "Для пакетів модів!",
-  "modifier.tconstruct.blue_extra_upgrade.description": "Попроси автора свого пакета модів, щоби він надав пакет ресурсів, який надав би краще знання.",
+  "modifier.tconstruct.blue_extra_upgrade.description": "Попроси автора свого пакета модів, щоб він надав пакет ресурсів, який надав би краще знання.",
   "modifier.tconstruct.extra_ability": "Додаткова здібність",
   "modifier.tconstruct.extra_ability.flavor": "Для пакетів модів!",
-  "modifier.tconstruct.extra_ability.description": "Попроси автора свого пакета модів, щоби він надав пакет ресурсів, який надав би краще знання.",
+  "modifier.tconstruct.extra_ability.description": "Попроси автора свого пакета модів, щоб він надав пакет ресурсів, який надав би краще знання.",
 
   "modifier.tconstruct.smelting": "Плавлення",
   "modifier.tconstruct.smelting.flavor": "Гарний хрусткий бекон.",
@@ -2770,7 +2770,7 @@
   "modifier.tconstruct.overcast.description": "Переслиз може бути густішим на цьому інструменті.",
   "modifier.tconstruct.overshield": "Перещит",
   "modifier.tconstruct.overshield.flavor": "Слизощит!",
-  "modifier.tconstruct.overshield.description": "Споживає надмірний слиз, щоби зменшити всі джерела шкоди.",
+  "modifier.tconstruct.overshield.description": "Споживає надмірний слиз, щоб зменшити всі джерела шкоди.",
   "modifier.tconstruct.overshield.resistance": "Перещит",
   "modifier.tconstruct.lacerating": "Обрубання",
   "modifier.tconstruct.lacerating.flavor": "Гострі кути!",
@@ -2982,7 +2982,7 @@
   "modifier.tconstruct.blaze_disguise.flavor": "Було б більш переконливе, якби ви горіли.",
   "modifier.tconstruct.blaze_disguise.description": "Робить вас більш схожими на пломеня для інших пломенів.",
   "modifier.tconstruct.piglin_disguise": "Маскування піґліна",
-  "modifier.tconstruct.piglin_disguise.flavor": "Потрібно трохи золота, щоби закінчити маскування.",
+  "modifier.tconstruct.piglin_disguise.flavor": "Потрібно трохи золота, щоб закінчити маскування.",
   "modifier.tconstruct.piglin_disguise.description": "Робить вас більш схожими на піґліна для інших піґлінів.",
   "modifier.tconstruct.piglin_brute_disguise": "Маскування брутального піґліна",
   "modifier.tconstruct.piglin_brute_disguise.flavor": "Чи цей шрам переконливий?",
@@ -3233,7 +3233,7 @@
   "gui.tconstruct.crafting_station.uncraftable": "Наразі гравець не може змайструвати це предмет",
 
   "gui.tconstruct.part_builder": "Збирач частин",
-  "gui.tconstruct.part_builder.info": "Тут ви можете змайструвати частини інструментів для справдження своїх ремісницьких фантазій.\n\nЩоби створити частину, просто розмістіть порожній шаблон у лівому слоті й обери бажану частину. У інший слот покладіть матеріал, з якого ви хочете змайструвати частину.",
+  "gui.tconstruct.part_builder.info": "Тут ви можете змайструвати частини інструментів для справдження своїх ремісницьких фантазій.\n\nщоб створити частину, просто розмістіть порожній шаблон у лівому слоті й обери бажану частину. У інший слот покладіть матеріал, з якого ви хочете змайструвати частину.",
   "gui.tconstruct.part_builder.material_value": "Вартість матеріалу: %s",
   "gui.tconstruct.part_builder.cost": "Вартість шаблона: %s",
   "gui.tconstruct.part_builder.trait": "Особливість",
@@ -3246,14 +3246,14 @@
 
   "gui.tconstruct.tinker_station": "Ремісницька станція",
   "gui.tconstruct.tinker_station.repair_limited": "Полагодити й модифікувати",
-  "gui.tconstruct.tinker_station.repair_limited.description": "Дозволяє створювати всі базові інструменти й накладати більшість модифікаторів. Оберіть макет серед кнопок зліва, щоби розпочати.",
+  "gui.tconstruct.tinker_station.repair_limited.description": "Дозволяє створювати всі базові інструменти й накладати більшість модифікаторів. Оберіть макет серед кнопок зліва, щоб розпочати.",
   "gui.tconstruct.tinker_station.repair": "Полагодити й модифікувати",
-  "gui.tconstruct.tinker_station.repair.description": "Створюйте малі і широкі та модифікуйте наявні інструменти щоби задовольнити свої мрії! Оберіть макет серед кнопок зліва, щоби розпочати.",
+  "gui.tconstruct.tinker_station.repair.description": "Створюйте малі і широкі та модифікуйте наявні інструменти щоб задовольнити свої мрії! Оберіть макет серед кнопок зліва, щоб розпочати.",
   "gui.tconstruct.tinker_station.modifiers": "Модифікатори",
   "gui.tconstruct.tinker_station.upgrades": "Покращення й здібности",
   "gui.tconstruct.tinker_station.traits": "Особливості",
   "gui.tconstruct.tinker_station.components": "Компоненти",
-  "gui.tconstruct.tinker_station.info": "Основний спосіб полагодити чи змінювати ваші інструменти. Розмісить інструмент і матеріали зліва, щоби розпочати.",
+  "gui.tconstruct.tinker_station.info": "Основний спосіб полагодити чи змінювати ваші інструменти. Розмісить інструмент і матеріали зліва, щоб розпочати.",
   "gui.tconstruct.tinker_station.no_traits": "Жодних :[",
 
   "gui.tconstruct.manual.cycle.recipes": "Прокрутити до інших рецептів",
@@ -3274,13 +3274,13 @@
   "recipe.tconstruct.remove_modifier.no_modifiers": "Інструмент не має жодних модифікаторів, які можна видалити за цим рецептом",
 
   "recipe.tconstruct.modifier_sorting.title": "Модифікатори сортування",
-  "recipe.tconstruct.modifier_sorting.description": "Виберіть модифікатор, щоби поміняти його розташування наступним модифікатором у списку. Не споживає предмети для обміну.",
+  "recipe.tconstruct.modifier_sorting.description": "Виберіть модифікатор, щоб поміняти його розташування наступним модифікатором у списку. Не споживає предмети для обміну.",
   "recipe.tconstruct.modifier_sorting.not_enough_modifiers": "Інструменту потрібні принаймні два модифікатори для сортування",
 
   "recipe.tconstruct.invisible_modifiers.adding.title": "Невидиме чорнило",
-  "recipe.tconstruct.invisible_modifiers.adding.description": "Виберіть модифікатор, щоби приховати його від моделі інструмента",
+  "recipe.tconstruct.invisible_modifiers.adding.description": "Виберіть модифікатор, щоб приховати його від моделі інструмента",
   "recipe.tconstruct.invisible_modifiers.removing.title": "Видиме чорнило",
-  "recipe.tconstruct.invisible_modifiers.removing.description": "Виберіть прихований модифікатор, щоби знову його бачити в моделі інструмента",
+  "recipe.tconstruct.invisible_modifiers.removing.description": "Виберіть прихований модифікатор, щоб знову його бачити в моделі інструмента",
 
   "modifier.tconstruct.attack_toggled": "%s (атака)",
   "recipe.tconstruct.attack_modifiers.adding.title": "Перемкнути взаємодію",
@@ -3299,12 +3299,12 @@
   "recipe.tconstruct.enchantment_converting.description.lost": "Оберіть модифікатор указаного типу із зачарованої книги, щоб отримати його як кристал-модифікатор. Зачарований предмет буде втрачено.",
   "recipe.tconstruct.enchantment_converting.description.keep": "Оберіть модифікатор указаного типу з зачарованої книги, щоб отримати його як кристал-модифікатор. Предмет буде повернено без цього зачарування.",
   "recipe.tconstruct.enchantment_converting.no_enchantments": "Предмет не має застосовних зачарувань",
-  "recipe.tconstruct.enchantment_converting.too_few": "Потрібно надати більше вхідних даних, щоби конвертувати зачарування вищого рівня",
+  "recipe.tconstruct.enchantment_converting.too_few": "Потрібно надати більше вхідних даних, щоб конвертувати зачарування вищого рівня",
 
   "recipe.tconstruct.part_swapping.too_many_parts": "Стіл надто малий для заміни частин цього інструмента",
 
-  "recipe.tconstruct.modifier.not_enough_slot": "Потрібен хоча б 1 слот %s, щоби додати це модифікатор",
-  "recipe.tconstruct.modifier.not_enough_slots": "Потрібно хоча б %s слоти(-ів) %s, щоби додати цей модифікатор",
+  "recipe.tconstruct.modifier.not_enough_slot": "Потрібен хоча б 1 слот %s, щоб додати це модифікатор",
+  "recipe.tconstruct.modifier.not_enough_slots": "Потрібно хоча б %s слоти(-ів) %s, щоб додати цей модифікатор",
   "recipe.tconstruct.modifier.validate_slots": "Ця зміна залишає в інструменті замало слотів %s",
   "recipe.tconstruct.modifier.min_level": "Цей рецепт вимагає, щоб інструмент мав принаймні %s для застосування (не враховуючи особливості)",
   "recipe.tconstruct.modifier.max_level": "%s не може мати рівень вище %s",
@@ -3329,7 +3329,7 @@
   "gui.tconstruct.error.invalid_recipe": "Недійсний рецепт!",
   "gui.tconstruct.error.unknown_material": "Невідомий рецепт",
   "gui.tconstruct.error.useless_tool_part": "Ця частина не може бути використана для майстрування жодного інструмента!\n\nАбо матеріал %s не має деякої інформації, або %s не використовується при майстрування жодного інструмента.",
-  "gui.tconstruct.error.not_enough_durability": "Недостатньо міцности, щоби замінити частини!\nПотрібно на %d більше міцности.",
+  "gui.tconstruct.error.not_enough_durability": "Недостатньо міцности, щоб замінити частини!\nПотрібно на %d більше міцности.",
 
 
   "_comment": "Subtitles for sounds",
@@ -3370,9 +3370,9 @@
   "book.tconstruct.material.craftable": "Збирач частин",
   "book.tconstruct.material.part_builder": "Можна створити в збирачі частин",
   "book.tconstruct.material.castable": "Ллється",
-  "book.tconstruct.material.cast_from": "%s може бути вилито у форми, щоби створити це",
+  "book.tconstruct.material.cast_from": "%s може бути вилито у форми, щоб створити це",
   "book.tconstruct.material.composite": "Компонування",
-  "book.tconstruct.material.composite_from": "%s виливається на частини, матеріалом яких є %s, щоби створити це",
+  "book.tconstruct.material.composite_from": "%s виливається на частини, матеріалом яких є %s, щоб створити це",
   "book.tconstruct.material.skull": "Черепне майстрування",
   "book.tconstruct.material.skull_from": "Можна створити, коли %s обливається ендерслизом у ливарному баку",
 
@@ -3521,7 +3521,7 @@
   "advancements.tconstruct.tools.make_part.title": "Частини",
   "advancements.tconstruct.tools.make_part.description": "Створіть свою першу частину із шаблону й дрібки матеріалу в збирачі частин",
   "advancements.tconstruct.tools.tinker_station.title": "Ремісницька станція",
-  "advancements.tconstruct.tools.tinker_station.description": "Створіть ремісницьку станцію, щоби поєднувати частини в інструменти",
+  "advancements.tconstruct.tools.tinker_station.description": "Створіть ремісницьку станцію, щоб поєднувати частини в інструменти",
   "advancements.tconstruct.tools.tinker_tool.title": "Ремісник-новачок",
   "advancements.tconstruct.tools.tinker_tool.description": "Створіть свій перший інструмент",
   "advancements.tconstruct.tools.travelers_gear.title": "Мандрівник",
@@ -3583,7 +3583,7 @@
 
   "_comment": "Gadget Advancements",
   "advancements.tconstruct.world.tinkers_gadgetry.title": "Ремісницьке знаряддя",
-  "advancements.tconstruct.world.tinkers_gadgetry.description": "Створіть ремісницьке знаряддя, щоби почати досліджувати світ",
+  "advancements.tconstruct.world.tinkers_gadgetry.description": "Створіть ремісницьке знаряддя, щоб почати досліджувати світ",
   "advancements.tconstruct.world.earth_island.title": "Землеслизовий острів",
   "advancements.tconstruct.world.earth_island.description": "Знайдіть землеслизовий острів в океані",
   "advancements.tconstruct.world.sky_island.title": "Небослизовий острів",

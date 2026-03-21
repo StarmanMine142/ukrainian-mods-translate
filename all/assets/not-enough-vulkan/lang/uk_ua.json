@@ -311,7 +311,7 @@
   "sodium-extra.option.moon": "Місяць",
   "sodium-extra.option.moon.tooltip": "Якщо ввімкнено, місяць промальовуватиметься.",
   "sodium-extra.option.multi_dimension_fog": "Багатовимірний туман",
-  "sodium-extra.option.multi_dimension_fog.tooltip": "Якщо ввімкнено, туман у вимірах промальовуватиметься згідно з трьома повзунками; якщо вимкнено — згідно з одним загальним. При ввімкненні, ви маєте вийти з меню та зайти повторно, щоби побачити всі повзунки.",
+  "sodium-extra.option.multi_dimension_fog.tooltip": "Якщо ввімкнено, туман у вимірах промальовуватиметься згідно з трьома повзунками; якщо вимкнено — згідно з одним загальним. При ввімкненні, ви маєте вийти з меню та зайти повторно,  побачити всі повзунки.",
   "sodium-extra.option.overlay_corner": "Накладення інформації",
   "sodium-extra.option.overlay_corner.bottom_left": "Знизу зліва",
   "sodium-extra.option.overlay_corner.bottom_right": "Знизу справа",
@@ -376,7 +376,7 @@
   "sodium-extra.overlay.light_updates": "Оновлення світла вимкнено",
   "sodium-extra.units.ticks": "%s такт(-ів)",
   "not-enough-vulkan.option.skip_wayland_patches": "Пропустити патчі Wayland",
-  "not-enough-vulkan.option.skip_wayland_patches.tooltip": "Пропускає виправлення сумісності з Wayland у Linux, щоби ввімкнути власні обхідні шляхи GLFW (доступні лише під час використання Wayland). Деякі ефекти потребують перезапуску.",
+  "not-enough-vulkan.option.skip_wayland_patches.tooltip": "Пропускає виправлення сумісності з Wayland у Linux, щоб увімкнути власні обхідні шляхи GLFW (доступні лише під час використання Wayland). Деякі ефекти потребують перезапуску.",
   "not-enough-vulkan.option.monitor_selector": "Монітор повного екрана",
   "not-enough-vulkan.option.monitor_selector.tooltip": "Монітор, який використовуватиметься під час гри в повному екрані."
 }

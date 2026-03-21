@@ -2,13 +2,13 @@
 	"item.ring_of_miner.ring_of_miner": "Кільце добування",
 
 	"item.ring_of_miner.ring_of_miner.line1": "Ламає більшість стандартних блоків навколо гравця",
-	"item.ring_of_miner.ring_of_miner.line2": "ПКМ, щоби зламати блоки, без випадіння",
-	"item.ring_of_miner.ring_of_miner.line3": "Shift + ПКМ, щоби зламати блоки з випадінням",
+	"item.ring_of_miner.ring_of_miner.line2": "ПКМ, щоб зламати блоки, без випадіння",
+	"item.ring_of_miner.ring_of_miner.line3": "Shift + ПКМ, щои зламати блоки з випадінням",
 	"item.ring_of_miner.ring_of_miner.line4": "Зона дії: %s x %s",
 	"item.ring_of_miner.ring_of_miner.cooldown": "Перезарядка (такти): %s",
 	"item.ring_of_miner.ring_of_miner.mode": "Режим ламання блока: %s",
-	"item.ring_of_miner.ring_of_miner.line5": "ПКМ, щоби зламати блоки з випадінням",
-	"item.ring_of_miner.ring_of_miner.line6": "Shift + ПКМ, щоби розбити зламати, без випадіння",
+	"item.ring_of_miner.ring_of_miner.line5": "ПКМ, щоб зламати блоки з випадінням",
+	"item.ring_of_miner.ring_of_miner.line6": "Shift + ПКМ, щоб зламати, без випадіння",
 
 	"tag.item.c.iron_ores": "Теґи для сумісности кільця добування",
 	"tag.item.c.emerald_ores": "Теґи для сумісности кільця добування",

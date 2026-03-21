@@ -1,5 +1,5 @@
 {
-  "block.blockrunner.speedMultiplier": "Множник швидкости: %s"
+  "block.blockrunner.speedMultiplier": "Множник швидкости: %s",
   "tag.block.blockrunner.quick_blocks": "Пришвидшувальні блоки",
   "tag.block.blockrunner.slightly_quick_blocks": "Трохи пришвидшувальні блоки",
   "tag.block.blockrunner.slightly_slow_blocks": "Трохи вповільнювальні блоки",

@@ -22,7 +22,7 @@
   "eplt.editor.overlay.enabled": "УВІМК.",
   "eplt.editor.overlay.disabled": "ВИМК.",
   "eplt.editor.overlay.text": "Накладення мови",
-  "eplt.editor.overlay.tooltip": "Щоби мова завжди була ввімкнена в пакеті ресурсів, експортуйте мову у файл.",
+  "eplt.editor.overlay.tooltip": "Щоб мова завжди була ввімкнена в пакеті ресурсів, експортуйте мову у файл.",
   "eplt.editor.search.text": "Пошук перекладів",
   "eplt.editor.finished.mod": "[Мод] %s",
   "eplt.editor.finished.resource_pack": "[Пакет ресурсів] %s",

@@ -63,7 +63,7 @@
   "text.autoconfig.undeadnights.option.blockLightLevelsInfluenceMonsterSpawns": "Свтіло запобігає Орді (наприклад, смолоскипи)",
   "text.autoconfig.undeadnights.option.blockLightLevelsInfluenceMonsterSpawns.@Tooltip": "Якщо ввімкнено, рівень освітлености блока може запобігти появі Орди мобів. | Усталено: вимкнено",
   "text.autoconfig.undeadnights.option.maxBlockLightLevelForMonsterSpawns": "Максимальний освітленість появи моба",
-  "text.autoconfig.undeadnights.option.maxBlockLightLevelForMonsterSpawns.@Tooltip": "Максимальний рівень світла блока, щоби монстр міг з'ялятися. | Усталено: 0",
+  "text.autoconfig.undeadnights.option.maxBlockLightLevelForMonsterSpawns.@Tooltip": "Максимальний рівень світла блока, щоб монстр міг з'ялятися. | Усталено: 0",
   "text.autoconfig.undeadnights.option.hordeNightsDisableSleeping": "Заборонити гравцям спати в Ніч Орди",
   "text.autoconfig.undeadnights.option.hordeNightsDisableSleeping.@Tooltip": "Якщо ввімкнено, гравці не можуть спати протягом Ночі Орди. | Усталено: ввімкнено",
   "text.autoconfig.undeadnights.option.persistentMobs": "Зробити мобів Орди стійкими",

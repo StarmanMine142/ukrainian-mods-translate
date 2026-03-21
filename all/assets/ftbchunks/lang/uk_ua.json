@@ -224,7 +224,7 @@
   "ftbchunks.claim_result.not_claimed": "Чанк не захоплено",
   "ftbchunks.claim_result.already_loaded": "Чанк уже завантажено",
   "ftbchunks.claim_result.not_loaded": "Чанк не завантажено",
-  "ftbchunks.need_to_claim_chunk": "Вам потрібно захопити чанк, щоби взаємодіяти з блоками тут!",
+  "ftbchunks.need_to_claim_chunk": "Вам потрібно захопити чанк, щоб взаємодіяти з блоками тут!",
   "ftbchunks.action_prevented": "Взаємодії запобіг захист захоплення!",
   "ftbchunks.label.show": "Показати",
   "ftbchunks.label.hide": "Приховати",

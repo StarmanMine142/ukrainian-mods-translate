@@ -1,5 +1,4 @@
 {
-  "modmenu.descriptionTranslation.lolmbv": "Додає більше варіантів книжкової полиці",
   "block.lolmbv.spruce_bookshelf": "Смерекова книжкова полиця",
   "block.lolmbv.birch_bookshelf": "Березова книжкова полиця",
   "block.lolmbv.jungle_bookshelf": "Тропічна книжкова полиця",
@@ -9,5 +8,6 @@
   "block.lolmbv.cherry_bookshelf": "Вишнева книжкова полиця",
   "block.lolmbv.bamboo_bookshelf": "Бамбукова книжкова полиця",
   "block.lolmbv.crimson_bookshelf": "Багряна книжкова полиця",
-  "block.lolmbv.warped_bookshelf": "Химерна книжкова полиця"
+  "block.lolmbv.warped_bookshelf": "Химерна книжкова полиця",
+  "modmenu.descriptionTranslation.lolmbv": "Додає більше варіантів книжкової полиці."
 }

@@ -22,7 +22,7 @@
   "bcbui.config.indentation": "Відступ",
   "bcbui.config.ignoreEnter": "Ігнорувати Enter",
   "bcbui.config.autosave": "Автозбереження",
-  "bcbui.areaSelection.start": "[Розпочато вибір області]",
+  "bcbui.areaSelection.start": "[Розпочато вибір области]",
   "bcbui.areaSelection.end": "[Вибрану область скопійовано в буфер обміну]",
   "bcbui.direction.up": "Згори",
   "bcbui.direction.down": "Знизу",

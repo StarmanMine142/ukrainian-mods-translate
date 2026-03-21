@@ -4,14 +4,14 @@
 	"entity.bearminimum.brown_bear": "Бурий ведмідь",
 	"item.bearminimum.black_bear_spawn_egg": "Яйце виклику чорного ведмедя",
 	"item.bearminimum.brown_bear_spawn_egg": "Яйце виклику бурого ведмедя",
-	"item.bearminimum.bear_meat": "Ведмеже м'ясо",
-	"item.bearminimum.cooked_bear_meat": "Смажене м'ясо ведмедя",
+	"item.bearminimum.bear_meat": "Ведмежатина",
+	"item.bearminimum.cooked_bear_meat": "Смажена ведмежатина",
 	"tag.item.bearminimum.black_bear_food": "Їжа чорного ведмедя",
 	"tag.entity_type.bearminimum.black_bear_prey": "Здобич чорного ведмедя",
 	"tag.entity_type.bearminimum.black_bear_forage": "Корм чорного ведмедя",
 	"tag.item.bearminimum.brown_bear_food": "Їжа бурого ведмедя",
 	"tag.entity_type.bearminimum.brown_bear_prey": "Здобич бурого ведмедя",
 	"tag.entity_type.bearminimum.brown_bear_forage": "Корм бурого ведмедя",
-        "modmenu.descriptionTranslation.bearminimum": "Мінімальний мод, який додає більше різновидів ведмедів та збалансовує білих ведмедів.",
-        "fml.menu.mods.info.description.bearminimum": "Мінімальний мод, який додає більше різновидів ведмедів та збалансовує білих ведмедів."
+    "modmenu.descriptionTranslation.bearminimum": "Мінімальний мод, який додає більше різновидів ведмедів та збалансовує білих ведмедів.",
+    "fml.menu.mods.info.description.bearminimum": "Мінімальний мод, який додає більше різновидів ведмедів та збалансовує білих ведмедів."
 }

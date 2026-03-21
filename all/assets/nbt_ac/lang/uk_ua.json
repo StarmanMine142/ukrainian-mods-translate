@@ -52,7 +52,7 @@
   "nbt_ac.options.field.show_tag_hints.desc": "Показує підказки теґу (як-от його тип або джерело) поруч із його назвою у списку пропозицій.",
 
   "nbt_ac.options.field.hide_forge_tags": "Приховати теґи Forge",
-  "nbt_ac.options.field.hide_forge_tags.desc": "Приховує спеціальні теґи Forge. Потрібно видалити «./minecraft/cache/nbt_ac» і перезапустити гру, щоби набула чинности.",
+  "nbt_ac.options.field.hide_forge_tags.desc": "Приховує спеціальні теґи Forge. Потрібно видалити «./minecraft/cache/nbt_ac» і перезапустити гру, щоб набула чинности.",
 
 
   "nbt_ac.options.field.custom_sorting": "Власне сортування",
@@ -115,7 +115,7 @@
 
   "nbt_ac.options.field.max_cached_instances": "Максимум кешованих екземплярів",
   "nbt_ac.options.field.max_cached_instances.-1": "[необмежено]",
-  "nbt_ac.options.field.max_cached_instances.desc": "Максимальна кількість кешованих екземплярів Minecraft. Використовуйте -1, щоби вимкнути обмеження.",
+  "nbt_ac.options.field.max_cached_instances.desc": "Максимальна кількість кешованих екземплярів Minecraft. Використовуйте -1, щоб вимкнути обмеження.",
 
 
   "nbt_ac.options.field.max_stack_traces": "Максимальна кількість зареєстрованих трасувань стека",

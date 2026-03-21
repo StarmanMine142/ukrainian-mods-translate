@@ -8,7 +8,7 @@
     "misc.apothic_spawners.value_concat": "%s: %s",
     "misc.apothic_spawners.min_value": "Мін. значення: %s",
     "misc.apothic_spawners.max_value": "Макс. значення: %s",
-    "misc.apothic_spawners.mainhand": "У основный руці",
+    "misc.apothic_spawners.mainhand": "В основный руці",
     "misc.apothic_spawners.offhand": "У другій руці",
     "misc.apothic_spawners.not_consumed": "Цей предмет не витрачається",
     "misc.apothic_spawners.rclick_spawner": "Натисніть ПКМ по породжувачу",

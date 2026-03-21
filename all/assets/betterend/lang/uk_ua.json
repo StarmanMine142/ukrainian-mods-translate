@@ -1070,7 +1070,7 @@
   "itemGroup.betterend.items": "BetterEnd: Предмети",
   "itemGroup.betterend.nature": "BetterEnd: Рослини",
   "message.betterend.anvil_damage": "§cЩкода",
-  "message.betterend.fail_spawn": "§c§lВам потрібно тримати 6 бурштинових кристалів, щоби встановити точку відродження",
+  "message.betterend.fail_spawn": "§c§lВам потрібно тримати 6 бурштинових кристалів, щоб установити точку відродження",
   "message.betterend.set_spawn": "§b§lВашу точку відродження встановлено тут",
   "tag.betterend.alloying_copper": "Мідні руди",
   "tag.betterend.alloying_gold": "Золоті руди",

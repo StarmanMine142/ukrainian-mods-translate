@@ -103,7 +103,7 @@
     "item.storagedrawers.remote_group_upgrade_bound.bound": "Прив'язано до контролера [%d, %d, %d]",
     "item.storagedrawers.upgrade_template": "Шаблон покращення",
     "item.storagedrawers.drawer_key": "Ключ ящика",
-    "item.storagedrawers.drawer_key.desc": "Замикає та відмикає ящики\nТримайте іншій руці, щоби заблокувати щойно встановлений ящик",
+    "item.storagedrawers.drawer_key.desc": "Замикає та відмикає ящики\nТримайте іншій руці, щоб заблокувати щойно встановлений ящик",
     "item.storagedrawers.shroud_key": "Ключ приховування",
     "item.storagedrawers.shroud_key.desc": "Показати або приховати мітки предметів",
     "item.storagedrawers.quantify_key": "Ключ кількости",

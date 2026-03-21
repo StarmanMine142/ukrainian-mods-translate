@@ -50,6 +50,7 @@
   
   "__support_gofish": "Go Fish support https://www.curseforge.com/minecraft/mc-mods/go-fish",
   "enchantment.gofish.deepfry.desc": "Спіймавши певну рибу, вона одразу буде смаженою.",
+  
   "modmenu.descriptionTranslation.enchdesc": "Додає описи зачарувань до підказки.",
   "fml.menu.mods.info.description.enchdesc": "Додає описи зачарувань до підказки."
 }

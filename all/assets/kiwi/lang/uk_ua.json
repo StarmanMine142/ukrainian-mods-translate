@@ -16,7 +16,7 @@
   "item.kiwi.first_item.tip.shift": "§2Curabitur pretium tincidunt lacus. Nulla gravida orci a odio.\n\nNullam varius, turpis et commodo pharetra, est eros bibendum elit, nec luctus magna felis sollicitudin mauris.\n\nInteger in mauris eu nibh euismod gravida.",
   "key.kiwi.builders_button2": "Кнопка будівника (Kiwi)",
   "kiwi.builder_mode.debug_entry": "Режим будівника ввімкнено.",
-  "kiwi.builder_mode.debug_key_hint": "Утримуйте %s, щоби вийти",
+  "kiwi.builder_mode.debug_key_hint": "Утримуйте %s, щоб вийти",
   "kiwi.builder_mode.off": "Режим будівника: §cВИМК.",
   "kiwi.builder_mode.on": "Режим будівника: §aУВІМК.",
   "kiwi.config.client": "На стороні клієту",
