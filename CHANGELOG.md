@@ -2,10 +2,10 @@
 
 Покращено переклад <br>
 Оновлено переклад [Waystones](https://modrinth.com/mod/waystones), [Re:Animal](https://modrinth.com/mod/re-animal) <br>
-Оновлено і покращено переклад 
+Оновлено і покращено переклад [Relics](https://modrinth.com/mod/relics-mod)
 
 До перекладу [Tarot Cards](https://modrinth.com/mod/tarot-cards) додано підтримку [TarotCards: Remastered](https://modrinth.com/mod/tarotcards-remastered)
 
-Видалено переклад [Balm](https://modrinth.com/mod/balm), [TerraFirmaCraft](https://modrinth.com/mod/terrafirmacraft) оскільки додано в самі моди
-
 Виправлено незастосовуваність деяких перекладів
+
+Видалено переклад [Balm](https://modrinth.com/mod/balm), [TerraFirmaCraft](https://modrinth.com/mod/terrafirmacraft) оскільки додано в самі моди
