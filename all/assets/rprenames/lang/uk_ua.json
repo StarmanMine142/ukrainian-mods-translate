@@ -24,14 +24,16 @@
   "rprenames.key.rmb": "ПКМ",
 
   "rprenames.command.disableHints.disabled": "Підказки більше вас не турбуватимуть!",
-  "rprenames.command.disableHints.enabled": "Знову увімкнено підказки!",
-  "rprenames.command.disableHints.howToTurnOn": "Скористайтеся %1$s, щоб ввімкнути їх, або знайдіть це налаштуваннях",
+  "rprenames.command.disableHints.enabled": "Знову ввімкнено підказки!",
+  "rprenames.command.disableHints.howToTurnOn": "Скористайтеся %1$s, щоб увімкнути їх, або знайдіть це налаштуваннях",
   "rprenames.command.info.noItemGiven": "Утримуйте перейменований предмет, щоб переглянути його перейменування!",
   "rprenames.command.info.noRenamesFound": "Перейменування не знайдено",
   "rprenames.command.info.foundProperties": "Знайдено перейменування:",
   "rprenames.command.info.cemProperties": "Властивості CEM:",
   "rprenames.command.info.noPath": "Не вдалося отримати шлях до файлу для цього перейменування",
   "rprenames.command.info.noRpName": "Не вдалося отримати назву пакета для цього перейменування",
+  "rprenames.command.info.requiredConditions": "Необхідні умови: %1$s",
+  "rprenames.command.info.availableContexts": "Доступні контексти: %1$s",
   "rprenames.command.info.rpName": "Назва пакету:",
   "rprenames.command.info.located": "Знаходиться в: %1$s",
   "rprenames.command.list.foundRenames": "Знайдено перейменування для %1$s:",
@@ -56,7 +58,7 @@
   "rprenames.config.general.creativeTabCategory.compareItemGroupRenames": "Об’єднати перейменування в групі предметів",
   "rprenames.config.general.creativeTabCategory.compareItemGroupRenames.tooltip": "Якщо «Так», перейменування з декількома предметами буде показано один раз вкладці інвентарю творчости RPRenames.",
   "rprenames.config.general.creativeTabCategory.generateSpawnEggsInItemGroup": "Перетворити перейменування CEM в яйця виклику",
-  "rprenames.config.general.creativeTabCategory.generateSpawnEggsInItemGroup.tooltip": "Якщо «Так», перейменування CEM ьуде видно як якця виклику у вкладці RPRenames в інвентарі творчости, інакше як ярлики.",
+  "rprenames.config.general.creativeTabCategory.generateSpawnEggsInItemGroup.tooltip": "Якщо «Так», перейменування CEM буде видно як яйця виклику у вкладці RPRenames в інвентарі творчости, інакше як ярлики.",
 
   "rprenames.config.general.loadModBuiltinResources": "Завантажувати вбудовані пакети ресурсів модів",
   "rprenames.config.general.loadModBuiltinResources.tooltip": "Якщо «Так», додає вбудовані пакети ресурсів модів. Якщо «Ні», не буде видно. Необхідний перезапуск.",
@@ -112,7 +114,7 @@
 
   "rprenames.config.gui.previewCategory.entityCategory.spinMobPreview": "Обертання мобів при перегляді",
   "rprenames.config.gui.previewCategory.entityCategory.spinMobPreview.tooltip": "Якщо «Ні», CEM мобів при перегляді не обертатиметься та буде зафіксовано на 45 градусів.",
-  "rprenames.config.gui.previewCategory.entityCategory.disableSnowGolemPumpkin": "Вимкнути гарбуз снігово ґолема",
+  "rprenames.config.gui.previewCategory.entityCategory.disableSnowGolemPumpkin": "Вимкнути гарбуз снігового ґолема",
   "rprenames.config.gui.previewCategory.entityCategory.disableSnowGolemPumpkin.tooltip": "Якщо «Так», сніговий ґолем при перегляді CEM буде без гарбуза.",
 
   "rprenames.config.gui.previewCategory.scaleCategory.scaleFactorItem": "Коефіцієнт масштабу при перегляду предмета",
@@ -127,7 +129,7 @@
 
   "rprenames.config.debug.updateConfig": "Оновлення перейменування",
   "rprenames.config.debug.updateConfig.tooltip": "Оновлювати список перейменувань під час оновлення пакетів ресурсів чи ні.",
-  "rprenames.config.debug.recreateConfig": "Перепошук",
+  "rprenames.config.debug.recreateConfig": "Дослідити перейменувань",
   "rprenames.config.debug.recreateConfig.tooltip": "Відновити список перейменувань вручну.",
   "rprenames.config.debug.recreateConfig.title": "Перестворити",
   "rprenames.config.debug.clearConfig": "Очистити перейменування",
@@ -138,7 +140,7 @@
   "rprenames.config.debug.showOriginalProperties": "Показувати оригінальні властивості",
   "rprenames.config.debug.showOriginalProperties.tooltip": "Якщо «Так», спрощені значення додаткових властивостей у підказках буде видно так, як вони записані у файлі «.properties».",
   "rprenames.config.debug.fixDelayedPacketsChangingTab": "Виправити зміну вкладки після автоматичного розміщення предметів",
-  "rprenames.config.debug.fixDelayedPacketsChangingTab.tooltip": "Іноді після автоматичного розміщення предметів у ковадлі сервер може відповісти 2 пакетами, одним для попереднього стану та другим для фактичного оновлення слота.\nRPR зараховує ці зміни як ручне переміщення предметів гравцем, що призводить до зміни вкладки на «Пошук» і скидання імені у nameField.\nЯкщо «Так», він спробує це виправити.\nНе рекомендується вмикати його, якщо ви не стикалися з цією проблемою.",
+  "rprenames.config.debug.fixDelayedPacketsChangingTab.tooltip": "Іноді після автоматичного розміщення предметів у ковадлі сервер може відповісти 2 пакетами, одним для попереднього стану та другим для фактичного оновлення слота.\nRPR зараховує ці зміни як ручне переміщення предметів гравцем, що призводить до зміни вкладки на «Пошук» і скидання імені у nameField.\nЯкщо «Так», він спробує це виправити.\nНе рекомендується вмикати, якщо ви не стикалися з цією проблемою.",
 
   "rprenames.config.general.creativeTabCategory": "Вкладка RPRenames в інвентарі творчости",
   "rprenames.config.gui.tooltipCategory": "Підказка",
@@ -146,9 +148,14 @@
   "rprenames.config.gui.renderCategory": "Промальовування",
   "rprenames.config.gui.renderCategory.slotHighlightColorCategory": "Колів виділеного слота",
   "rprenames.config.gui.previewCategory": "Перегляд",
-  "rprenames.config.gui.previewCategory.previewScaleCategory": "Масштам",
+  "rprenames.config.gui.previewCategory.previewScaleCategory": "Масштаб",
   "rprenames.config.gui.previewCategory.playerCategory": "Гравець",
   "rprenames.config.gui.previewCategory.entityCategory": "Моб",
   "rprenames.config.gui.hintsCategory": "Підказки",
-  "modmenu.descriptionTranslation.rprenames": "Показує перейменування для предметів і мобів!"
+
+  "rprenames.builtinResourcePack.vanillish": "RPRenames Vannilish",
+  "rprenames.builtinResourcePack.default_dark_mode": "RPRenames Default Dark Mode",
+  "rprenames.builtinResourcePack.high_contrasted": "Висока контрастність RPRenames",
+
+  "modmenu.descriptionTranslation.rprenames": "Перегляньте всі перейменування пакетів ресурсів у новому каталозі інтерфейсу ковадла!"
 }
