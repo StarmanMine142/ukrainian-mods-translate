@@ -47,8 +47,6 @@
   "item.tarotcards.wheel_of_fortune": "Таро : Колесо фортуни",
   "item.tarotcards.wheel_of_fortune.desc": "+%d везіння.",
 
-  "tag.item.tarotcards.tarot_cards": "Карти таро",
-
   "advancements.tarotcards.root.title": "Розберіться з долею",
   "advancements.tarotcards.root.description": "Карти витягнуті. Ваша доля більше не написана на камені",
   "advancements.tarotcards.deck_collector.title": "Колекціонер Великих Арканів",
@@ -58,6 +56,8 @@
   "commands.tarotcards.decksize.set": "Установлено розмір колоди %s на %s",
   "commands.tarotcards.decksize.warning": "Розмір колоди для кожного гравця вимкнено. Ця зміна почне діяти лише після ввімкнення в налаштуваннях",
   "commands.tarotcards.decksize.invalid": "Недійсний розмір колоди. Уведіть значення від 0 до 22",
+
+  "key.tarotcards.open_deck": "Відкрити колоду таро",
 
   "tarotcards.config.tick_rate.desc": "Скільки тактів потрібно, щоб перевірити, чи є у гравця таро чи ні, більше = більша продуктивність, але більше часу для активації/деактивації ефектів",
   "tarotcards.config.per_player_deck_size.desc": "Дозволяє розмірам колод окремих гравців перевизначати глобальні налаштування. У цьому режимі tarot_deck_size використовується як усталене значення.",
@@ -69,7 +69,6 @@
   "tarotcards.config.min_xp_level_required.desc": "Визначте мінімальний рівень досвіду, необхідний для кожної карти таро",
   "tarotcards.config.required_advancements.desc": "Показує кожну карту таро для певного шляху досягнення. Якщо порожня або недійсна, просування не потрібне",
 
-  "tarotcards.config.loot.target_loots.desc": "Карти таро створюватимуться в таблицях здобичі з цього списку (тільки для Fabric)",
   "tarotcards.config.loot.default_loot_chance.desc": "Імовірність того, що карта таро з'явиться в усталеній здобичі (0,75 = 75%) (1,0 = у скринях завжди буде одна карта таро)",
   "tarotcards.config.loot.do_loot_generation.desc": "Якщо карти таро слід додати до усталених таблиць здобичі, указаних у даних",
 
@@ -89,7 +88,9 @@
   "tarotcards.config.cards.the_hermit_allyrange.desc": "Як далеко гравець має бути від союзників, щоб активувати",
   "tarotcards.config.cards.the_hermit_armorbonus.desc": "Скільки захисту додається, коли далеко від союзників",
   "tarotcards.config.cards.the_hierophant_xpboost.desc": "Збільшення досвіду у відсотках (2 = +200%)",
-  "tarotcards.config.cards.the_highpriestess_capenchants.desc": "Зупиняє оновлення зачарованих книг, коли вони досягають максимального рівня",
+  "tarotcards.config.cards.the_highpriestess_taxfree.desc": "Перетворює вартість рівня на фіксовані очки досвіду. Наприклад: якщо покращення коштує 5 рівнів, воно лише вираховує досвід, необхідний для рівень 0-5, замість того, щоб опустити гравця зі 100 до 95",
+  "tarotcards.config.cards.the_highpriestess_skip_maxed.desc": "Якщо ввімкнено, карта автоматично шукатиме перше зачарування, яке не досягло максимального рівня. Якщо вимкнено, вона намагатиметься оновити лише найперше зачарування у списку",
+  "tarotcards.config.cards.the_highpriestess_capenchants.desc": "Увімкніть, щоб дозволити покращувати чари понад їхній максимальний стандартний рівень (плюс додаткові_рівні)",
   "tarotcards.config.cards.the_highpriestess_upgradecost.desc": "Скільки кожен рівень зачарування коштує оновлення (вартість = рівень_зачарування * цей_параметр)",
   "tarotcards.config.cards.the_highpriestess_extra_levels.desc": "Дозволяє оновлювати зачаровані книги понад їхній природний максимальний рівень за допомогою такої кількости додаткових рівнів (працює, лише якщо capenchants true)",
   "tarotcards.config.cards.the_lovers_range.desc": "Наскільки близькі союзники повинні бути, щоб застосувати регенерацію",
