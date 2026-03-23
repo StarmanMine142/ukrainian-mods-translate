@@ -3,9 +3,16 @@
   "item.moreberryuses.black_forest_cake": "Шварцвальдське ґато",
   "item.moreberryuses.trail_mix": "Трейл-мікс",
   "item.moreberryuses.fruit_salad": "Фруктовий салат",
-  "item.moreberryuses.glow_berry_smoothie": "Смузі з сяйних ягід",
-  "item.moreberryuses.glow_berry_muffin": "Мафін із сяйних ягід",
+  "item.moreberryuses.glow_berry_smoothie": "Смузі зі сяйних ягід",
+  "item.moreberryuses.glow_berry_muffin": "Мафін зі сяйних ягід",
   "item.moreberryuses.jam": "Варення",
+  "item.moreberryuses.sweet_berry_yogurt": "Йогурт із солодких ягід",
+  "item.moreberryuses.mixed_berry_sundae": "Ягідний сандей",
+  "item.moreberryuses.glow_berry_icecream": "Морозиво зі сяйних ягід",
+  "item.moreberryuses.sweet_berry_sorbet": "Сорберт із солодких ягід",
+  "item.moreberryuses.sweet_berry_jelly": "Желе із солодких ягід",
+  "item.moreberryuses.jam_sandwich": "Сендвіч з варенням",
+  "item.moreberryuses.jam_cookie": "Печиво з варенням",
   "modmenu.descriptionTranslation.moreberryuses": "Додає більше використань для солодких та сяйних ягід.",
   "fml.menu.mods.info.description.moreberryuses": "Додає більше використань для солодких та сяйних ягід."
 }
