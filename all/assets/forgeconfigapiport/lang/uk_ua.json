@@ -13,7 +13,7 @@
   "neoforge.configuration.uitext.title.common": "%s загальні налаштування",
   "neoforge.configuration.uitext.title.startup": "%s налаштування запуску",
 
-  "neoforge.configuration.uitext.notonline": "§cНалаштування тут визначаються сервером і не можуть бути змінені під час онлайн§r",
+  "neoforge.configuration.uitext.notonline": "§cНалаштування тут визначаються сервером і не можуть бути змінені в мережі§r",
   "neoforge.configuration.uitext.notlan": "§cНалаштування тут не можна редагувати, поки ваша гра відкрита в локальній мережі. Поверніться до головного меню та знову завантажте світ§r",
   "neoforge.configuration.uitext.notloaded": "§cНалаштування тут доступні тільки під час завантаження світу§r",
   "neoforge.configuration.uitext.unsupportedelement": "§cЦе значення не можна редагувати в інтерфейсі. Будь ласка, зв’яжіться з автором мода, щоб надати для нього власний інтерфейс§r",
@@ -40,7 +40,7 @@
   "neoforge.configuration.uitext.restart.server.title": "Світ потрібно перезавантажити",
   "neoforge.configuration.uitext.restart.server.text": "Один або кілька налаштувань, які було змінено, набудуть чинности лише після перезавантаження світу",
   "neoforge.configuration.uitext.restart.return": "Ігнорувати",
-  "neoforge.configuration.uitext.restart.return.tooltip": "§c§lВаші зміни не матимуть ефекту, доки ви не перезапустите!§r."
+  "neoforge.configuration.uitext.restart.return.tooltip": "§c§lВаші зміни не матимуть ефекту, доки ви не перезапустите!§r.",
 
   "modmenu.summaryTranslation.forgeconfigapiport": "Порт системи налаштувань NeoForge і Forge.",
   "modmenu.descriptionTranslation.forgeconfigapiport": "Системи налаштувань NeoForge і Forge, портовані на інші завантажувачі модів. Розроблено для багатоплатформової архітектури.",
