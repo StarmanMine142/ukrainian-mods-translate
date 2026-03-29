@@ -129,10 +129,10 @@
 
   "rprenames.config.debug.updateConfig": "Оновлення перейменування",
   "rprenames.config.debug.updateConfig.tooltip": "Оновлювати список перейменувань під час оновлення пакетів ресурсів чи ні.",
-  "rprenames.config.debug.recreateConfig": "Дослідити перейменувань",
+  "rprenames.config.debug.recreateConfig": "Досліджувати перейменування",
   "rprenames.config.debug.recreateConfig.tooltip": "Відновити список перейменувань вручну.",
   "rprenames.config.debug.recreateConfig.title": "Перестворити",
-  "rprenames.config.debug.clearConfig": "Очистити перейменування",
+  "rprenames.config.debug.clearConfig": "Очищати перейменування",
   "rprenames.config.debug.clearConfig.tooltip": "Видалити дані про всі поточні активні перейменування вручну(воно буде оновлено під час наступного оновлення пакетів ресурсів, якщо «Оновлення перейменування» має значення «Так»).",
   "rprenames.config.debug.clearConfig.title": "Очистити",
   "rprenames.config.debug.showNbtDisplayName": "Показувати шаблон назв",
