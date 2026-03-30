@@ -1,0 +1,34 @@
+{
+  "block.sulphur_backport.sulphur_block": "Сірка",
+  "block.sulphur_backport.cinnabar_block": "Кіновар",
+
+  "block.sulphur_backport.potent_sulphur": "Вагома сірка",
+
+  "block.sulphur_backport.sulphur_stairs": "Сірчані сходи",
+  "block.sulphur_backport.sulphur_slab": "Сірчана плита",
+  "block.sulphur_backport.sulphur_wall": "Сірчана стіна",
+  "block.sulphur_backport.cinnabar_stairs": "Кіноварні сходи",
+  "block.sulphur_backport.cinnabar_slab": "Кіноварна плита",
+  "block.sulphur_backport.cinnabar_wall": "Кіноварна стіна",
+
+  "block.sulphur_backport.chiseled_sulphur": "Різьблена сірка",
+  "block.sulphur_backport.chiseled_cinnabar": "Різьблений кіновар",
+
+  "block.sulphur_backport.polished_sulphur": "Полірована сірка",
+  "block.sulphur_backport.polished_cinnabar": "Полірований кіновар",
+  "block.sulphur_backport.polished_sulphur_stairs": "Сходи з полірованої сірки",
+  "block.sulphur_backport.polished_sulphur_slab": "Плита з полірованої сірки",
+  "block.sulphur_backport.polished_sulphur_wall": "Стіна з полірованої сірки",
+  "block.sulphur_backport.polished_cinnabar_stairs": "Сходи з полірованого кіновару",
+  "block.sulphur_backport.polished_cinnabar_slab": "Плита з полірованого кіновару",
+  "block.sulphur_backport.polished_cinnabar_wall": "Стіна з полірованого кіновару",
+
+  "block.sulphur_backport.sulphur_bricks": "Сірчана цегла",
+  "block.sulphur_backport.cinnabar_bricks": "Кіноварна цегла",
+  "block.sulphur_backport.sulphur_brick_stairs": "Сходи з сірчаної цегли",
+  "block.sulphur_backport.sulphur_brick_slab": "Плита з сірчаної цегли",
+  "block.sulphur_backport.cinnabar_brick_stairs": "Сходи з кіноварної цегли",
+  "block.sulphur_backport.cinnabar_brick_slab": "Плита з кіноварної цегли",
+
+  "modmenu.descriptionTranslation.sulphur_backport": "Портує сірку та кіновар з ігрового покращення «Chaos Cubed»."
+}

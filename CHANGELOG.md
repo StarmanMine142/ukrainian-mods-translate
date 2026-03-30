@@ -1,4 +1,4 @@
-Перекладено 
+Перекладено [Sulphur Backport](https://modrinth.com/mod/sulphur_backport)
 
 Покращено переклад <br>
 Оновлено переклад <br>
