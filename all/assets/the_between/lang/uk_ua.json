@@ -1,0 +1,12 @@
+{
+  "block.the_between.keystone": "Ключкамінь",
+  "subtitles.block.the_between.keystone.engrave": "Ключкамінь гравюровано",
+
+  "block.the_between.linked_portal": "Зв'язаний портал",
+  "subtitles.block.the_between.linked_portal.ambient": "Портал шепоче",
+  "subtitles.block.the_between.linked_portal.close": "Портал зачинено",
+  "subtitles.block.the_between.linked_portal.open": "Портал відчинено",
+  "subtitles.block.the_between.linked_portal.link": "Портал з'єдується",
+  "subtitles.block.the_between.linked_portal.begin_teleport": "Портал виглядає між",
+  "subtitles.block.the_between.linked_portal.teleport": "Портал телепортує"
+}
