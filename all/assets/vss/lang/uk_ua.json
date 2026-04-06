@@ -2,7 +2,7 @@
   "vss.config.page": "Загальні",
   "vss.config.receive_server_lods": "Отримувати зони РД сервера",
   "vss.config.receive_server_lods.tooltip": "Чи отримувати дані чанків зони РД із сервера. Якщо вимкнути це, усі зони РД в мережі зупиняються.",
-  "vss.config.lod_distance": "Дальність зони рд",
+  "vss.config.lod_distance": "Дальність зони РД",
   "vss.config.lod_distance.tooltip": "Максимальна дальність зони РД у чанках. Установіть 0, щоб використовувати налаштовану дальність сервера.",
   "vss.config.lod_distance.server_default": "Усталено на сервері",
   "vss.config.off_thread_processing": "Обробка розділу поза потоком",
