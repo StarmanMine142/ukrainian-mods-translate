@@ -1,4 +1,4 @@
-Перекладено [Sulphur Backport](https://modrinth.com/mod/sulphur_backport), [Dungeons Reborn](https://modrinth.com/mod/dungeonsreborn), [The Between](https://modrinth.com/mod/the-between), [Hidden Realm](https://modrinth.com/mod/hidden-realm), [True End](https://modrinth.com/mod/true_end), [Voxy Server Side](https://modrinth.com/plugin/voxy-server-side), [Cosmetic Armor Updated](https://modrinth.com/mod/cosmetic-armor-updated), [Nvidium](https://modrinth.com/mod/nvidium)
+Перекладено [Sulphur Backport](https://modrinth.com/mod/sulphur_backport), [Dungeons Reborn](https://modrinth.com/mod/dungeonsreborn), [The Between](https://modrinth.com/mod/the-between), [Hidden Realm](https://modrinth.com/mod/hidden-realm), [True End](https://modrinth.com/mod/true_end), [Voxy Server Side](https://modrinth.com/plugin/voxy-server-side), [Cosmetic Armor Updated](https://modrinth.com/mod/cosmetic-armor-updated), [Nvidium](https://modrinth.com/mod/nvidium), [Wandering Wildlife](https://modrinth.com/mod/wandering-wildlife)
 
 Покращено переклад <br>
 Оновлено переклад [Sodium](https://modrinth.com/mod/sodium), [Artifacts](https://modrinth.com/mod/artifacts) <br>
