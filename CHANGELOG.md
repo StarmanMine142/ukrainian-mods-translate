@@ -1,4 +1,4 @@
-Перекладено 
+Перекладено [Bandanas](https://modrinth.com/mod/bandanas)
 
 Покращено переклад <br>
 Оновлено переклад  <br>

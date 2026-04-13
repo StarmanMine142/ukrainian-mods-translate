@@ -1,0 +1,20 @@
+{
+  "item.bandanas.white_bandana": "Біла пов'язка",
+  "item.bandanas.orange_bandana": "Помаранчева пов'язка",
+  "item.bandanas.magenta_bandana": "Пурпурова пов'язка",
+  "item.bandanas.light_blue_bandana": "Блакитна пов'язка",
+  "item.bandanas.yellow_bandana": "Жовта пов'язка",
+  "item.bandanas.lime_bandana": "Лаймова пов'язка",
+  "item.bandanas.pink_bandana": "Рожева пов'язка",
+  "item.bandanas.gray_bandana": "Сіра пов'язка",
+  "item.bandanas.light_gray_bandana": "Світло-сіра пов'язка",
+  "item.bandanas.cyan_bandana": "Бірюзова пов'язка",
+  "item.bandanas.purple_bandana": "Фіолетова пов'язка",
+  "item.bandanas.blue_bandana": "Синя пов'язка",
+  "item.bandanas.brown_bandana": "Коричнева пов'язка",
+  "item.bandanas.green_bandana": "Зелена пов'язка",
+  "item.bandanas.red_bandana": "Червона пов'язка",
+  "item.bandanas.black_bandana": "Чорна пов'язка",
+  "tag.item.bandanas.bandanas": "Пов'язки",
+  "modmenu.descriptionTranslation.bandanas": "Додає 16 кольорових косметичних пов'язок з уникальними текстурами!"
+}
