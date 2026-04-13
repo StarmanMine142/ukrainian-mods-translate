@@ -3,11 +3,11 @@
 
   "options.languagereload.title": "Налаштування Language Reload",
   "options.languagereload.multilingualItemSearch": "Багатомовний пошук",
-  "options.languagereload.multilingualItemSearch.tooltip": "Дозволяє здійснювати пошук будь-якою з вибраних мов у інвентарі творчости та книзі рецептів.",
+  "options.languagereload.multilingualItemSearch.tooltip": "Дозволяє здійснювати пошук будь-якою з вибраних мов в інвентарі творчости та книзі рецептів.",
   "options.languagereload.removableDefaultLanguage": "Усталена мова",
   "options.languagereload.removableDefaultLanguage.removable": "Видаляється",
   "options.languagereload.removableDefaultLanguage.removable.tooltip": "Дозволяє скасувати вибір English (US). Може бути корисним для налагодження.",
-  "options.languagereload.removableDefaultLanguage.fixed": "Виправлення",
+  "options.languagereload.removableDefaultLanguage.fixed": "Закріплено",
   "options.languagereload.removableDefaultLanguage.fixed.tooltip": "Запобігає скасування вибору English (US).",
 
   "debug.reload_languages.help": "F3 + J = Перезавантажити мови (Shift для швидкого перемикання мов)",
