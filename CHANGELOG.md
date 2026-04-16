@@ -1,4 +1,4 @@
-Перекладено [Bandanas](https://modrinth.com/mod/bandanas)
+Перекладено [Bandanas](https://modrinth.com/mod/bandanas), [AdvancedFurnaceY](https://modrinth.com/mod/advancedfurnacey)
 
 Покращено переклад <br>
 Оновлено переклад  <br>

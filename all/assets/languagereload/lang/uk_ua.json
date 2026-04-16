@@ -7,7 +7,7 @@
   "options.languagereload.removableDefaultLanguage": "Усталена мова",
   "options.languagereload.removableDefaultLanguage.removable": "Видаляється",
   "options.languagereload.removableDefaultLanguage.removable.tooltip": "Дозволяє скасувати вибір English (US). Може бути корисним для налагодження.",
-  "options.languagereload.removableDefaultLanguage.fixed": "Закріплено",
+  "options.languagereload.removableDefaultLanguage.fixed": "Закріплена",
   "options.languagereload.removableDefaultLanguage.fixed.tooltip": "Запобігає скасування вибору English (US).",
 
   "debug.reload_languages.help": "F3 + J = Перезавантажити мови (Shift для швидкого перемикання мов)",
