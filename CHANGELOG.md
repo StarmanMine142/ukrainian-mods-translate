@@ -1,4 +1,4 @@
-Перекладено [Bandanas](https://modrinth.com/mod/bandanas), [AdvancedFurnaceY](https://modrinth.com/mod/advancedfurnacey), [Create Aeronautics](https://modrinth.com/mod/create-aeronautics)
+Перекладено [Bandanas](https://modrinth.com/mod/bandanas), [AdvancedFurnaceY](https://modrinth.com/mod/advancedfurnacey), [Create Aeronautics](https://modrinth.com/mod/create-aeronautics), [Sable](https://modrinth.com/mod/sable)
 
 Покращено переклад <br>
 Оновлено переклад  <br>
