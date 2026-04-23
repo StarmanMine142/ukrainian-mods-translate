@@ -765,9 +765,9 @@
   "death.attack.gumball_0.entity": "%2$s змусив %1$ відкусити гумову кульку",
   "death.attack.gumball_1.entity": "%2$s побив %1$s гумовими кульками",
   "death.attack.intentional_game_design_0": "%1$s виявив навмисний ігровий дизайн",
-  "death.attack.intentional_game_design_1": "%1$s спробували те, чого їм не слід було",
+  "death.attack.intentional_game_design_1": "%1$s спробував те, чого їм не слід було",
   "death.attack.intentional_game_design_0.entity": "%1$s виявив навмисний ігровий дизайн від %2$s",
-  "death.attack.intentional_game_design_1.entity": "%1$s спробували щось, від чого їм не слід було %2$s",
+  "death.attack.intentional_game_design_1.entity": "%1$s спробував те, чого вони не повинні були мати від %2$s",
   "alexscaves.container.spelunkery_table": "Стіл спелеолога",
   "alexscaves.container.spelunkery_table_translation": "Переклад столу спелеолога",
   "alexscaves.container.spelunkery_table.bad_tablet": "Печерна скрижаль має недійсні дані NBT",
@@ -837,6 +837,7 @@
   "item.minecraft.potion.effect.strong_hunger": "Зілля голоду",
   "item.minecraft.splash_potion.effect.strong_hunger": "Вибухове зілля голоду",
   "item.minecraft.lingering_potion.effect.strong_hunger": "Осідальне зілля голоду",
+  "item.alexscaves.polarity_armor_trim_smithing_template": "Ковальський шаблон",
   "trim_pattern.alexscaves.polarity": "Орнамент обладунків «Полярність»",
   "biome.alexscaves.magnetic_caves": "Магнетичні печери",
   "biome.alexscaves.primordial_caves": "Первісні печери",
@@ -1711,5 +1712,6 @@
   "enchantment.alexscaves.multiple_mint.desc": "Для кожного рівня викликається додаткова м'ята.",
   "enchantment.alexscaves.seekcandy": "Цукеркошукач",
   "enchantment.alexscaves.seekcandy.desc": "Перцем'яти, створені посохом, шукають будь-яку сутність, на яку дивиться нападник.",
+  "modmenu.descriptionTranslation.alexscaves": "Досліджуйте нові рідкісні печерні біоми, приховані під поверхнею Верхнього світу…",
   "fml.menu.mods.info.description.alexscaves": "Досліджуйте нові рідкісні печерні біоми, приховані під поверхнею Верхнього світу…"
 }
