@@ -26,7 +26,7 @@
   "key.emi.cheat_one_to_cursor": "Змахлювати один до курсору",
   "key.emi.cheat_stack_to_cursor": "Змахлювати стіс до курсору",
   "key.emi.delete_cursor_stack": "Видалити стіс у курсорі",
-  "key.emi.copy_recipe_id": "Копіювати ID рецепту",
+  "key.emi.copy_recipe_id": "Копіювати ID рецепта",
   "key.emi.hide_stack": "Приховати стіс",
   "key.emi.hide_stack_by_id": "Приховати стіс за ID",
 
@@ -108,7 +108,7 @@
   "config.emi.general.index_source": "Індекс джерела",
   "config.emi.general.search_sidebar": "Бокова панель пошуку",
   "config.emi.general.search_tooltip_by_default": "Пошук підказки усталено",
-  "config.emi.general.search_mod_name_by_default": "Пошук назву мода усталено",
+  "config.emi.general.search_mod_name_by_default": "Пошук назви мода усталено",
   "config.emi.general.search_tags_by_default": "Пошук теґів усталено",
 
   "config.emi.ui.effect_location": "Розташування ефектів",
@@ -117,7 +117,7 @@
   "config.emi.ui.append_mod_id": "Додати ID мода",
   "config.emi.ui.append_item_mod_id": "Додати ID мода предмета",
   "config.emi.ui.recipe_book_action": "Дія книги рецептів",
-  "config.emi.ui.search_sidebar_focus": "Фокус бічної панелі пошуку",
+  "config.emi.ui.search_sidebar_focus": "Фокус бокової панелі пошуку",
   "config.emi.ui.empty_search_sidebar_focus": "Очистити фокус бокової панелі пошуку",
 
   "config.emi.ui.left_sidebar_pages": "Сторінки",
@@ -163,7 +163,7 @@
   "config.emi.ui.recipe_tree_button_visibility": "Кнопка дерева рецептів",
   "config.emi.ui.recipe_default_button": "Кнопка рецепта усталено",
   "config.emi.ui.recipe_tree_button": "Кнопка дерева рецептів",
-  "config.emi.ui.recipe_fill_button": "Кнопка заповнення рецепту",
+  "config.emi.ui.recipe_fill_button": "Кнопка заповнення рецепта",
   "config.emi.ui.recipe_screenshot_button": "Кнопка знімка екрана рецепта",
   "config.emi.ui.recipe_screenshot_scale": "Масштаб знімка екрана рецепта",
   "config.emi.ui.use_batched_renderer": "Використовувати групове промальовування",
@@ -177,7 +177,7 @@
   "config.emi.dev.highlight_defaulted": "Виділяти усталено",
   "config.emi.dev.highlight_exclusion_areas": "Виділити області виключення",
 
-  "config.emi.presets.sidebars": "Бічні панелі",
+  "config.emi.presets.sidebars": "Бокові панелі",
   "config.emi.presets.binds": "Прив'язує",
   "config.emi.presets.restore": "Відновити",
 
@@ -196,7 +196,7 @@
   "emi.unit.droplets": "Краплі",
   "emi.fluid.amount.liters": "%s Л",
   "emi.fluid.amount.millibuckets": "%s мВ",
-  "emi.fluid.amount.droplets": "%s К",
+  "emi.fluid.amount.droplets": "%s к",
 
   "emi.disabled": "EMI вимкнено! Перемикатися за допомогою",
   "emi.reloading": "Перезавантаження EMI…",
@@ -227,8 +227,8 @@
   "emi.edit_mode.hide_all": "Натисніть %s, щоб приховати стоси за ID",
   "emi.sidebar.cycle": "Натисніть %s, щоб переключити бокові панелі",
   "emi.sidebar.favorite_stack": "Натисніть %s, щоб додати/видалити вибраний стіс",
-  "tooltip.emi.chance.consume": "Імовірність споживання: %s%%",
-  "tooltip.emi.chance.produce": "Імовірність виробництва: %s%%",
+  "tooltip.emi.chance.consume": "Шанс споживання: %s%%",
+  "tooltip.emi.chance.produce": "Шанс виробництва: %s%%",
   "tooltip.emi.accepts": "Приймає:",
   "tooltip.emi.fill_recipe": "Заповнити рецепт",
   "tooltip.emi.fill_recipe_no_server": "Неможливо заповнити рецепт без EMI на сервері",
@@ -239,8 +239,8 @@
   "tooltip.emi.view_tree": "Переглянути дерево рецептів",
   "tooltip.emi.recipe_screenshot": "Зробити знімок екрана рецепта",
   "tooltip.emi.resolution": "Визначення дерева рецептів для інгредієнта",
-  "tooltip.emi.select_resolution": "Натисніть §6вихід рецепту§r, щоб призначити для §dцього§r дерева рецептів",
-  "tooltip.emi.default_resolution": "Натисніть кнопку §6рецепту усталено§r, щоб призначити для §aвсіх§r дерев рецептів",
+  "tooltip.emi.select_resolution": "Натисніть §6вихід рецепта§r, щоб призначити для §dцього§r дерева рецептів",
+  "tooltip.emi.default_resolution": "Натисніть кнопку §6рецепта усталено§r, щоб призначити для §aвсіх§r дерев рецептів",
   "tooltip.emi.clear_resolution": "Натисніть §6тут§r, щоб §cочистити§r роздільну здатність",
 
   "tooltip.emi.config": "Налаштування %s",
@@ -260,8 +260,8 @@
   "tooltip.emi.bom.batch_size": "Розмір партії: %s\nПрокрутіть, щоб налаштувати\nУтримуйте §6[Shift]§r, щоб налаштувати на 16",
   "tooltip.emi.bom.batch_size.ideal": "Натисніть %s, щоб отримати мінімальні залишки",
   "tooltip.emi.bom.mode.view": "§6Перегляд§r дерева рецептів",
-  "tooltip.emi.bom.mode.craft": "§6Crafting§r дерево рецептів\nПрогрес буде показано в дереві рецептів\n§bСинтетичні улюблені§r додано на бічній панелі",
-  "tooltip.emi.bom.help": "Дерево рецептів показує процес і основну вартість рецепту.\nДисплей можна панорамувати та масштабувати.\n\nНатисніть ЛКМ вузол, щоб вибрати рецепт для призначення йому.\nУтримуйте §6[Shift]§r, щоб автоматично вибрати на основі вашого інвентарю.\n\nНатисніть ПКМ вузол рецепту, щоб тимчасово згорнути його.\nУтримуйте §6[Shift]§r щоб очистити рецепт.\n\nПочатковий стан дерева контролюється рецептами усталено.\nКнопка поруч із рецептами може встановити усталені налаштування.\nПеремикач за загальною вартістю можна використати, щоб допомогти змайструвати дерево рецептів.\nПід час майстрування буде видно матеріали, які потрібно зібрати.\n§bСинтетичні вибрані§r будуть додані до бічної панелі вибраного, яка\nпоказуватиме незавершені кроки та їх можна буде використовувати для майстрування.",
+  "tooltip.emi.bom.mode.craft": "§6Crafting§r дерево рецептів\nПрогрес буде показано в дереві рецептів\n§bСинтетичні улюблені§r додано на боковій панелі",
+  "tooltip.emi.bom.help": "Дерево рецептів показує процес і основну вартість рецепта.\nДисплей можна панорамувати та масштабувати.\n\nНатисніть ЛКМ вузол, щоб вибрати рецепт для призначення йому.\nУтримуйте §6[Shift]§r, щоб автоматично вибрати на основі вашого інвентарю.\n\nНатисніть ПКМ по вузлу рецепта, щоб тимчасово згорнути його.\nУтримуйте §6[Shift]§r щоб очистити рецепт.\n\nПочатковий стан дерева контролюється рецептами усталено.\nКнопка поруч із рецептами може встановити усталені налаштування.\nПеремикач за загальною вартістю можна використати, щоб допомогти змайструвати дерево рецептів.\nПід час майстрування буде видно матеріали, які потрібно зібрати.\n§bСинтетичні вибрані§r будуть додані до бокової панелі вибраного, яка\nпоказуватиме незавершені кроки та їх можна буде використовувати для майстрування.",
   
   "tooltip.emi.fluid_interaction.basalt.soul_soil": "Під лавою",
   "tooltip.emi.fluid_interaction.basalt.blue_ice": "Поруч з лавою",
@@ -278,13 +278,13 @@
   "emi.dev.severity.error": "Помилка",
   "emi.dev.severity.warning": "Попередження",
   "emi.dev.null_recipe_id": "ID рецепта §7недійсний§r\nРецепти повинні мати унікальні ID для серіалізації\nЦе вплине лише на цей рецепт",
-  "emi.dev.duplicate_recipe_id": "ID рецепта є дублікатом іншого рецепту\n§7%s§r\nРецепти повинні мати унікальні ID для серіалізації\nЦе порушить інші рецепти з цим ID",
-  "emi.dev.duplicate_vanilla_recipe_id": "ID рецепту є дублікатом усталеного рецепту\n§7%s§r\nРецепти потребують унікальних ID для серіалізації\nЦе порушить устлаений рецепт з таким самим ID",
+  "emi.dev.duplicate_recipe_id": "ID рецепта є дублікатом іншого рецепта\n§7%s§r\nРецепти повинні мати унікальні ID для серіалізації\nЦе порушить інші рецепти з цим ID",
+  "emi.dev.duplicate_vanilla_recipe_id": "ID рецепта є дублікатом усталеного рецепта\n§7%s§r\nРецепти потребують унікальних ID для серіалізації\nЦе порушить устлаений рецепт з таким самим ID",
   "emi.dev.synthetic_id": "Використовуйте синтетичний ID §7[простір імен]§b:/§7[шлях]§r",
   "emi.dev.suggest_id": "Використовуйте синтетичний ID §7[простір імен]§b:/§7[шлях]§r, наприклад\n§7%s§b:/§7%s§r",
   "emi.dev.null_input_or_output": "Входи або виходи рецепта §7недійсні§r\nВикористовуйте порожній список, щоб не вводити або виводити\nВикористовуйте §7EmiStack.EMPTY§r для представлення порожнього стоса",
-  "emi.dev.no_output_slots": "Слоти рецепту не містять жодних виходів\nВиклик §7SlotWidget.recipeContext(this)§r на виходах§r",
-  "emi.dev.synthetic_nag_explanation": "ID рецепта не вдалося знайти в менеджері рецептів, але він не є синтетичним\n§7%s§r\nЯкщо рецепт не відповідає керованому даними рецепту JSON, він повинен використовувати синтетичний ID",
+  "emi.dev.no_output_slots": "Слоти рецепта не містять жодних виходів\nВиклик §7SlotWidget.recipeContext(this)§r на виходах§r",
+  "emi.dev.synthetic_nag_explanation": "ID рецепта не вдалося знайти в менеджері рецептів, але він не є синтетичним\n§7%s§r\nЯкщо рецепт не відповідає керованому даними рецепта JSON, він повинен використовувати синтетичний ID",
 
   "emi.chess.piece.white_pawn": "Білий пішак",
   "emi.chess.piece.white_rook": "Біла тура",
@@ -791,6 +791,6 @@
   "tag.item.fabric.swords": "Мечі",
   "tag.item.fabric.shears": "Ножиці",
 
-  "modmenu.descriptionTranslation.emi": "Функціональний і доступний засіб перегляду предметів і рецептів.",
-  "fml.menu.mods.info.description.emi": "Функціональний і доступний засіб перегляду предметів і рецептів."
+  "modmenu.descriptionTranslation.emi": "Функціональний і доступний переглядач предметів і рецептів.",
+  "fml.menu.mods.info.description.emi": "Функціональний і доступний переглядач предметів і рецептів."
 }
