@@ -1,0 +1,29 @@
+{
+  "item.cable_facades.facade_wrench": "Гайковий ключ покриття",
+  
+  "cable_facades.tooltip.toggle_transparency": "ПКМ, щоб перемкнути напівпрозорість покриття",
+  "cable_facades.tooltip.current_state": "Поточний стан: ",
+  "cable_facades.tooltip.enabled": "УВІМК.",
+  "cable_facades.tooltip.disabled": "ВИМК.",
+  
+  "cable_facades.message.transparency_enabled": "Наразі напівпрозорість ",
+  "cable_facades.message.shaders_warning": "⚠ ",
+  "cable_facades.message.shaders_detected": "Шейдери виявлено: ",
+  "cable_facades.message.transparency_may_not_work": "Прозорість покриття може не працювати належним чином",
+  "cable_facades.message.directional_facade_update": "Cable Facades 2.0 додає напрямні покриття. Це повідомлення показується лише один раз, перевірте їх.",
+  
+  "cable_facades.facade.name_prefix": "Покриття — ",
+  "cable_facades.facade.empty": "Покриття — Порожньо",
+  "cable_facades.directional_facade.name_prefix": "Напрямне покриття — ",
+  "cable_facades.directional_facade.empty": "Напрямне покриття — Порожньо",
+  "item.cable_facades.directional_facade": "Напрямне покриття",
+  "cable_facades.creative_tab": "Cable Facades",
+  
+  "cable_facades.error.cannot_facade_itself": "Цей блок не можна використовувати як покриття",
+  "cable_facades.error.block_disabled": "Цей блок не можна використовувати як покриття (вимкнено налаштуваннями)",
+  
+  "cable_facades.jei.facade_any_block": "Покриття — Будь-який блок",
+  "cable_facades.jei.any_block": "Будь-який блок",
+
+  "fml.menu.mods.info.description.cable_facades": "Додає покриття для більшости кабелів у грі."
+}

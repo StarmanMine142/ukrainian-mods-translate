@@ -1,5 +1,5 @@
 {
   "gui.emi_create_schematics.clipboard.favourite": "Перемістити всі предмети до вибраних у EMI",
-  "modmenu.descriptionTranslation.emi_create_schematics": "Нудно перемикатися між майструванням і гортачем §6Create§r?\nЗбережіть усі предмети з буфера обміну до §bвибраних в EMI§r!",
-  "fml.menu.mods.info.description.emi_create_schematics": "Нудно перемикатися між майструванням і гортачем §6Create§r?\nЗбережіть усі предмети з буфера обміну до §bвибраних в EMI§r!"
+  "modmenu.descriptionTranslation.emi_create_schematics": "Нудно перемикатися між майструванням і гортачем §6Create§r?\nЗбережіть усі предмети з гортача до §bвибраних в EMI§r!",
+  "fml.menu.mods.info.description.emi_create_schematics": "Нудно перемикатися між майструванням і гортачем §6Create§r?\nЗбережіть усі предмети з гортача до §bвибраних в EMI§r!"
 }

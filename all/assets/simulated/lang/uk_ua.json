@@ -637,5 +637,6 @@
   "simulated.velocity_sensor.selection.towards": "До",
   "simulated.zipline.too_far": "Мотузка задовга!",
   "simulated.zipline.too_steep": "Мотузка застрімкий!",
-  "fml.menu.mods.info.description.simulated": "Розширює Create за допомогою інтерактивних пристосувань на основі фізики. Зазвичай входить до комплекту JAR для Aeronautics."
+  "fml.menu.mods.info.description.simulated": "Розширює Create за допомогою інтерактивних пристосувань на основі фізики. Зазвичай входить до комплекту JAR для Aeronautics.",
+  "fml.menu.mods.info.description.aeronautics_bundled": "Розширює Create фізико-технічними пристосуваннями, щоб будувати все, від автомобілів до літаків. Це набір JAR, який містить Імітовані пристосування, Повітроплавання та Бездоріжжя."
 }
