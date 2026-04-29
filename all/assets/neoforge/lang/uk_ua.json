@@ -277,11 +277,11 @@
   "neoforge.value.flat": "%s",
   "neoforge.value.percent": "%s%%",
 
-  "neoforge.value.boolean.enabled": "УВІМК.",
-  "neoforge.value.boolean.disabled": "ВИМК.",
-  "neoforge.value.boolean.enable": "УВІМК.",
-  "neoforge.value.boolean.disable": "ВИМК.",
-  "neoforge.value.boolean.invalid": "Недісний",
+  "neoforge.value.boolean.enabled": "§aТак",
+  "neoforge.value.boolean.disabled": "§cНі",
+  "neoforge.value.boolean.enable": "Увімкнути",
+  "neoforge.value.boolean.disable": "Вимкнути",
+  "neoforge.value.boolean.invalid": "Недісно",
 
   "neoforge.modifier.plus": "+%s %s",
   "neoforge.modifier.take": "%s %s",
