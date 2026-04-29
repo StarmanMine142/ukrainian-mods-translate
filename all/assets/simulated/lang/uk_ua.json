@@ -636,7 +636,7 @@
   "simulated.velocity_sensor.selection.away": "Від",
   "simulated.velocity_sensor.selection.towards": "До",
   "simulated.zipline.too_far": "Мотузка задовга!",
-  "simulated.zipline.too_steep": "Мотузка застрімкий!",
+  "simulated.zipline.too_steep": "Мотузка застрімка!",
   "stat.simulated.format.meals": "%s з'їдено",
   "stat.simulated.format.short_stories": "%s коротких історій",
   "stat.simulated.interact_with_assembler": "Взаємодій зі збирачем",
