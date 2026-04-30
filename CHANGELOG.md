@@ -1,4 +1,4 @@
-Перекладено 
+Перекладено [Aeronautics Camera Sync](https://modrinth.com/mod/aero_cam_sync), [Gyroscope Stabilizers](https://modrinth.com/mod/create-aeronautics-gyroscope-stabilizers), [Create: Dragons Plus](https://modrinth.com/mod/create-dragons-plus) [Create: Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry)
 
 Покращено переклад  <br>
 Оновлено переклад  <br>

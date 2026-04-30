@@ -1,0 +1,18 @@
+{
+  "aero_cam_sync.configuration.title": "Налаштувань Aeronautics Camera Sync",
+  "aero_cam_sync.configuration.section.aero_cam_sync.common.toml": "Налаштування Aeronautics Camera Sync",
+  "aero_cam_sync.configuration.section.aero_cam_sync.common.toml.title": "Налаштування Aeronautics Camera Sync",
+
+  "aero_cam_sync.configuration.enabled": "Увімкнути мод",
+  "aero_cam_sync.configuration.enabled.tooltip": "Умикає та вимикає нахил камери.",
+
+  "aero_cam_sync.configuration.minNormalY": "Максимальний нахил",
+  "aero_cam_sync.configuration.minNormalY.tooltip": "Наскільки рівною має бути поверхня, щоб застосувати нахил камери (0,0 = будь-який кут, 1,0 = ідеально рівна).",
+
+  "key.aero_cam_sync.toggle": "Перемкнути мод",
+  "key.category.aero_cam_sync": "Aeronautics Camera Sync",
+  "msg.aero_cam_sync.enabled": "§aНахил камери: УВІМК.",
+  "msg.aero_cam_sync.disabled": "§cНахил камери: ВИМК.",
+
+  "fml.menu.mods.info.description.aero_cam_sync": "Додає динамічний нахил камери для пристосувань з мода Create Aeronautics."
+}
