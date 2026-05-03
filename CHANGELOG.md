@@ -1,4 +1,4 @@
-Перекладено [Aeronautics Camera Sync](https://modrinth.com/mod/aero_cam_sync), [Gyroscope Stabilizers](https://modrinth.com/mod/create-aeronautics-gyroscope-stabilizers), [Create: Dragons Plus](https://modrinth.com/mod/create-dragons-plus) [Create: Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry), [Vista](https://modrinth.com/mod/vista_tv)
+Перекладено [Aeronautics Camera Sync](https://modrinth.com/mod/aero_cam_sync), [Gyroscope Stabilizers](https://modrinth.com/mod/create-aeronautics-gyroscope-stabilizers), [Create: Dragons Plus](https://modrinth.com/mod/create-dragons-plus) [Create: Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry), [Vista](https://modrinth.com/mod/vista_tv), [Create Aeronautics: Curios Compat](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics-curios-compat), [Create: Ballast](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics-ballast), [Create Propulsion: Simulated](https://modrinth.com/mod/create-propulsion-simulated)
 
 Покращено переклад  <br>
 Оновлено переклад [Burnt](https://modrinth.com/mod/burnt-basic) <br>

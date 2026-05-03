@@ -1,0 +1,17 @@
+{
+    "block.ballastmod.ballast_stones": "Урівноважувальне каміння",
+    "item.ballastmod.ballast_stones": "Урівноважувальне каміння",
+
+    "tooltip.ballastmod.ballast_stones": "Чим більше шарів, тим більша маса!",
+    "tooltip.ballastmod.ballast_stones_info_prompt": "§8Утримуйте [§r§7Shift§r§8], щоб побачити зведення§r",
+    "tooltip.ballastmod.ballast_stones_layer1": " §81 шар: §r§eВажкий блок§r§8 (2 кпг)§r",
+    "tooltip.ballastmod.ballast_stones_layer2": " §82 шари: §r§eВажкий блок§r§8 (3 кпг)§r",
+    "tooltip.ballastmod.ballast_stones_layer3": " §83 шари: §r§cНадважий блок§r§8 (4 кпг)§r",
+    "tooltip.ballastmod.ballast_stones_layer4": " §84 шари: §r§cНадважий блок§r§8 (5 кпг)§r",
+    "tooltip.ballastmod.ballast_stones_layer5": " §85 шарів: §r§4Неймовірно важкий блок§r§8 (6 )§r",
+    "tooltip.ballastmod.ballast_stones_layer6": " §86 шарів: §r§Неймовірно важкий блок§r§8 (7 кпг)§r",
+    "tooltip.ballastmod.ballast_stones_layer7": " §87 шарів: §r§7Безглуздо важкий блок§r§8 (8 кпг)§r",
+    "tooltip.ballastmod.ballast_stones_layer8": " §88 м: §r§7Безглуздо важкий блок§r§8 (9 кпг)§r",
+
+    "fml.menu.mods.info.description.ballastmod": "Додає врівноважувальний блок, щоб зробити рівновагу пристосувань Create Aeronautics простішою."
+}
