@@ -1,7 +1,7 @@
-Перекладено [Aeronautics Camera Sync](https://modrinth.com/mod/aero_cam_sync), [Gyroscope Stabilizers](https://modrinth.com/mod/create-aeronautics-gyroscope-stabilizers), [Create: Dragons Plus](https://modrinth.com/mod/create-dragons-plus) [Create: Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry), [Vista](https://modrinth.com/mod/vista_tv), [Create Aeronautics: Curios Compat](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics-curios-compat), [Create: Ballast](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics-ballast), [Create Propulsion: Simulated](https://modrinth.com/mod/create-propulsion-simulated)
+Перекладено 
 
 Покращено переклад  <br>
-Оновлено переклад [Burnt](https://modrinth.com/mod/burnt-basic) <br>
-Оновлено і покращено переклад [Ponder](https://github.com/Creators-of-Create/Ponder), [NeoForge](https://neoforged.net/)
+Оновлено переклад  <br>
+Оновлено і покращено переклад 
 
 Видалено переклад  оскільки додано в самі моди
