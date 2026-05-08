@@ -1,6 +1,6 @@
 Перекладено 
 
-Покращено переклад  <br>
+Покращено переклад [Create Aeronautics](https://modrinth.com/mod/create-aeronautics) <br>
 Оновлено переклад  <br>
 Оновлено і покращено переклад 
 
