@@ -13,8 +13,8 @@
   "commands.sable.spawn.success": "Викликано %s",
   "commands.sable.spawn.clone.success": "Клоновано підрівень",
 
-  "commands.sable.physics.impulse.angular.success": "Застосовано кутовий імпульс %s до %s %s",
-  "commands.sable.physics.impulse.linear.success": "Застосовано лінійний імпульс %s до %s %s",
+  "commands.sable.physics.impulse.angular.success": "Застосовано кутовий поштовх %s до %s %s",
+  "commands.sable.physics.impulse.linear.success": "Застосовано лінійний поштовх %s до %s %s",
   "commands.sable.physics.rotation.add.success": "Додано обертання %s до %s з %s",
   "commands.sable.physics.rotation.set.success": "Установлено обертання %s на %s",
   "commands.sable.physics.translation.add.success": "Додано переклад %s до %s з %s",
@@ -89,10 +89,10 @@
   "argument.sable.sub_level.modifier.z": "позиція z",
   "argument.sable.sub_level.modifier.dx": "Підрівні між x і x + dx",
   "argument.sable.sub_level.modifier.dy": "Підрівні між y і y + dy",
-  "argument.sable.sub_level.modifier.dz": "Підрівні між z та z + dz",
+  "argument.sable.sub_level.modifier.dz": "Підрівні між z і z + dz",
   "argument.sable.sub_level.modifier.vx": "швидкість x",
   "argument.sable.sub_level.modifier.vy": "швидкість y",
-  "argument.sable.sub_level.modifier.vz": "швидкість по Z",
+  "argument.sable.sub_level.modifier.vz": "швидкість Z",
   "argument.sable.sub_level.modifier.speed": "Швидкість підрівня",
   "argument.sable.sub_level.modifier.mass": "Вага підрівня",
   "argument.sable.sub_level.modifier.volume": "Об'єм обмежувальної рамки підрівня",
@@ -102,7 +102,7 @@
   "argument.sable.sub_level.modifier.limit": "Максимальна кількість підрівнів для повернення",
   "argument.sable.sub_level.modifier.name": "Назва підрівня",
   "argument.sable.sub_level.modifier.sort": "Сортувати підрівні за відстанню",
-  "argument.sable.unexpected_end_of_input": "Неочікуваний кінець введення",
+  "argument.sable.unexpected_end_of_input": "Неочікуваний кінець уведення",
   "argument.sable.single_sub_level_required": "Дозволено лише один підрівень, але наданий селектор дозволяє більше одного",
   "argument.sable.sub_level.invalid": "Недійсний селектор підрівня",
   "argument.sable.sub_level.expected_end_of_modifier": "Очікувався кінець модифікатора",
@@ -113,8 +113,8 @@
 
   "inspector.sable.sub_level_container.title": "Умістище підрівня",
 
-  "attribute.name.player.sub_level_punch_strength": "Сила штовхання",
-  "attribute.name.player.sub_level_punch_cooldown": "Затримка штовхання",
+  "attribute.name.player.sub_level_punch_strength": "сили штовхання",
+  "attribute.name.player.sub_level_punch_cooldown": "затримки штовхання",
 
   "options.sable_menu": "Налаштування підрівня…",
   "options.physics_steps": "Кроки фізики",
@@ -144,6 +144,7 @@
 
   "sable.create.mechanical_arm.points_removed_sublevel_and_range": "%1$s вибраних точок взаємодії видалено через обмеження діапазону або відсутність прив'язки.",
   "sable.create.remove.points_removed_sublevel" : "%1$s вибраних точок взаємодії вилучено через відсутність прив'язки",
-
+  
+  "modmenu.descriptionTranslation.sable": "Інтерактивні рухомі блокові структури з фізикою.",
   "fml.menu.mods.info.description.sable": "Інтерактивні рухомі блокові структури з фізикою."
 }
