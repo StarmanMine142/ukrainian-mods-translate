@@ -1,6 +1,6 @@
-Перекладено [Glow](https://modrinth.com/mod/glows), [Mapwright](https://modrinth.com/mod/mapwright), [Flare Guns](https://modrinth.com/mod/flare-guns)
+Перекладено 
 
-Покращено переклад [Create Aeronautics](https://modrinth.com/mod/create-aeronautics) <br>
+Покращено переклад  <br>
 Оновлено переклад  <br>
 Оновлено і покращено переклад 
 
