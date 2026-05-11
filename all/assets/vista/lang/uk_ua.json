@@ -1,5 +1,6 @@
 {
   "block.vista.television": "Телевізор",
+  "block.vista.wave_gate": "Хвильові ворота",
   "item.vista.cassette": "Касета",
   "item.vista.hollow_cassette": "Порожня касета",
   "item.vista.picture_tape": "Картинна стрічка",
@@ -26,11 +27,19 @@
   "cassette_tape.vista.bonfire_steve.tooltip": "HappyMeek — Bonfire",
   "subtitles.vista.television.eject": "Касету витягнуто",
   "subtitles.vista.television.insert": "Касету вставлено",
-  "message.vista.viewfinder.control": "Натисніть %1$s, щоб спішитися;%2$s, щоб заблокувати/розблокувати",
+  "message.vista.viewfinder.control": "Натисніть %1$s, щоб спішитися; %2$s, щоб заблокувати/розблокувати",
   "item.vista.music_disc_sojourn": "Платівка",
   "jukebox_song.vista.sojourn": "Hlzfss — Sojourn",
   "advancements.husbandry.vista.absolute_cinema.description": "Відтворіть касету на великому екрані телевізора",
   "advancements.husbandry.vista.absolute_cinema.title": "Абсолютне кіно",
+  "gui.vista.wave_gate.edit": "Змінити ціль хвильових воріт",
+  "gui.vista.welcome.title": "Ласкаво просимо до мода Vista",
+  "gui.vista.welcome.message": "Деякі функції Vista потребують встановлення відео-бібліотеки FFmpeg.\nБудь ласка, виберіть варіант на свій розсуд.\n\nЗавантаження відбудеться один раз і під час гри. Це може зайняти кілька хвилин.\n\nЯкщо не встановити, то це вимкне %s функції.\n",
+  "gui.vista.welcome.disable": "Не встановлювати",
+  "gui.vista.welcome.install_defaults": "Установити усталені",
+  "gui.vista.welcome.install_custom": "Установити власні",
+  "gui.vista.welcome.custom_hint": "Посилання бінарників FFmpeg:",
+  "gui.vista.welcome.download": "Завантажити",
   "modmenu.descriptionTranslation.vista": "Технічні блоки, про які ви навіть не підозрювали, що вам потрібні.",
   "fml.menu.mods.info.description.vista": "Технічні блоки, про які ви навіть не підозрювали, що вам потрібні."
 }
