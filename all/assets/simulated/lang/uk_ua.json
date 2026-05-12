@@ -139,7 +139,7 @@
   "block.simulated.nameplate.tooltip.condition2": "При ПКМ барвником",
   "block.simulated.nameplate.tooltip.condition3": "При ПКМ медовими стільниками",
   "block.simulated.nameplate.tooltip.condition4": "При використанні на імітованому пристосуванні",
-  "block.simulated.nameplate.tooltip.summary": "_Оголошує назву_ свого _імітованого пристосування_!",
+  "block.simulated.nameplate.tooltip.summary": "_Оголошуйте назву_ свого _імітованого пристосування_!",
   "block.simulated.navigation_table": "Навігаційний стіл",
   "block.simulated.optical_sensor": "Оптичний сенсор",
   "block.simulated.orange_handle": "Помаранчева ручка",
@@ -194,7 +194,7 @@
   "entity.simulated.honey_glue": "Медовий клей",
   "entity.simulated.launched_plunger": "Запущена присоска",
   "generator.simulated.airship_ready": "Готовий до дирижабля",
-  "generator.simulated.airship_ready.info": "Надплоский світ на висоті 63 для імітації нормальних умов повітряного тиску.",
+  "generator.simulated.airship_ready.info": "Надплаский світ на висоті 63 для імітації нормальних умов повітряного тиску.",
   "generator.simulated.end_sea": "Море Енду",
   "item.simulated.contraption_diagram": "Схема пристосування",
   "item.simulated.contraption_diagram.tooltip.behaviour1": "_Візуалізуйте сили_, що діють на _імітоване пристосування_",
@@ -231,7 +231,7 @@
   "item.simulated.spring.tooltip.condition1": "При ПКМ гайковим ключем",
   "item.simulated.spring.tooltip.condition2": "При ПКМ по пружині",
   "item.simulated.spring.tooltip.condition3": "При Shift + ПКМ по пружині",
-  "item.simulated.spring.tooltip.summary": "Боньк! _З'єднує_ два блоки за допомогою _пружини._",
+  "item.simulated.spring.tooltip.summary": "Боньк! _З'єднуйте_ два блоки за допомогою _пружини._",
   "itemGroup.simulated.group": "Create Simulated",
   "simulated.altitude_sensor.air_pressure": "Повітряний тиск: %s",
   "simulated.altitude_sensor.height": "Висота: %s",
@@ -315,7 +315,7 @@
   "simulated.linked_typewriter.bind_item": "Натисніть будь-яку клавішу, щоб призначити цю частоту до відповідної клавіші",
   "simulated.linked_typewriter.bind_mode": "Режим призначення активний",
   "simulated.linked_typewriter.bind_new_key": "Прив'язати новий ключ",
-  "simulated.linked_typewriter.bind_screen_description": "Уведення прив'язане до:",
+  "simulated.linked_typewriter.bind_screen_description": "Уведення призначене до:",
   "simulated.linked_typewriter.bind_screen_prompt": "Натисніть клавішу…",
   "simulated.linked_typewriter.bind_screen_title": "Редагування призначень клавіш",
   "simulated.linked_typewriter.bind_success": "Частота прив'язана до %s",
@@ -647,5 +647,5 @@
   "stat.simulated.simulated_contraptions_named": "Названо імітованих пристосувань",
   "stat.simulated.typewriter_key_presses": "Натискань клавіш друкарника",
   "fml.menu.mods.info.description.simulated": "Розширює Create за допомогою інтерактивних пристосувань на основі фізики. Зазвичай входить до комплекту JAR для Aeronautics.",
-  "fml.menu.mods.info.description.aeronautics_bundled": "Розширює Create фізико-технічними пристосуваннями, щоб будувати все, від автомобілів до літаків. Це комплект JAR, який містить Імітовані пристосування, Повітроплавання та Бездоріжжя."
+  "fml.menu.mods.info.description.aeronautics_bundled": "Розширює Create фізико-технічними пристосуваннями, щоб будувати все, від автівок до літаків. Це комплект JAR, який містить Імітовані пристосування, Повітроплавання та Бездоріжжя."
 }
