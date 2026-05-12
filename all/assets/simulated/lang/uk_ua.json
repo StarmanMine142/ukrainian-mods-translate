@@ -207,7 +207,7 @@
   "item.simulated.creative_physics_staff.tooltip.behaviour4": "Керує тим, _наскільки далеко_ ви _перетягуєте_ _цільове пристосування_",
   "item.simulated.creative_physics_staff.tooltip.condition1": "При ЛКМ по імітованому пристосуванні",
   "item.simulated.creative_physics_staff.tooltip.condition2": "При ПКМ по імітованому пристосуванні",
-  "item.simulated.creative_physics_staff.tooltip.condition3": "Утримуючи Tab при перетягуванні",
+  "item.simulated.creative_physics_staff.tooltip.condition3": "Утримування Tab при обертанні",
   "item.simulated.creative_physics_staff.tooltip.condition4": "Прокручування при перетягуванні",
   "item.simulated.creative_physics_staff.tooltip.summary": "Інструмент _режиму творчости_ для переміщення _імітованих пристосувань_.",
   "item.simulated.engine_assembly": "Збірний двигун",
