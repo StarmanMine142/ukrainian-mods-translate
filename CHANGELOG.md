@@ -1,4 +1,4 @@
-Перекладено 
+Перекладено [Create Deep Seas](https://www.curseforge.com/minecraft/mc-mods/create-deep-seas)
 
 Покращено переклад  <br>
 Оновлено переклад  <br>
