@@ -20,6 +20,10 @@ jobs:
       - name: Read CHANGELOG
         id: changelog
         run: |
+          TITLE=$(sed -n '3p' RELEASE_CHANGELOG.md)
+          echo "title=$TITLE" >> $GITHUB_OUTPUT
+          
+          # Читаем весь файл для описания
           echo "body<<EOF" >> $GITHUB_OUTPUT
           cat RELEASE_CHANGELOG.md >> $GITHUB_OUTPUT
           echo "EOF" >> $GITHUB_OUTPUT
@@ -28,7 +32,7 @@ jobs:
         uses: softprops/action-gh-release@v2
         with:
           tag_name: v${{ github.run_number }}
-          name: Release v${{ github.run_number }}
+          name: ${{ steps.changelog.outputs.title }}
           body: ${{ steps.changelog.outputs.body }}
           files: ukrainian-mods-translate.zip
         env:
