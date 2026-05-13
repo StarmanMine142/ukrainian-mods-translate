@@ -1,20 +1,33 @@
-name: Zip
+name: Zip and Release
 
 on:
-  push:
-    branches: [ main ]
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Archive folder
-        uses: actions/upload-artifact@v4
+      - name: Create ZIP archive
+        run: |
+          zip -r ukrainian-mods-translate.zip all/
+
+      - name: Read CHANGELOG
+        id: changelog
+        run: |
+          echo "body=$(cat CHANGELOG.md)" >> $GITHUB_OUTPUT
+
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v2
         with:
-          name: ukrainian-mods-translate
-          path: all/
+          tag_name: v${{ github.run_number }}
+          name: Release v${{ github.run_number }}
+          body: ${{ steps.changelog.outputs.body }}
+          files: ukrainian-mods-translate.zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
