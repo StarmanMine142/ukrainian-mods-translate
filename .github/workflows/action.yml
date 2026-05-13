@@ -20,14 +20,13 @@ jobs:
       - name: Read CHANGELOG
         id: changelog
         run: |
-          TITLE=$(sed -n '3p' RELEASE_CHANGELOG.md)
+          TITLE=$(sed -n '3p' RELEASE_CHANGELOG.md | sed 's/^### //')
           echo "title=$TITLE" >> $GITHUB_OUTPUT
           
-          # Читаем весь файл для описания
           echo "body<<EOF" >> $GITHUB_OUTPUT
           cat RELEASE_CHANGELOG.md >> $GITHUB_OUTPUT
           echo "EOF" >> $GITHUB_OUTPUT
-
+          
       - name: Create GitHub Release
         uses: softprops/action-gh-release@v2
         with:
