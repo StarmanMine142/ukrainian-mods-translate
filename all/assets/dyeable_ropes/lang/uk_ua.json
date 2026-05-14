@@ -1,0 +1,20 @@
+{
+  "item.dyeable_ropes.white_rope": "Зв'язка білої мотузки",
+  "item.dyeable_ropes.orange_rope": "Зв'язка помаранчевої мотузки",
+  "item.dyeable_ropes.magenta_rope": "Зв'язка пурпурової мотузки",
+  "item.dyeable_ropes.light_blue_rope": "Зв'язка блакитної мотузки",
+  "item.dyeable_ropes.yellow_rope": "Зв'язка жовтої мотузки",
+  "item.dyeable_ropes.lime_rope": "Зв'язка лаймової мотузки",
+  "item.dyeable_ropes.pink_rope": "Зв'язка рожевої мотузки",
+  "item.dyeable_ropes.gray_rope": "Зв'язка сурої мотузки",
+  "item.dyeable_ropes.light_gray_rope": "Зв'язка світло-сірої мотузки",
+  "item.dyeable_ropes.cyan_rope": "Зв'язка бірюзової мотузки",
+  "item.dyeable_ropes.purple_rope": "Зв'язка фіолетової мотузки",
+  "item.dyeable_ropes.blue_rope": "Зв'язка синьої мотузки",
+  "item.dyeable_ropes.brown_rope": "Зв'язка коричневої мотузки",
+  "item.dyeable_ropes.green_rope": "Зв'язка зеленої мотузки",
+  "item.dyeable_ropes.red_rope": "Зв'язка червоної мотузки",
+  "item.dyeable_ropes.black_rope": "Зв'язка чорної мотузки",
+  "itemGroup.dyeable_ropes.main": "Dyeable Ropes",
+  "fml.menu.mods.info.description.": "Доповнення до Create: Aeronautics (Модуль Імітованих пристосувань). Додає 16 кольорових мотузок, по одному на колір стандартного барвника, виготовлених шляхом поєднання імітованої мотузки з барвником у будь-якій сітці для майстрування. Фаза 1: лише значки предметів, рецептів та інвентарю. Розміщена матузка все ще використовує зовнішній вигляд імітованої мотузки, доки в майбутньому оновленні не буде перенесено колір кожної мотузки в промальовування."
+}

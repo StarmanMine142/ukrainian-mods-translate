@@ -231,7 +231,7 @@
   "item.simulated.spring.tooltip.condition1": "При ПКМ гайковим ключем",
   "item.simulated.spring.tooltip.condition2": "При ПКМ по пружині",
   "item.simulated.spring.tooltip.condition3": "При Shift + ПКМ по пружині",
-  "item.simulated.spring.tooltip.summary": "Боньк! _З'єднуйте_ два блоки за допомогою _пружини._",
+  "item.simulated.spring.tooltip.summary": "Боньк! _З'єднуйте_ два блоки за допомогою _пружини_.",
   "itemGroup.simulated.group": "Create Simulated",
   "simulated.altitude_sensor.air_pressure": "Повітряний тиск: %s",
   "simulated.altitude_sensor.height": "Висота: %s",
