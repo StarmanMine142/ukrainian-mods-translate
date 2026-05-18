@@ -1,11 +1,11 @@
 ---------------------
 
-### Оновлення #74
+### Оновлення #75
 
-Перекладено [Create Deep Seas](https://www.curseforge.com/minecraft/mc-mods/create-deep-seas), [Modular Backpacks](https://www.curseforge.com/minecraft/mc-mods/modular-backpacks), [Dyeable Ropes for Create Aeronautics](https://www.curseforge.com/minecraft/mc-mods/dyeable-ropes-for-create-aeronautics), [Create Aeronautics: Variable Weight Block](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics-variable-weight-block), [Junkyard Utils](https://www.curseforge.com/minecraft/mc-mods/junkyard-utils), [Leons Dungeons Paintings](https://modrinth.com/mod/leons-dungeons-paintings)
+Перекладено 
 
 Покращено переклад  <br>
-Оновлено переклад [Sodium](https://modrinth.com/mod/sodium), [Aeronautics Camera Sync](https://www.curseforge.com/minecraft/mc-mods/aeronautics-camera-sync) <br>
+Оновлено переклад  <br>
 Оновлено і покращено переклад 
 
 Видалено переклад  оскільки додано в самі моди
