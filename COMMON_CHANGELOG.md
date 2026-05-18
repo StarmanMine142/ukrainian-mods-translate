@@ -2,7 +2,7 @@
 
 ### Оновлення #75
 
-Перекладено 
+Перекладено [Create: Simulated Thrusters](https://www.curseforge.com/minecraft/mc-mods/create-simulated-thrusters)
 
 Покращено переклад  <br>
 Оновлено переклад  <br>
