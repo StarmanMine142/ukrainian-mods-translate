@@ -1,0 +1,19 @@
+{
+  "block.createtransmission.andesite_encased_transmission_chain": "Облицьований андезитом ланцюговий привід",
+  "block.createtransmission.brass_encased_transmission_chain": "Облицьований латунню ланцюговий привід",
+  "block.createtransmission.transmission_chain": "Ланцюговий привід",
+  "createtransmission.ponder.encasing.header": "Облицювання ланцюгового приводу",
+  "createtransmission.ponder.encasing.text_1": "Ланцюгові приводи також можуть бути облицьовані!",
+  "createtransmission.ponder.encasing.text_2": "Для зняття корпусу можна використовувати гайковий ключ",
+  "createtransmission.ponder.usage.header": "Передача обертової сили за допомогою ланцюгових приводів",
+  "createtransmission.ponder.usage.text_1": "Облицьовані ланцюгові приводи можна використовувати для передачі обертання між ременями",
+  "createtransmission.ponder.usage.text_2": "Але вони громіздкі…",
+  "createtransmission.ponder.usage.text_3": "Як альтернативу ви можете використовувати ланцюговий привід!\nВони тонкі та працюють лише на ременях",
+  "createtransmission.ponder.usage.text_4": "Вони можуть живити ремінь у різних варіантах розташування",
+  "createtransmission.ponder.usage.text_5": "Доземно, …",
+  "createtransmission.ponder.usage.text_6": "…під прямим кутом…",
+  "createtransmission.ponder.usage.text_7": "…та поземно",
+  "creativeTab.createtransmission.main": "Create: Transmission",
+  "modmenu.descriptionTranslation.createtransmission": "Цей мод додає лише 1 блок: ланцюговий привід!\nЦей блок використовується для акуратнішої передачі обертання без громздкого облицьованого ланцьогового приводу.",
+  "fml.menu.mods.info.description.createtransmission": "Цей мод додає лише 1 блок: ланцюговий привід!\nЦей блок використовується для акуратнішої передачі обертання без громздкого облицьованого ланцьогового приводу."
+}
