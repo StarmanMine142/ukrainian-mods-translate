@@ -121,7 +121,7 @@
   "distanthorizons.config.client.advanced.graphics.quality.maxHorizontalResolution.@tooltip":
     "Зони РД промальовуватимуться з максимальною деталізацією.\n\n§6Швидка:§r чанк.\n§6Спецефічна:§r блок.",
   "distanthorizons.config.client.advanced.graphics.quality.verticalQuality":
-    "Вертикальна якісь",
+    "Вертикальна якість",
   "distanthorizons.config.client.advanced.graphics.quality.verticalQuality.@tooltip":
     "Керує тим, наскільки добре зони РД представляють виступи, печери, скелі тощо.\n\nВищі значення збільшать використання пам’яті та ГП.",
   "distanthorizons.config.client.advanced.graphics.quality.horizontalScale":

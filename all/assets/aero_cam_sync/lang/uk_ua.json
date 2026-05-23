@@ -25,7 +25,7 @@
   "aero_cam_sync.configuration.downLength": "Відстань до підлоги",
   "aero_cam_sync.configuration.downLength.tooltip": "Максимальна відстань униз від гравця для виявлення поверхні",
   "aero_cam_sync.configuration.upLength": "Зміщення стопи",
-  "aero_cam_sync.configuration.upLength.tooltip": "Вертикальне зміщення від ніг, де починаються промені",
+  "aero_cam_sync.configuration.upLength.tooltip": "Доземне зміщення від ніг, де починаються промені",
 
   "aero_cam_sync.configuration.debug": "Налагодження",
   "aero_cam_sync.configuration.rays": "Показати промені налагодження",

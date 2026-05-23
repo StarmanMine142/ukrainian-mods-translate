@@ -2,7 +2,7 @@
 
 ### Оновлення #75
 
-Перекладено [Create: Simulated Thrusters](https://www.curseforge.com/minecraft/mc-mods/create-simulated-thrusters), [The Porkchop Express](https://modrinth.com/mod/porkchop-express), [Create Cardan Shafts](https://www.curseforge.com/minecraft/mc-mods/create-cardan-shafts)
+Перекладено [Create: Simulated Thrusters](https://www.curseforge.com/minecraft/mc-mods/create-simulated-thrusters), [The Porkchop Express](https://modrinth.com/mod/porkchop-express), [Create Cardan Shafts](https://www.curseforge.com/minecraft/mc-mods/create-cardan-shafts), [Create: Horizontal Chute](https://www.curseforge.com/minecraft/mc-mods/create-addon-horizontal-chute)
 
 Оновлено і покращено переклад [Create: Power Grid](https://modrinth.com/mod/power-grid), [Create: Bits 'n' Bobs](https://modrinth.com/mod/create-bits-n-bobs)
 ---------------------
