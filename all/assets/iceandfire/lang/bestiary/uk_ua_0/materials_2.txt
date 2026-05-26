@@ -22,7 +22,7 @@
 сміливо ущільнювати у великі
 блоки для зберігання. Мені
 здається, що зосередження такої
-кількости магічної аури в одному
+кількости магічної аври в одному
 блоці може мати непередбачуване
 застосування.
 <recipe><iceandfire:dragonscale_red 0 iceandfire:dragonscales_red 0 iceandfire:dragonscales_red 0 iceandfire:dragonscales_red 0 iceandfire:dragonscales_red 0 iceandfire:dragonscales_red 0 iceandfire:dragonscales_red 0 iceandfire:dragonscales_red 0 iceandfire:dragonscales_red 0 iceandfire:dragonscales_red 0 210 80 0.75>
