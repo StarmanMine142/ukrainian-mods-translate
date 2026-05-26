@@ -2,7 +2,7 @@
   "veinminer.disabled.title": "Veinminer вимкнений",
   "veinminer.disabled.subtitle": "На цьому сервері не встановлено Veinminer або не дозволено клієнтські доповнення",
   "veinminer.notavailable.title": "Veinminer не доступний",
-  "veinminer.notavailable.subtitle": "Установіть звичайний Veinminer, аби використовувати в грі наодинці! https://modrinth.com/mod/veinminer",
+  "veinminer.notavailable.subtitle": "Установіть звичайний Veinminer, щоб використовувати в грі наодинці! https://modrinth.com/mod/veinminer",
 
   "category.veinminer-client": "Veinminer",
   "key.veinminer-client.veinmine": "Увімкнути жилодобування",
