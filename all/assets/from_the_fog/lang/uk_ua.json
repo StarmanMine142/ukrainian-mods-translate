@@ -413,7 +413,7 @@
     "config.setting.wooden_cross.display_name": "Дерев'яні хрести",
     "config.setting.wooden_cross.off.value": "ВИМК.",
     "config.setting.wooden_cross.rare.value": "Рідкісно",
-    "config.text.prevent_open": "Вибачте, зараз ви не можете відкрити конфігурацію, оскільки інша вже відкрита.",
+    "config.text.prevent_open": "Вибачте, зараз ви не можете відкрити налаштування, оскільки інша вже відкрита.",
     "config.text.settings": "Налаштування",
     "dreadful_donation.message.1": "Допоможи.",
     "dreadful_donation.message.2": "Я бачу тебе.",
