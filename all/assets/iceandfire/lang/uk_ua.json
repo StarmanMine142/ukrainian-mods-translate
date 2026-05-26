@@ -928,7 +928,7 @@
   "fluid.tconstruct.dragonsteel_ice": "Розтоплена льодяна драконосталь",
   "material.weezer": "Weezer",
   "modifier.sweater_song": "Скасування",
-  "modifier.sweater_song.desc": "«Якщо ви хочете знищити мій светр…»§r\\nЦілі які одягнули обладунки мають шанс в 30%, що їхня броня пропаде після критичного удару.",
+  "modifier.sweater_song.desc": "«Якщо ви хочете знищити мій светр…»§r\\nЦілі які одягнули обладунки мають шанс в 30%, що їхні обладунки зникнуть після критичного удару.",
   "modifier.surf_wax_america": "Surf Wax America",
   "modifier.surf_wax_america.desc": "«Ви берете свою машину на роботу, я візьму свою дошку…»§r\\nНаносить додаткову шкоду в 5 одиниць, якщо гравець їде верхом.",
   "modifier.in_the_garage": "У гаражі",
