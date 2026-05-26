@@ -103,7 +103,7 @@
 	"tooltip.toms_storage.terminal_beacon": "Рівень маяка: %d%s",
 	"tooltip.toms_storage.terminal_beacon.sameDim": "Цей термінал доступний будь-де в цьому вимірі з §lпокращеним безпровідним перміналом§r",
 	"tooltip.toms_storage.terminal_beacon.anywhere": "Цей термінал доступний будь-де з §lпокращеним безпровідним перміналом§r",
-	"tooltip.toms_storage.nbt_overflow": "Теґ цього предмета завеликий, він може неправильно відображатися в терміналі",
+	"tooltip.toms_storage.nbt_overflow": "Теґ цього предмета завеликий, він може неправильно показуватися в терміналі",
 	"tooltip.toms_storage.ghostMode_on": "Сортування під час утримування Shift: УВІМК.",
 	"tooltip.toms_storage.ghostMode_off": "Сортування під час утримування Shift: ВИМК.",
 	"tooltip.toms_storage.tallMode_off": "Розмір терміналу: Усталено",
