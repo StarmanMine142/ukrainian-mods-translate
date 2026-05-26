@@ -52,10 +52,10 @@
   "item.yo_relics.frosty_shield.desc": "Надає імунітет до замороження та ваші атаки заморожують.",
 
   "item.yo_relics.distorted_shield": "Спотворений щит",
-  "item.yo_relics.distorted_shield.desc": "Дозволяє робити ривок в напрямку руху, натиснувши %s із часом відновлення %s секунд.",
+  "item.yo_relics.distorted_shield.desc": "Дозволяє робити ривок у напрямку руху, натиснувши %s із часом відновлення %s секунд.",
 
   "item.yo_relics.celestial_aegis": "Небесна егіда",
-  "item.yo_relics.celestial_aegis.desc": "Дозволяє робити ривок в напрямку руху, натиснувши %s із часом відновлення %s секунд.",
+  "item.yo_relics.celestial_aegis.desc": "Дозволяє робити ривок у напрямку руху, натиснувши %s із часом відновлення %s секунд.",
   "item.yo_relics.celestial_aegis.desc_2": "Надає імунітет до відкидання, шкоди від вогню та заморожування.",
   "item.yo_relics.celestial_aegis.desc_3": "Ваші атаки спричиняють ефект заморожування ворогів.",
 
