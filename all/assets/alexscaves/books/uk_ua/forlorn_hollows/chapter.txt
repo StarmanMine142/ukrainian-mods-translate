@@ -13,7 +13,7 @@
 
 
 
-    Вітаємо в жалюгідних порожнечах...
+    Вітаємо в жалюгідних порожнечах…
     • {Вступ|forlorn_hollows/general.json}
     • {Ресурси|forlorn_hollows/resources.json}
     • Мешканці
