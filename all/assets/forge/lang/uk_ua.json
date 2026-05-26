@@ -179,7 +179,7 @@
   "forge.configgui.forgeCloudsEnabled": "Використовувати промальовування хмар Forge",
   "forge.configgui.disableStairSlabCulling.tooltip": "Вимкнути обробку прихованих сторін біля сходів і плит. Вимагає додаткове промальовування, але може виправити деякі пакети ресурсів, які використовують цю усталену механіку.",
   "forge.configgui.disableStairSlabCulling": "Вимкнути обробку сходів/плит",
-  "forge.configgui.alwaysSetupTerrainOffThread.tooltip": "Дозволити Forge ставити у чергу всі оновлення чанків. Має значно збільшити FPS, але також може викликати дивні помилки рендеру. Не рекомендовано для комп'ютерів без великого числа доступних ядер.",
+  "forge.configgui.alwaysSetupTerrainOffThread.tooltip": "Дозволити Forge ставити у чергу всі оновлення чанків. Має значно збільшити FPS, але також може викликати дивні помилки промальовування. Не рекомендовано для комп'ютерів без великого числа доступних ядер.",
   "forge.configgui.alwaysSetupTerrainOffThread": "Примусове багатопоточне промальовування чанків",
   "forge.configgui.forgeLightPipelineEnabled.tooltip": "Увімкніть конвейер промальовування Forge, щоб виправити освітлення кастомних моделей.",
   "forge.configgui.forgeLightPipelineEnabled": "Увімкнути обробку світла Forge",
