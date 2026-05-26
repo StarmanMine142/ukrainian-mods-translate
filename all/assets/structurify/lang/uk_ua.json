@@ -37,7 +37,7 @@
 	"gui.structurify.structures.structure.enable_flatness_check.title": "Увімкнути",
 	"gui.structurify.structures.structure.enable_flatness_check.description": "Структура з'являтиметься, лише якщо рельєф на вказаній відстані є достатньо рівним відповідно до вказаного порогу.",
 	"gui.structurify.structures.structure.flatness_check_threshold.title": "Поріг перевірки рівности (у блоках)",
-	"gui.structurify.structures.structure.flatness_check_threshold.description": "Максимальна різниця висот (у блоках), дозволена для того, щоби місцевість вважалася пласкою.",
+	"gui.structurify.structures.structure.flatness_check_threshold.description": "Максимальна різниця висот (у блоках), дозволена для того, щоб місцевість вважалася пласкою.",
 	"gui.structurify.structures.structure.allow_non_solid_blocks_in_flatness_check.title": "Дозволити нетверді блоки",
 	"gui.structurify.structures.structure.allow_non_solid_blocks_in_flatness_check.description": "Рідкі, повітряні та інші «спеціальні» блоки вважатимуться твердими блоками та не пройдуть перевірку.",
 	"gui.structurify.structures.biome_check_group.title": "Налаштування перевірки біому",
