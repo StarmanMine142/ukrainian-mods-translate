@@ -190,7 +190,7 @@
   "block.irregular_implements.water_chest": "Водяна скриня",
   "command.irregular_implements.spectre_energy.get": "%s має %s FE у своєму буфері спектральної енергії.",
   "command.irregular_implements.spectre_energy.set": "Установлено буфер спектральної енергії для %s на %s FE",
-  "death.fell.accident.fluid_fall.boot": "%2$s бризнув на поверхню %1$s, тому що він одягнений в %s",
+  "death.fell.accident.fluid_fall.boot": "%2$s бризнув на поверхню %1$s, тому що він одягнений у %s",
   "death.fell.accident.fluid_fall.generic": "%2$s бризнув на поверхню %1$s, тому що він може по ній ходити",
   "effect.irregular_implements.collapse": "Колапс",
   "effect.irregular_implements.imbue_collapse": "Вплив колапсу",
