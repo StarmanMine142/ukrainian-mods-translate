@@ -217,7 +217,7 @@
   "cold_sweat.config.food_effects_location.desc": "Положення ефектів їжі на екрані.",
   "cold_sweat.config.custom_hotbar.desc": "Вмикає власну панель швидкого доступу (вимкніть, якщо виникають конфлікти з іншими модами).",
   "cold_sweat.config.move_body_icon.desc": "Зміщує значок температури тіла, щоб звільнити місце для розширених показників, коли у гравця є термометр.",
-  "cold_sweat.config.config_button_pos.desc": "Відкрити меню налаштувань з керуванням для зміни положення кнопки конфігурації.",
+  "cold_sweat.config.config_button_pos.desc": "Відкрити меню налаштувань з керуванням для зміни положення кнопки налаштувань.",
   "cold_sweat.config.grace_period.desc": "Надає гравцеві короткий час імунітету до температури при появі у світі.",
   "cold_sweat.config.grace_period_length.desc_1": "Тривалість періоду захисту в тактах.",
   "cold_sweat.config.grace_period_length.desc_2": "20 тактів = 1 секунда",
