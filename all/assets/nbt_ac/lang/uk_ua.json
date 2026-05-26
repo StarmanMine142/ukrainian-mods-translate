@@ -130,7 +130,7 @@
   "nbt_ac.options.field.debug_sleep.0": "[вимкнено]",
   "nbt_ac.options.field.debug_sleep.desc": "Затримує завантаження пропозицій для кращого вимірювання часу (значення в мілісекундах, рекомендовано встановлювати на кілька тисяч).",
 
-  "nbt_ac.options.field.debug_config_screen": "Екран конфігурації налагодження",
+  "nbt_ac.options.field.debug_config_screen": "Екран налаштування налагодження",
   "nbt_ac.options.field.debug_config_screen.desc": "Показує інтерфейс налаштувань після виходу з екрана Realms. Кнопка скидання інтерфейсу не скидає усталене значення!",
 
   "nbt_ac.options.field.save_suggestions": "Зберегти пропозиції",
