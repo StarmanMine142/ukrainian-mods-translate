@@ -30,7 +30,7 @@
 
 
 Її можна перетопити в злитки,
-що мають всіляке використання.
+що мають усіляке використання.
 <item><iceandfire:silver_sword 0 104 50 1>
 <item><iceandfire:silver_pickaxe 0 120 50 1>
 <item><iceandfire:silver_axe 0 136 50 1>
