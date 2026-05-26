@@ -311,7 +311,7 @@
   "gui.ae2.ConfirmCraftCpuStatus": "Сховище: %s : Співпроцесори: %s",
   "gui.ae2.ConfirmCraftNoCpu": "Сховище: Н/Д : Співпроцесори: Н/Д",
   "gui.ae2.CopyMode": "Режим копіювання",
-  "gui.ae2.CopyModeDesc": "Визначає, чи буде очищено вміст панелі конфігурації при видаленні комірки.",
+  "gui.ae2.CopyModeDesc": "Визначає, чи буде очищено вміст панелі налаштувань при видаленні комірки.",
   "gui.ae2.CraftErrorCpuBusy": "Вибраний процесор уже працює над іншим завданням.",
   "gui.ae2.CraftErrorCpuOffline": "Обраний процесор офлайн.",
   "gui.ae2.CraftErrorCpuTooSmall": "Не вистачає пам'яті для процесора.",
