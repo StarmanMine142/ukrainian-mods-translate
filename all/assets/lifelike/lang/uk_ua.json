@@ -62,7 +62,7 @@
 	"gui.lifelike.neighborhood.moore.tooltip": "Усі блоки, де найбільша різниця в будь-якій координаті менша або дорівнює дальности.",
 	"gui.lifelike.neighborhood.von_neumann.tooltip": "Усі блоки, де манхеттенська відстань менша або дорівнює дальности.",
 	"gui.lifelike.neighborhood.vn_checkerboard.tooltip": "фон Неймана, але за винятком кожного іншого блока.",
-	"gui.lifelike.neighborhood.checkerboard.tooltip": "Мур, але за винятком кожного іншого блоку (не включає центр).",
+	"gui.lifelike.neighborhood.checkerboard.tooltip": "Мур, але за винятком кожного іншого блока (виключаючи центр).",
 	"gui.lifelike.neighborhood.aligned_checkerboard.tooltip": "Мур, але за винятком усіх інших блоків (включаючи центр).",
 	"gui.lifelike.neighborhood.euclidean.tooltip": "Сфера.",
 	"gui.lifelike.neighborhood.cross.tooltip": "Усі блоки, які відрізняються лише однією координатою.",
