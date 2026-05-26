@@ -178,7 +178,7 @@
   "tooltip.relics.lich_crown.ability.mirror_leech": "Дзеркальна п'явка",
   "tooltip.relics.lich_crown.ability.mirror_leech.description": "Будь-яка атака на гравця має %1$s%% шансу віддзеркалиться на нападника, зцілюючи гравця на суму завданої шкоди.",
   "tooltip.relics.lich_crown.leveling_source.mirror_leech.title": "Дзеркальна п'явка",
-  "tooltip.relics.lich_crown.leveling_source.mirror_leech.description": "+%1$s очок досвіду за кожну повну одиницю шкоди, відображеної за допомогою здібности %2$s.",
+  "tooltip.relics.lich_crown.leveling_source.mirror_leech.description": "+%1$s очок досвіду за кожну повну одиницю шкоди, показаної за допомогою здібности %2$s.",
 
   "item.reliquified_twilight_forest.vengeful_gem": "Мстивий самоцвіт",
   "tooltip.relics.lich_crown.ability.vendetta": "Мстивість",
