@@ -269,7 +269,7 @@
   "relics.description.chorus_staff.ability.blink": "Телепортація",
   "relics.description.chorus_staff.ability.blink.description": "При використанні телепортує носія реліквій вперед до %1$s блоків, споживаючи 1 одиницю з внутрішнього буфера з %2$s одиниць. Буфер автоматично відновлюється на 1 одиницю кожні %3$s секунд.",
   "relics.description.chorus_staff.ability.blink.rank_modifier.safe_fall": "Приземлення після телепортації не завдає шкоди при падінні.",
-  "relics.description.chorus_staff.ability.blink.rank_modifier.ascent": "Використання телепортації, дивлячись на блок у межах досяжності, телепортує гравця до цього блоку, а не вперед. Якщо над ціллю є інші блоки, відстань телепортації, що залишилася, використовується для пошуку безпечного місця.",
+  "relics.description.chorus_staff.ability.blink.rank_modifier.ascent": "Використання телепортації, дивлячись на блок у межах досяжності, телепортує гравця до цього блока, а не вперед. Якщо над ціллю є інші блоки, відстань телепортації, що залишилася, використовується для пошуку безпечного місця.",
   "relics.description.chorus_staff.ability.blink.rank_modifier.flicker": "Під час телепортації всі найближчі цілі ненадовго втрачають гравця з поля зору.",
   "relics.description.chorus_staff.ability.blink.experience_source.blink": "+1 очко досвіду за кожну виконану телепортацію.",
   "relics.description.chorus_staff.ability.blink.experience_source.safe_fall": "+1 очко досвіду за кожне безпечне приземлення після телепортації.",
