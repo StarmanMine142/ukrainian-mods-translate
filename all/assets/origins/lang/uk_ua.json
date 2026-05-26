@@ -188,7 +188,7 @@
 
   "item.origins.orb_of_origin": "Сфера походження",
   "component.item.origins.origin.layer": "Дозволяє вам обрати нове %s.",
-  "component.item.origins.origin.layer_and_origin": "Встановить вашу %1$s на «%2$s».",
+  "component.item.origins.origin.layer_and_origin": "Установлено вашу %1$s на «%2$s».",
 
   "enchantment.origins.water_protection": "Водяний захист",
   "enchantment.origins.water_protection.desc": "Знижує шкоду від гідрофобії.",
@@ -236,12 +236,12 @@
   "commands.origin.get.result": "%s має наступне %s: %s (%s)",
   "commands.origin.gui.all": "Відкрито інтерфейс вибору для %s гравців",
   "commands.origin.gui.layer": "Відкрито інтерфейс вибору «%2$s» для %1$s гравців",
-  "commands.origin.random.all": "Випадково назначено походження для %1$s цілей в %2$s шарах",
+  "commands.origin.random.all": "Випадково назначено походження для %1$s цілей у %2$s шарах",
   "commands.origin.random.not_allowed": "Шар %1$s не дозволений для випадкових походжень!",
-  "commands.origin.random.success.multiple": "Випадково назначено походження для %1$s цілей в шарі %2$s",
-  "commands.origin.random.success.single": "Випадково назначено походження %2$s для %1$s в шарі %3$s",
-  "commands.origin.set.success.multiple": "Встановлено походження %s цілей в шарі %s на %s",
-  "commands.origin.set.success.single": "Встановлено походження %s в шарі %s на %s.",
+  "commands.origin.random.success.multiple": "Випадково назначено походження для %1$s цілей у шарі %2$s",
+  "commands.origin.random.success.single": "Випадково назначено походження %2$s для %1$s у шарі %3$s",
+  "commands.origin.set.success.multiple": "Установлено походження %s цілей у шарі %s на %s",
+  "commands.origin.set.success.single": "Установлено походження %s у шарі %s на %s",
 
   "origins.avian_sleep_fail": "Вам необхідне свіже повітря для сну"
 }
