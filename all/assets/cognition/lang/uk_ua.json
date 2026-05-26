@@ -3,7 +3,7 @@
 
   "item.cognition.attunement_staff": "Посох налаштування",
   "item.cognition.cognitium_bucket": "Відро коґнітію",
-  "item.cognition.cognitive_alloy": "Коґнітівовий сплав",
+  "item.cognition.cognitive_alloy": "Коґнітівовий стоп",
   "item.cognition.cognitive_amalgam": "Коґнітівова амальґама",
   "item.cognition.cognitive_crystal": "Коґнітівовий кристал",
   "item.cognition.cognitive_flux": "Коґнітівовий флюкс",
@@ -43,7 +43,7 @@
   "block.cognition.experience_obelisk": "Обеліск досвіду",
   "block.cognition.experience_fountain": "Фонтант досвіду",
   "block.cognition.precision_dispeller": "Precision Dispeller",
-  "block.cognition.cognitive_alloy_block": "Блок коґнітівового сплаву",
+  "block.cognition.cognitive_alloy_block": "Блок коґнітівового стопу",
   "block.cognition.cognitive_crystal_block": "Блок коґнітівового кристалу",
   "block.cognition.accelerator": "Прискорювач",
   "block.cognition.linear_accelerator": "Лінійний прискорювач",
