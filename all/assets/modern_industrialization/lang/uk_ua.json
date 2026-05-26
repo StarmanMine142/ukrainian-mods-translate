@@ -1107,7 +1107,7 @@
   "modern_industrialization.configuration.baseItemPipeTransfer.tooltip": "Кількість предметів яка передається предметною трубою кожні 3 секунди.",
   "modern_industrialization.configuration.bidirectionalEnergyCompat": "Двонапрямна ​​енергетична сумісність",
   "modern_industrialization.configuration.bidirectionalEnergyCompat.tooltip": "Умикає двонапрямну сумісність енергії з енергетичною системою NeoForge. Ми рекомендуємо залишити false, якщо інші моди не були збалансовані відповідним чином.",
-  "modern_industrialization.configuration.compat": "Сумісність моду",
+  "modern_industrialization.configuration.compat": "Сумісність мода",
   "modern_industrialization.configuration.compostableToPlantOil": "Рецепти компостування рослинної олії",
   "modern_industrialization.configuration.compostableToPlantOil.tooltip": "Генерувати рецепти рослинної олії в центрифузі для всіх предметів, які можна компостувати.",
   "modern_industrialization.configuration.datagen": "Час виконання генерації даних",
