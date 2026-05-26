@@ -136,7 +136,7 @@
   "ftbstuff.jei.loot_summary": "Інформація про таблицю здобичі",
   "ftbstuff.jei.loot_summary.pool": "Пул: %s",
   "ftbstuff.jei.loot_summary.pool_header": "Таблиця здобичі містить %d пулів здобичі:",
-  "ftbstuff.jei.loot_summary.too_many": "Ще %s записів здобичі не відображаються",
+  "ftbstuff.jei.loot_summary.too_many": "Ще %s записів здобичі не показуватимуться",
   "ftbstuff.jei.wooden_basin_info": "Покладіть блок на дерев'яну чашу\nі впадіть або стрибніть на неї",
   "ftbstuff.making": "Створення:",
   "ftbstuff.processing_time": "Час обробки: %d сек",
