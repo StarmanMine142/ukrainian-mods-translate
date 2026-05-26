@@ -105,7 +105,7 @@
   "quark_ponders.ponder.quark_toretoise.text_10": "Печерепаха кожного разу відновлюватиме випадкову руду.",
   "quark_ponders.ponder.quark_toretoise.text_11": "Якщо годівницю (з модуля автоматизації) ввімкнено, печерепаха їстиме з неї.",
   "quark_ponders.ponder.quark_toretoise.text_12": "Коли печерепаха створює руду, вона ввійде в період відновлення їжі протягом %s секунд.",
-  "quark_ponders.ponder.quark_toretoise.text_13": "Печерепахи 1 блок заввишки, але виростають до 1,4 блоку заввишки, якщо вони мають руду.",
+  "quark_ponders.ponder.quark_toretoise.text_13": "Печерепахи 1 блок заввишки, але виростають до 1,4 блока заввишки, якщо вони мають руду.",
   "quark_ponders.ponder.quark_toretoise.text_14": "Якщо залізні стрижні (з модуля автоматизації) ввімкнено, штовхання їх на печерепасі за допомогою поршня призведе до ламання руди.",
 
   "quark_ponders.ponder.quark_foxhound.header": "Гончі лиси",
