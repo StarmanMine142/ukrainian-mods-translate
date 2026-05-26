@@ -389,7 +389,7 @@
   "powergrid.message.coil_same_terminal": "Неможливо створити котушку, приєднану до одного терміналу",
   "powergrid.message.coil_winding_primary": "Первинна котушка намотується, обертів: %1$s",
   "powergrid.message.coil_winding_secondary": "Намотування вторинної котушки, витки: %1$s — %2$s співвідношення",
-  "powergrid.message.config_ignore_ok": "Це повідомлення більше не відображатиметься",
+  "powergrid.message.config_ignore_ok": "Це повідомлення більше не показуватиметься",
   "powergrid.message.config_reset_ok": "Налашутвання успішно скинуто",
   "powergrid.message.connection_exists": "Ці термінали вже приєднано",
   "powergrid.message.connection_failed": "Не вдалося створити нове підключення",
