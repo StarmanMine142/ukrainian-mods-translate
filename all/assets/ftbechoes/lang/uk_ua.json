@@ -29,7 +29,7 @@
   "ftbechoes.gui.stock_limit.player": "Обмеження на гравця",
   "ftbechoes.gui.stock_limit.team": "Ліміт для кожної команди",
   "ftbechoes.gui.stock_remaining": "Залишок на складі: %s/%s",
-  "ftbechoes.gui.stop_audio": "Зупинити поточний аудіокліп",
+  "ftbechoes.gui.stop_audio": "Зупинити поточний авдіокліп",
   "ftbechoes.gui.wallet": "Гаманець: %s",
   "ftbechoes.jei.echo_title": "Відлення продає: %s",
   "ftbechoes.jei.shop.title": "Крамниця відлуння",
