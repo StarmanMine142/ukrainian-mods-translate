@@ -433,7 +433,7 @@
   "powergrid.ponder.circuit_electron_tube.text_4": "Негативна напруга може бути застосована до мережі. Невелика зміна може призвести до значної зміни анодного струму",
   "powergrid.ponder.circuit_neon.header": "Неонова лампа",
   "powergrid.ponder.circuit_neon.text_1": "Неонова лампа — це простий пристрій, що світитиметься при проходженні через неї струму",
-  "powergrid.ponder.circuit_neon.text_2": "Потребує обмежувальний резистор, щоби не пошкодити одразу після увімкнення",
+  "powergrid.ponder.circuit_neon.text_2": "Потребує обмежувальний резистор, щоб не пошкодити одразу після увімкнення",
   "powergrid.ponder.circuit_potentiometer.header": "Потенціометр",
   "powergrid.ponder.circuit_potentiometer.text_1": "Потенціометр — це зменшена версія реостата",
   "powergrid.ponder.circuit_potentiometer.text_2": "Його значення можна налаштувати, взаємодіючи з ним",
