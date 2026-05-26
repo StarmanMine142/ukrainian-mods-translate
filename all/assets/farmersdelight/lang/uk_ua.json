@@ -431,7 +431,7 @@
   "config.farmersdelight.client.comfortHealthOverlay": "Накладення регенерація накладення",
   "config.farmersdelight.client.comfortHungerOverlay.description": "Чи повинна панель здоров'я мати сріблястий блиск, коли гравець має ефект затишку?",
   "config.farmersdelight.client.foodEffectTooltip": "Підказка ефекту їжі",
-  "config.farmersdelight.client.foodEffectTooltip.description": "Чи мають підказки про їжу та напої відображати, які ефекти вони забезпечують?",
+  "config.farmersdelight.client.foodEffectTooltip.description": "Чи мають підказки про їжу та напої показувати, які ефекти вони забезпечують?",
   "config.farmersdelight.settings.enableVanillaCropCrates": "Увімкнути ящики стандартних культур",
   "config.farmersdelight.settings.enableVanillaCropCrates.description": "Farmer's Delight додає ящики (3x3) для стандартних культур, подібно до Quark і Thermal Cultivation. Чи можна їх майструвати?",
   "config.farmersdelight.settings.farmersBuyFDCrops": "Фермери купують культури FD",
