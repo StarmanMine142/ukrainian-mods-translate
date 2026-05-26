@@ -792,10 +792,10 @@
 
   "key.dragon_strike": "Удар дракона",
   "key.dragon_fireAttack": "Подих дракона",
-  "key.dragon_down": "Спустится униз",
+  "key.dragon_down": "Спустится вниз",
   "key.dragon_change_view": "Змінити камеру від третьої особи",
 
-  "tc.aspect.mythus": "Міфологічна істота, легендарна істота, криптида, вигадана істота",
+  "tc.aspect.mythus": "Мітична істота, легендарна істота, криптид, вигадана істота",
   "tc.aspect.draco": "Дракон",
 
   "advancements.iceandfire.root.title": "Ice and Fire",
