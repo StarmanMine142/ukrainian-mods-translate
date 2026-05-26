@@ -60,7 +60,7 @@
   "item.reliquified_twilight_forest.deer_antler": "Ріг оленя",
   "tooltip.relics.deer_antler.description": "Підозріло великий ріг звичайного оленя, який так само підозріло б виглядав на якійсь живій істоті.",
   "tooltip.relics.deer_antler.ability.ride_along": "На рогах!",
-  "tooltip.relics.deer_antler.ability.ride_along.description": "Якщо використовується на істоті, чий хітбокс об'єм не перевищує %1$s блоків, поміщає її на роги гравця та запобігає завданню шкоди гравцеві.",
+  "tooltip.relics.deer_antler.ability.ride_along.description": "Якщо використовується на істоті, чий гітбокс об'єм не перевищує %1$s блоків, поміщає її на роги гравця та запобігає завданню шкоди гравцеві.",
   "tooltip.relics.deer_antler.leveling_source.ride_along.title": "На рогах!",
   "tooltip.relics.deer_antler.leveling_source.ride_along.description": "+%1$s очок досвіду за кожні 3 секунди, проведені з істотою на рогах із здібністю %2$s.",
 
