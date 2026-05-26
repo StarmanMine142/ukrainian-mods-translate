@@ -489,9 +489,9 @@
   "effect.cataclysm.wetness": "Вологість",
 
   "flamethrower.sub": "Вогнемет",
-  "golemhurt.sub": "Ендер голема поранено",
-  "golemdeath.sub": "Ендер голема вбито",
-  "golemattack.sub": "Ендер голем атакує",
+  "golemhurt.sub": "Ендерголема поранено",
+  "golemdeath.sub": "Ендерголема вбито",
+  "golemattack.sub": "Ендерголем атакує",
   "enderguardianhurt.sub": "Вартового Енду поранено",
   "enderguardiandeath.sub": "Вартовий Енду гине",
   "enderguardianattack.sub": "Вартовий Енду атакує",
