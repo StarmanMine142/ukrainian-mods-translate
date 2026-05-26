@@ -443,7 +443,7 @@
     "affix.apotheosis.target.attack_target": "При ударі завдаєте %s",
     "affix.apotheosis.target.hurt_self": "Після атаки отримуєте %s",
     "affix.apotheosis.target.hurt_attacker": "Після атаки завдаєте %s",
-    "affix.apotheosis.target.break_self": "При ламанні блоку отримуєте %s",
+    "affix.apotheosis.target.break_self": "При ламанні блока отримуєте %s",
     "affix.apotheosis.target.arrow_self": "Після влучанні стріли отримує %s",
     "affix.apotheosis.target.arrow_target": "Після влучанні стріли завдаєте %s",
     "affix.apotheosis.target.block_self": "При блокуванні отримуєте %s",
