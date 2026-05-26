@@ -150,7 +150,7 @@
   "item.reliquified_twilight_forest.invisibility_cloak": "Мантія-невидимка",
   "tooltip.relics.invisibility_cloak.description": "Дивна штука — досить довго дивитися на неї, і вона… починає зникати? Важко уявити, навіщо імператору потрібен був такий плащ…",
   "tooltip.relics.invisibility_cloak.ability.cosmetic_armor": "Імператорський одяг",
-  "tooltip.relics.invisibility_cloak.ability.cosmetic_armor.description": "Приховує зовнішній вигляд споряджених облааунків.",
+  "tooltip.relics.invisibility_cloak.ability.cosmetic_armor.description": "Приховує зовнішній вигляд споряджених обладунків.",
   "tooltip.relics.invisibility_cloak.ability.invisibility": "Камуфляж",
   "tooltip.relics.invisibility_cloak.ability.invisibility.description": "Надає повну невидимість після повної нерухомости або безперервного прокрадання принаймні %1$s секунд.",
   "tooltip.relics.invisibility_cloak.leveling_source.invisibility.title": "Камуфляж",
