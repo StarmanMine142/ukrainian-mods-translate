@@ -121,7 +121,7 @@
     "item.storagedrawers.priority_key_n2": "Ключ пріоритету (-2)",
     "item.storagedrawers.priority_key_n2.desc": "Надає шухляді найнижчий пріоритет\nПрисядьте та використовуйте для перемикання ключа",
     "item.storagedrawers.personal_key": "Особистий ключ",
-    "item.storagedrawers.personal_key.desc": "Захищаэ доступ від інших гравців\nНе захищає блоки від ламання",
+    "item.storagedrawers.personal_key.desc": "Захищає доступ від інших гравців\nНе захищає блоки від ламання",
     "item.storagedrawers.personal_key_cofh": "Особистий ключ (CoFH)",
     "item.storagedrawers.personal_key_cofh.desc": "Захист доступу від інших гравців\nНе захищає блоки від ламання",
     "item.storagedrawers.personal_key_ftb": "Особистий ключ (FTB)",
