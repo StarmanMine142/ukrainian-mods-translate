@@ -294,7 +294,7 @@
   "relics.description.piglin_mask.ability.barter.statistic.currency": "Валюта, витрачена на обмін з піґлінами",
   "relics.description.piglin_mask.ability.barter.statistic.items": "Предмети, отримані від обміну з піґлінами",
   "relics.description.piglin_mask.ability.looting": "Грабунок",
-  "relics.description.piglin_mask.ability.looting.description": "При вбивстві цілей випадають додаткові золоті зуби. Їх кількість залежить від максимального здоров'я цілі, і за кожні %2$s очок здоров'я є %1$s%% шансів випасти один зуб. Зуби можна використовувати для торгівлі піглінами або перетопити в золото.",
+  "relics.description.piglin_mask.ability.looting.description": "При вбивстві цілей випадають додаткові золоті зуби. Їх кількість залежить від максимального здоров'я цілі, і за кожні %2$s очок здоров'я є %1$s%% шансів випасти один зуб. Зуби можна використовувати для обміну з піґлінами або перетопити в золото.",
   "relics.description.piglin_mask.ability.looting.rank_modifier.frenzy": "Збирання випали зубів протягом %3$s секунд збільшує шкоду на %4$s%% і швидкість атаки на %5$s%% за кожен зібраний зуб. Збирання нового зуба оновлює тривалість ефекту. Коли кількість зібраних зубів досягає 32, подальше підхоплення більше не відбувається оновити тривалість, але потроїти всі бонуси до закінчення часу.",
   "relics.description.piglin_mask.ability.looting.experience_source.drop": "+1 очко досвіду за кожен випав золотий зуб.",
   "relics.description.piglin_mask.ability.looting.experience_source.stack": "+1 очко досвіду за кожен заряд, отриманий із золотих зубів.",
