@@ -23,7 +23,7 @@
   "vulkanmod.options.deviceSelector.tooltip": "Поточний пристрій",
 
   "vulkanmod.options.entityCulling": "Вибракування сутностей",
-  "vulkanmod.options.entityCulling.tooltip": "Умикає вибракування сутностей в невидимих секціях.",
+  "vulkanmod.options.entityCulling.tooltip": "Умикає вибракування сутностей у невидимих секціях.",
 
   "vulkanmod.options.frameQueue": "Розмір черги промальовування",
   "vulkanmod.options.frameQueue.tooltip": "Вищі значення можуть допомогти стабілізувати час кадрів, але призведуть до збільшення затримки введення.",
