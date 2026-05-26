@@ -209,7 +209,7 @@
   "text.extended_industrialization.machine_chainer_help_2": "Приймає предмети, рідини та енергію та розподіляє їх між з'єднаними машинами.",
   "text.extended_industrialization.machine_chainer_help_3": "Може з'єднуватися з іншими ланцюговими машин, але не має з'єднуватися назад із собою.",
   "text.extended_industrialization.machine_chainer_problem_at": "Проблема в: %s",
-  "text.extended_industrialization.machine_config_card_apply_failed": "Не вдалося застосувати конфігурацію машини до машини.",
+  "text.extended_industrialization.machine_config_card_apply_failed": "Не вдалося застосувати налаштування машини до машини.",
   "text.extended_industrialization.machine_config_card_apply_success": "Налаштування машини застосовано до машини з картки.",
   "text.extended_industrialization.machine_config_card_clear": "Очищено налаштування машини з картки.",
   "text.extended_industrialization.machine_config_card_configured": "Налаштовано (%s)",
