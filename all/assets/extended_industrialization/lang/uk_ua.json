@@ -250,7 +250,7 @@
   "text.extended_industrialization.rainbow": "Веселка",
   "text.extended_industrialization.robot_auto_feeder_help_1": "Автоматично забирає консервовану їжу з вашого інвентарю та годує нею вас.",
   "text.extended_industrialization.robot_auto_feeder_help_2": "Працює з предметами, що містять такі предмети, як рюкзаки.",
-  "text.extended_industrialization.solar_boiler_calcification": "З часом буде кальцифікуватися та втрачати ефективність до мінімальної ефективності %s, якщо не використовувати %s. Використання сокири на котлі скине його кальцифікацію.",
+  "text.extended_industrialization.solar_boiler_calcification": "З часом буде кальцифікуватися та втрачати ефективність до мінімальної ефективности %s, якщо не використовувати %s. Використання сокири на котлі скине його кальцифікацію.",
   "text.extended_industrialization.solar_efficiency": "Сонячна ефективність: %s %%",
   "text.extended_industrialization.solar_panel_distilled_water": "Поставляючи %s по сонячній панелі, фотоелектричну комірку у своєму слоті працюватиме вдвічі довше та вироблятиме в 1,5 раза більше енергії!",
   "text.extended_industrialization.solar_panel_photovoltaic_cell": "щоб виробляти енергію, панелі сонячних батарей потрібен фотоелектричну комірку відповідного рівня в інвентарі.",
