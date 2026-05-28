@@ -2,15 +2,15 @@
     "text.autoconfig.astrocraft.title": "Налаштування Astrocraft",
     "text.autoconfig.astrocraft.category.advanced": "Розширені",
     
-    "text.autoconfig.astrocraft.category.sun/moon": "Сонце і місяць",
-    "text.autoconfig.astrocraft.option.sunAppearance": "Зовнішній вигляд сонця",
+    "text.autoconfig.astrocraft.category.sun/moon": "Сонце й Місяць",
+    "text.autoconfig.astrocraft.option.sunAppearance": "Зовнішній вигляд Сонця",
     "text.autoconfig.astrocraft.option.sunAppearance.magnitude": "Абсолютна величина і яскравість",
     "text.autoconfig.astrocraft.option.sunAppearance.magnitude.@Tooltip": "Також впливає на яскравість планети.",
     "text.autoconfig.astrocraft.option.sunAppearance.color": "Колір",
     "text.autoconfig.astrocraft.option.sunAppearance.color.@Tooltip": "Шістнадцяткове кодування, B-V індекс, температура (K) або спектральний клас.",
     "text.autoconfig.astrocraft.option.enableEclipses": "Увімкнути екліптику",
     "text.autoconfig.astrocraft.option.enableSunspots": "Увімкнути сонячні плями",
-    "text.autoconfig.astrocraft.option.diameterScale": "Розмір сонця і місяця",
+    "text.autoconfig.astrocraft.option.diameterScale": "Розмір Сонця і Місяця",
     "text.autoconfig.astrocraft.option.diameterScale.@Tooltip": "Для їхніх реальних розмірів установіть на 1.",
 
     "text.autoconfig.astrocraft.option.skyRotationOptions": "Налаштування повороту неба",
@@ -40,12 +40,12 @@
     "text.autoconfig.astrocraft.option.planetTimeOptions.seasonOffset": "Початковий сезон (°)",
     "text.autoconfig.astrocraft.option.planetTimeOptions.seasonOffset.@Tooltip[0]": "Сезон чи пора року під час створення світу.",
     "text.autoconfig.astrocraft.option.planetTimeOptions.seasonOffset.@Tooltip[1]": "0° починається з березневого рівнодення (весна NH.)",
-    "text.autoconfig.astrocraft.option.planetTimeOptions.monthLength": "Тривалість місяця за місячним календарем (дні)",
-    "text.autoconfig.astrocraft.option.planetTimeOptions.monthLength.@Tooltip[0]": "Тривалість місячного місяця в ігрових днях.",
+    "text.autoconfig.astrocraft.option.planetTimeOptions.monthLength": "Тривалість Місяця за місячним календарем (дні)",
+    "text.autoconfig.astrocraft.option.planetTimeOptions.monthLength.@Tooltip[0]": "Тривалість місячного Місяця в ігрових днях.",
     "text.autoconfig.astrocraft.option.planetTimeOptions.monthLength.@Tooltip[1]": "Це змінює орбітальні періоди всіх супутників.",
-    "text.autoconfig.astrocraft.option.planetTimeOptions.moonPhaseOffset": "Початкова фаза місяця (°)",
-    "text.autoconfig.astrocraft.option.planetTimeOptions.moonPhaseOffset.@Tooltip[0]": "Фаза місяця під час створення світу",
-    "text.autoconfig.astrocraft.option.planetTimeOptions.moonPhaseOffset.@Tooltip[1]": "0° починається з нового місяця, 180° починається з повного місяця.",
+    "text.autoconfig.astrocraft.option.planetTimeOptions.moonPhaseOffset": "Початкова фаза Місяця (°)",
+    "text.autoconfig.astrocraft.option.planetTimeOptions.moonPhaseOffset.@Tooltip[0]": "Фаза Місяця під час створення світу",
+    "text.autoconfig.astrocraft.option.planetTimeOptions.moonPhaseOffset.@Tooltip[1]": "0° починається з нового Місяця, 180° починається з повного Місяця.",
 
 
     "text.autoconfig.astrocraft.category.planets": "Сонячна система",
@@ -113,14 +113,14 @@
 
 
     "text.autoconfig.astrocraft.option.enableConfigMenu": "Увімкнути меню налаштувань",
-    "text.autoconfig.astrocraft.option.enableConfigMenu.@Tooltip": "Увага: це можна знову увімкнути лише при редагуванні файла налаштувань.",
+    "text.autoconfig.astrocraft.option.enableConfigMenu.@Tooltip": "Увага: це можна знову ввімкнути лише при редагуванні файла налаштувань.",
     "text.autoconfig.astrocraft.option.updateTime": "Інтервал оновлень",
     "text.autoconfig.astrocraft.option.updateTime.@Tooltip[0]": "Як часто оновлювати положення зірок, планет тощо.",
     "text.autoconfig.astrocraft.option.updateTime.@Tooltip[1]": "Не встановлюйте це значення занадто низько (ваша гра вийде з ладу).",
     "text.autoconfig.astrocraft.option.updateInterpolation": "Оновлення інтерполяції",
     "text.autoconfig.astrocraft.option.enableSpyglassCulling": "Увімкнути оптимізацію підзорної труби",
     "text.autoconfig.astrocraft.option.enableSpyglassZoom": "Увімкнути приближення підзорної труби",
-    "text.autoconfig.astrocraft.option.enableSpyglassZoom.@Tooltip": "Вимкнути, якщо використовуються Spyglass Improvements (мод).",
+    "text.autoconfig.astrocraft.option.enableSpyglassZoom.@Tooltip": "Вимкнути, якщо використовується Spyglass Improvements (мод).",
     "text.autoconfig.astrocraft.option.gridStep": "Якість сітки",
     "text.autoconfig.astrocraft.option.debugX": "Налагодження",
     "text.autoconfig.astrocraft.option.debugY": "Налагодження",
@@ -131,8 +131,8 @@
     "text.autoconfig.astrocraft.option.DimensionObserver": "Спостерігачі вимірів",
     "text.autoconfig.astrocraft.option.DimensionObserver.dimension": "ID виміру",
     "text.autoconfig.astrocraft.option.DimensionObserver.observer": "Планета-спостерігач",
-    "text.autoconfig.astrocraft.option.vanillaSun": "Промальовувати усталений сонце",
-    "text.autoconfig.astrocraft.option.vanillaMoon": "Промальовувати усталений місяць",
+    "text.autoconfig.astrocraft.option.vanillaSun": "Промальовувати усталений Сонце",
+    "text.autoconfig.astrocraft.option.vanillaMoon": "Промальовувати усталений Місяць",
 
 
     "text.autoconfig.astrocraft.option.ConfigurablePlanet": "Планета",
@@ -141,9 +141,9 @@
     "text.autoconfig.astrocraft.option.ConfigurablePlanet.moons": "Місяці",
     "text.autoconfig.astrocraft.option.ConfigurablePlanet.orbit": "Орбіта",
     "text.autoconfig.astrocraft.option.ConfigurablePlanet.orbit.perihelionRadius": "Радіус перигелію (au)",
-    "text.autoconfig.astrocraft.option.ConfigurablePlanet.orbit.perihelionRadius.@Tooltip": "Найближча відстань до сонця.",
+    "text.autoconfig.astrocraft.option.ConfigurablePlanet.orbit.perihelionRadius.@Tooltip": "Найближча відстань до Сонця.",
     "text.autoconfig.astrocraft.option.ConfigurablePlanet.orbit.aphelionRadius": "Радіус афеліону (au)",
-    "text.autoconfig.astrocraft.option.ConfigurablePlanet.orbit.aphelionRadius.@Tooltip": "Найбільша відстань до сонця.",
+    "text.autoconfig.astrocraft.option.ConfigurablePlanet.orbit.aphelionRadius.@Tooltip": "Найбільша відстань до Сонця.",
     "text.autoconfig.astrocraft.option.ConfigurablePlanet.orbit.sideralPeriod": "Сидеричний період у роках",
     "text.autoconfig.astrocraft.option.ConfigurablePlanet.orbit.siderealPeriod.@Tooltip[0]": "Час, необхідний для завершення однієї орбіти.",
     "text.autoconfig.astrocraft.option.ConfigurablePlanet.orbit.siderealPeriod.@Tooltip[1]": "Залиште як 0, щоб обчислити його автоматично.",
@@ -202,8 +202,8 @@
     "text.autoconfig.astrocraft.option.lightingOptions.occultationPower": "Окультація і потужність затемнення",
     "text.autoconfig.astrocraft.option.lightingOptions.surfacePressure": "Приземний тиск атмосфери (atm)",
     "text.autoconfig.astrocraft.option.lightingOptions.curveMode": "Режим освітлення",
-    "text.autoconfig.astrocraft.option.lightingOptions.starVisibilityLimit": "Обмеження видимості зірок (%)",
-    "text.autoconfig.astrocraft.option.lightingOptions.deepskyVisibilityLimit": "Обмеження видимості глибокого неба (%)",
+    "text.autoconfig.astrocraft.option.lightingOptions.starVisibilityLimit": "Обмеження видимости зірок (%)",
+    "text.autoconfig.astrocraft.option.lightingOptions.deepskyVisibilityLimit": "Обмеження видимости глибокого неба (%)",
     "text.autoconfig.astrocraft.option.lightingOptions.darkenFog": "Затемніти туман",
 
     "text.autoconfig.astrocraft.option.mixinToggles.modifySkyBrightness": "Змінити яскравість неба",
@@ -230,9 +230,9 @@
     "text.autoconfig.astrocraft.option.ConfigurableCompanion.name": "Назва",
     "text.autoconfig.astrocraft.option.ConfigurableCompanion.orbit": "Орбіта",
     "text.autoconfig.astrocraft.option.ConfigurableCompanion.orbit.perihelionRadius": "Радіус перигелію (au)",
-    "text.autoconfig.astrocraft.option.ConfigurableCompanion.orbit.perihelionRadius.@Tooltip": "Найближча відстань до сонця.",
+    "text.autoconfig.astrocraft.option.ConfigurableCompanion.orbit.perihelionRadius.@Tooltip": "Найближча відстань до Сонця.",
     "text.autoconfig.astrocraft.option.ConfigurableCompanion.orbit.aphelionRadius": "Радіус афеліону (au)",
-    "text.autoconfig.astrocraft.option.ConfigurableCompanion.orbit.aphelionRadius.@Tooltip": "Найбільша відстань до сонця.",
+    "text.autoconfig.astrocraft.option.ConfigurableCompanion.orbit.aphelionRadius.@Tooltip": "Найбільша відстань до Сонця.",
     "text.autoconfig.astrocraft.option.ConfigurableCompanion.orbit.sideralPeriod": "Сидеричний період у роках",
     "text.autoconfig.astrocraft.option.ConfigurableCompanion.orbit.siderealPeriod.@Tooltip[0]": "Час, необхідний для завершення однієї орбіти.",
     "text.autoconfig.astrocraft.option.ConfigurableCompanion.orbit.siderealPeriod.@Tooltip[1]": "Залиште як 0, щоб обчислити його автоматично.",
@@ -248,8 +248,6 @@
     "text.autoconfig.astrocraft.option.ConfigurableCompanion.appearance.magnitude.@Tooltip": "Абсолютна величина, якщо використовується відстань, інакше видима.",
     "text.autoconfig.astrocraft.option.ConfigurableCompanion.companions": "Зірки-супутники",
     "text.autoconfig.astrocraft.option.ConfigurableCompanion.planets": "Планетарна система",
-
-
 
     "modmenu.descriptionTranslation.astrocraft": "Додає зірки і планети із реального життя."
 }
