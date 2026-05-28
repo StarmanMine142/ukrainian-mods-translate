@@ -157,7 +157,7 @@
   "artifacts.config.items.novelty_drinking_hat.eatingSpeedBonus.description": "Наскільки новітній пивний капелюх збільшує швидкість поїдання.",
   "artifacts.config.items.novelty_drinking_hat.eatingSpeedBonus.title": "Бонус швидкости поїдання",
   "artifacts.config.items.obsidian_skull.cooldown.description": "Тривалість у секундах, протягом якого обсидіановий череп перезаряджається після отримання шкоди від вогню.",
-  "artifacts.config.items.obsidian_skull.fireResistanceDuration.description": "Тривалість ефекту вогнестійкості, який застосовується під час отримання вогняної шкоди під час носіння обсидіанового черепа.",
+  "artifacts.config.items.obsidian_skull.fireResistanceDuration.description": "Тривалість ефекту вогнестійкости, який застосовується під час отримання вогняної шкоди під час носіння обсидіанового черепа.",
   "artifacts.config.items.obsidian_skull.fireResistanceDuration.title": "Тривалість вогнестійкости обсидіанового черепа",
   "artifacts.config.items.onion_ring.hasteDurationPerFoodPoint.description": "Тривалість квапливости, що застосовується за одиниці їжі, з'їденої під час носіння кільця квапливости.",
   "artifacts.config.items.onion_ring.hasteDurationPerFoodPoint.title": "Тривалість квапливости на одиницю їжі",
