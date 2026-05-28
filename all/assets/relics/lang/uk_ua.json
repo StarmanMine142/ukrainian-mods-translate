@@ -361,7 +361,7 @@
   "relics.description.sphere_of_self_sacrifice.ability.sacrifice.rank_modifier.salvation": "Якщо кількість ефектів відновлення здоров'я не досягла максимуму, а вхідна шкода перевищує шкоду, завдану здатністю, шкода зменшується до значення шкоди здібності, а поточна кількість ефектів відновлення здоров'я збільшується на 1.",
   "relics.description.sphere_of_self_sacrifice.ability.sacrifice.experience_source.self_inflicted": "+1 очко досвіду за кожну активацію здібности",
   "relics.description.sphere_of_self_sacrifice.ability.sacrifice.experience_source.resisting_damage": "+1 очко досвіду за кожну точку шкоди зменшується ефектами відновлення здоров’я.",
-  "relics.description.sphere_of_self_sacrifice.ability.sacrifice.experience_source.salvation": "+1 очко досвіду за кожне очко шкоди, анульоване в обмін на активацію здібності.",
+  "relics.description.sphere_of_self_sacrifice.ability.sacrifice.experience_source.salvation": "+1 очко досвіду за кожне очко шкоди, анульоване в обмін на активацію здібности.",
   "relics.description.sphere_of_self_sacrifice.ability.sacrifice.statistic.healing_done": "Здоров'я відновлено ефектами відновлення здоров'я",
   "relics.description.sphere_of_self_sacrifice.ability.sacrifice.statistic.damage_resisted": "Шкода пом'якшена ефектами відновлення здоров'я",
   "relics.description.sphere_of_self_sacrifice.ability.sacrifice.statistic.projectiles_created": "Випущено криваві снаряди",
