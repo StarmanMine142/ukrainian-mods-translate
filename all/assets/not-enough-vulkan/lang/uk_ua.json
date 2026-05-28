@@ -17,7 +17,7 @@
   "options.particles.minecraft.block_crumble": "Розсипання",
   "options.particles.minecraft.block_crumble.tooltip": "Частинки розсипання скрипня.",
   "options.particles.minecraft.block_marker": "Маркер блоків",
-  "options.particles.minecraft.block_marker.tooltip": "Текстури, які з'являються на місці бар'єра або світла якщо взяти його в руку.",
+  "options.particles.minecraft.block_marker.tooltip": "Текстури, які з'являються на місці бар'єра або світла, якщо взяти його в руку.",
   "options.particles.minecraft.bubble": "Бульбашки",
   "options.particles.minecraft.bubble.tooltip": "З’являється навколо бризок і підводного руху. Також з'являються від лазерів вартових, поплавками, шляхом плавання риби, снарядами підводою та очима Енду.",
   "options.particles.minecraft.bubble_column_up": "Стовп бульбашок вверх",
@@ -376,7 +376,7 @@
   "sodium-extra.overlay.light_updates": "Оновлення світла вимкнено",
   "sodium-extra.units.ticks": "%s такт(-ів)",
   "not-enough-vulkan.option.skip_wayland_patches": "Пропустити патчі Wayland",
-  "not-enough-vulkan.option.skip_wayland_patches.tooltip": "Пропускає виправлення сумісності з Wayland у Linux, щоб увімкнути власні обхідні шляхи GLFW (доступні лише під час використання Wayland). Деякі ефекти потребують перезапуску.",
+  "not-enough-vulkan.option.skip_wayland_patches.tooltip": "Пропускає виправлення сумісности з Wayland у Linux, щоб увімкнути власні обхідні шляхи GLFW (доступні лише під час використання Wayland). Деякі ефекти потребують перезапуску.",
   "not-enough-vulkan.option.monitor_selector": "Монітор повного екрана",
   "not-enough-vulkan.option.monitor_selector.tooltip": "Монітор, який використовуватиметься під час гри в повному екрані."
 }
