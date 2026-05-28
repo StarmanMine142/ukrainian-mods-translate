@@ -81,8 +81,8 @@
 
   "subtitles.yungscavebiomes.block.rare_ice.ambient": "Лід чарів сяє",
 
-  "command.sandstorm.start": "Піщана буря почнеться у загублених печерах через %s",
-  "command.sandstorm.stop": "Піщана буря закінчиться у загублених печерах через %s",
+  "command.sandstorm.start": "Піщана буря почнеться в загублених печерах через %s",
+  "command.sandstorm.stop": "Піщана буря закінчиться в загублених печерах через %s",
 
   "text.autoconfig.yungscavebiomes-fabric-1_20_1.option.config.lostCaves": "Загублені печери",
   "text.autoconfig.yungscavebiomes-fabric-1_20_1.option.config.lostCaves.enableSandstorms": "Дозволити піщані бурі",
@@ -92,7 +92,7 @@
   "text.autoconfig.yungscavebiomes-fabric-1_20_1.option.config.lostCaves.minTimeBetweenSandstorms": "Мінімальний час між піщаними бурями у секундах",
   "text.autoconfig.yungscavebiomes-fabric-1_20_1.option.config.lostCaves.maxTimeBetweenSandstorms": "Максимальний час між піщаними бурями у секундах",
 
-  "text.autoconfig.yungscavebiomes-fabric-1_20_1.option.config.lostCaves.noiseParameters": "Параметри шуму біома",
+  "text.autoconfig.yungscavebiomes-fabric-1_20_1.option.config.lostCaves.noiseParameters": "Параметри шуму біому",
   "text.autoconfig.yungscavebiomes-fabric-1_20_1.option.config.lostCaves.noiseParameters.temperatureMin": "Мінімальна температура",
   "text.autoconfig.yungscavebiomes-fabric-1_20_1.option.config.lostCaves.noiseParameters.temperatureMax": "Максимальна температура",
   "text.autoconfig.yungscavebiomes-fabric-1_20_1.option.config.lostCaves.noiseParameters.humidityMin": "Мінімальна вологість",
@@ -108,7 +108,7 @@
   "text.autoconfig.yungscavebiomes-fabric-1_20_1.option.config.lostCaves.noiseParameters.offset": "Зміщення",
 
   "text.autoconfig.yungscavebiomes-fabric-1_20_1.option.config.frostedCaves": "Льодяні печери",
-  "text.autoconfig.yungscavebiomes-fabric-1_20_1.option.config.frostedCaves.noiseParameters": "Параметри шуму біома",
+  "text.autoconfig.yungscavebiomes-fabric-1_20_1.option.config.frostedCaves.noiseParameters": "Параметри шуму біому",
   "text.autoconfig.yungscavebiomes-fabric-1_20_1.option.config.frostedCaves.noiseParameters.temperatureMin": "Мінімальна температура",
   "text.autoconfig.yungscavebiomes-fabric-1_20_1.option.config.frostedCaves.noiseParameters.temperatureMax": "Максимальна температура",
   "text.autoconfig.yungscavebiomes-fabric-1_20_1.option.config.frostedCaves.noiseParameters.humidityMin": "Мінімальна вологість",
