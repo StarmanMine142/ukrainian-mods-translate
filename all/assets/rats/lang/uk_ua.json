@@ -789,7 +789,7 @@
   "item.rats.rat_upgrade_nonbeliever": "Покращення пацюка: Скептик",
   "item.rats.rat_upgrade_ore_doubling": "Покращення пацюка: Подвоєння руди",
   "item.rats.rat_upgrade_ore_doubling.desc0": "Пацюк буде їсти рудні блоки та створюватиме §o«самородки»",
-  "item.rats.rat_upgrade_ore_doubling.desc1": "§o«самородки»§r§7 можуть бути переплавлені для отримання відповідної руди",
+  "item.rats.rat_upgrade_ore_doubling.desc1": "§o«самородки»§r§7 можуть бути розтоплені для отримання відповідної руди",
   "item.rats.rat_upgrade_ore_doubling.desc2": "Пацюк не буде класти в скриню блок руди, що тримає в лапах, а з'їсть його",
   "item.rats.rat_upgrade_ore_doubling.desc3": "Легко автоматизувати",
   "item.rats.rat_upgrade_pickpocket": "Покращення пацюка: Кишеньковий злодій",
