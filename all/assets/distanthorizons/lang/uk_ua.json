@@ -757,11 +757,11 @@
     "Керує відстаню, яку можна синхронізувати навколо гравця.\nУ більшості випадків вона має бути такою самою або більшою за maxGenerationRequestDistance.",
 
   "distanthorizons.config.server.playerBandwidthLimit":
-    "Обмеження пропускної здатності на гравця, КБ/с",
+    "Обмеження пропускної здатности на гравця, КБ/с",
   "distanthorizons.config.server.playerBandwidthLimit.@tooltip":
     "Максимальна швидкість для кожного гравця для завантаження зон РД до клієнтів у КБ/с.\nЗначення 0 вимикає обмеження.",
   "distanthorizons.config.server.globalBandwidthLimit":
-    "Глобальний ліміт пропускної здатності, КБ/с",
+    "Глобальне обмеження пропускної здатности, КБ/с",
   "distanthorizons.config.server.globalBandwidthLimit.@tooltip":
     "Максимальна глобальна швидкість для завантаження зон РД на клієнти в КБ/с.\nЗначення 0 вимикає обмеження.",
   "distanthorizons.config.server.enableAdaptiveTransferSpeed":
