@@ -1,12 +1,12 @@
 ---------------------
 
-### Оновлення #76
+### Оновлення #77
 
-Перекладено [Bloom](https://modrinth.com/mod/bloom)
+Перекладено [Thermoo](https://modrinth.com/mod/thermoo)
 
 Покращено переклад  <br>
 Оновлено переклад  <br>
-Оновлено і покращено переклад [Spyglass Improvements](https://modrinth.com/mod/spyglass-improvements), [Ohmega](https://modrinth.com/mod/ohmega)
+Оновлено і покращено переклад
 
 Видалено переклад  оскільки додано в самі моди
 

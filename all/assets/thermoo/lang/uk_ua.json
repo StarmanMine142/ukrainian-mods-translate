@@ -1,0 +1,67 @@
+{
+    "attribute.thermoo.min_temperature": "мінімальної температури",
+    "attribute.thermoo.max_temperature": "максимпльної температури",
+    "attribute.thermoo.max_soaking_tick_multiplier": "макимальний множник тактів замочування",
+    "attribute.thermoo.frost_resistance": "стійкости до морозу",
+    "attribute.thermoo.heat_resistance": "стійкости до тепла",
+    "attribute.thermoo.environment_heat_resistance": "стійкости до тепла середовища",
+    "attribute.thermoo.environment_frost_resistance": "стійкости до морозу середовища",
+    
+    "tag.item.thermoo.consumable.cooling": "Споживає охолодження",
+    "tag.item.thermoo.consumable.warming": "Споживає потепління",
+    
+    "thermoo.temperature_source.absolute": "Абмолютний",
+    "thermoo.temperature_source.passive": "Пасивний",
+    "thermoo.temperature_source.active": "Активний",
+    "thermoo.temperature_source.environment": "Навколишній",
+    
+    "commands.thermoo.temperature.exception.not_living_entity": "Ціль не жива сутність!",
+    "commands.thermoo.temperature.get.scale.success": "Температурна шкала %s становить %d",
+    "commands.thermoo.temperature.get.max.success": "%s може мати максимальну температуру %d",
+    "commands.thermoo.temperature.get.min.success": "%s може мати мінімальну температуру %d",
+    "commands.thermoo.temperature.get.current.success": "Поточна температура %s становить %d",
+    "commands.thermoo.temperature.add.success.single": "Додано %d температуру до %s (тепер %d)",
+    "commands.thermoo.temperature.add.success.multiple": "Додано %d температури до %d сутностей",
+    "commands.thermoo.temperature.remove.success.single": "Вилучено %d температуру з %s (тепер %d)",
+    "commands.thermoo.temperature.remove.success.multiple": "Видалено %d температуру з %d сутностей",
+    "commands.thermoo.temperature.set.success.single": "Установлено температуру %s на %d",
+    "commands.thermoo.temperature.set.success.multiple": "Установлено температуру %s сутностей на %d",
+
+    
+    "commands.thermoo.environment.temperature.success": "Температура середовища в %s, %s, %s (%s) становить %s°%s",
+    "commands.thermoo.environment.humidity.success": "Відносна вологість середовища в %s, %s, %s (%s) становить %s%%",
+    "commands.thermoo.environment.atmospheric_pressure.success": "Атмосферний тиск середовища в %s, %s, %s (%s) становить %s мбар",
+    "commands.thermoo.environment.temperature.player.success": "Зміна температури середовища %s становить %s (з %s шансом ухилитися)",
+    "commands.thermoo.environment.temperature.player.negative.success": "Зміна температури середовища %s становить %s (з %s шансом подвоїтися)",
+    
+    
+    "commands.thermoo.soaking.get.current.success": "Поточне значення замочування %s становить %d",
+    "commands.thermoo.soaking.get.scale.success": "Поточний масштаб замочування %s становить %d",
+    "commands.thermoo.soaking.get.min.success": "Мінімальне значення замочування %s становить %d",
+    "commands.thermoo.soaking.get.max.success": "Максимальне значення замочування %s становить %d",
+    "commands.thermoo.soaking.set.success": "Установлено значення замочування %s на %d (тепер %d)",
+    "commands.thermoo.soaking.add.success": "Додано %d балів до значення замочування %s (тепер %d)",
+    "commands.thermoo.soaking.remove.success": "Видалено %d бали зі значення замочування %s (тепер %d)",
+    
+    "commands.thermoo.temperature.effect.single.set_enabled.true": "Увімкнено ефект температури %s для %s",
+    "commands.thermoo.temperature.effect.single.set_enabled.false": "Вимкнено ефект температури %s для %s",
+    "commands.thermoo.temperature.effect.multiple.set_enabled.true": "Увімкнено ефект температури %s для %s сутностей",
+    "commands.thermoo.temperature.effect.multiple.set_enabled.false": "Вимкнено ефект температури %s для %s сутностей",
+    "commands.thermoo.temperature.exception.failed_to_enable_effect": "Не вдалося ввімкнути ефект температури %s",
+    "commands.thermoo.temperature.exception.failed_to_disable_effect": "Не вдалося вимкнути ефект температури %s",
+    "commands.thermoo.temperature.exception.effect_already_enabled": "Ефект %s уже ввімкнено",
+    "commands.thermoo.temperature.exception.effect_already_disabled": "Ефект %s уже вимкнено",
+    
+    "commands.thermoo.temperatre.source.invalid": "Джерело температури %s не існує!",
+    "commands.thermoo.temperatre.status.invalid": "Температурний стан %s не існує!",
+    
+    "text.thermoo.thermoo-patches-nag.body": "Наведені нижче моди можуть працювати з Thermoo, Frostiful та/або Scorchful, але вам не вистачає мода сумісности Thermoo Patches:",
+    "text.thermoo.thermoo-patches-nag.item": "— %1$s (%2$s)",
+    "text.thermoo.thermoo-patches-nag.footer": "Ви можете отримати Thermoo Patches за посиланням нижче:",
+    "text.thermoo.thermoo-patches-nag.disable": "Ви можете будь-коли вимкнути це повідомлення в налаштуваннях Thermoo.",
+    
+    "debug.options.category.thermoo": "Екран тексту Thermoo",
+
+    "modmenu.descriptionTranslation.thermoo": "Бібліотека температури та середовища для модів Fabric.",
+    "fml.menu.mods.info.description.thermoo": "Бібліотека температури та середовища для модів Neoforge."
+}
