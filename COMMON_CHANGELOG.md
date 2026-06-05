@@ -2,7 +2,7 @@
 
 ### Оновлення #77
 
-Перекладено [Thermoo](https://modrinth.com/mod/thermoo), [Reliable Recipe Viewer](https://modrinth.com/mod/rrv), [The Aether II](https://modrinth.com/mod/aether-ii) (ну майже)
+Перекладено [Thermoo](https://modrinth.com/mod/thermoo), [Reliable Recipe Viewer](https://modrinth.com/mod/rrv), [The Aether II](https://modrinth.com/mod/aether-ii)
 
 Покращено переклад  <br>
 Оновлено переклад  <br>
