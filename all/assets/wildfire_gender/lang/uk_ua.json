@@ -44,7 +44,7 @@
 	"wildfire_gender.player_list.state.loading": "Завантаження даних…",
 	"wildfire_gender.player_list.state.synced": "Синхронізований гравець",
 	"wildfire_gender.player_list.bounce_multiplier": "Пружність: %sx",
-	"wildfire_gender.player_list.breast_momentum": "Імпульс: %s%%",
+	"wildfire_gender.player_list.breast_momentum": "Поштовх: %s%%",
 	"wildfire_gender.player_list.female_sounds": "Жіночі звуки: %s",
 	"wildfire_gender.wardrobe.players_using_mod": "Синхронні гравці:",
 
@@ -109,10 +109,10 @@
 	"wildfire_gender.cancer_awareness.title": "Привіт, сьогодні Місяць боротьби з раком молочної залози!",
 
 	"wildfire_gender.first_time_setup.title": "Ласкаво просимо до Female Gender Mod!",
-	"wildfire_gender.first_time_setup.description": "Бажаєте ввімкнути синхронізацію хмарного сервера для налаштувань статі? Ця функція дозволяє іншим гравцям переглядати ваш налаштований зовнішній вигляд статі, навіть якщо на сервері не встановлено мод.",
-	"wildfire_gender.first_time_setup.notice": "Ви завжди можете змінити це налаштування пізніше в меню мода.",
-	"wildfire_gender.first_time_setup.enable": "Увімкнути хмарну синхронізацію",
-	"wildfire_gender.first_time_setup.disable": "Вимкнути хмарну синхронізацію",
+	"wildfire_gender.first_time_setup.description": "Бажаєте ввімкнути синхронізацію хмарного сервера для налаштувань статі? Це дозволяє іншим гравцям бачити налаштовану вами зовнішність статі, навіть якщо на сервері не немає мода.",
+	"wildfire_gender.first_time_setup.notice": "Ви завжди можете змінити це пізніше в меню мода.",
+	"wildfire_gender.first_time_setup.enable": "Увімк. хмарну синхрон.",
+	"wildfire_gender.first_time_setup.disable": "Вимк. хмарну синхрон.",
 	"wildfire_gender.first_time_setup.enable.tooltip.line1": "З увімкненою хмарною синхронізацією ваші налаштування буде збережено та надано іншим гравцям, навіть якщо у вас зараз не встановлено мод.",
 	"wildfire_gender.first_time_setup.enable.tooltip.line2": "Ви можете видалити свій профіль хмарної синхронізації в будь-якому місці в меню налаштувань хмарної синхронізації після його вимкнення.",
 
@@ -167,6 +167,8 @@
 	"wildfire_gender.contributor.role.neoforge_maintainer.short": "Супровідниця (NeoForge)",
 	"wildfire_gender.contributor.role.developer": "Програмістка Female Gender Mod",
 	"wildfire_gender.contributor.role.developer.short": "Програмістка",
+	"wildfire_gender.contributor.role.ci_maintainer": "Дописувач(ка) Female Gender Mod",
+	"wildfire_gender.contributor.role.ci_maintainer.short": "Супровідниця CI/CD",
 	"wildfire_gender.contributor.role.translator": "Перекладач(-ка) Female Gender Mod",
 	"wildfire_gender.contributor.role.translator.short": "Перекладач(-ка) мода",
 	"wildfire_gender.contributor.role.mascot": "Талісманка Female Gender Mod",
