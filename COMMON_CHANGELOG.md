@@ -1,12 +1,12 @@
 ---------------------
 
-### Оновлення #77
+### Оновлення #78
 
-Перекладено [Thermoo](https://modrinth.com/mod/thermoo), [Reliable Recipe Viewer](https://modrinth.com/mod/rrv), [The Aether II](https://modrinth.com/mod/aether-ii)
+Перекладено 
 
 Покращено переклад  <br>
 Оновлено переклад  <br>
-Оновлено і покращено переклад [Frostiful](https://modrinth.com/mod/frostiful)
+Оновлено і покращено переклад
 
 Видалено переклад  оскільки додано в самі моди
 
