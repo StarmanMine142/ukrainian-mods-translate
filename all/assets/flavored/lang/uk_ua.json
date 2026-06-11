@@ -1,0 +1,149 @@
+{
+  "creativetab.flavored.flavored": "Flavored",
+
+  "entity.flavored.tomato": "Помідор",
+
+  "block.flavored.tomato_bush": "Кущ томатів",
+
+  "block.flavored.cinnamon_stalk": "Стебло кориці",
+  "block.flavored.stripped_cinnamon_stalk": "Очищене стебло кориці",
+  "block.flavored.waxed_stripped_cinnamon_stalk": "Вощена очищене стебло кориці",
+  "block.flavored.cinnamon_sprout": "Росток кориці",
+  "item.flavored.cinnamon": "Кориця",
+
+  "item.flavored.green_tomato": "Зелений помідор",
+  "item.flavored.yellow_tomato": "Жовтий помідор",
+  "item.flavored.red_tomato": "Червоний помідор",
+
+  "item.flavored.tomato_seeds": "Насіння томата",
+
+  "block.flavored.chocolate_block": "Блок шоколаду",
+  "block.flavored.chocolate_tiles": "Шоколадна плитка",
+  "block.flavored.chocolate_tile_slab": "Плита з шоколадної плитки",
+  "block.flavored.chocolate_tile_stairs": "Сходи з шоколадної плитки",
+
+  "item.flavored.chocolate": "Шоколад",
+  "item.flavored.chocolate_egg": "Шоколадне яйце",
+  "item.flavored.chocken_spawn_egg": "Яйце виклик шококурки",
+  "entity.flavored.chocken": "Шококурка",
+  "entity.flavored.chocolate_egg": "Шоколадне яйце",
+
+  "effect.flavored.sugar_rush": "Цукрова лихоманка",
+  "effect.flavored.sugar_crave": "Жага цукру",
+  "effect.flavored.popped": "Лопання!",
+  "effect.flavored.heat": "Жар",
+  "effect.flavored.boozed": "П'яність",
+  "effect.flavored.hangover": "Похмілля",
+
+  "item.flavored.soft_cheese_slice": "Шматок м'якого сиру",
+  "item.flavored.aged_cheese_slice": "Шматок сиру",
+
+  "block.flavored.soft_cheese": "М'який сир",
+  "block.flavored.aged_cheese": "Витриманий сир",
+
+  "item.flavored.ground_beef": "Мелена яловичина",
+  "item.flavored.cooked_ground_beef": "Смажена мелена яловичина",
+  "item.flavored.chicken_drumstick": "Сира куряча ніжка",
+  "item.flavored.cooked_chicken_drumstick": "Смажена куряча ніжка",
+  "item.flavored.mutton_shank": "Сира бараняча гомілка",
+  "item.flavored.cooked_mutton_shank": "Смажена бараняча гомілка",
+  "item.flavored.pork_jowl": "Сира свиняча щока",
+  "item.flavored.cooked_pork_jowl": "Смажена свиняча щока",
+
+  "item.flavored.knife": "Ніж",
+  "block.flavored.keg": "Барильце",
+
+  "block.flavored.corn_bush": "Кущ кукурудзи",
+  "item.flavored.corn": "Кукурудза",
+  "item.flavored.corn_seeds": "Насіння кукурудзи",
+
+  "block.flavored.mixing_bowl": "Ступка",
+  "item.flavored.whisk": "Вінчик",
+  "item.flavored.flour": "Борошно",
+  "item.flavored.dough": "Тісто",
+
+  "block.flavored.oven": "Плита",
+  "item.flavored.batter": "Кляр",
+  "item.flavored.butter": "Вершкове масло",
+
+  "container.oven": "Плита",
+  "stat.flavored.interact_with_oven": "Взаємодій з плитою",
+  "stat.flavored.interact_with_keg": "Взаємодій з барильцем",
+  "stat.flavored.interact_with_mixing_bowl": "Взаємодій зі ступкою",
+  "stat.flavored.mix_item": "Повністю змішаних предметів",
+  "stat.flavored.eat_pudding_slice": "Шматків пудингу з'їдено",
+  "stat.flavored.take_pizza_slice": "Отримано шматків піци",
+  "stat.flavored.crave_chocolate": "Хвилин жаги від шоколаду",
+
+  "item.flavored.garlic": "Часник",
+  "block.flavored.garlics": "Часники",
+
+  "item.flavored.pepper": "Перець",
+  "item.flavored.dried_pepper": "Висушений перець",
+  "item.flavored.spinach": "Шпинат",
+  "item.flavored.pepper_seeds": "Насіння перця",
+  "item.flavored.spinach_seeds": "Насіння шпинату",
+  "item.flavored.pastry_dough": "Здобне тісто",
+  "item.flavored.cookie_dough": "Тісто печива",
+
+  "enchantment.flavored.butchery": "Бійня",
+  "block.flavored.pudding": "Пудинг",
+  "block.flavored.pizza": "Піца",
+  "item.flavored.pizza_slice": "Шматок піци",
+
+  "item.flavored.cereal": "Злаки",
+  "item.flavored.salad": "Салат",
+  "item.flavored.polenta": "Полента",
+  "item.flavored.porridge": "Каша",
+  "item.flavored.tomato_pasta": "Томатна паста",
+  "item.flavored.pesto_pasta": "Паста песто",
+  "item.flavored.carbonara_pasta": "Паста карбонара",
+  "item.flavored.cream_pasta": "Вершкова паста",
+  "item.flavored.ragu_pasta": "Паста рагу",
+  "item.flavored.shakshouka": "Шакшука",
+  "item.flavored.ossobuco": "Особуко",
+  "item.flavored.hamburger": "Гамбургер",
+  "item.flavored.shawarma": "Шаурма",
+  "item.flavored.chicken_sandwich": "Куриний сендвіч",
+  "item.flavored.cheese_sandwich": "Сирний сендвіч",
+  "item.flavored.ham_sandwich": "Сендвіч з шинкою",
+  "item.flavored.butter_pastry": "Здобне тісто",
+  "item.flavored.cinnamon_pastry": "Тісто з корицею",
+  "item.flavored.honey_pastry": "Медова випічка",
+  "item.flavored.chocolate_pastry": "Шоколадна випічка",
+  "item.flavored.garlic_bread": "Часниковий хліб",
+  "item.flavored.grilled_corn": "Смажена кукурудза",
+
+  "item.flavored.sweet_berry_juice": "Сік із солодких ягід",
+  "item.flavored.glow_berry_juice": "Сік із сяйних ягід",
+  "item.flavored.wort": "Сусор",
+  "item.flavored.apple_juice": "Яблучний сік",
+  "item.flavored.sweet_berry_wine": "Вино із солодких ягід",
+  "item.flavored.glow_berry_wine": "Вино із сяйних ягід",
+  "item.flavored.beer": "Пиво",
+  "item.flavored.cider": "Сидр",
+
+  "item.flavored.pasta": "Паста",
+
+  "subtitles.flavored.block.oven.bake": "Плита готує",
+  "subtitles.flavored.block.keg.ferment": "Барильце оброблює",
+
+  "advancements.flavored.husbandry.obtain_pizza.title": "Вершина їжової піраміди",
+  "advancements.flavored.husbandry.obtain_pizza.description": "Отримайте піцу, вершина всіх страв",
+  "advancements.flavored.husbandry.obtain_oven.title": "Як би майструвач та коптильня мали дитину",
+  "advancements.flavored.husbandry.obtain_oven.description": "Отримайте плиту",
+  "advancements.flavored.husbandry.obtain_all_domestic_crops.title": "Нація приручення",
+  "advancements.flavored.husbandry.obtain_all_domestic_crops.description": "Отримайте кожен урожай, вирощуваних у селян",
+  "spiciness.flavored.level1": "Легка пряність",
+  "spiciness.flavored.level2": "Середня пряність",
+  "spiciness.flavored.level3": "Надзвичайна пряність",
+
+
+  "gui.recipebook.toggleRecipes.fermentable": "Доступні для оброблення",
+  "gui.recipebook.toggleRecipes.mixable": "Доступні для змішування",
+  "gui.recipebook.toggleRecipes.bakable": "Доступні для готування",
+  "block.flavored.baking": "Готування",
+  "gui.jei.category.flavored.mixing": "Змішування",
+  "gui.jei.category.flavored.baking": "Готування",
+  "gui.jei.category.flavored.fermenting": "Оброблення"
+}
