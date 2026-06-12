@@ -1,4 +1,7 @@
 {
   "enchantment.veinmine": "Жилодобувник",
-  "enchantment.veinminer-enchantment.veinminer.desc": "Дозволяє добувати всю жилу руди."
+  "enchantment.veinminer": "Жилодобувник",
+  "enchantment.veinminer-enchantment.veinminer.desc": "Дозволяє добувати всю жилу руди.",
+  "enchantment.veinminer_enchantment.veinminer": "Жилодобувник",
+  "enchantment.veinminer_enchantment.veinminer.desc": "Дозволяє добувати всю жилу руди."
 }
