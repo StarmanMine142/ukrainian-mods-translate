@@ -69,10 +69,14 @@
   "commands.sable.info.linear_velocity": " Лінійна швидкість: %.2f %.2f %.2f",
   "commands.sable.info.angular_velocity": " Кутова швидкість: %.2f %.2f %.2f",
   "commands.sable.info.mass": " Маса: %.2f",
+  "commands.sable.info.world_bounds": " Межі світу: %.2f x %.2f x %.2f",
 
   "commands.data.sub_level.get": "%s на підрівні %s після того, як масштабний коефіцієнт %s становить %s",
   "commands.data.sub_level.modified": "Змінені допоміжні дані підрівня %s",
   "commands.data.sub_level.query": "%s має такі допоміжні дані підрівня: %s",
+
+  "commands.sable.forceload.add.count": "Додано примусове завантаження тактів для %s підрівня(ів)",
+  "commands.sable.forceload.remove.count": "Видалено примусове завантаження тактів для %s підрівня(ів)"
 
   "argument.sable.body.selector.all": "Усі підрівні",
   "argument.sable.body.selector.nearest": "Найближчий підрівень",
@@ -136,7 +140,7 @@
   "force_group.sable.balloon_lift": "Підйом кулі",
   "force_group.sable.propulsion": "Рух",
   "force_group.sable.lift": "Підйом",
-  "force_group.sable.magnetic_force": "Магнітна сила",
+  "force_group.sable.magnetic_force": "Магнетизм",
 
   "schematic.sable.mirror_not_supported": "Неможливо віддзеркалити схеми, що містять підрівні!",
 
