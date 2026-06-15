@@ -210,7 +210,7 @@
   "origins.gui.impact.high": "Високий",
   "origins.gui.version_mismatch": "Цей сервер запущено на іншій версії мода Origins (v%1$s) яка не сумісна з вашою версією мода (v%2$s).",
 
-  "origins.gui.badge.active": "Активувати здібність, натисніть %s.",
+  "origins.gui.badge.active": "Щоб активувати здібність, натисніть %s.",
   "origins.gui.badge.toggle": "Увімкнути на %s.",
   "origins.gui.badge.recipe.crafting.shaped": "Рецепт із формою:",
   "origins.gui.badge.recipe.crafting.shapeless": "Рецепт без форми:",
@@ -246,6 +246,6 @@
 
   "origins.avian_sleep_fail": "Вам необхідне свіже повітря для сну",
   
-  "modmenu.descriptionTranslation.origins-legacy": "Цей мод додає до гри кілька походженнь із пасивними здібностями, які ви можете вибрати на початку гри.\nНеофіційний прямий порт, починаючи з Minecraft 1.20.1, який включає зворотну сумісну підтримку Origins, створеного для 1.20.1 і попередніх версій."
+  "modmenu.descriptionTranslation.origins-legacy": "Цей мод додає до гри кілька походженнь із пасивними здібностями, які ви можете вибрати на початку гри.\nНеофіційний прямий порт, починаючи з Minecraft 1.20.1, який включає зворотну сумісну підтримку Origins, створеного для 1.20.1 і попередніх версій.",
   "modmenu.descriptionTranslation.origins": "Цей мод додає до гри кілька походженнь із пасивними здібностями, які ви можете вибрати на початку гри."
 }
