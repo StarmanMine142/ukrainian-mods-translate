@@ -48,7 +48,7 @@
   "power.origins.fragile.description": "У вас на 3 серця менше, ніж у людей.",
 
   "power.origins.webbing.name": "Павутиномет",
-  "power.origins.webbing.description": "Коли ви б'єте ворога в ближньому бою, він застрягають в павутинні.",
+  "power.origins.webbing.description": "Коли ви б'єте ворога в ближньому бою, він застрягають у павутинні.",
 
   "power.origins.climbing.name": "Лазання",
   "power.origins.climbing.description": "Ви спроможні лазити на будь-якому виду стін, не тільки на драбині.",
@@ -119,11 +119,11 @@
   "power.origins.elytra.name": "Крилатий",
   "power.origins.elytra.description": "У вас є елітри без потреби їх одягання.",
 
-  "power.origins.light_armor.name": "Потреба у мобільности",
+  "power.origins.light_armor.name": "Потреба в мобільності",
   "power.origins.light_armor.description": "Ви не можете одягати обладунки із захистом вищим, ніж у кольжучних обладунків.",
 
   "power.origins.claustrophobia.name": "Клаустрафобія",
-  "power.origins.claustrophobia.description": "Перебування у місці з низькою стелею занадто довго послабить та уповільнить вас.",
+  "power.origins.claustrophobia.description": "Перебування у місці з низькою стелею занадто довго послабить та вповільнить вас.",
 
   "power.origins.more_kinetic_damage.name": "Крихкі кістки",
   "power.origins.more_kinetic_damage.description": "Ви отримуєте більшу шкоду від падіння та від зіткнення з блоками.",
@@ -176,6 +176,7 @@
   "power.origins.velvet_paws.name": "Оксамитові лапки",
   "power.origins.velvet_paws.description": "Ваші кроки не викликають вібрацій, які інші істоти могли б відчути.",
 
+  "key.category.origins.origins": "Origins",
   "category.origins": "Origins",
   "key.origins.primary_active": "Перша здібність",
   "key.origins.secondary_active": "Друга здібність",
@@ -202,8 +203,8 @@
   "origins.gui.view_origin.title": "Це ваше %s.",
   "origins.gui.view_origin.empty": "Ви не можете мати жодного походження.",
   "origins.gui.view_origin.not_installed": "На сервері не встановлено мод Origins.",
-  "origins.gui.impact.impact": "Внесок",
-  "origins.gui.impact.none": "Ніякий",
+  "origins.gui.impact.impact": "Унесок",
+  "origins.gui.impact.none": "Жоден",
   "origins.gui.impact.low": "Низький",
   "origins.gui.impact.medium": "Середній",
   "origins.gui.impact.high": "Високий",
@@ -243,5 +244,8 @@
   "commands.origin.set.success.multiple": "Установлено походження %s цілей у шарі %s на %s",
   "commands.origin.set.success.single": "Установлено походження %s у шарі %s на %s",
 
-  "origins.avian_sleep_fail": "Вам необхідне свіже повітря для сну"
+  "origins.avian_sleep_fail": "Вам необхідне свіже повітря для сну",
+  
+  "modmenu.descriptionTranslation.origins-legacy": "Цей мод додає до гри кілька походженнь із пасивними здібностями, які ви можете вибрати на початку гри.\nНеофіційний прямий порт, починаючи з Minecraft 1.20.1, який включає зворотну сумісну підтримку Origins, створеного для 1.20.1 і попередніх версій."
+  "modmenu.descriptionTranslation.origins": "Цей мод додає до гри кілька походженнь із пасивними здібностями, які ви можете вибрати на початку гри."
 }
