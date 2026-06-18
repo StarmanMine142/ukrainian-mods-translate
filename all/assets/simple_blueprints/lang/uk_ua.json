@@ -1,0 +1,102 @@
+{
+  "key.category.simple_blueprints.keys": "Simple Blueprints",
+  "key.category.simple_blueprints.quick_keys": "Simple Blueprints — Швидкі дії",
+  "simple_blueprints.keys.toggle": "Відкрити/закрити приладдя",
+  "simple_blueprints.keys.visibility": "Показати/приховати креслення",
+  "simple_blueprints.keys.settings": "Налаштувати",
+  "simple_blueprints.keys.layer_up": "Видимість шару вище",
+  "simple_blueprints.keys.layer_down": "Видимість шару нижче",
+  "simple_blueprints.keys.change_alpha": "Змінити прозорість",
+  "simple_blueprints.keys.change_color": "Змінити колір",
+  "simple_blueprints.keys.edit_items": "Змінити предмети",
+
+  "simple_blueprints.tool.unavailable": "Приладдя недоступне",
+
+  "simple_blueprints.select.target": "Вибрати блок",
+  "simple_blueprints.select.player": "Вибрати позицію гравця",
+  "simple_blueprints.select.clear": "Очистити вибір",
+  "simple_blueprints.select.target_place": "Перейти до блока",
+  "simple_blueprints.select.player_place": "Перейти до гравця",
+  "simple_blueprints.select.clear_place": "Очистити розміщення",
+
+  "simple_blueprints.move.away": "Рухати від себе",
+  "simple_blueprints.move.closer": "Рухати до себе",
+
+  "simple_blueprints.resize.expand": "Розширити",
+  "simple_blueprints.resize.shrink": "Скоротити",
+  "simple_blueprints.resize.switch": "Змінити сторону",
+
+  "simple_blueprints.clipboard.copy": "Копіювати",
+  "simple_blueprints.clipboard.paste": "Уставити",
+  "simple_blueprints.clipboard.paste_mode": "Режим уставлення (Наразі: %1$s)",
+  "simple_blueprints.clipboard.clear": "Очистити",
+
+  "simple_blueprints.visibility.alpha": "Змінити прозорість",
+  "simple_blueprints.visibility.color": "Змінити колір",
+  "simple_blueprints.visibility.show": "Показати креслення",
+  "simple_blueprints.visibility.hide": "Приховати креслення",
+
+  "simple_blueprints.layers.away": "Рухати видимий шар від себе",
+  "simple_blueprints.layers.closer": "Рухати видимий шар до себе",
+  "simple_blueprints.layers.mode": "Перемкнути режим шару (Наразі: %1$s)",
+  "simple_blueprints.layers.mode.bottom": "Низ",
+  "simple_blueprints.layers.mode.top": "Верх",
+  "simple_blueprints.layers.mode.slice": "Розділено",
+  "simple_blueprints.layers.mode.show_all": "Усі",
+
+  "simple_blueprints.rotate.rotate": "Повернути",
+  "simple_blueprints.rotate.mirror": "Віддзеркалити",
+
+  "simple_blueprints.delete.clear": "Видалити всі блоки",
+
+  "simple_blueprints.item_list.show_total": "Показати список предметів",
+  "simple_blueprints.item_list.show_stacks": "Показати стоси + предмети",
+  "simple_blueprints.item_list.show_chests": "Показати скрині + стоси + предмети",
+  "simple_blueprints.item_list.edit_items": "Редагувати предмети",
+  "simple_blueprints.item_list.close": "Закрити",
+
+  "simple_blueprints.slots.change": "Змінити слот",
+  "simple_blueprints.slots.next_used": "Вибрати наступний використаний слот",
+  "simple_blueprints.slots.first_empty": "Вибрати перший порожній слот",
+  "simple_blueprints.slots.select": "Вибрати",
+  "simple_blueprints.slots.options": "Редагувати властивості",
+  "simple_blueprints.slots.import": "Імпортувати/еспортувати",
+
+  "simple_blueprints.bounds.min": "Мін.: %1$s, %2$s, %3$s",
+  "simple_blueprints.bounds.max": "Макс.: %1$s, %2$s, %3$s",
+  "simple_blueprints.bounds.size": "Розмір: %1$s, %2$s, %3$s",
+  "simple_blueprints.bounds.volume": "Загалом: %1$s",
+  "simple_blueprints.bounds.volume_blocks": "Загалом: %1$s (%2$s блоків)",
+
+  "simple_blueprints.import.import": "Імпортувати",
+  "simple_blueprints.import.export": "Експортувати",
+  "simple_blueprints.import.export_schematic": "Експортувати намітку",
+  "simple_blueprints.import.cancel": "Скасувати",
+  "simple_blueprints.import.select_import": "Вибрати креслення",
+  "simple_blueprints.import.select_export": "Вибрати розташування експорту",
+  "simple_blueprints.import.import_desc": "Імпортує креслення або намітку з файлу. Це замінить дані кремлення в слоті %1$s.",
+  "simple_blueprints.import.export_desc": "Експортує дані креслення в слоті %1$s до файлу.",
+  "simple_blueprints.import.export_tooltip": "Експортує дін креслення включаючи розміщення у світі та назву крелення. Сумісно лише з цим модом.",
+  "simple_blueprints.import.export_schematic_tooltip": "Експортує намітку креслення як стандартний файл NBT. Сумісно зі структурами з блоків та іншими модами.",
+  "simple_blueprints.import.import_warning": "Слот %1$s наразі має дані. Їх буде втрачено, якщо ви імпортуєте.",
+  "simple_blueprints.import.export_warning": "Слот %1$s не можна імпортувати, оскільки він не має даних.",
+
+  "simple_blueprints.slot_options.close": "Закрити",
+  "simple_blueprints.slot_options.name": "Назва креслення",
+  "simple_blueprints.slot_options.persistent_on": "Постійні: УВІМК.",
+  "simple_blueprints.slot_options.persistent_off": "Постійні: ВИМК.",
+  "simple_blueprints.slot_options.persistent_desc": "Постійні слоти зберігаються між сеансами.",
+
+  "simple_blueprints.paste_mode.everything": "Будь-що",
+  "simple_blueprints.paste_mode.in_air": "У повітрі",
+  "simple_blueprints.paste_mode.blocks": "Блоки",
+
+  "simple_blueprints.settings.close": "Закрити",
+  "simple_blueprints.setting.slice_layers": "Кількість родільних шарів",
+  "simple_blueprints.setting.render_distance": "Дальн. промальовування",
+  "simple_blueprints.setting.delete_tool": "Приладдя видалення",
+  "simple_blueprints.setting.delete_tool.on": "УВІМК.",
+  "simple_blueprints.setting.delete_tool.off": "ВИМК.",
+
+  "modmenu.descriptionTranslation.simple_blueprints": "Простий мод, що додає намітки для будування споруд."
+}
