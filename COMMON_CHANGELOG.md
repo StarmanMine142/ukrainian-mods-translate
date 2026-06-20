@@ -6,7 +6,7 @@
 
 Покращено переклад  <br>
 Оновлено переклад [Create Aeronautics](https://modrinth.com/mod/create-aeronautics), [Sable](https://modrinth.com/mod/sable), [Sodium](https://modrinth.com/mod/sodium) <br>
-Оновлено і покращено переклад
+Оновлено і покращено переклад [Lootr](https://modrinth.com/mod/lootr)
 
 Видалено переклад  оскільки додано в самі моди
 
