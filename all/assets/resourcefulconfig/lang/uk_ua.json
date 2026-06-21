@@ -1,0 +1,46 @@
+{
+    "rconfig.server.title": "Виділений сервер",
+    "rconfig.server.desc": "Властивості, які можуть бути оновлені в реальному часі.",
+    "rconfig.server.wiki": "Вікі",
+
+    "rconfig.server.properties.white-list": "Білий список",
+    "rconfig.server.properties.white-list.desc": "Якщо ввімкнено, лише користувачі з білого списку можуть отримати доступ до сервера.",
+
+    "rconfig.server.properties.max-players": "Максимум гравців",
+    "rconfig.server.properties.max-players.desc": "Максимальна кількість гравців, які можуть грати на сервері одночасно.",
+
+    "rconfig.server.properties.motd": "Повідомлення дня",
+    "rconfig.server.properties.motd.desc": "Повідомлення, яке показується у списку серверів.",
+
+    "rconfig.server.properties.allow-flight": "Дозволити політ",
+    "rconfig.server.properties.allow-flight.desc": "Якщо ввімкнено, гравцям дозволено літати на сервері, що зазвичай потрібно на сервері з модами.",
+
+    "rconfig.server.properties.pvp": "Гравець проти гравця",
+    "rconfig.server.properties.pvp.desc": "Якщо ввімкнено, гравці можуть атакувати один одного.",
+
+    "rconfig.server.properties.enforce-whitelist": "Застосувати білий список",
+    "rconfig.server.properties.enforce-whitelist.desc": "Якщо ввімкнено, лише користувачі з білого списку можуть отримати доступ до сервера. Якщо на сервері знаходяться користувачі, яких немає в білому списку, їх буде видалено.",
+
+    "rconfig.ui.constant.close": "Закрити",
+    "rconfig.ui.constant.reset": "Скинути",
+    "rconfig.ui.constant.edit": "Редагувати",
+    "rconfig.ui.constant.edit.string": "Редагувати рядок",
+    "rconfig.ui.constant.edit.list": "Редагувати список",
+    "rconfig.ui.constant.edit.object": "Редагувати об'єкт",
+    "rconfig.ui.constant.choose_item": "Вибрати предмет: ",
+    "rconfig.ui.constant.add_item": "Додати предмет: ",
+    "rconfig.ui.constant.add_item.tooltip": "Додати предмет",
+    "rconfig.ui.constant.remove_item": "Видалити предмет",
+    "rconfig.ui.constant.move_up": "Угору",
+    "rconfig.ui.constant.move_down": "Униз",
+    "rconfig.ui.constant.mod_configs": "Налаштування мода",
+    "rconfig.ui.constant.mod_configs.description": "Виберіть налаштування для перегляду або редагування.",
+
+
+    "rconfig.color.preset.defaults": "Усталено",
+    "rconfig.color.preset.recents": "Останні",
+    "rconfig.color.preset.mc_colors": "Колір тексту",
+
+    "modmenu.descriptionTranslation.resourcefulconfig": "Бібліотека для створення файлів налаштувань для вашого мода на кількох платформах.",
+    "fml.menu.mods.info.description.resourcefulconfig": "Бібліотека для створення файлів налаштувань для вашого мода на кількох платформах."
+}
