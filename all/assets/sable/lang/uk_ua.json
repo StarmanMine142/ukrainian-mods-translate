@@ -40,13 +40,13 @@
   "commands.sable.sub_level.shatter.no_blocks": "Не вдалося розбити на підрівні, дійсних блоків не знайдено",
   "commands.sable.sub_level.shatter.connected.too_many_blocks": "Не вдалося розбити на підрівні, забагато блоків (максимум %s)",
   "commands.sable.sub_level.shatter.region.success": "Регіон розбито із %s блоків на нові підрівні",
-  "commands.sable.sub_level.shatter.connected.success": "Розбито %s підключених блоків на нові підрівні",
+  "commands.sable.sub_level.shatter.connected.success": "Розбито %s з'єднаних блоків на нові підрівні",
   "commands.sable.sub_level.shatter.range.success": "Діапазон із %s блоків розбито на нові підрівні",
   "commands.sable.sub_level.shatter.radius.success": "Роздроблено радіус з %s блоків на нові підрівні",
   "commands.sable.sub_level.shatter.sub_level.success": "Розбито %s на %s нових підрівнів",
   "commands.sable.sub_level.shatter.sub_level.only_single_block": "Неможливо розбити одноблокові підрівні",
   "commands.sable.sub_level.assemble.region.success": "Регіон %s блоків зібрано на новий підрівень",
-  "commands.sable.sub_level.assemble.connected.success": "Зібрано %s підключених блоків до нового підрівня",
+  "commands.sable.sub_level.assemble.connected.success": "Зібрано %s з'єднаних блоків до нового підрівня",
   "commands.sable.sub_level.assemble.radius.success": "Зібрано радіус із %s блоків до нового підрівня",
   "commands.sable.sub_level.assemble.range.success": "Діапазон із %s блоків зібрано на новий підрівень",
 
@@ -76,7 +76,7 @@
   "commands.data.sub_level.query": "%s має такі допоміжні дані підрівня: %s",
 
   "commands.sable.forceload.add.count": "Додано примусове завантаження тактів для %s підрівня(ів)",
-  "commands.sable.forceload.remove.count": "Видалено примусове завантаження тактів для %s підрівня(ів)"
+  "commands.sable.forceload.remove.count": "Видалено примусове завантаження тактів для %s підрівня(ів)",
 
   "argument.sable.body.selector.all": "Усі підрівні",
   "argument.sable.body.selector.nearest": "Найближчий підрівень",
@@ -147,7 +147,7 @@
   "death.attack.fall.from_sublevel": "%1$s випав з %2$s",
 
   "sable.create.mechanical_arm.points_removed_sublevel_and_range": "%1$s вибраних точок взаємодії видалено через обмеження діапазону або відсутність прив'язки.",
-  "sable.create.remove.points_removed_sublevel" : "%1$s вибраних точок взаємодії вилучено через відсутність прив'язки",
+  "sable.create.remove.points_removed_sublevel": "%1$s вибраних точок взаємодії вилучено через відсутність прив'язки",
   
   "modmenu.descriptionTranslation.sable": "Інтерактивні рухомі блокові структури з фізикою.",
   "fml.menu.mods.info.description.sable": "Інтерактивні рухомі блокові структури з фізикою."
