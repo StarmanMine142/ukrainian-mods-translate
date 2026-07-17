@@ -13,8 +13,8 @@
   "beehivetooltip.empty": "Порожньо",
   "beehivetooltip.honeylevel": "Мед: %d/%d",
   "beehivetooltip.compact": "Бджоли: %d/%d",
-  "beehivetooltip.extended.title": "Вміст:",
+  "beehivetooltip.extended.title": "Уміст:",
   "beehivetooltip.healthdisplay.compact": ": %dОЗ",
   "beehivetooltip.healthdisplay.extended": "   %s%s",
-  "modmenu.descriptionTranslation.beehivetooltip": "Додає до підказок бджолиного глізда і вулика інформацію про те скільки там бджіл і меду."
+  "modmenu.descriptionTranslation.beehivetooltip": "Додає до підказок бджолиного гнізда й вулика інформацію про те скільки там бджіл і меду."
 }

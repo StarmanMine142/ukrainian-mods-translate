@@ -4,6 +4,8 @@
 
 Перекладено [Minepathy](https://modrinth.com/mod/minepathy)
 
+Повернено переклад [Simple Ender Backpack](https://modrinth.com/mod/simple-ender-backpack), [BedrockIfy](https://modrinth.com/mod/bedrockify)
+
 Покращено переклад  <br>
 Оновлено переклад  <br>
 Оновлено і покращено переклад 
