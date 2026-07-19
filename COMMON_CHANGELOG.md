@@ -4,7 +4,7 @@
 
 Перекладено [Minepathy](https://modrinth.com/mod/minepathy), [MapStitch](https://modrinth.com/mod/mapstitch), [wWaypoints](https://modrinth.com/mod/wwaypoints), [UnionLib](https://modrinth.com/mod/unionlib)
 
-Повернено переклад [Simple Ender Backpack](https://modrinth.com/mod/simple-ender-backpack), [BedrockIfy](https://modrinth.com/mod/bedrockify)
+Повернено переклад [Simple Ender Backpack](https://modrinth.com/mod/simple-ender-backpack), [BedrockIfy](https://modrinth.com/mod/bedrockify), [Mod Menu](https://modrinth.com/mod/modmenu)
 
 Покращено переклад [Simple Voice Voice Changer](https://modrinth.com/mod/simple-voice-voice-changer) <br>
 Оновлено переклад [Reforged (formerly Tiered)](https://modrinth.com/mod/tiered) <br>
