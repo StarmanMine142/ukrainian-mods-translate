@@ -6,9 +6,9 @@
 
 Повернено переклад [Simple Ender Backpack](https://modrinth.com/mod/simple-ender-backpack), [BedrockIfy](https://modrinth.com/mod/bedrockify)
 
-Покращено переклад  <br>
+Покращено переклад [Simple Voice Voice Changer](https://modrinth.com/mod/simple-voice-voice-changer) <br>
 Оновлено переклад [Reforged (formerly Tiered)](https://modrinth.com/mod/tiered) <br>
-Оновлено і покращено переклад 
+Оновлено і покращено переклад [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)
 
 Видалено переклад  оскільки додано в самі моди
 
