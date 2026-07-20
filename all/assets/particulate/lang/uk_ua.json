@@ -47,5 +47,5 @@
 	"text.config.particulate.option.caveDustSettings.accelChangeChance": "Шанс зміни прискорення",
 	"text.config.particulate.option.caveDustSettings.excludeBiomes": "Виключені біоми біоми",
 
-    "modmenu.descriptionTranslation.particulate": "Покращує атмосферу Minecraft створеними вручну візуальними ефектами, такими як світляки, падуче листя та каскади водоспадів."
+	"modmenu.descriptionTranslation.particulate": "Покращує атмосферу Minecraft створеними вручну візуальними ефектами, такими як світляки, падуче листя та каскади водоспадів."
 }
