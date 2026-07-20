@@ -1,0 +1,41 @@
+{
+	"entity.sanity_renewed.rotting_stalker": "Гнилий переслідувач",
+	"entity.sanity_renewed.sneaking_terror": "Потаємний жах",
+	
+	"commands.sanity.set.success.single": "Установлено глузд %s на %s",
+	"commands.sanity.set.success.multiple": "Установлено глузд на %s для %s гравців",
+	"commands.sanity.add.success.single": "Додано %s глузду %s",
+	"commands.sanity.add.success.multiple": "Додано %s глузду %s гравцям",
+	"commands.sanity.config.reload": "Налаштування вимірів успішно перезавантажено",
+	
+	"gui.sanity_renewed.hint00": "Що це за звуки?",
+	"gui.sanity_renewed.hint01": "Я почуваюся трохи не в собі",
+	"gui.sanity_renewed.hint02": "Що це було?",
+	"gui.sanity_renewed.hint03": "Яке дивне відчуття…",
+	"gui.sanity_renewed.hint04": "Мені це не подобається…",
+	"gui.sanity_renewed.hint05": "Га?",
+	"gui.sanity_renewed.hint06": "Хммм?",
+	"gui.sanity_renewed.hint07": "Що?",
+	"gui.sanity_renewed.hint08": "Що там?",
+	"gui.sanity_renewed.hint09": "Це був я?",
+	"gui.sanity_renewed.hint010": "Дивно…",
+	"gui.sanity_renewed.hint011": "Я щойно щось бачив?",
+	"gui.sanity_renewed.hint10": "ХТОСЬ ПОЗАДУ МЕНЕ",
+	"gui.sanity_renewed.hint11": "Один, два, три, чотири…",
+	"gui.sanity_renewed.hint12": "…п’ять, шість, сім, вісім…",
+	"gui.sanity_renewed.hint13": "ВОНИ В МОЇЙ ГОЛОВІ",
+	"gui.sanity_renewed.hint14": "ЗАЛИШ МЕНЕ В СКОПОЇ",
+	"gui.sanity_renewed.hint15": "ГЕТЬ З МОЄЇ ГОЛОВИ",
+	"gui.sanity_renewed.hint16": "ЧОМУ ВОНИ НЕ ЙДУТЬ?!",
+	"gui.sanity_renewed.hint17": "НАДТО ГУЧНО, НАДТО ГУЧНО",
+	"gui.sanity_renewed.hint18": "ГОЛОСИ… Я НЕ МОЖУ…",
+
+	"item.sanity_renewed.tooltip.press_shift": "§7Натисніть §9Shift§7 для подробиць",
+	"item.sanity_renewed.garland": "Вінок",
+	"item.sanity_renewed.garland.tooltip": "§7Щось, що допоможе заспокоїти нерви.\n\nПовільно відновлює ваш глузд та робить вас трохи стійкішими до стресу.",
+
+	"itemGroup.sanity_renewed": "Sanity: Renewed",
+
+	"modmenu.descriptionTranslation.sanity_renewed": "Переносить механіку глузду з Don't Starve у Minecraft.",
+	"fml.menu.mods.info.description.sanity_renewed": "Переносить механіку глузду з Don't Starve у Minecraft."
+}
