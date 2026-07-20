@@ -49,7 +49,7 @@
   
   "config.reforged.can_reforge_broken": "Перековування зламаних предметів",
   "config.reforged.can_reforge_broken.comment": "Якщо вимкнено, усі змайстровані предмети отримуватимуть рівні без атрибутів.\nЦе відповідає рівню «Звичайний» для більшости предметів.",
-  "config.reforged.can_crafted_receive_tier": "Рівень при майтруванні",
+  "config.reforged.can_crafted_receive_tier": "Рівень при майструванні",
   "config.reforged.can_crafted_receive_tier.comment": "Якщо вимкнено, усі змайстровані предмети отримуватимуть рівні без атрибутів.\nЦе відповідає рівню «Звичайний» для більшости предметів.",
   "config.reforged.enable_reforge_experience_cost": "Витрата досвіду",
   "config.reforged.enable_reforge_experience_cost.comment": "Якщо вимкнено, за перековування будь-якого предмета не втрачається досвід.",
