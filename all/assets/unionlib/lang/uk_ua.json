@@ -17,15 +17,15 @@
   "config.tooltip.tags.comment": "Увімкніть, щоб показувати теґи для певних предметів.",
   "config.tooltip.tag_color": "Колір теґу",
   "config.tooltip.tag_color.comment": "Керує кольором підказки теґу.",
-  "config.menu.text_scroll_speed": "Швидкість прокручування тексту, що за межами",
+  "config.menu.text_scroll_speed": "Швидкість прокручування поза меж",
   "config.menu.text_scroll_speed.comment.1": "Керує швидкістю прокручування тексту, якщо він виходить за межі.",
   "config.menu.text_scroll_speed.comment.2": "Вимірюється в тактах",
-  "config.menu.text_scroll_reset": "Час скидання прокручування тексту",
+  "config.menu.text_scroll_reset": "Час скидання прокручування",
   "config.menu.text_scroll_reset.comment.1": "Керує тим, як довго текст залишатиметься в стані прокручування перед скиданням.",
   "config.menu.text_scroll_reset.comment.2": "Вимірюється в тактах",
   "_comment3_": "////////////////////////////////////////////////////[DEATH_MESSAGES]///////[ПОВІДОМЛЕННЯ СМЕРТИ]//////////////////////////////////////",
   "death.attack.burningSpikes": "%1$s згорів при спробі завдати шкоду %2$s",
-  "death.attack.burningSpikes.item": "%3$s спалив %1$sпри спробі нашкодити %2$s",
+  "death.attack.burningSpikes.item": "%3$s спалив %1$s при спробі нашкодити %2$s",
   "_comment4_": "////////////////////////////////////////////////////[CONTAINERS]///////[УМІСТИЩА]/////////////////////////////////////////////////",
   "container.fletching": "Майстрування стріл",
   "_comment5_": "////////////////////////////////////////////////////[ATTRIBUTES]///////[АТРИБУТИ]/////////////////////////////////////////////////",
@@ -60,6 +60,7 @@
   "commands.ally.add.success.multiple": "Успішно додано %1$s гравців до списку союзників",
   "_comment8_": "////////////////////////////////////////////////////[RECIPE_HANDLERS]///////[РЕЦЕПТИ]//////////////////////////////////////////////////",
   "unionlib.recipes.fletching": "Майстрування стріл",
+
   "modmenu.descriptionTranslation.unionlib": "Бібліотека для моїх модів.",
   "fml.menu.mods.info.description.unionlib": "Бібліотека для моїх модів."
 }
