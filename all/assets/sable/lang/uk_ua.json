@@ -1,5 +1,5 @@
 {
-  "menu.savingSubLevels": "Збереження підрівня",
+  "menu.savingSubLevels": "Збереження підрівнів",
 
   "commands.sable.helper.missing_sub_level_container": "Не вдалося знайти вмістище підрівня для цього рівня!",
   "commands.sable.helper.missing_physics_system": "Не вдалося знайти систему фізики підрівня для цього рівня!",
@@ -77,6 +77,11 @@
 
   "commands.sable.forceload.add.count": "Додано примусове завантаження тактів для %s підрівня(ів)",
   "commands.sable.forceload.remove.count": "Видалено примусове завантаження тактів для %s підрівня(ів)",
+
+  "commands.sable.forceload.query.none": "У %s не знайдено запитів на примусове завантаження",
+  "commands.sable.forceload.query.count": "Знайдено %s запит(ів) на примусове завантаження для %s підрівнів у %s:",
+  "commands.sable.forceload.sub_level_name": "%s:",
+  "commands.sable.forceload.ticket": "    %s",
 
   "argument.sable.body.selector.all": "Усі підрівні",
   "argument.sable.body.selector.nearest": "Найближчий підрівень",
