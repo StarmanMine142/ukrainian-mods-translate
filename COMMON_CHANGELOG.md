@@ -4,7 +4,7 @@
 
 Перекладено [Envelope](https://modrinth.com/mod/envelope), [Create: Petrochem](https://modrinth.com/mod/create-petrochem)
 
-Повернено переклад 
+Повернено переклад [Trinkets](https://modrinth.com/mod/trinkets)
 
 Покращено переклад  <br>
 Оновлено переклад  <br>
