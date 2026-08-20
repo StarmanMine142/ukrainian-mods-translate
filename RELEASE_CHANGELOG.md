@@ -6,4 +6,6 @@
 
 Повернено переклад [Trinkets](https://modrinth.com/mod/trinkets)
 
+Оновлено переклад [Artifacts](https://modrinth.com/mod/artifacts) <br>
+
 ---------------------

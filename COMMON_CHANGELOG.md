@@ -7,7 +7,7 @@
 Повернено переклад [Trinkets](https://modrinth.com/mod/trinkets)
 
 Покращено переклад  <br>
-Оновлено переклад  <br>
+Оновлено переклад [Artifacts](https://modrinth.com/mod/artifacts) <br>
 Оновлено і покращено переклад 
 
 Видалено переклад  оскільки додано в самі моди
