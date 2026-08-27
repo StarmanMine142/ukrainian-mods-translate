@@ -1,13 +1,13 @@
 ---------------------
 
-### Оновлення #80
+### Оновлення #81
 
-Перекладено [Envelope](https://modrinth.com/mod/envelope), [Create: Petrochem](https://modrinth.com/mod/create-petrochem), [Colorful Hearts](https://modrinth.com/mod/colorful-hearts), [Iron's Arms 'n Artifice](https://www.curseforge.com/minecraft/mc-mods/irons-artifice), [Mod Menu Filter](https://modrinth.com/mod/modmenu-filter)
+Перекладено [Paragliders](https://modrinth.com/mod/paragliders)
 
-Повернено переклад [Trinkets](https://modrinth.com/mod/trinkets)
+Повернено переклад
 
 Покращено переклад  <br>
-Оновлено переклад [Artifacts](https://modrinth.com/mod/artifacts) <br>
+Оновлено переклад <br>
 Оновлено і покращено переклад 
 
 Видалено переклад  оскільки додано в самі моди
