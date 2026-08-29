@@ -1,0 +1,46 @@
+{
+	"modmenu.descriptionTranslation.bathymetry": "Візуалізує глибину підводного рельєфу за допомогою відтінків кольору води.",
+	"fml.menu.mods.info.description.bathymetry": "Візуалізує глибину підводного рельєфу за допомогою відтінків кольору води.",
+	"bathymetry.modmenu.title": "§lНалаштування Bathymetry",
+
+	"bathymetry.modmenu.category.general.name": "§lЗагальні",
+
+	"bathymetry.modmenu.group.main.name": "§lГоловне",
+	"bathymetry.modmenu.group.main.description": "Який кольором забарвлюється глибока вода.",
+
+	"bathymetry.modmenu.option.mod_enabled.name": "Мод увімкнено",
+	"bathymetry.modmenu.option.mod_enabled.description": "Повністю перемикає ефект. Якщо вимкнено, вода матиме стандартне забарвлення.",
+
+	"bathymetry.modmenu.option.intensity.name": "Інтенсивність",
+	"bathymetry.modmenu.option.intensity.description": "Загальна сила ефекту, не включаючи відтінок.",
+
+	"bathymetry.modmenu.option.shallow_tint.name": "Відтінок мілководдя",
+	"bathymetry.modmenu.option.shallow_tint.description": "Один кінець градієнту — відтінок мілководдя. Білий — стандартне забарвлення.",
+
+	"bathymetry.modmenu.option.deep_tint.name": "Відтінок глибоководдя",
+	"bathymetry.modmenu.option.deep_tint.description": "Другий кінець градієнту — відтінок глибини глибоководдя й нижче.",
+
+	"bathymetry.modmenu.group.depth.name": "§lГлибина",
+	"bathymetry.modmenu.group.depth.description": "На якому діапазоні глибин градієнт чинить дію.",
+
+	"bathymetry.modmenu.option.shallow_depth.name": "Глибина мілководдя",
+	"bathymetry.modmenu.option.shallow_depth.description": "На якій глибині и мілкіше зберігається стандартний відтінок.",
+
+	"bathymetry.modmenu.option.deep_depth.name": "Глибина глибоководдя",
+	"bathymetry.modmenu.option.deep_depth.description": "Вода такої глибини й глибше показує повний відтінок глибини.",
+
+	"bathymetry.modmenu.option.smooth_edges.name": "Згладжування межі",
+	"bathymetry.modmenu.option.smooth_edges.description": "Розтягує колір по межам блоків замість повного заповнення.",
+
+	"bathymetry.modmenu.option.smoothing_radius.name": "Радіус згладжування",
+	"bathymetry.modmenu.option.smoothing_radius.description": "Наскільки плавно відбувається перехід в місцях з більшим перепадом глибини, щоб обрив морського дна не був таким різким розломом.",
+
+	"bathymetry.modmenu.group.fog.name": "§lТуман",
+	"bathymetry.modmenu.group.fog.description": "Згущує туман у мірі занурення на глибину.",
+
+	"bathymetry.modmenu.option.underwater_fog.name": "Підводний туман",
+	"bathymetry.modmenu.option.underwater_fog.description": "Чим глибше ви занурюєтеся, тим гірше видимість навколо вас. Усталено вимкнено.",
+
+	"bathymetry.modmenu.option.deep_fog_distance.name": "Дальність туману на глибині",
+	"bathymetry.modmenu.option.deep_fog_distance.description": "Яка залишкова видимість на максимальній глибині."
+}

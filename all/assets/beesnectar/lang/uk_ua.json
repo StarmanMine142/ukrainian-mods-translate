@@ -1,0 +1,26 @@
+{
+  "block.beesnectar.crystallized_honey_block": "Блок кристалізованого меду",
+  "block.beesnectar.crystallized_honey_bricks": "Цегла з кристалізованого меду",
+  "block.beesnectar.chiseled_crystallized_honey_bricks": "Різьблена цегла з кристалізованого меду",
+  "block.beesnectar.crystallized_honey_brick_slab": "Цегляна плита з кристалізованого меду",
+  "block.beesnectar.crystallized_honey_brick_stairs": "Цегляні сходи з кристалізованого меду",
+  "block.beesnectar.crystallized_honey_brick_wall": "Цегляна стіна з кристалізованого меду",
+
+
+  "item.beesnectar.crystallized_honey": "Кристалізований мед",
+  "item.beesnectar.honey_cube": "Кубик меду",
+  "item.beesnectar.candy_apple": "Яблуко в меду",
+  "item.beesnectar.honey_bread": "Хліб з медом",
+  "item.beesnectar.sweet_melon": "Солодкий кавун",
+  "item.minecraft.potion.effect.sticky_potion": "Зілля липкости",
+  "item.minecraft.splash_potion.effect.sticky_potion": "Вибухове зілля липкости",
+  "item.minecraft.lingering_potion.effect.sticky_potion": "Осідальне зілля липкости",
+  "item.minecraft.tipped_arrow.effect.sticky_potion": "Стріла липкости",
+
+  "itemgroup.beesnectar.beesnectar_items": "Bee's Nectar Items",
+
+  "effect.beesnectar.sticky": "Липкість",
+
+  "modmenu.descriptionTranslation.beesnectar": "Додає чимало предметів і блоків, пов'язаних із кристалізованим медом!",
+  "fml.menu.mods.info.description.beesnectar": "Додає чимало предметів і блоків, пов'язаних із кристалізованим медом!"
+}
