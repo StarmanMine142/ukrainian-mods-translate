@@ -98,7 +98,7 @@
   "irons_artifice.value_modifier.minus": "-%s %s",
   "irons_artifice.value_modifier.plus_percent": "%s%% %s",
   "irons_artifice.value_modifier.minus_percent": "%s%% %s",
-  "irons_artifice.value.set_base": "Установлює базову %s на %s",
+  "irons_artifice.value.set_base": "Установлює значення %s на %s",
 
   "irons_artifice.tooltip.when_used_as_modifier": "Коли використано як модифікатор зброї:",
   "irons_artifice.tooltip.damage_per_bullet": "%s/%s шкоди",
