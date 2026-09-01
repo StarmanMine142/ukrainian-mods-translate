@@ -7,7 +7,7 @@
 Повернено переклад
 
 Покращено переклад  <br>
-Оновлено переклад [JourneyMap](https://modrinth.com/plugin/journeymap), [Aquamirae](https://modrinth.com/mod/aquamirae) <br>
+Оновлено переклад [JourneyMap](https://modrinth.com/plugin/journeymap), [Aquamirae](https://modrinth.com/mod/aquamirae), [Iron's Arms 'n Artifice](https://modrinth.com/mod/irons-artifice) <br>
 Оновлено і покращено переклад 
 
 Видалено переклад  оскільки додано в самі моди
