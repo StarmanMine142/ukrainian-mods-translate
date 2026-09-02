@@ -352,5 +352,8 @@
   "chloride.zoom.max.title": "Максимальне масштабування",
   "chloride.zoom.max.desc": "Установлює максимальне масштабування, можливе за допомогою колеса миші.",
 
-  "fml.menu.mods.info.description.chloride": "Робить Sodium кращим."
+  
+  "modmenu.descriptionTranslation.chloride": "Робить Sodium кращим.",
+  "fml.menu.mods.info.description.chloride": "Робить Sodium кращим.",
+  "neoforge.screen.mods.info.description.chloride": "Робить Sodium кращим."
 }

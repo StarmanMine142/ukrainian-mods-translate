@@ -13,5 +13,6 @@
   "text.autoconfig.yungsmenutweaks-fabric-1_21.option.yungsMenuTweaks.backgroundTexture.@Tooltip[1]": "Діє, лише якщо параметр «Увімкнути користувацьку текстуру тла» ввімкнено.",
 
   "modmenu.descriptionTranslation.yungsmenutweaks": "Невеликий, легкий мод, який значно полегшує перегляд меню!",
-  "fml.menu.mods.info.description.yungsmenutweaks": "Невеликий, легкий мод, який значно полегшує перегляд меню!"
+  "fml.menu.mods.info.description.yungsmenutweaks": "Невеликий, легкий мод, який значно полегшує перегляд меню!",
+  "neoforge.screen.mods.info.description.yungsmenutweaks": "Невеликий, легкий мод, який значно полегшує перегляд меню!"
 }

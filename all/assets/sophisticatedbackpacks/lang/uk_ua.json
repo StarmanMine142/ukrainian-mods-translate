@@ -256,5 +256,6 @@
   "commands.sophisticatedbackpacks.dynamic.add.success": "Предмет «%2$s» успішно додано до «%1$s»",
   "commands.sophisticatedbackpacks.dynamic.end.addRemainingItemsFailed": "Не всі предмети можна додати: залишилося %d x %s",
   "commands.sophisticatedbackpacks.dynamic.end.success": "Динамічний шаблон «%s» успішно завершено",
-  "fml.menu.mods.info.description.sophisticatedbackpacks": "Гарні та функціональні рюкзаки."
+  "fml.menu.mods.info.description.sophisticatedbackpacks": "Гарні та функціональні рюкзаки.",
+  "neoforge.screen.mods.info.description.sophisticatedbackpacks": "Гарні та функціональні рюкзаки."
 }

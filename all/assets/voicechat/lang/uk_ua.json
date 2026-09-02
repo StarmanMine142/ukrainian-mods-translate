@@ -228,5 +228,6 @@
   "cloth_config.voicechat.config.show_own_group_icon": "Показати значок HUD у власній групі",
   "cloth_config.voicechat.config.show_own_group_icon.description": "Чи в групі має відображатися власний значок.",
   "modmenu.descriptionTranslation.voicechat": "Робочий голосовий чат у Minecraft!",
-  "fml.menu.mods.info.description.voicechat": "Робочий голосовий чат у Minecraft!"
+  "fml.menu.mods.info.description.voicechat": "Робочий голосовий чат у Minecraft!",
+  "neoforge.screen.mods.info.description.voicechat": "Робочий голосовий чат у Minecraft!"
 }

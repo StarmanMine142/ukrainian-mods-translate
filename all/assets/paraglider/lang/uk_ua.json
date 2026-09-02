@@ -222,5 +222,6 @@
   "tooltip.paraglider.rito_goddess_statue.0": "Стиль ріто",
   "tooltip.paraglider.stamina_vessel.1": "Збільшує максимальний запас витривалости (максимум %s разів).",
 
-  "fml.menu.mods.info.description.paraglider": "Дельтаплан у стилі BotW."
+  "fml.menu.mods.info.description.paraglider": "Дельтаплан у стилі BotW.",
+  "neoforge.screen.mods.info.description.paraglider": "Дельтаплан у стилі BotW."
 }

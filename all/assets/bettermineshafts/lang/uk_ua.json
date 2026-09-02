@@ -61,6 +61,7 @@
   "text.autoconfig.bettermineshafts-fabric-1_21.option.ores.diamond": "Коефіцієнт появи діамантів",
   "text.autoconfig.bettermineshafts-fabric-1_21.option.ores.diamond.@Tooltip": "Коефіцієнт ймовірности покладу руди, що містить §6діаманти§f.",
 
-  "modmenu.descriptionTranslation.bettermineshafts": "Повний редизайн шахт Minecraft.",
-  "fml.menu.mods.info.description.bettermineshafts": "Повний редизайн шахт Minecraft."
+  "modmenu.descriptionTranslation.bettermineshafts": "Повне перероблення шахт Minecraft.",
+  "fml.menu.mods.info.description.bettermineshafts": "Повне перероблення шахт Minecraft.",
+  "neoforge.screen.mods.info.description.bettermineshafts": "Повне перероблення шахт Minecraft."
 }

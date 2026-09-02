@@ -16,6 +16,7 @@
  "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general.filledPortalFrameChance": "Шанс заповненої рамки порталу",
  "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general.filledPortalFrameChance.@Tooltip": "Шанс для кожного блока рамки порталу Енду з'явитися, вже з оком Енду.",
 
-  "modmenu.descriptionTranslation.betterstrongholds": "Повний редизайн цитаделі Minecraft.",
-  "fml.menu.mods.info.description.betterstrongholds": "Повний редизайн цитаделі Minecraft."
+  "modmenu.descriptionTranslation.betterstrongholds": "Повне перероблення цитаделі Minecraft.",
+  "fml.menu.mods.info.description.betterstrongholds": "Повне перероблення цитаделі Minecraft.",
+  "neoforge.screen.mods.info.description.betterstrongholds": "Повне перероблення цитаделі Minecraft."
 }

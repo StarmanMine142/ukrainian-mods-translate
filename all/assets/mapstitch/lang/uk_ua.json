@@ -130,6 +130,8 @@
   "config.mapstitch.show_buttons.desc": "Керує тим, чи показується ряд кнопок справа.",
   "config.mapstitch.show_help": "Показувати перемикач довідки",
   "config.mapstitch.show_help.desc": "Керує тим, чи показується перемикач довідки.",
+
   "modmenu.descriptionTranslation.mapstitch": "Мапа світу та мінімапа за допомогою стандартних мап.",
-  "fml.menu.mods.info.description.mapstitch": "Мапа світу та мінімапа за допомогою стандартних мап."
+  "fml.menu.mods.info.description.mapstitch": "Мапа світу та мінімапа за допомогою стандартних мап.",
+  "neoforge.screen.mods.info.description.mapstitch": "Мапа світу та мінімапа за допомогою стандартних мап."
 }

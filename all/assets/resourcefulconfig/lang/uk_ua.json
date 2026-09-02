@@ -42,5 +42,6 @@
     "rconfig.color.preset.mc_colors": "Колір тексту",
 
     "modmenu.descriptionTranslation.resourcefulconfig": "Бібліотека для створення файлів налаштувань для вашого мода на кількох платформах.",
-    "fml.menu.mods.info.description.resourcefulconfig": "Бібліотека для створення файлів налаштувань для вашого мода на кількох платформах."
+    "fml.menu.mods.info.description.resourcefulconfig": "Бібліотека для створення файлів налаштувань для вашого мода на кількох платформах.",
+  "neoforge.screen.mods.info.description.resourcefulconfig": "Бібліотека для створення файлів налаштувань для вашого мода на кількох платформах."
 }

@@ -58,5 +58,6 @@
   "enhancedtooltips.tooltip.saturation": "+%d%% насичености",
   "enhancedtooltips.tooltip.durability": "Міцність:",
   "modmenu.descriptionTranslation.enhancedtooltips": "Мод, який переробляє підказки та додає додаткову інформацію.",
-  "fml.menu.mods.info.description.enhancedtooltips": "Мод, який переробляє підказки та додає додаткову інформацію."
+  "fml.menu.mods.info.description.enhancedtooltips": "Мод, який переробляє підказки та додає додаткову інформацію.",
+  "neoforge.screen.mods.info.description.enhancedtooltips": "Мод, який переробляє підказки та додає додаткову інформацію."
 }

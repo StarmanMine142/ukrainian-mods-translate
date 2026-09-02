@@ -555,5 +555,6 @@
   "gui.bitsandbalance.taboret_table.search": "Пошук кольорів…",
 
   "modmenu.descriptionTranslation.bitsandbalance": "Комплексний мод перебалансування, який налаштовує механіку ігрового процесу, додає нові функції та покращує стандартний Minecraft.",
-  "fml.menu.mods.info.description.bitsandbalance": "Комплексний мод перебалансування, який налаштовує механіку ігрового процесу, додає нові функції та покращує стандартний Minecraft."
+  "fml.menu.mods.info.description.bitsandbalance": "Комплексний мод перебалансування, який налаштовує механіку ігрового процесу, додає нові функції та покращує стандартний Minecraft.",
+  "neoforge.screen.mods.info.description.bitsandbalance": "Комплексний мод перебалансування, який налаштовує механіку ігрового процесу, додає нові функції та покращує стандартний Minecraft."
 }

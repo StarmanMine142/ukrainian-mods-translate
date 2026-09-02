@@ -16,6 +16,7 @@
   "text.autoconfig.betterjungletemples-fabric-1_21.option.betterJungleTemples.compat.pickYourPoisonEnabled": "Увімкнути сумісність Pick Your Poison",
   "text.autoconfig.betterjungletemples-fabric-1_21.option.betterJungleTemples.compat.pickYourPoisonEnabled.@Tooltip": "Чи отруйні дротики PYP можуть з'являтися в кращих тропічних пірамідах.",
 
-  "modmenu.descriptionTranslation.betterjungletemples": "Повний редизайн тропічної піраміди Minecraft.",
-  "fml.menu.mods.info.description.betterjungletemples": "Повний редизайн тропічної піраміди Minecraft."
+  "modmenu.descriptionTranslation.betterjungletemples": "Повне перероблення тропічної піраміди Minecraft.",
+  "fml.menu.mods.info.description.betterjungletemples": "Повне перероблення тропічної піраміди Minecraft.",
+  "neoforge.screen.mods.info.description.betterjungletemples": "Повне перероблення тропічної піраміди Minecraft."
 }

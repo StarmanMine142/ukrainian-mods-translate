@@ -36,5 +36,6 @@
   "option.effecttimerplus.timer.warn.time.value": "%d сек.",
   "screen.effecttimerplus.options": "Налаштування EffectTimerPlus",
   "modmenu.descriptionTranslation.effecttimerplus": "Покращує значки ефектів. Засновано на StatusEffectTimer від magicus.",
-  "fml.menu.mods.info.description.effecttimerplus": "Покращує значки ефектів. Засновано на StatusEffectTimer від magicus."
+  "fml.menu.mods.info.description.effecttimerplus": "Покращує значки ефектів. Засновано на StatusEffectTimer від magicus.",
+  "neoforge.screen.mods.info.description.effecttimerplus": "Покращує значки ефектів. Засновано на StatusEffectTimer від magicus."
 }

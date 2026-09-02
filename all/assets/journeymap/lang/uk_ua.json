@@ -1395,13 +1395,5 @@
   "waypoint.icon.set.all.name.tooltip": "Усі значки",
   "waypoint.icon.set.journeymap.name.tooltip": "Оригінальні значки JourneyMap.",
   "waypoint.icon.set.mapdeco.name.tooltip": "Значки декору мапи Minecraft.",
-  "waypoint.icon.set.minecraft.name.tooltip": "Значки предметів Minecraft.",
-
-  "jm.common.mipmap_levels": "Збільшити рівні мінімапи",
-  "jm.common.mipmap_levels.tooltip": "Рівні MIP-текстурування, які потрібно створити для зменшення масштабу на мапі. Збільшення створить якісніші зменшені зображення, але займе більше пам'яті.",
-  "jm.common.waypoint.notification.shared_by_from.label": "Файл маршрутної точки %1$s",
-  "jm.server.allow_right_click_teleport": "Телепорт на ПКМ",
-  "jm.server.allow_right_click_teleport.tooltip": "Дозволяє телепортацію на мапі через ПКМ, коли ввімкнено телепорт по маршрутних точках. Це працює лише тоді, коли увімкнено телепортування маршрутних точок.",
-  "jm.waypoint.edit_group.locator_bar": "Показати на панелі локатора",
-  "jm.waypoint.edit_group.locator_bar.tooltip": "Показує маршрутні точки на панелі локатора усталеного кольору, яка знаходиться трохи вище панелі швидкого доступу."
+  "waypoint.icon.set.minecraft.name.tooltip": "Значки предметів Minecraft."
 }

@@ -68,5 +68,6 @@
   "tooltip.fluidtank.source_disabled": "ВИМК.",
   "tooltip.fluidtank.source_inf": "Нескінченно",
   "modmenu.descriptionTranslation.fluidtank": "Баки для рідини.",
-  "fml.menu.mods.info.description.fluidtank": "Баки для рідини."
+  "fml.menu.mods.info.description.fluidtank": "Баки для рідини.",
+  "neoforge.screen.mods.info.description.fluidtank": "Баки для рідини."
 }

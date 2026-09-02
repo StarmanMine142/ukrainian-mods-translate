@@ -44,5 +44,6 @@
 
   "modmenu.summaryTranslation.forgeconfigapiport": "Порт системи налаштувань NeoForge і Forge.",
   "modmenu.descriptionTranslation.forgeconfigapiport": "Системи налаштувань NeoForge і Forge, портовані на інші завантажувачі модів. Розроблено для багатоплатформової архітектури.",
-  "fml.menu.mods.info.description.forgeconfigapiport": "Системи налаштувань NeoForge і Forge, портовані на інші завантажувачі модів. Розроблено для багатоплатформової архітектури."
+  "fml.menu.mods.info.description.forgeconfigapiport": "Системи налаштувань NeoForge і Forge, портовані на інші завантажувачі модів. Розроблено для багатоплатформової архітектури.",
+  "neoforge.screen.mods.info.description.forgeconfigapiport": "Системи налаштувань NeoForge і Forge, портовані на інші завантажувачі модів. Розроблено для багатоплатформової архітектури."
 }

@@ -53,5 +53,6 @@
   "enchantment.gofish.deepfry.desc": "Спіймавши певну рибу, вона одразу буде смаженою.",
   
   "modmenu.descriptionTranslation.enchdesc": "Додає описи зачарувань до підказки.",
-  "fml.menu.mods.info.description.enchdesc": "Додає описи зачарувань до підказки."
+  "fml.menu.mods.info.description.enchdesc": "Додає описи зачарувань до підказки.",
+  "neoforge.screen.mods.info.description.enchdesc": "Додає описи зачарувань до підказки."
 }

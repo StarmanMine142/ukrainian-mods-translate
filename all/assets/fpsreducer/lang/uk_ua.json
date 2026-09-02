@@ -61,5 +61,6 @@
   "fpsreducer.options.tooltip.inactivityFpsLimit": "Ліміт FPS бездіяльности контролюється FPS Reducer.",
 
   "modmenu.descriptionTranslation.fpsreducer": "Зменшує використання ГП та ЦП за відсутности операцій.",
-  "fml.menu.mods.info.description.fpsreducer": "Зменшує використання ГП та ЦП за відсутности операцій."
+  "fml.menu.mods.info.description.fpsreducer": "Зменшує використання ГП та ЦП за відсутности операцій.",
+  "neoforge.screen.mods.info.description.fpsreducer": "Зменшує використання ГП та ЦП за відсутности операцій."
 }

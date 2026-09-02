@@ -1,6 +1,4 @@
 {
-  "modmenu.descriptionTranslation.skinlayers3d": "Промальовує другий шар скіну гравця в 3D.",
-  "fml.menu.mods.info.description.skinlayers3d": "Промальовує другий шар скіну гравця в 3D.",
   "text.skinlayers.title": "Налаштування 3D Skin Layers",
   "text.skinlayers.tab.player": "Гравці",
   "text.skinlayers.tab.heads": "Голови гравців",
@@ -40,8 +38,11 @@
   "text.skinlayers.firstperson.voxelsize.tooltip": "Розмір вокселів, які використовуються для руки гравця від першої особи.",
   "text.skinlayers.compatibilityMode.enable": "Режим сумісности",
   "text.skinlayers.compatibilityMode.enable.tooltip": "Альтернативний спосіб показу шарів, може вирішити деякі проблеми сумісности з іншими модами.",
-  "text.skinlayers.irisCompatibilityMode.enable": "Режим сумісності з діафрагмою",
-  "text.skinlayers.irisCompatibilityMode.enable.tooltip": "Альтернативний спосіб промальовування шарів, виправляє дивні тіні/кольори під час використання шейдерів Iris. Умикайте цей параметр лише за потреби. Розірве кутові з’єднання.",
+  "text.skinlayers.irisCompatibilityMode.enable": "Режим сумісности з Iris",
+  "text.skinlayers.irisCompatibilityMode.enable.tooltip": "Альтернативний спосіб промальовування шарів, виправляє дивні тіні/кольори під час використання шейдерів Iris. Умикайте лише за потреби. Розірве кутові з’єднання.",
   "text.skinlayers.applySodiumWorkaround.enable": "Обхід Sodium",
-  "text.skinlayers.applySodiumWorkaround.enable.tooltip": "Обхід Sodium, що має перевернуті сторони кубів у деяких версіях (?). Увімкніть це, лише якщо ви використовуєте Sodium і помічаєте візуальні проблеми з відсутністю сторін шарів скіну."
+  "text.skinlayers.applySodiumWorkaround.enable.tooltip": "Обхід Sodium, що має перевернуті сторони кубів у деяких версіях (?). Увімкніть це, лише якщо ви використовуєте Sodium і помічаєте візуальні проблеми з відсутністю сторін шарів скіну.",
+  "modmenu.descriptionTranslation.skinlayers3d": "Промальовує другий шар скіну гравця в 3D.",
+  "fml.menu.mods.info.description.skinlayers3d": "Промальовує другий шар скіну гравця в 3D.",
+  "neoforge.screen.mods.info.description.skinlayers3d": "Промальовує другий шар скіну гравця в 3D."
 }

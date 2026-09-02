@@ -283,5 +283,6 @@
   "gui.sophisticatedcore.tooltip.stack_count": "Кількість: %s",
   "key.category.sophisticatedcore.main": "Sophisticated Mods",
   "key.sophisticatedcore.sort": "Сортувати вмістище",
-  "fml.menu.mods.info.description.sophisticatedcore": "Мод бібліотеки/спільних функцій для Sophisticated Storage та Backpacks."
+  "fml.menu.mods.info.description.sophisticatedcore": "Мод бібліотеки/спільних функцій для Sophisticated Storage та Backpacks.",
+  "neoforge.screen.mods.info.description.sophisticatedcore": "Мод бібліотеки/спільних функцій для Sophisticated Storage та Backpacks."
 }

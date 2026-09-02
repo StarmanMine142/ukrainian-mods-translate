@@ -14,5 +14,6 @@
   "colorfulhearts.options.button.vanillaheart.true": "Стандартні: УВІМК.",
   "colorfulhearts.options.button.vanillaheart.false": "Стандартні: ВИМК.",
   "modmenu.descriptionTranslation.colorfulhearts": "Клієнтський мод, що замінює кілька рядків сердець одним рядком із кольоровими серцями.",
-  "fml.menu.mods.info.description.colorfulhearts": "Клієнтський мод, що замінює кілька рядків сердець одним рядком із кольоровими серцями."
+  "fml.menu.mods.info.description.colorfulhearts": "Клієнтський мод, що замінює кілька рядків сердець одним рядком із кольоровими серцями.",
+  "neoforge.screen.mods.info.description.colorfulhearts": "Клієнтський мод, що замінює кілька рядків сердець одним рядком із кольоровими серцями."
 }

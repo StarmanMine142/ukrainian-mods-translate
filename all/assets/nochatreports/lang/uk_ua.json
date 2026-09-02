@@ -1,6 +1,7 @@
 {
 	"modmenu.descriptionTranslation.nochatreports": "Видаляє криптографічні підписи з повідомлень, унеможливлюючи відстеження та асоціювання їх з вашим обліковим записом Mojang/Microsoft, а також використання функції скарги на повідомлення.",
     "fml.menu.mods.info.description.nochatreports": "Видаляє криптографічні підписи з повідомлень, унеможливлюючи відстеження та асоціювання їх з вашим обліковим записом Mojang/Microsoft, а також використання функції скарги на повідомлення.",
+  "neoforge.screen.mods.info.description.nochatreports": "Видаляє криптографічні підписи з повідомлень, унеможливлюючи відстеження та асоціювання їх з вашим обліковим записом Mojang/Microsoft, а також використання функції скарги на повідомлення.",
 	"key.nochatreports.ctrl": "Ctrl",
 	"key.nochatreports.cmd": "Cmd",
 	"gui.nochatreports.secure_chat": "Ця опція не сумісна із модом No Chat Reports, бо немає підписів для перевірки.",

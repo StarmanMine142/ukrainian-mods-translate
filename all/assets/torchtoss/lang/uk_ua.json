@@ -6,11 +6,12 @@
   "advancements.torchtoss.throw_torch.title": "Освітити світ",
   "advancements.torchtoss.throw_torch.description": "Киньте кидучий смолоскип",
   "advancements.torchtoss.throw_copper_torch.title": "Озеленення",
-  "advancements.torchtoss.throw_copper_torch.description": "Киньте киlучий мідний смолоскип",
+  "advancements.torchtoss.throw_copper_torch.description": "Киньте кидучий мідний смолоскип",
   "advancements.torchtoss.throw_redstone_torch.title": "Віддалена активація",
   "advancements.torchtoss.throw_redstone_torch.description": "Киньте кидучий редстоуновий смолоскип",
   "advancements.torchtoss.throw_soul_torch.title": "Задушення",
   "advancements.torchtoss.throw_soul_torch.description": "Киньте кидучий смолоскип душ",
   "modmenu.descriptionTranslation.torchtoss": "Мод, що додає кидучі смолоскипи.",
-  "fml.menu.mods.info.description.torchtoss": "Мод, що додає кидучі смолоскипи."
+  "fml.menu.mods.info.description.torchtoss": "Мод, що додає кидучі смолоскипи.",
+  "neoforge.screen.mods.info.description.torchtoss": "Мод, що додає кидучі смолоскипи."
 }

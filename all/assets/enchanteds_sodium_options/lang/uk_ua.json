@@ -33,5 +33,6 @@
   "gui.enchanted_sodium_options.ellipsis": "%s…",
 
   "modmenu.descriptionTranslation.enchanteds_sodium_options": "Змінює екран налаштувань відео Sodium, щоб краще відповідати стилю стандартних екранів.",
-  "fml.menu.mods.info.description.enchanteds_sodium_options": "Змінює екран налаштувань відео Sodium, щоб краще відповідати стилю стандартних екранів."
+  "fml.menu.mods.info.description.enchanteds_sodium_options": "Змінює екран налаштувань відео Sodium, щоб краще відповідати стилю стандартних екранів.",
+  "neoforge.screen.mods.info.description.enchanteds_sodium_options": "Змінює екран налаштувань відео Sodium, щоб краще відповідати стилю стандартних екранів."
 }

@@ -203,5 +203,6 @@
 	"config.jade.plugin_toms_storage.inventory_config": "Інформація про налаштовувач",
 
 	"modmenu.descriptionTranslation.toms_storage": "Звичайний мод зберігання предметів для Minecraft.",
-	"fml.menu.mods.info.description.toms_storage": "Звичайний мод зберігання предметів для Minecraft."
+	"fml.menu.mods.info.description.toms_storage": "Звичайний мод зберігання предметів для Minecraft.",
+	"neoforge.screen.mods.info.description.toms_storage": "Звичайний мод зберігання предметів для Minecraft."
 }

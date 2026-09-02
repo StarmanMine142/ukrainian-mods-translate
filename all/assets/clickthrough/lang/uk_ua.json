@@ -29,5 +29,6 @@
     "clickthrough.config.switchonattack.always": "Завжди",
 
     "modmenu.descriptionTranslation.clickthrough": "Додає можливість натискати через таблички і рамки.",
-    "fml.menu.mods.info.description.clickthrough": "Додає можливість натискати через таблички і рамки."
+    "fml.menu.mods.info.description.clickthrough": "Додає можливість натискати через таблички і рамки.",
+    "neoforge.screen.mods.info.description.clickthrough": "Додає можливість натискати через таблички і рамки."
 }

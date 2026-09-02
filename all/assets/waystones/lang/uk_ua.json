@@ -261,5 +261,6 @@
   "waystones.map.untitled_waystone": "Безіменний дороговказ",
   "config.jade.plugin_waystones.waystone": "Waystones",
   "modmenu.descriptionTranslation.waystones": "Телепортуйтеся назад до активованих дороговказів. Для виживання, пригод або серверів.",
-  "fml.menu.mods.info.description.waystones": "Телепортуйтеся назад до активованих дороговказів. Для виживання, пригод або серверів."
+  "fml.menu.mods.info.description.waystones": "Телепортуйтеся назад до активованих дороговказів. Для виживання, пригод або серверів.",
+  "neoforge.screen.mods.info.description.waystones": "Телепортуйтеся назад до активованих дороговказів. Для виживання, пригод або серверів."
 }

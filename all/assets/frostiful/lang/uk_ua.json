@@ -420,5 +420,6 @@
   "yacl3.config.frostiful:common/weather.iciclesFormInWeather": "Формування бурульок у негоду",
   "yacl3.config.frostiful:common/weather.iciclesFormInWeather.desc": "Якщо ввімкнуто, бурульки втворюватимуться на нижній стороні блоків, що покривають обличчя, поблизу поверхні світу під час погоди.",
   "modmenu.descriptionTranslation.frostiful": "Мод, зосереджений на виживанні та бою на основі холоду. Також спробуйте Scorchful!",
-  "fml.menu.mods.info.description.frostiful": "Мод, зосереджений на виживанні та бою на основі холоду. Також спробуйте Scorchful!"
+  "fml.menu.mods.info.description.frostiful": "Мод, зосереджений на виживанні та бою на основі холоду. Також спробуйте Scorchful!",
+  "neoforge.screen.mods.info.description.frostiful": "Мод, зосереджений на виживанні та бою на основі холоду. Також спробуйте Scorchful!"
 }

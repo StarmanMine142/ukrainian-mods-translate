@@ -15,6 +15,7 @@
   "text.autoconfig.betterdeserttemples-fabric-1_21.option.general.applyMiningFatigue.@Tooltip[0]": "Чи застосовувати ефект §6утоми§f до гравців у піраміді.",
   "text.autoconfig.betterdeserttemples-fabric-1_21.option.general.applyMiningFatigue.@Tooltip[1]": "Звичайно, якщо він ще не очищений.",
 
-  "modmenu.descriptionTranslation.betterdeserttemples": "Повний редизайн пустельної піраміди Minecraft.",
-  "fml.menu.mods.info.description.betterdeserttemples": "Повний редизайн пустельної піраміди Minecraft."
+  "modmenu.descriptionTranslation.betterdeserttemples": "Повне перероблення пустельної піраміди Minecraft.",
+  "fml.menu.mods.info.description.betterdeserttemples": "Повне перероблення пустельної піраміди Minecraft.",
+  "neoforge.screen.mods.info.description.betterdeserttemples": "Повне перероблення пустельної піраміди Minecraft."
 }

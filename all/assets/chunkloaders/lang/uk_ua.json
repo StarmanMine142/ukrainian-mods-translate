@@ -30,5 +30,6 @@
   "chunkloaders.block.advanced_chunk_loader": "Покращений завантажувач чанків",
   "chunkloaders.block.ultimate_chunk_loader": "Бездоганний завантажувач чанків",
   "modmenu.descriptionTranslation.chunkloaders": "Chunk Loaders дозволяє зберігати чанки завантаженими за допомогою різних рівнів завантажувачів чанків!",
-  "fml.menu.mods.info.description.chunkloaders": "Chunk Loaders дозволяє зберігати чанки завантаженими за допомогою різних рівнів завантажувачів чанків!"
+  "fml.menu.mods.info.description.chunkloaders": "Chunk Loaders дозволяє зберігати чанки завантаженими за допомогою різних рівнів завантажувачів чанків!",
+  "neoforge.screen.mods.info.description.chunkloaders": "Chunk Loaders дозволяє зберігати чанки завантаженими за допомогою різних рівнів завантажувачів чанків!"
 }

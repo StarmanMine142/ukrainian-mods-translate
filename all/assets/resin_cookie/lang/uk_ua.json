@@ -11,5 +11,6 @@
   "item.minecraft.lingering_potion.effect.mining_fatigue": "Осідальне зілля втоми",
   "item.minecraft.tipped_arrow.effect.mining_fatigue": "Стріла втоми",
   "modmenu.descriptionTranslation.resin_cookie": "Мод, що додає смоляне печиво.",
-  "fml.menu.mods.info.description.resin_cookie": "Мод, що додає смоляне печиво."
+  "fml.menu.mods.info.description.resin_cookie": "Мод, що додає смоляне печиво.",
+  "neoforge.screen.mods.info.description.resin_cookie": "Мод, що додає смоляне печиво."
 }

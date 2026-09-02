@@ -23,5 +23,6 @@
   "customfov.options.fovEffectsMode.all": "Усі",
   "customfov.options.fovEffectsMode.all.tooltip": "Поле зору може змінюватися залежно від поведінки.",
   "modmenu.descriptionTranslation.customfov": "Дозволяє налаштувати різні параметри поля зору.",
-  "fml.menu.mods.info.description.customfov": "Дозволяє налаштувати різні параметри поля зору."
+  "fml.menu.mods.info.description.customfov": "Дозволяє налаштувати різні параметри поля зору.",
+  "neoforge.screen.mods.info.description.customfov": "Дозволяє налаштувати різні параметри поля зору."
 }

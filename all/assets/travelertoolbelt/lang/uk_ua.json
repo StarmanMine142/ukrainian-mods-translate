@@ -35,5 +35,6 @@
   "travelertoolbelt.configuration.whitelist": "Білий список",
   "travelertoolbelt.configuration.allowAllNonStackableItems": "Усі не стосовані",
   "modmenu.descriptionTranslation.travelertoolbelt": "Покращуваний ремінь для інструментів з інтуїтивно зрозумілою системою швидкої заміни, інтеграцією Trinkets та іншими функціями!",
-  "fml.menu.mods.info.description.travelertoolbelt": "Покращуваний ремінь для інструментів з інтуїтивно зрозумілою системою швидкої заміни, інтеграцією Trinkets та іншими функціями!"
+  "fml.menu.mods.info.description.travelertoolbelt": "Покращуваний ремінь для інструментів з інтуїтивно зрозумілою системою швидкої заміни, інтеграцією Trinkets та іншими функціями!",
+  "neoforge.screen.mods.info.description.travelertoolbelt": "Покращуваний ремінь для інструментів з інтуїтивно зрозумілою системою швидкої заміни, інтеграцією Trinkets та іншими функціями!"
 }

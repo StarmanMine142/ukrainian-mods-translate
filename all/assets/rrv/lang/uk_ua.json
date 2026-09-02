@@ -529,5 +529,6 @@
   "tag.block.minecraft.wool": "Вовна",
   "tag.block.minecraft.wool_carpets": "Вовняні килими",
   "modmenu.descriptionTranslation.rrv": "Переглядач рецептів для останніх версій Minecraft, перебудований з EIV та розроблений на налаштовуваність.",
-  "fml.menu.mods.info.description.rrv": "Переглядач рецептів для останніх версій Minecraft, перебудований з EIV та розроблений на налаштовуваність."
+  "fml.menu.mods.info.description.rrv": "Переглядач рецептів для останніх версій Minecraft, перебудований з EIV та розроблений на налаштовуваність.",
+  "neoforge.screen.mods.info.description.rrv": "Переглядач рецептів для останніх версій Minecraft, перебудований з EIV та розроблений на налаштовуваність."
 }

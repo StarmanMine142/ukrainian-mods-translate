@@ -77,5 +77,6 @@
     "structure.minecraft.village_snowy": "Сніжне село",
     "structure.minecraft.village_taiga": "Тайгове село",
     "modmenu.descriptionTranslation.explorerscompass": "Додає компас, що здатний знайти структуру у вашому світі.",
-    "fml.menu.mods.info.description.explorerscompass": "Додає компас, що здатний знайти структуру у вашому світі."
+    "fml.menu.mods.info.description.explorerscompass": "Додає компас, що здатний знайти структуру у вашому світі.",
+    "neoforge.screen.mods.info.description.explorerscompass": "Додає компас, що здатний знайти структуру у вашому світі."
 }

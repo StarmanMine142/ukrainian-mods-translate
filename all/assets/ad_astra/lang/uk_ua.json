@@ -824,5 +824,6 @@
   "tooltip.ad_astra.space_station_land": "Приземлитися на космічну станцію на (%s) [%s, %s]",
   "tooltip.ad_astra.space_station_owner": "Власник: %s",
   "tooltip.ad_astra.ticks_per_iteration": "Займає %s тактів на повтор",
-  "modmenu.descriptionTranslation.ad_astra": "Живи довго і процвітай, до зірок!"
+  "modmenu.descriptionTranslation.ad_astra": "Живи довго й процвітай, до зірок!",
+  "neoforge.screen.mods.info.description.ad_astra": "Живи довго й процвітай, до зірок!"
 }

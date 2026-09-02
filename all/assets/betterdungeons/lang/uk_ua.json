@@ -98,6 +98,7 @@
   "text.autoconfig.betterdungeons-fabric-1_21.option.betterDungeons.smallNetherDungeon.blazesDropBlazeRods": "Породжені пломені скидають стрижні",
   "text.autoconfig.betterdungeons-fabric-1_21.option.betterDungeons.smallNetherDungeon.blazesDropBlazeRods.@Tooltip": "Чи пломені, породжені в малих підземель Незеру, можуть скидати стрижні пломеня.",
 
-  "modmenu.descriptionTranslation.betterdungeons": "Повний редизайн підземель Minecraft.",
-  "fml.menu.mods.info.description.betterdungeons": "Повний редизайн підземель Minecraft."
+  "modmenu.descriptionTranslation.betterdungeons": "Повне перероблення підземель Minecraft.",
+  "fml.menu.mods.info.description.betterdungeons": "Повне перероблення підземель Minecraft.",
+  "neoforge.screen.mods.info.description.betterdungeons": "Повне перероблення підземель Minecraft."
 }

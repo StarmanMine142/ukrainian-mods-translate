@@ -231,5 +231,6 @@
   "text.betterf3.line.slime_chunk.false": "Ні",
   "text.betterf3.line.slime_chunk.unknown": "невідомо",
   "modmenu.descriptionTranslation.betterf3": "Змінює меню налагодження, роблячи його більш зрозумілий для людини.",
-  "fml.menu.mods.info.description.betterf3": "Змінює меню налагодження, роблячи його більш зрозумілий для людини."
+  "fml.menu.mods.info.description.betterf3": "Змінює меню налагодження, роблячи його більш зрозумілий для людини.",
+  "neoforge.screen.mods.info.description.betterf3": "Змінює меню налагодження, роблячи його більш зрозумілий для людини."
 }

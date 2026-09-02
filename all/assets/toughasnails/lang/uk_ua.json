@@ -99,5 +99,6 @@
   "entity.minecraft.villager.climatologist": "Кліматолог",
 
   "modmenu.descriptionTranslation.toughasnails": "Додає функції для покращення режиму виживання та підвищення складности гри.",
-  "fml.menu.mods.info.description.toughasnails": "Додає функції для покращення режиму виживання та підвищення складности гри."
+  "fml.menu.mods.info.description.toughasnails": "Додає функції для покращення режиму виживання та підвищення складности гри.",
+  "neoforge.screen.mods.info.description.toughasnails": "Додає функції для покращення режиму виживання та підвищення складности гри."
 }

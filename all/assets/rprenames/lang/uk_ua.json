@@ -157,5 +157,7 @@
   "rprenames.builtinResourcePack.default_dark_mode": "RPRenames Default Dark Mode",
   "rprenames.builtinResourcePack.high_contrasted": "Висока контрастність RPRenames",
 
-  "modmenu.descriptionTranslation.rprenames": "Перегляньте всі перейменування пакетів ресурсів у новому каталозі інтерфейсу ковадла!"
+  "modmenu.descriptionTranslation.rprenames": "Перегляньте всі перейменування пакетів ресурсів у новому каталозі інтерфейсу ковадла!",
+  "fml.menu.mods.info.description.rprenames": "Перегляньте всі перейменування пакетів ресурсів у новому каталозі інтерфейсу ковадла!",
+  "neoforge.screen.mods.info.description.rprenames": "Перегляньте всі перейменування пакетів ресурсів у новому каталозі інтерфейсу ковадла!"
 }

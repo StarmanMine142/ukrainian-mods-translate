@@ -50,5 +50,5 @@
     "chancecubes.networking.reward_selector.failed": "Не вдалося запустити селектор винагород: %s",
     "chancecubes.networking.cube_scan.failed": "Не вдалося запустити сканування куба: %s",
 
-  "fml.menu.mods.info.description.chancecubes": "Гра на випадковість і майстерність."
+    "fml.menu.mods.info.description.chancecubes": "Гра на випадковість і майстерність."
 }

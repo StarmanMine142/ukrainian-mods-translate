@@ -58,5 +58,6 @@
     "string.naturescompass.rain": "Дощ",
 
     "modmenu.descriptionTranslation.naturescompass": "Шукайте біом і отримуйте інформацію про нього.",
-    "fml.menu.mods.info.description.naturescompass": "Шукайте біом і отримуйте інформацію про нього."
+    "fml.menu.mods.info.description.naturescompass": "Шукайте біом і отримуйте інформацію про нього.",
+    "neoforge.screen.mods.info.description.naturescompass": "Шукайте біом і отримуйте інформацію про нього."
 }

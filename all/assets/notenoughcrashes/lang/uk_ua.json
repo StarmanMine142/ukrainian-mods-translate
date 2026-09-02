@@ -40,6 +40,7 @@
   "notenoughcrashes.midnightconfig.catchGameloopComment2": "Це завжди буде вимкнено (навіть якщо «Так»), коли встановлено Iris.",
   "notenoughcrashes.midnightconfig.catchGameloop": "Ловити збої ігрового процесу",
   "notenoughcrashes.midnightconfig.title": "Налаштування Not Enough Crashes ",
-  "modmenu.descriptionTranslation.": "Покращує збої в Minecraft — дозволяє повертатися до головного меню, звинувачувати моди, що викликають, тощо.",
-  "fml.menu.mods.info.description.": "Покращує збої в Minecraft — дозволяє повертатися до головного меню, звинувачувати моди, що викликають, тощо."
+  "modmenu.descriptionTranslation.notenoughcrashes": "Покращує збої в Minecraft — дозволяє повертатися до головного меню, звинувачувати моди, що викликають, тощо.",
+  "fml.menu.mods.info.description.notenoughcrashes": "Покращує збої в Minecraft — дозволяє повертатися до головного меню, звинувачувати моди, що викликають, тощо.",
+  "neoforge.screen.mods.info.description.notenoughcrashes": "Покращує збої в Minecraft — дозволяє повертатися до головного меню, звинувачувати моди, що викликають, тощо."
 }

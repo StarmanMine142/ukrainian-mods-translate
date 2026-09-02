@@ -1,6 +1,8 @@
 {
 	"modmenu.descriptionTranslation.bathymetry": "Візуалізує глибину підводного рельєфу за допомогою відтінків кольору води.",
 	"fml.menu.mods.info.description.bathymetry": "Візуалізує глибину підводного рельєфу за допомогою відтінків кольору води.",
+	"neoforge.screen.mods.info.description.bathymetry": "Візуалізує глибину підводного рельєфу за допомогою відтінків кольору води.",
+
 	"bathymetry.modmenu.title": "§lНалаштування Bathymetry",
 
 	"bathymetry.modmenu.category.general.name": "§lЗагальні",

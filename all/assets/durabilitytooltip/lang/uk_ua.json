@@ -12,5 +12,6 @@
   "durabilitytooltip.info.text.severely_damaged": "Розбито",
   "durabilitytooltip.info.text.nearly_broken": "Майже зламано",
   "modmenu.descriptionTranslation.durabilitytooltip": "Durability Tooltip показує міцність вашого предмета!",
-  "fml.menu.mods.info.description.durabilitytooltip": "Durability Tooltip показує міцність вашого предмета!"
+  "fml.menu.mods.info.description.durabilitytooltip": "Durability Tooltip показує міцність вашого предмета!",
+  "neoforge.screen.mods.info.description.durabilitytooltip": "Durability Tooltip показує міцність вашого предмета!"
 }

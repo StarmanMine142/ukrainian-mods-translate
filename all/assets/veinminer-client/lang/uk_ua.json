@@ -7,5 +7,7 @@
   "category.veinminer-client": "Veinminer",
   "key.veinminer-client.veinmine": "Увімкнути жилодобування",
 
-  "modmenu.descriptionTranslation.veinminer-client": "Клієнтське доповнення до Veinminer для гарячої клавіші та попереднього перегляду жилодобування."
+  "modmenu.descriptionTranslation.veinminer-client": "Клієнтське доповнення до Veinminer для гарячої клавіші та попереднього перегляду жилодобування.",
+  "fml.menu.mods.info.description.veinminer-client": "Клієнтське доповнення до Veinminer для гарячої клавіші та попереднього перегляду жилодобування.",
+  "neoforge.screen.mods.info.description.veinminer-client": "Клієнтське доповнення до Veinminer для гарячої клавіші та попереднього перегляду жилодобування."
 }

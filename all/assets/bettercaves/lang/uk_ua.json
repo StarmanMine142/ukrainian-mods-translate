@@ -6,5 +6,6 @@
   "text.autoconfig.bettercaves-fabric-1_21_1.option.general.liquidRegions.liquidAltitude": "Висота рідини",
 
   "modmenu.descriptionTranslation.bettercaves": "Повне перероблення генерації печер Minecraft!",
-  "fml.menu.mods.info.description.bettercaves": "Повне перероблення генерації печер Minecraft!"
+  "fml.menu.mods.info.description.bettercaves": "Повне перероблення генерації печер Minecraft!",
+  "neoforge.screen.mods.info.description.bettercaves": "Повне перероблення генерації печер Minecraft!"
 }

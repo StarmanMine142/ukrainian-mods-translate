@@ -87,5 +87,6 @@
   "config.jade.plugin_untitledduckmod.next_eat": "Час наступного автопоїдання",
 
   "modmenu.descriptionTranslation.untitledduckmod": "Качки та гуски для Fabric! На основі geckolib і architectury.",
-  "fml.menu.mods.info.description.untitledduckmod": "Качки та гуски для Neoforge! На основі geckolib і architectury."
+  "fml.menu.mods.info.description.untitledduckmod": "Качки та гуски для Neoforge! На основі geckolib і architectury.",
+  "neoforge.screen.mods.info.description.untitledduckmod": "Качки та гуски для Neoforge! На основі geckolib і architectury."
 }
