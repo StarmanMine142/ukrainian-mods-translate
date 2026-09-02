@@ -44,7 +44,8 @@
 ## Загальні вимоги перекладу
 Мод повинен бути викладений на Modrinth, CurseFroge або Github. Пріоритет посилань: Modrinth > CurseFroge > Github.<br>
 Для модів Завантажувача Fabric у кінці додавайте рядок «"modmenu.descriptionTranslation.modid": "Опис можна знайти в fabric.mod.json."» для перекладу опису в ModMenu.<br>
-Для модів Завантажувача NeoForge 1.21.1+ у кінці додавайте рядок «"fml.menu.mods.info.description.modid": "Опис можна знайти в META-INF/neoforge.mods.toml."» для перекладу опису в списку модів.<br>
+Для модів Завантажувача NeoForge 1.21.1-26.1.2 (уключно) у кінці додавайте рядок «"fml.menu.mods.info.description.modid": "Опис можна знайти в META-INF/neoforge.mods.toml."» для перекладу опису в списку модів.<br>
+Для модів Завантажувача NeoForge 26.2+ у кінці додавайте рядок «"neoforge.screen.mods.info.description.modid": "Опис можна знайти в META-INF/neoforge.mods.toml."» для перекладу опису в списку модів.<br>
 Якщо описів немає — не додавайте їх.<br>
 Не перекладайте назви модів, виключення — Сутінковий Ліс.<br>
 Перекладайте «mod» — «мод», «modded» — «модифікований»/«з модів»(залежно від контексту), «modding» — «модифікація».<br>
