@@ -294,7 +294,7 @@
   "neoforge.modifier.take": "%s %s",
   "neoforge.modifier.bool": "%s %s",
 
-  "neoforge.screen.mods.info.description.": "NeoForge, НОВИЙ API широкої сумісности.",
+  "neoforge.screen.mods.info.description.neoforge": "Вільний, з відкрити вихідним кодом, орієнтований на спільноту API модифікації для Minecraft: Java Edition.",
 
 
   "fml.menu.mods.title": "Моди",
@@ -326,5 +326,5 @@
   "commands.neoforge.setdim.deprecated": "Ця команда застаріла для видалення в 1.17, замість неї використовуйте %s.",
   "neoforge.configgui.logLegacyTagWarnings": "Журналювати застарілі теґи",
   "neoforge.configgui.logLegacyTagWarnings.tooltip": "Параметр в основному для розробників. Журналює модифіковані теґи, які використовують простір імен «forge» під час роботи на інтегрованому сервері. Усталено DEV_SHORT.",
-  "fml.menu.mods.info.description.neoforge": "NeoForge, НОВИЙ API широкої сумісности."
+  "fml.menu.mods.info.description.neoforge": "Вільний, з відкрити вихідним кодом, орієнтований на спільноту API модифікації для Minecraft: Java Edition."
 }
