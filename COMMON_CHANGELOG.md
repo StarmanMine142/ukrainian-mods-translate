@@ -8,7 +8,7 @@
 
 Покращено переклад  <br>
 Оновлено переклад [JourneyMap](https://modrinth.com/plugin/journeymap), [Aquamirae](https://modrinth.com/mod/aquamirae), [Iron's Arms 'n Artifice](https://modrinth.com/mod/irons-artifice), [NeoForge](https://neoforged.net/), [Ohmega](https://modrinth.com/mod/ohmega), [BedrockIfy](https://modrinth.com/mod/bedrockify) <br>
-Оновлено і покращено переклад 
+Оновлено і покращено переклад [Sodium Extra](https://modrinth.com/mod/sodium-extra)
 
 Видалено переклад  оскільки додано в самі моди
 
