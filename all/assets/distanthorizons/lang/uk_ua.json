@@ -38,7 +38,7 @@
   "distanthorizons.updater.title":
     "Авто-оновлювач Distant Horizons",
   "distanthorizons.updater.updateAvailable":
-    "§lДоспне оновлення!",
+    "§lДоступне оновлення!",
   "distanthorizons.updater.updateConfirmation":
     "§fЧи бажаєте ви оновитися з %s§f до %s§f?",
   "distanthorizons.updater.later":
@@ -130,7 +130,7 @@
   "distanthorizons.config.client.advanced.graphics.quality.useCameraPositionForQualityDropOff":
     "Позиція камери для зниження якости",
   "distanthorizons.config.client.advanced.graphics.quality.useCameraPositionForQualityDropOff.@tooltip":
-    "Якщо «Так», DH використовуватиме позицію камери\nдля визначення зниження якости зони РД.\nЯкщо «Ні», DH використовуватиме позицію гравця.\n\nУвімкнення допомагає модам вільної камерою коректно відтворювати зображення.\nВимкнення допомагає модам із кількома камерами (наприклад, Immersive Portals або модам на камери) коректно відтворювати зображення.",
+    "Якщо «Так», DH використовуватиме позицію камери\nдля визначення зниження якости зони РД.\nЯкщо «Ні», DH використовуватиме позицію гравця.\n\nУвімкнення допомагає модам вільної камерою правильно відтворювати зображення.\nВимкнення допомагає модам із кількома камерами (наприклад, Immersive Portals або модам на камери) коректно відтворювати зображення.",
   "distanthorizons.config.client.advanced.graphics.quality.increaseQualityWhenZoomedIn":
     "Підвищувати якість при наближенні",
   "distanthorizons.config.client.advanced.graphics.quality.increaseQualityWhenZoomedIn.@tooltip":
@@ -330,7 +330,7 @@
   "distanthorizons.config.client.advanced.graphics.texture.blocksDontUseSideTextureCsv":
     "Блоки без бокових текстур",
   "distanthorizons.config.client.advanced.graphics.texture.blocksDontUseSideTextureCsv.@tooltip":
-    "Список ID ресурсів блоків, розділених комами,\nбоки яких DH промльовуватиме з використанням нижньої текстури.\nУраховуються також часткові збіги або неповні ID.\n\nПриклад: «minecraft:grass_block,nylium».\n\nЗміни потребують перезапуску.",
+    "Список ID ресурсів блоків, розділених комами,\nбоки яких DH промальовуватиме з використанням нижньої текстури.\nУраховуються також часткові збіги або неповні ID.\n\nПриклад: «minecraft:grass_block,nylium».\n\nЗміни потребують перезапуску.",
   "distanthorizons.config.client.advanced.graphics.texture.blockTagsDontUseSideTextureCsv":
     "Теґи блоків без бокових текстур",
   "distanthorizons.config.client.advanced.graphics.texture.blockTagsDontUseSideTextureCsv.@tooltip":
@@ -1151,7 +1151,7 @@
 
 
 
-  "modmenu.descriptionTranslation.distanthorizons": "Цей мод генерує та промальовує спрощений рельєф за межі звичайної відстані огляду з низькою вартістю продуктивности. Дозволяє вам бачити набагато далі, не перетворюючи гру на слайд-шоу.",
-  "fml.menu.mods.info.description.distanthorizons": "Цей мод генерує та промальовує спрощений рельєф за межі звичайної відстані огляду з низькою вартістю продуктивности. Дозволяє вам бачити набагато далі, не перетворюючи гру на слайд-шоу.",
-  "neoforge.screen.mods.info.description.distanthorizons": "Цей мод генерує та промальовує спрощений рельєф за межі звичайної відстані огляду з низькою вартістю продуктивности. Дозволяє вам бачити набагато далі, не перетворюючи гру на слайд-шоу."
+  "modmenu.descriptionTranslation.distanthorizons": "Цей мод генерує та промальовує спрощену місцевість за межі звичайної відстані огляду з низькою вартістю продуктивности. Дозволяє вам бачити набагато далі, не перетворюючи гру на слайд-шоу.",
+  "fml.menu.mods.info.description.distanthorizons": "Цей мод генерує та промальовує спрощену місцевість за межі звичайної відстані огляду з низькою вартістю продуктивности. Дозволяє вам бачити набагато далі, не перетворюючи гру на слайд-шоу.",
+  "neoforge.screen.mods.info.description.distanthorizons": "Цей мод генерує та промальовує спрощену місцевість за межі звичайної відстані огляду з низькою вартістю продуктивности. Дозволяє вам бачити набагато далі, не перетворюючи гру на слайд-шоу."
 }
