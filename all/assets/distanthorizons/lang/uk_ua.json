@@ -3,7 +3,7 @@
 	"Distant Horizons",
 
 
-    
+
   "distanthorizons.general.true":
     "Так",
   "distanthorizons.general.false":
@@ -28,16 +28,19 @@
     "ЗАБЛОКОВАНО API",
   "distanthorizons.general.disabledByApi.@tooltip":
     "Цією опцією керує інший мод через API DH,\nтому її не можна змінити через інтерфейс користувача або файл налаштувань.",
-
+  "distanthorizons.general.unsupportedMcVersion":
+    "Блокування версії",
+  "distanthorizons.general.unsupportedMcVersion.@tooltip":
+    "DH не підтримує зміну цього параметра в цій версії Minecraft.\nБудь-які значення, задані у файлі налаштування або через API, ігноруватимуться.",
 
 
 
   "distanthorizons.updater.title":
     "Авто-оновлювач Distant Horizons",
-  "distanthorizons.updater.text1":
-    "§lНове оновлення доступне!",
-  "distanthorizons.updater.text2":
-    "§fОновитися з %s§f до %s§f?",
+  "distanthorizons.updater.updateAvailable":
+    "§lДоспне оновлення!",
+  "distanthorizons.updater.updateConfirmation":
+    "§fЧи бажаєте ви оновитися з %s§f до %s§f?",
   "distanthorizons.updater.later":
     "Не зараз",
   "distanthorizons.updater.never":
@@ -52,25 +55,25 @@
     "Щоразу, коли доступне оновлення, оновлюватися.\n(§6ПОПЕРЕДЖЕННЯ§r: Це не буде підказувати під час оновлення).",
   "distanthorizons.updater.waitingForClose":
     "Distant Horizons завершить оновлення після перезапуску гри",
-  
-  
-  
-  
+
+
+
+
   "distanthorizons.config.title":
     "Налаштування Distant Horizons",
   "distanthorizons.config.client":
     "Клієнт",
-  
+
   "distanthorizons.config.client.quickEnableRendering":
     "Промальовування зони РД",
   "distanthorizons.config.client.quickEnableRendering.@tooltip":
-  "Керує тим, чи промальовуватиметься зона РД.",
-  
+    "Керує тим, чи промальовуватиметься зона РД.",
+
   "distanthorizons.config.client.quickShowWorldGenProgress":
     "Прогрес імпорту/генерації зони РД",
   "distanthorizons.config.client.quickShowWorldGenProgress.@tooltip":
     "Якщо «Так», тоді під час запуску на екрані буде показано прогрес генерації/імпорту світу.",
-  
+
   "distanthorizons.config.client.qualityPresetSetting":
     "Шаблон якости",
   "distanthorizons.config.client.qualityPresetSetting.@tooltip":
@@ -79,14 +82,14 @@
     "Навантаження ЦП",
   "distanthorizons.config.client.threadPresetSetting.@tooltip":
     "Змінює кількість потоків, які використовуватиме Distant Horizons.\n\nЗбільшення цього параметра покращить швидкість дистанційного генератора та швидкість завантаження зони РД, але\nтакож збільшить використання ЦП/пам’яті та може спричинити зависання.\n\nПримітка: на процесорах із 4 ядрами чи менше ці параметри будуть менш ефективними і деякі\nпараметри дадуть подібні результати.",
-    
+
   "distanthorizons.config.client.optionsButton":
     "Показувати кнопку налаштувань",
   "distanthorizons.config.client.optionsButton.@tooltip":
-    "Показати кнопку налаштувань ліворуч від повзунка поля зору.",
-    
-    
-    
+    "Показувати кнопку налаштувань ліворуч від повзунка поля зору.",
+
+
+
   "distanthorizons.config.client.advanced":
     "Розширені",
 
@@ -103,8 +106,8 @@
   "distanthorizons.config.client.advanced.logging":
     "Журналювання",
 
-  
-  
+
+
   "distanthorizons.config.client.advanced.graphics.quality":
     "Якість",
 
@@ -124,24 +127,24 @@
     "Вертикальна якість",
   "distanthorizons.config.client.advanced.graphics.quality.verticalQuality.@tooltip":
     "Керує тим, наскільки добре зони РД представляють виступи, печери, скелі тощо.\n\nВищі значення збільшать використання пам’яті та ГП.",
+  "distanthorizons.config.client.advanced.graphics.quality.useCameraPositionForQualityDropOff":
+    "Позиція камери для зниження якости",
+  "distanthorizons.config.client.advanced.graphics.quality.useCameraPositionForQualityDropOff.@tooltip":
+    "Якщо «Так», DH використовуватиме позицію камери\nдля визначення зниження якости зони РД.\nЯкщо «Ні», DH використовуватиме позицію гравця.\n\nУвімкнення допомагає модам вільної камерою коректно відтворювати зображення.\nВимкнення допомагає модам із кількома камерами (наприклад, Immersive Portals або модам на камери) коректно відтворювати зображення.",
+  "distanthorizons.config.client.advanced.graphics.quality.increaseQualityWhenZoomedIn":
+    "Підвищувати якість при наближенні",
+  "distanthorizons.config.client.advanced.graphics.quality.increaseQualityWhenZoomedIn.@tooltip":
+    "Якщо «Так», якість зони РД підвищуватиметься при наближенні камери,\nнаприклад, під час використання підзорної труби або мода для масштабування.\n\nЦе стосується лише тих зон РД, що потрапляють у поле зору камери.\n\nПри наближенні зони РД завантажуватимуться з таким самим рівнем деталізації,\nякий був би, якби ви перебували безпосередньо біля них.",
+  "distanthorizons.config.client.advanced.graphics.quality.maxZoomQualityIncrease":
+    "Макс. підвищення якости при наближенні",
+  "distanthorizons.config.client.advanced.graphics.quality.maxZoomQualityIncrease.@tooltip":
+    "На скільки рівнів деталізації може підвищитися якість зони РД при наближенні.\nВищі значення дозволяють отримувати чіткіше зображення місцевости при сильному наближенні,\nале збільшують використання пам'яті та ресурсів ГП під час наближення.\n\nДля досягнення максимальної якости зі стандартною підзорною трубою \nпотрібно 4 рівні деталізації.",
   "distanthorizons.config.client.advanced.graphics.quality.horizontalScale":
     "Горизонтальний розмір",
   "distanthorizons.config.client.advanced.graphics.quality.horizontalScale.@tooltip":
     "Швидке зниження якости зони РД.\n\nВищі значення покращать вигляд далекої місцевости але збільшить використання пам’яті та ГП.",
   "distanthorizons.config.client.advanced.graphics.quality.transparency":
     "Прозорість",
-  "distanthorizons.config.client.advanced.graphics.quality.blocksToIgnore":
-    "Блоки для ігнорування",
-  "distanthorizons.config.client.advanced.graphics.quality.blocksToIgnore.@tooltip":
-    "Керує типами блоків, які потрібно ігнорувати під час створення зони РД.",
-  "distanthorizons.config.client.advanced.graphics.quality.tintWithAvoidedBlocks":
-    "Відтінок з уникненням блоків",
-  "distanthorizons.config.client.advanced.graphics.quality.tintWithAvoidedBlocks.@tooltip":
-    "§4Примітка: сніг, килим і люки виглядають дуже погано§r.\nЧи повинні блоки під уникнутими блоками отримати колір уникненого блока?\n§6Так:§r червона квітка на траві забарвить траву під нею в червоний колір.\n§6Ні:§r пропущених блоків не змінить колір поверхні під ними.",
-"distanthorizons.config.client.advanced.graphics.quality.lodBias":
-    "Bias зон РД §6 (Впливає на стандартний рельєф)§r",
-  "distanthorizons.config.client.advanced.graphics.quality.lodBias.@tooltip":
-    "Установлює значення lod bias для стандартної гри.\nБудь ласка, натисніть F3+T, щоб перезавантажити пакети ресурсів, змінюючи це значення, щоб застосувати його.",
   "distanthorizons.config.client.advanced.graphics.quality.lodShading":
     "Затінення зон РД",
   "distanthorizons.config.client.advanced.graphics.quality.lodShading.@tooltip":
@@ -158,6 +161,10 @@
     "Режим стандартного зникання",
   "distanthorizons.config.client.advanced.graphics.quality.vanillaFadeMode.@tooltip":
     "Керує тим, як усталений Minecraft має зникати в зонах РД Distant Horizons?\n\nNONE: Найшвидше, буде виражена межа між промальовуванням мода і MC.\nSINGLE_PASS: Зникає після прозорого проходу MC, непрозорі блоки під водою не будуть зникати.\nDOUBLE_PASS: Найповільніше, зникає після непрозорого та прозорого проходів MC, забезпечує найплавніший перехід.",
+  "distanthorizons.config.client.advanced.graphics.quality.dhFadeFarClipPlane":
+    "Плавне зникнення перед дальньою площиною відсікання",
+  "distanthorizons.config.client.advanced.graphics.quality.dhFadeFarClipPlane.@tooltip":
+    "Чи має DH плавно зникати перед досягненням дальньої площини відсікання?\nЦе допомагає уникнути різкого обриву хмар DH удалині.",
   "distanthorizons.config.client.advanced.graphics.quality.brightnessMultiplier":
     "Множник яскравости",
   "distanthorizons.config.client.advanced.graphics.quality.brightnessMultiplier.@tooltip":
@@ -169,41 +176,21 @@
   "distanthorizons.config.client.advanced.graphics.quality.lodBiomeBlending":
     "Змішування біомів",
   "distanthorizons.config.client.advanced.graphics.quality.lodBiomeBlending.@tooltip":
-    "Це те саме, що стандартне налаштування змішування біомів. але для зони РД.\n\nЗверніть увагу, що все, крім «0», значно вплине на час промальовування зони РД і збільшить кількість трикутників. Витрати на швидкість генерації чанків також є досить високими, якщо встановлено занадто високу.\n\n«0» це стандартне значення змішування біомів «1x1», «1» — «3x3», «2» — «5x5»…",
+    "Це те саме, що стандартне налаштування змішування біомів. але для зони РД.\n\nЗверніть увагу, що все, крім 0, значно вплине на час промальовування зони РД і збільшить кількість трикутників. Витрати на швидкість генерації чанків також є досить високими, якщо встановлено занадто високу.\n\n0 це стандартне значення змішування біомів 1x1, 1 — 3x3, 2 — 5x5…",
 
 
-  
-  "distanthorizons.config.client.advanced.graphics.ssao":
+
+  "distanthorizons.config.client.advanced.graphics.enableSsao":
     "Навколишня оклюзія",
-    
-  "distanthorizons.config.client.advanced.graphics.ssao.enableSsao":
-    "Навколишню оклюзія",
-  "distanthorizons.config.client.advanced.graphics.ssao.enableSsao.@tooltip":
-    "Навколишня клюзія додає глибину освітленню блоків.",
-  "distanthorizons.config.client.advanced.graphics.ssao.sampleCount":
-    "Підрахунок вибірки",
-  "distanthorizons.config.client.advanced.graphics.ssao.sampleCount.@tooltip":
-    "Керує тим, скільки точок у просторі відбирається для тесту на оклюзію.\nБільші числа покращать якість і зменшать смуги, але збільшить навантаження на ГП.",
-  "distanthorizons.config.client.advanced.graphics.ssao.radius":
-    "Радіус",
-  "distanthorizons.config.client.advanced.graphics.ssao.radius.@tooltip":
-    "Керує радіусом навколишньої оклюзії простору екрана, який застосовується, вимірюється в блоках.",
-  "distanthorizons.config.client.advanced.graphics.ssao.strength":
-    "Сила",
-  "distanthorizons.config.client.advanced.graphics.ssao.strength.@tooltip":
-    "Керує тим, наскільки темним буде ефект екранного простору навколишньої оклюзії.",
-  "distanthorizons.config.client.advanced.graphics.ssao.bias":
-    "Зміщення",
-  "distanthorizons.config.client.advanced.graphics.ssao.bias.@tooltip":
-    "Збільшення значення може зменшити смуги за рахунок зменшення сили ефекту.",
-  "distanthorizons.config.client.advanced.graphics.ssao.minLight":
-    "Мінімальне світло",
-  "distanthorizons.config.client.advanced.graphics.ssao.minLight.@tooltip":
-    "Керує тим, наскільки темними можуть бути оклюзійні тіні.\n0 = повністю чорні по кутах.\n1 = немає тіні.",
-  "distanthorizons.config.client.advanced.graphics.ssao.blurRadius":
-    "Радіус розмиття",
-  "distanthorizons.config.client.advanced.graphics.ssao.blurRadius.@tooltip":
-    "Радіус розмиття, виміряний у пікселях, обчислюється для НОПЕ.\nБільші значення зменшать смуги за рахунок зниження продуктивности ГП.",
+  "distanthorizons.config.client.advanced.graphics.enableSsao.@tooltip":
+    "Навколишня оклюзія додає глибини освітленню блоків.",
+
+
+
+  "distanthorizons.config.client.advanced.graphics.enableAntiAliasing":
+    "Згладжування",
+  "distanthorizons.config.client.advanced.graphics.enableAntiAliasing.@tooltip":
+    "Умикає плавне згладжування країв та зменшує мерехтіння при русі.",
 
 
 
@@ -212,28 +199,31 @@
   "distanthorizons.config.client.advanced.graphics.genericRendering.enableGenericRendering":
     "Промальовування",
   "distanthorizons.config.client.advanced.graphics.genericRendering.enableGenericRendering.@tooltip":
-    "Якщо «Так», об’єкти, що не є територією, промальовуватимуться на території мода.\nЦе включає промені маяка та хмари.",
+    "Якщо «Так», об'єкти, що не є територією, промальовуватимуться на території мода.\nЦе включає промені маяка та хмари.",
   "distanthorizons.config.client.advanced.graphics.genericRendering.enableBeaconRendering":
     "Промальовування маяка",
-  "distanthorizons.config.client.advanced.graphics.genericRendering.beaconRenderHeight": 
+  "distanthorizons.config.client.advanced.graphics.genericRendering.beaconRenderHeight":
     "Висота промальовування маяка",
   "distanthorizons.config.client.advanced.graphics.genericRendering.beaconRenderHeight.@tooltip":
     "Установлює максимальну висоту, на якій будуть промальовуватися маяки.\nЦе вплине лише на нові маяки, які надходять на відстань промальовування зони РД.\nМаяки, видимі наразі в блоках зони РД, не вплинуть.",
+  "distanthorizons.config.client.advanced.graphics.genericRendering.expandDistantBeacons":
+    "Розширити промені маяків удалині",
+  "distanthorizons.config.client.advanced.graphics.genericRendering.expandDistantBeacons.@tooltip":
+    "Якщо «Так», промені маяків в зонах РД на великих відстанях промальовуватимуться ширшими,\nзавдяки чому їх легше помітити.\nЯкщо «Ні», усі промені маяків в зонах РД завжди матимуть ширину в 1 блок.",
   "distanthorizons.config.client.advanced.graphics.genericRendering.enableBeaconRendering.@tooltip":
     "Якщо «Так», в зоні РД промальовуватимуться промені маяка.",
   "distanthorizons.config.client.advanced.graphics.genericRendering.enableCloudRendering":
     "Промальовування хмар",
   "distanthorizons.config.client.advanced.graphics.genericRendering.enableCloudRendering.@tooltip":
     "Якщо «Так», в зоні РД промальовуватимуться хмари.",
-  "distanthorizons.config.client.advanced.graphics.genericRendering.enableUnexploredFogRendering":
-    "Промальовування незвіданого туману",
-  "distanthorizons.config.client.advanced.graphics.genericRendering.enableUnexploredFogRendering.@tooltip":
-    "Якщо справжні незвідані(негенеровані) зони РД будуть промальовуватися як великі темно-сірі поля.",
-  "distanthorizons.config.client.advanced.graphics.genericRendering.enableInstancedRendering":
-    "Інстанційне промальовування",
-  "distanthorizons.config.client.advanced.graphics.genericRendering.enableInstancedRendering.@tooltip":
-    "Можна вимкнути для використання набагато повільнішого, але більш сумісного прямого промальовування.\nВимкнення може розв'язати деякі збої на Mac.",
-
+  "distanthorizons.config.client.advanced.graphics.genericRendering.dimensionEnabledCloudRenderingCsv":
+    "Список CSV вимірів для хмар",
+  "distanthorizons.config.client.advanced.graphics.genericRendering.dimensionEnabledCloudRenderingCsv.@tooltip":
+    "Список ID вимірів, розділених комами, у яких промальовуються хмари DH.\n\nПриклад: «minecraft:overworld,minecraft:the_end».\n\nДля застосування змін потрібно перезавантажити світ.",
+  "distanthorizons.config.client.advanced.graphics.genericRendering.enableMultiLayerClouds":
+    "Багатошарові хмари",
+  "distanthorizons.config.client.advanced.graphics.genericRendering.enableMultiLayerClouds.@tooltip":
+    "«Ні» значіть, що DH промальовуватиме один шар хмар, як у стандартному Minecraft.\n«Так» значіть, що DH промальовуватиме 3 шари хмар на різній висоті.",
 
 
   "distanthorizons.config.client.advanced.graphics.fog":
@@ -248,7 +238,7 @@
   "distanthorizons.config.client.advanced.graphics.fog.colorMode.@tooltip":
     "Колір туману у зонах РД.",
   "distanthorizons.config.client.advanced.graphics.fog.enableVanillaFog":
-   "Усталений туман",
+    "Усталений туман",
   "distanthorizons.config.client.advanced.graphics.fog.enableVanillaFog.@tooltip":
     "§6Так:§r промальовується туман Minecraft.\n§6Ні:§r вимикає туман Minecraft на усталених чанках.\n\nМоже викликати проблеми з іншими модами, які змінюють туман.",
   "distanthorizons.config.client.advanced.graphics.fog.advancedFog":
@@ -257,19 +247,19 @@
   "distanthorizons.config.client.advanced.graphics.fog.farFogStart":
     "Початок туману",
   "distanthorizons.config.client.advanced.graphics.fog.farFogStart.@tooltip":
-    "Де має починатися туман?\n\n«0.0»: початок туману на позиції гравця.\n«1.0»: Коло початку туману вписується лише в квадрат відстані промальовування зони РД.\n«1.414»: квадрат відстані промальовування зони РД вписується лише в коло початку туману.\n",
+    "Де має починатися туман?\n\n0.0: початок туману на позиції гравця.\n1.0: Коло початку туману вписується лише в квадрат відстані промальовування зони РД.\n1.414: квадрат відстані промальовування зони РД вписується лише в коло початку туману.",
   "distanthorizons.config.client.advanced.graphics.fog.farFogEnd":
-   "Кінець туману",
+    "Кінець туману",
   "distanthorizons.config.client.advanced.graphics.fog.farFogEnd.@tooltip":
-    "Де має зікінчуватися туман?\n\n«0.0»: кінець туману на позиції гравця.\n«1.0»: Коло кінця туману вписується лише в квадрат відстані промальовування зони РД.\n«1.414»: Квадрат відстані промальовування зони РД вписується лише в коло кінця туману.\n",
+    "Де має зікінчуватися туман?\n\n«0.0»: кінець туману на позиції гравця.\n1.0: Коло кінця туману вписується лише в квадрат відстані промальовування зони РД.\n1.414: Квадрат відстані промальовування зони РД вписується лише в коло кінця туману.",
   "distanthorizons.config.client.advanced.graphics.fog.farFogMin":
     "Мінімальна товщина туману",
   "distanthorizons.config.client.advanced.graphics.fog.farFogMin.@tooltip":
-    "Яка мінімальна товщина туману?\n\n«0.0»: без туману\n«1.0»: повністю кольоровий туману.\n",
+    "Яка мінімальна товщина туману?\n\n0.0: без туману\n1.0: повністю кольоровий туману.",
   "distanthorizons.config.client.advanced.graphics.fog.farFogMax":
     "Максимальна товщина туману",
   "distanthorizons.config.client.advanced.graphics.fog.farFogMax.@tooltip":
-    "Яка максимальна товщина туману?\n\n«0.0»: без туману\n«1.0»: повністю кольоровий туману.\n",
+    "Яка максимальна товщина туману?\n\n0.0: без туману\n1.0: повністю кольоровий туману.",
   "distanthorizons.config.client.advanced.graphics.fog.farFogFalloff":
     "Опадання туману",
   "distanthorizons.config.client.advanced.graphics.fog.farFogFalloff.@tooltip":
@@ -280,10 +270,10 @@
     "Яка щільність туману?",
 
 
-  
+
   "distanthorizons.config.client.advanced.graphics.fog.heightFog":
     "Налаштування висоти туману",
-     
+
   "distanthorizons.config.client.advanced.graphics.fog.heightFog.heightFogMixMode":
     "Режим змішування висоти туману",
   "distanthorizons.config.client.advanced.graphics.fog.heightFog.heightFogMixMode.@tooltip":
@@ -320,16 +310,45 @@
     "Щільність висотного туману",
   "distanthorizons.config.client.advanced.graphics.fog.heightFog.heightFogDensity.@tooltip":
     "Яка щільність висотного туману?",
-    
-    
-  
+
+
+  "distanthorizons.config.client.advanced.graphics.texture":
+    "Текстури зони РД",
+
+  "distanthorizons.config.client.advanced.graphics.texture.enableTexturedLods":
+    "Увімкнено",
+  "distanthorizons.config.client.advanced.graphics.texture.enableTexturedLods.@tooltip":
+    "Якщо «Так», зони РД поблизу та при наближенні промальовуються зі справжніми текстурами та силуетами блоків, а не просто суцільним кольором.\n\nСтосується лише зон РД із високою деталізацією, де текстура справді помітна;\nвіддалені зони РД завжди використовують суцільні кольори.\nНе діє, якщо активовано пакет шейдерів, оскільки шейдери\nпромальовуються зону РД за допомогою власних алгоритмів.",
+  "distanthorizons.config.client.advanced.graphics.texture.maxTexturedLodDetailLevel":
+    "Макс. рівень деталізації текстур зон РД",
+  "distanthorizons.config.client.advanced.graphics.texture.maxTexturedLodDetailLevel.@tooltip":
+    "Найвищий номер рівня деталізації, для якого промальовуються текстури блоків.\nНа вищих рівнях деталізації кожна зона РД охоплює кілька блоків,\nчерез що текстури стають меншими за піксель і, отже, невидимими.\n\nВищі значення дозволяють накладати текстури на більш віддалені зони РД,\nале збільшують споживання пам'яті.",
+  "distanthorizons.config.client.advanced.graphics.texture.blocksDontRenderTextureCsv":
+    "Блоки без текстур",
+  "distanthorizons.config.client.advanced.graphics.texture.blocksDontRenderTextureCsv.@tooltip":
+    "Список ID ресурсів блоків, розділених комами,\nдля яких DH не промальовуватиме текстури.\nУраховуються також часткові збіги або неповні ID.\n\nПриклад: «minecraft:grass_block,nylium».\n\nЗміни потребують перезапуску.",
+  "distanthorizons.config.client.advanced.graphics.texture.blocksDontUseSideTextureCsv":
+    "Блоки без бокових текстур",
+  "distanthorizons.config.client.advanced.graphics.texture.blocksDontUseSideTextureCsv.@tooltip":
+    "Список ID ресурсів блоків, розділених комами,\nбоки яких DH промльовуватиме з використанням нижньої текстури.\nУраховуються також часткові збіги або неповні ID.\n\nПриклад: «minecraft:grass_block,nylium».\n\nЗміни потребують перезапуску.",
+  "distanthorizons.config.client.advanced.graphics.texture.blockTagsDontUseSideTextureCsv":
+    "Теґи блоків без бокових текстур",
+  "distanthorizons.config.client.advanced.graphics.texture.blockTagsDontUseSideTextureCsv.@tooltip":
+    "Список назв теґів, розділених комами,\nдля яких DH промальовуватиме бокові грані з використанням текстури нижньої грані.\n\nПриклад: «grass_blocks,nylium».\n\nЗміни потребують перезапуску.",
+  "distanthorizons.config.client.advanced.graphics.texture.blocksAlwaysRasterizeTextureCsv":
+    "Блоки, для яких завжди застосовується растеризація текстури",
+  "distanthorizons.config.client.advanced.graphics.texture.blocksAlwaysRasterizeTextureCsv.@tooltip":
+    "Список ID блоків, розділених комами,\nдля яких DH використовуватиме растеризацію\nдля визначення текстур граней.\n\nМоже використовуватися для виправлення проблем із модами/блоками,\nде бокова грань використовує лише частину текстури змодельованого блока.\n\nПриклад: «minecraft:beacon».\n\nЗміни потребують перезапуску.",
+
+
+
   "distanthorizons.config.client.advanced.graphics.noiseTexture":
     "Шум текстур",
-    
+
   "distanthorizons.config.client.advanced.graphics.noiseTexture.enableNoiseTexture":
-    "Шум текстур",
+    "Увімкнено",
   "distanthorizons.config.client.advanced.graphics.noiseTexture.enableNoiseTexture.@tooltip":
-    "Якщо ввімкнено, текстура шуму буде застосована до зони РД для імітації текстур.",
+    "Якщо «Так», текстура шуму буде застосована до зони РД для імітації текстур.",
   "distanthorizons.config.client.advanced.graphics.noiseTexture.noiseSteps":
     "Шум кроків",
   "distanthorizons.config.client.advanced.graphics.noiseTexture.noiseSteps.@tooltip":
@@ -344,18 +363,22 @@
     "Керує тим, наскільки далеко повинна відтворюватися текстура шуму, перш ніж вона зникне (у блоках).\nУстановіть 0, щоб вимкнути шум.",
 
 
-    
+
   "distanthorizons.config.client.advanced.graphics.culling":
     "Вибракування",
-    
+
   "distanthorizons.config.client.advanced.graphics.culling.overdrawPrevention":
     "Запобігання перемальовуванню",
   "distanthorizons.config.client.advanced.graphics.culling.overdrawPrevention.@tooltip":
     "Керує тим, на якій відстані від камери Distant Horizons розпочне промальовування.\nВимірюється у відсотках від відстані промальовування усталеного кольору.\n\nБільші значення запобігатимуть промальовуванню зони РД за стандартними блоками на більшій відстані, але можуть\nспричинити появу дірок у зоні РД.\nДіри найімовірніше з’являться під час польоту через ненавантажену місцевість.\n\nЗбільшення відстані промальовування усталеного кольору підвищує ефективність це налаштування.",
+  "distanthorizons.config.client.advanced.graphics.culling.reduceOverdrawWithFastMovement":
+    "Зменшення надмірного малювання при швидкому русі",
+  "distanthorizons.config.client.advanced.graphics.culling.reduceOverdrawWithFastMovement.@tooltip":
+    "Якщо «Так», радіус запобігання надмірному малюванню\nнаближатиметься до камери під час польоту або швидкого руху.\n\nЦе допомагає зменшити проблеми, коли Minecraft не встигає\nзавантажувати чи генерувати чанки достатньо швидко, щоб не відставати від DH.",
   "distanthorizons.config.client.advanced.graphics.culling.enableCaveCulling":
     "Вибракування печер",
   "distanthorizons.config.client.advanced.graphics.culling.enableCaveCulling.@tooltip":
-    "Якщо ввімкнено, печери будуть видалятися.\n\nДодаткова інформація: наразі це вибракує всі сторони\nзі значенням світла 0 під висотою вибракування печери\nв вимірах, які не мають стелі.\n",
+    "Якщо «Так», печери будуть видалятися.\n\nПодробиці: наразі це вибракує всі сторони\nзі значенням світла 0 під висотою вибракування печери\nв вимірах, які не мають стелі.",
   "distanthorizons.config.client.advanced.graphics.culling.caveCullingHeight":
     "Висота вибракування печер",
   "distanthorizons.config.client.advanced.graphics.culling.caveCullingHeight.@tooltip":
@@ -369,17 +392,38 @@
   "distanthorizons.config.client.advanced.graphics.culling.disableFrustumCulling.@tooltip":
     "Якщо «Ні», зони РД за межами камери гравця не промальовуватимуться, підвищується продуктивність ГП.\n\nЯкщо «Так», промальовуються всі зони РД, навіть ті, що знаходяться за камерою гравця, що знижує продуктивність ГП.\n\nВимкніть це, якщо ви бачите, що зона РД зникають у кутах вашого бачення.",
   "distanthorizons.config.client.advanced.graphics.culling.disableShadowPassFrustumCulling":
-    "Вимкнути урізання вибракування тіні",
+    "Без урізання вибракування тіні",
   "distanthorizons.config.client.advanced.graphics.culling.disableShadowPassFrustumCulling.@tooltip":
     "Ідентичний до іншого параметра урізання вибракування, за винятком того, що він використовується лише тоді,\nколи присутній мод шейдера за допомогою API мода, і передача тіні промальовується.\n\nВимкніть це, якщо тіні промальовуються неправильною.",
   "distanthorizons.config.client.advanced.graphics.culling.ignoredRenderBlockCsv":
     "Проігнорований блок CSV",
   "distanthorizons.config.client.advanced.graphics.culling.ignoredRenderBlockCsv.@tooltip":
-    "Відокремлений комами список розташувань блокових ресурсів, які не будуть промальовуватися модом.\nПримітка: повітря завжди є у списку.",
+    "Список розташувань ресурсів блоків, розділених комами, які не будуть промальовуватися модом.\nПримітка: повітря завжди є у списку.",
   "distanthorizons.config.client.advanced.graphics.culling.ignoredRenderCaveBlockCsv":
     "Ігнорований печерний блок CSV",
   "distanthorizons.config.client.advanced.graphics.culling.ignoredRenderCaveBlockCsv.@tooltip":
-    "Відокремлений комами список розташувань блокових ресурсів, які не повинні промальовуватися\nякщо вони знаходяться в підземлею де значення світла 0.\nПримітка: повітря завжди є у списку.",
+    "Список розташувань ресурсів блоків, розділених комами, які не повинні промальовуватися\nякщо вони знаходяться в підземлею де значення світла 0.\nПримітка: повітря завжди є у списку.",
+  "distanthorizons.config.client.advanced.graphics.culling.waterSubSurfaceBlockReplacementCsv":
+    "Заміна блоків під поверхнею води",
+  "distanthorizons.config.client.advanced.graphics.culling.waterSubSurfaceBlockReplacementCsv.@tooltip":
+    "Список ID блоків, розділених комами, які будуть замінені на воду,\nякщо вони видимі на поверхні води.",
+  "distanthorizons.config.client.advanced.graphics.culling.waterSurfaceBlockReplacementCsv":
+    "Заміна блоків на поверхні води",
+  "distanthorizons.config.client.advanced.graphics.culling.waterSurfaceBlockReplacementCsv.@tooltip":
+    "Список ідентифікаторів блоків, розділених комами, які будуть видалені,\nякщо вони знаходяться над водою.",
+  "distanthorizons.config.client.advanced.graphics.culling.blocksToIgnore":
+    "Ігноровані блоки",
+  "distanthorizons.config.client.advanced.graphics.culling.blocksToIgnore.@tooltip":
+    "Керує тим, які блоки мають промальовуватися як зона РД.\n\n§НІЧОГО:§r Уключає всі блоки в зоні РД.\n§БЕЗ ЗІТКНЕНЬ:§r Промальовує в зоні РД лише тверді блоки (висока трава, смолоскипи тощо ігноруватимуться).",
+  "distanthorizons.config.client.advanced.graphics.culling.tintWithAvoidedBlocks":
+    "Фарбування кольором ігнорованих блоків",
+  "distanthorizons.config.client.advanced.graphics.culling.tintWithAvoidedBlocks.@tooltip":
+    "§4Примітка: через це сніг, килими та люки виглядають дуже погано.§r\nЧи повинні блоки під ігнорованими блоками набувати кольору ігнорованого блока?\n§6Так:§r червона квітка на траві забарвить траву під собою в червоний колір.\n§6Ні:§r пропущені блоки не змінюватимуть колір поверхні під собою.",
+
+  "distanthorizons.config.client.advanced.graphics.overrideVanillaGraphicsSettings":
+    "Перевизначення стандартних налаштувань графіки",
+  "distanthorizons.config.client.advanced.graphics.overrideVanillaGraphicsSettings.@tooltip":
+    "Якщо «Так», деякі стандартні налаштування графіки гри будуть автоматично змінені\nпід час налаштування DH для покращення якости зображення.\n\nНаприклад: вимкнення стандартних хмар (які промальовуються поверх зони РД від DH)\nта ефекту анімації чанків (DH вже розмиває чанки гри).",
 
 
 
@@ -390,28 +434,36 @@
     "Коефіцієнт кривої Землі §6(ЕКСПЕРИМЕНТАЛЬНО)§r",
   "distanthorizons.config.client.advanced.graphics.experimental.earthCurveRatio.@tooltip":
     "Значення 1 еквівалентно кривизні Землі в реальному житті.\nМінімальне прийняте значення — 50, а максимальне — 5000.\nУсі значення від 1 до 49 буде округлено до 50.",
+  "distanthorizons.config.client.advanced.graphics.experimental.ignoredDimensionCsv":
+    "CSV ігнорованих вимірів",
+  "distanthorizons.config.client.advanced.graphics.experimental.ignoredDimensionCsv.@tooltip":
+    "Список ID розташування ресурсів вимірів, розділених комами, у яких DH не виконуватиме промальовування. Приклад: «minecraft:the_nether,minecraft:the_end».\n\nДля Minecraft 1.12.2 та старіших версій:\nВідкрийте екран налагодження (клавіша F3) і скопіюйте значення dimension_name:ID, що показується жовтим кольором. Приклад: «overworld:0».\n\nПримітка:\nДеякі налаштування DH буде вимкнено та/або змінено для покращення.\nвізуального вигляду, коли промальовування DH вимкнено.",
+  "distanthorizons.config.client.advanced.graphics.experimental.renderingEngine":
+    "Рушій промальовування",
+  "distanthorizons.config.client.advanced.graphics.experimental.renderingEngine.@tooltip":
+    "Для застосування змін потрібен перезапуск.",
 
 
-    
+
   "distanthorizons.config.client.advanced.autoUpdater":
-    "Авто-оновлювач",
+    "Автооновлювач",
 
   "distanthorizons.config.client.advanced.autoUpdater.enableAutoUpdater":
-    "Дозволити авто-оновлення",
+    "Автооновлення",
   "distanthorizons.config.client.advanced.autoUpdater.enableSilentUpdates":
-    "Дозволити тихе оновлення",
+    "Тихе оновлення",
   "distanthorizons.config.client.advanced.autoUpdater.enableSilentUpdates.@tooltip":
     "Автоматично оновлює мод, коли доступне оновлення.",
   "distanthorizons.config.client.advanced.autoUpdater.updateBranch":
     "Гілка оновлення",
   "distanthorizons.config.client.advanced.autoUpdater.updateBranch.@tooltip":
-    "Керує тим, звідки завантажити останнє оновлення.\n\nАвто: завантажує стабільні або нічні збірки на основі поточної jar.\nСтабільна: стабільні збірки з Modrinth.\nНічна: Нічні збірки з Gitlab.",
+    "Керує тим, звідки завантажити останнє оновлення.\n\nАвто: завантажує стабільні або нічні збірки на основі поточного jar.\nСтабільна: стабільні збірки з Modrinth.\nНічна: Нічні збірки з Gitlab.",
 
 
 
   "distanthorizons.config.client.advanced.multiplayer":
     "Гра в мережі",
-    
+
   "distanthorizons.config.client.advanced.multiplayer.serverFolderNameMode":
     "Режим теки сервера",
   "distanthorizons.config.client.advanced.multiplayer.serverFolderNameMode.@tooltip":
@@ -422,29 +474,29 @@
 
   "distanthorizons.config.client.advanced.debugging":
     "Налагодження",
-    
+
   "distanthorizons.config.client.advanced.debugging.rendererMode":
     "Режим промальовування",
-  "distanthorizons.config.client.advanced.debugging.debugRendering":
-    "Налагодження промальовування",
+  "distanthorizons.config.client.advanced.debugging.debugRenderingColors":
+    "Налагодження кольорів промальовування",
   "distanthorizons.config.client.advanced.debugging.lodOnlyMode":
-    "Лише промальовування зони РД",
+  "Лише промальовування зони РД",
   "distanthorizons.config.client.advanced.debugging.lodOnlyMode.@tooltip":
-    "Якщо ввімкнено, це вимкне більшість стандартного промальовування.\n\nПРИМІТКА: не повідомляйте про проблеми, коли цей режим увімкнено!\nЦе налаштування лише для розваги та налагодження.\nСумісність модів не гарантується.",
+    "Якщо «Так», це вимкне більшість стандартного промальовування.\n\nПРИМІТКА: не повідомляйте про проблеми, коли цей режим увімкнено!\nЦе налаштування лише для розваги та налагодження.\nСумісність модів не гарантується.",
   "distanthorizons.config.client.advanced.debugging.renderWireframe":
     "Промальовування каркасу",
   "distanthorizons.config.client.advanced.debugging.renderWireframe.@tooltip":
-    "Якщо ввімкнено, зона РД промальовуватиметься як каркас.",
+    "Якщо «Так», зона РД промальовуватиметься як каркас.",
   "distanthorizons.config.client.advanced.debugging.enableDebugKeybindings":
     "Налагодження призначення клавіш",
   "distanthorizons.config.client.advanced.debugging.enableDebugKeybindings.@tooltip":
-    "§6Так:§r налагодження клавіш можна використовувати для зміни режиму налагодження в грі.", 
+    "§6Так:§r налагодження клавіш можна використовувати для зміни режиму налагодження в грі.",
   "distanthorizons.config.client.advanced.debugging.enableWhiteWorld":
     "Білий світ",
   "distanthorizons.config.client.advanced.debugging.enableWhiteWorld.@tooltip":
-    "Якщо ввімкнено, колір вершини не передаватиметься.\nКорисно для налагодження шейдерів.",
+    "Якщо «Так», колір вершини не передаватиметься.\nКорисно для налагодження шейдерів.",
   "distanthorizons.config.client.advanced.debugging.showOverlappingQuadErrors":
-    "Показати помилки перекритих квадратів",
+    "Показувати помилки перекритих квадратів",
   "distanthorizons.config.client.advanced.debugging.showOverlappingQuadErrors.@tooltip":
     "Якщо «Так», квадрати, що накладаються, промальовуватимуться яскраво-червоними для легкої ідентифікації.\nЯкщо «Ні», чотирикутники промальовуватимуться нормально.",
   "distanthorizons.config.client.advanced.debugging.logBufferGarbageCollection":
@@ -452,32 +504,32 @@
   "distanthorizons.config.client.advanced.debugging.logBufferGarbageCollection.@tooltip":
     "Якщо «Так», збирання сміття буфера OpenGL буде зареєстровано, це також включає кількість активних буферів.",
   "distanthorizons.config.client.advanced.debugging.allowUnsafeValues":
-    "Дозволити небезпечні значення інтерфейсу",
+    "Небезпечні значення інтерфейсу",
   "distanthorizons.config.client.advanced.debugging.allowUnsafeValues.@tooltip":
-    "Якщо ввімкнено, виконуватиметься дуже обмежена перевірка введених параметрів.\n\nПопередження: увімкнення цього може спричинити нестабільність або збій, використовуйте на свій страх і ризик.\nПримітка: це не зберігається між сеансами.",
+    "Якщо «Так», виконуватиметься дуже обмежена перевірка введених параметрів.\n\nПопередження: увімкнення цього може спричинити нестабільність або збій, використовуйте на свій страх і ризик.\nПримітка: це не зберігається між сеансами.",
 
 
 
 
   "distanthorizons.config.client.advanced.debugging.debugWireframe":
     "Налагодження каркасу",
-  
+
   "distanthorizons.config.client.advanced.debugging.debugWireframe.enableRendering":
     "Налагодження промальовування каркасу",
   "distanthorizons.config.client.advanced.debugging.debugWireframe.enableRendering.@tooltip":
-    "Якщо ввімкнено, будуть намальовані різні каркаси для налагодження внутрішніх функцій.",
+    "Якщо «Так», будуть намальовані різні каркаси для налагодження внутрішніх функцій.",
   "distanthorizons.config.client.advanced.debugging.debugWireframe.showWorldGenQueue":
-    "Показати чергу генерації світу",
+    "Показувати чергу генерації світу",
   "distanthorizons.config.client.advanced.debugging.debugWireframe.showNetworkSyncOnLoadQueue":
-    "Показати синхронізацію мережі під час черги завантаження",
+    "Показувати синхронізацію мережі під час черги завантаження",
   "distanthorizons.config.client.advanced.debugging.debugWireframe.showRenderSectionStatus":
-    "Показати статус промальовування секції",
+    "Показувати статус промальовування секції",
   "distanthorizons.config.client.advanced.debugging.debugWireframe.showRenderSectionToggling":
-    "Показати перемикання розділу промальовування",
+    "Показувати перемикання розділу промальовування",
   "distanthorizons.config.client.advanced.debugging.debugWireframe.showQuadTreeRenderStatus":
-    "Показати статус промальовування квадратного дерева",
+    "Показувати статус промальовування квадратного дерева",
   "distanthorizons.config.client.advanced.debugging.debugWireframe.showFullDataUpdateStatus":
-    "Показати повний статус оновлення даних",
+    "Показувати повний статус оновлення даних",
 
 
 
@@ -496,10 +548,6 @@
     "Режим обробки помилок OpenGL",
   "distanthorizons.config.client.advanced.debugging.openGl.glErrorHandlingMode.@tooltip":
     "Керує тим, як обробляються помилки OpenGL.\nДля застосування потрібно перезавантажити Minecraft.\nМоже неправильно перехоплювати помилки OpenGL, створені іншими модами.",
-  "distanthorizons.config.client.advanced.debugging.openGl.validateBufferIdsBeforeRendering":
-    "Перевірити ID буфера перед промальовуванням",
-  "distanthorizons.config.client.advanced.debugging.openGl.validateBufferIdsBeforeRendering.@tooltip":
-    "Значно знижує частоту кадрів.\nСлід використовувати, лише якщо в коді промальовування мода відбуваються таємничі збої EXCEPTION_ACCESS_VIOLATION\nі ви намагаєтесь усунути їх.",
 
 
 
@@ -523,6 +571,26 @@
 
 
 
+  "distanthorizons.config.client.advanced.debugging.positionFinderDebugging":
+    "Шукач позиції",
+
+  "distanthorizons.config.client.advanced.debugging.positionFinderDebugging.positionFinderEnable":
+    "Увімкнути",
+  "distanthorizons.config.client.advanced.debugging.positionFinderDebugging.positionFinderDetailLevel":
+    "Абсолютний рівень деталізації",
+  "distanthorizons.config.client.advanced.debugging.positionFinderDebugging.positionFinderXPos":
+    "Позиція X",
+  "distanthorizons.config.client.advanced.debugging.positionFinderDebugging.positionFinderZPos":
+    "Позиція Z",
+  "distanthorizons.config.client.advanced.debugging.positionFinderDebugging.positionFinderMinBlockY":
+    "Мінімум блоків Y",
+  "distanthorizons.config.client.advanced.debugging.positionFinderDebugging.positionFinderMaxBlockY":
+    "Мінімум блоків Y",
+  "distanthorizons.config.client.advanced.debugging.positionFinderDebugging.positionFinderMarginPercent":
+    "Межа %",
+
+
+
   "distanthorizons.config.client.advanced.debugging.f3Screen":
     "Меню налагодження",
 
@@ -531,37 +599,41 @@
   "distanthorizons.config.client.advanced.debugging.f3Screen.playerPosSectionDetailLevel":
     "Рівень детальности розділу позиції гравця",
   "distanthorizons.config.client.advanced.debugging.f3Screen.showThreadPools":
-    "Показати пули потоків",
+    "Показувати пули потоків",
+  "distanthorizons.config.client.advanced.debugging.f3Screen.showRenderThreadTasks":
+    "Показувати завдання потоку промальовування",
   "distanthorizons.config.client.advanced.debugging.f3Screen.showCombinedObjectPools":
-    "Показати об'єднані пули об'єктів",
+    "Показувати об'єднані пули об'єктів",
   "distanthorizons.config.client.advanced.debugging.f3Screen.showSeparatedObjectPools":
-    "Показати розділені пули об’єктів",
+    "Показувати розділені пули об'єктів",
   "distanthorizons.config.client.advanced.debugging.f3Screen.showQueuedChunkUpdateCount":
-    "Показати кількість оновлень блоків у черзі",
+    "Показувати кількість оновлень блоків у черзі",
   "distanthorizons.config.client.advanced.debugging.f3Screen.showLevelStatus":
-    "Показати статус рівня",
+    "Показувати статус рівня",
+  "distanthorizons.config.client.advanced.debugging.f3Screen.onlyShowRenderingLevels":
+    "Показувати лише рівні промальовування",
 
 
 
   "distanthorizons.config.client.advanced.debugging.exampleConfigScreen":
     "Налагодження екрана налаштувань",
-    
+
   "distanthorizons.config.client.advanced.debugging.exampleConfigScreen.debugConfigScreenNote":
     "Цей екран призначений для налагодження функцій екрана налаштування",
   "distanthorizons.config.client.advanced.debugging.exampleConfigScreen.boolTest":
-    "Логічний тест",
+    "Тест логічного значення",
   "distanthorizons.config.client.advanced.debugging.exampleConfigScreen.byteTest":
-    "Байт-тест",
+    "Тест байту",
   "distanthorizons.config.client.advanced.debugging.exampleConfigScreen.intTest":
     "Тест цілого числа",
   "distanthorizons.config.client.advanced.debugging.exampleConfigScreen.doubleTest":
-    "Подвійний тест",
+    "Тест подвійного числа",
   "distanthorizons.config.client.advanced.debugging.exampleConfigScreen.shortTest":
-    "Короткий тест",
+    "Тест короткого числа",
   "distanthorizons.config.client.advanced.debugging.exampleConfigScreen.longTest":
-    "Довгий тест",
+    "Тест довгого числа",
   "distanthorizons.config.client.advanced.debugging.exampleConfigScreen.floatTest":
-    "Плавучий тест",
+    "Тест плавучого числа",
   "distanthorizons.config.client.advanced.debugging.exampleConfigScreen.stringTest":
     "Тест рядка",
   "distanthorizons.config.client.advanced.debugging.exampleConfigScreen.uiButtonTest":
@@ -592,12 +664,20 @@
     "Дальність генерації",
   "distanthorizons.config.common.worldGenerator.enableDistantGeneration.@tooltip":
     "§6Так:§r в грі наодинці зона РД генеруватиметься за межами дальности стандартного промальовування.\nПримітка: це може використовувати велику кількість ЦП.\n\n§6Ні:§r зона РД генеруватиметься лише в межах дальности стандартного промальовування.",
-  "distanthorizons.config.common.worldGenerator.distantGeneratorMode":
-    "Режим дистанції генерації",
-  "distanthorizons.config.common.worldGenerator.distantGeneratorMode.@tooltip":
-    "Наскільки складною має бути генерація при створенні зони РД за межами мінімальної відстані промальовування.",
+  "distanthorizons.config.common.worldGenerator.generatorPlan":
+    "План віддаленого генератора",
+  "distanthorizons.config.common.worldGenerator.generatorPlan.@tooltip":
+   "Керує способом створення зон РД\nза межами стандартної дальности промальовування\nв грі наодинці.\n\nДеякі параметри можуть бути недоступні залежно від версії гри.\n\n§6ПОВЕРХНЯ ПОТІМ ЧАНКИ§r\nРекомендовано для світів із модами або стандартних світів.\n\n§6ЛИЩЕ ПОВЕРХНЯ§r\nРекомендовано для комп'ютерів, яким\nбракує потужности процесора або оперативної пам'яті\nдля генерації чанків.\n\n§6ЛИШЕ ЧАНКИ§r\nРекомендовано для нестандартних світів,\nде генератор поверхні створював би\nнеправильну місцевість.\n\n§6ВИМК.§r\nРекомендовано, якщо виникають затримки.",
+  "distanthorizons.config.common.worldGenerator.chunkGeneratorMode":
+    "Режим генерації чанків",
+  "distanthorizons.config.common.worldGenerator.chunkGeneratorMode.@tooltip":
+    "Керує складністю процесу генерації зон РД за межами стандартної дальности промальовування.",
+  "distanthorizons.config.common.worldGenerator.enableFastSurfaceGenerator":
+    "Швидка генерація поверхні",
+  "distanthorizons.config.common.worldGenerator.enableFastSurfaceGenerator.@tooltip":
+    "Для застосування змін потрібно перезавантажити світ.\n\nЯкщо «Так», Distant Horizons швидко створює\nприблизну модель поверхні місцевости,\nщоб заповнити простір у межах дальности промальовування.\n\nПісля створення поверхні Distant Horizons\nгенерує окремі чанки відповідно\nдо налаштування «distantGeneratorMode»,\nдодаючи дерева та структури.\n\nРекомендовано вимкнути це,\nякщо ви використовуєте повністю нестандартний світ,\nщоб уникнути появи звичайної місцевости.",
   "distanthorizons.config.common.worldGenerator.showGenerationProgress":
-    "Показати процес генерації",
+    "Показувати процес генерації",
   "distanthorizons.config.common.worldGenerator.showGenerationProgress.@tooltip":
     "Керує тим, як має показуватися прогрес віддаленого генератора.",
   "distanthorizons.config.common.worldGenerator.generationProgressDisplayIntervalInSeconds":
@@ -609,9 +689,21 @@
   "distanthorizons.config.common.worldGenerator.generationProgressDisableMessageDisplayTimeInSeconds.@tooltip":
     "Скільки секунд мають показуватися інструкції щодо вимкнення прогресу віддаленого генератора?\nЯкщо встановити значення 0, повідомлення з інструкціями приховується, тому прогрес генерації світу\nвидно одразу після його запуску.",
   "distanthorizons.config.common.worldGenerator.generationProgressIncludeChunksPerSecond":
-    "Показати швидкість генерації в шматках/секунду",
+    "Показувати швидкість генерації в чанках на секунду",
   "distanthorizons.config.common.worldGenerator.generationProgressIncludeChunksPerSecond.@tooltip":
     "Під час реєстрації прогресу генерації також включайте швидкість, з якою\nгенеруються блоки. \nЦе може бути корисним для усунення несправностей продуктивности.",
+  "distanthorizons.config.common.worldGenerator.limitIfServerUnhealthy":
+    "Обмежувати на нестабільному сервері",
+  "distanthorizons.config.common.worldGenerator.limitIfServerUnhealthy.@tooltip":
+    "Якщо потік сервера Minecraft витрачає забагато часу,\nDistant Horizons призупинить генерацію світу, щоб зменшити ривки або затримки сервера.",
+  "distanthorizons.config.common.worldGenerator.pauseIfMovingQuickly":
+    "Призупиняти при швидкому русі",
+  "distanthorizons.config.common.worldGenerator.pauseIfMovingQuickly.@tooltip":
+    "Якщо гравець або камера швидко рухаються,\nDistant Horizons призупинить генерацію світу, щоб покращити швидкість завантаження\nі зменшити затримки.",
+  "distanthorizons.config.common.worldGenerator.surfaceRegenMaxDistancePercent":
+    "Макс. відстань (у %) для відновлення поверхні",
+  "distanthorizons.config.common.worldGenerator.surfaceRegenMaxDistancePercent.@tooltip":
+    "Якщо гравець або камера швидко рухаються,\nDistant Horizons призупинить генерацію світу, щоб покращити швидкість завантаження\nі зменшити затримки.",
 
 
   "distanthorizons.config.common.lodBuilding":
@@ -621,29 +713,19 @@
     "Вимкнути перевірку незмінених блоків",
   "distanthorizons.config.common.lodBuilding.disableUnchangedChunkCheck.@tooltip":
     "Вимкнення цієї перевірки може вирішити проблеми, через які зона РД не оновлюються після зміни блоків.",
-  "distanthorizons.config.common.lodBuilding.pullLightingForPregeneratedChunks":
-    "Освітлення для попередньо згенерованих блоків",
-  "distanthorizons.config.common.lodBuilding.pullLightingForPregeneratedChunks.@tooltip":
-    "Якщо «Так», генерація зони РД для чанків, що уже існують спробує витягти дані\nосвітлення, збережені у файлах регіону Minecraft.\nЯкщо «Ні», мод затягне чанки без освітлення та повторно їх підсвітить.\n\nЯкщо встановити значення «Так», це призведе до швидшого створення зони РД для вже згенерованих світів, але\nпорушується більшістю модів освітлення.\n\nУстановіть «Ні», якщо зона РД чорна.",
-  "distanthorizons.config.common.lodBuilding.assumePreExistingChunksAreFinished":
-    "Припустити, якщо чанки, що уснуються завершено",
-  "distanthorizons.config.common.lodBuilding.assumePreExistingChunksAreFinished.@tooltip":
-    "Якщо «Так» може вирішити деякі проблеми під час використання мода із попередньо згенерованим світом.",
   "distanthorizons.config.common.lodBuilding.dataCompression":
     "Стиснення даних",
   "distanthorizons.config.common.lodBuilding.dataCompression.@tooltip":
     "Який алгоритм слід використовувати для стиснення нових даних хони РД?\nЦе впливатиме лише на нові або оновлені дані зони РД. Будь-які дані, які вже були згенеровані після зміни цього\nпараметра, залишаться незмінними, доки їх не потрібно буде повторно записати в базу даних.\n\nНайшвидший: LZ4.\nНайвище стиснення: LZMA2.",
   "distanthorizons.config.common.lodBuilding.worldCompression":
-    "Стиснення світу з втратами",
+    "Стиснення світу з утратами",
   "distanthorizons.config.common.lodBuilding.worldCompression.@tooltip":
     "Як мають стискатися дані блока під час створення даних зони РД?\nЦе впливатиме лише на нові або оновлені дані зона РД, будь-які дані, які вже були згенеровані після зміни\nцього параметра, залишаться незмінними, доки їх не буде змінено чи повторно завантажено.\n\nНайточніше: об’єднати однакові блоки.\nНайвище стиснення: візуально однакове.",
-  "distanthorizons.config.common.lodBuilding.recalculateChunkHeightmaps":
-    "Перерахувати мапи висот чанків",
-  "distanthorizons.config.common.lodBuilding.recalculateChunkHeightmaps.@tooltip":
-    "Так: перераховувати мапи висоти чанків, перш ніж мод зможе використовувати чанки. Це може вирішити проблеми\nзі світами, створеними зовнішніми інструментами.\nНі: припускайте, що будь-які карти висот, які обробляє Minecraft, правильні.\n\nНайшвидший: Ні.\nНайбільш сумісний: Так.",
-  "distanthorizons.config.common.lodBuilding.showMigrationChatWarning":
-    "Перемістити журнал в чаті",
-    
+  "distanthorizons.config.common.lodBuilding.databaseSyncMode":
+    "Режим синхронізації бази даних",
+  "distanthorizons.config.common.lodBuilding.databaseSyncMode.@tooltip":
+    "Для застосування змін потрібно перезавантажити рівень.\n\nВибір менш суворого режиму підвищує швидкість читання/запису бази даних,\nале створює ризик втрати або пошкодження даних у разі\nраптового вимкнення живлення комп'ютера\n(неочікуване завершення роботи програми має бути безпечним для всіх варіантів).\n\n§6ПОВНІСТЮ§r\nКИСЛОТА — дані гарантовано не будуть втрачені чи пошкоджені.\nПовільно\n\n§6ЗВИЧНО§r\nМожлива втрата частини даних при зникненні живлення,\nале база даних не повинна пошкодитися.\nШвидко\n\n§6ВИМК.§r\nБаза даних може пошкодитися при зникненні живлення.\nДуже швидко",
+
 
   "distanthorizons.config.common.lodBuilding.experimental":
     "Експерименти",
@@ -651,7 +733,7 @@
   "distanthorizons.config.common.lodBuilding.experimental.upsampleLowerDetailLodsToFillHoles":
     "Підвищення дискретизації зони РД з нижчими деталями для заповнення дір",
   "distanthorizons.config.common.lodBuilding.experimental.upsampleLowerDetailLodsToFillHoles.@tooltip":
-   "Коли мод активний, він намагатиметься заповнити відсутні дані зони РД\nбудь-якими даними, які присутні в дереві, запобігають дірам під час переміщення,\nколи генератор (або сервер) розміру N активний.\n\n§6ЕКСПЕРИМЕНТАЛЬНО§r Збільшить використання носія та може спричинити проблеми з промальовування.\nДодаткову інформацію див. у файлі налаштувань.",
+    "Коли мод активний, він намагатиметься заповнити відсутні дані зони РД\nбудь-якими даними, які присутні в дереві, запобігають дірам під час переміщення,\nколи генератор (або сервер) розміру N активний.\n\n§6ЕКСПЕРИМЕНТАЛЬНО§r Збільшить використання носія та може спричинити проблеми з промальовування.\nПодробиці див. у файлі налаштувань.",
 
 
 
@@ -665,6 +747,14 @@
     "Як багато потоків використовуватиме мод DH.",
   "distanthorizons.config.common.multiThreading.threadRunTimeRatio":
     "% часу виконання для потоків генерації світу",
+  "distanthorizons.config.common.multiThreading.threadPriority":
+    "Пріоритет потоку",
+  "distanthorizons.config.common.multiThreading.threadPriority.@tooltip":
+    "З яким пріоритетом потоків Java мають працювати основні пули потоків DH?\n\nІмовірно, вам не потрібно змінювати це налаштування, якщо ви також \nвикористовуєте C2ME і спостерігаєте нестачу потоків у C2ME або DH.",
+  "distanthorizons.config.common.multiThreading.useC2meThreadCount":
+    "Кількість потоків C2ME",
+  "distanthorizons.config.common.multiThreading.useC2meThreadCount.@tooltip":
+    "Якщо встановлено C2ME, встановлює кількість потоків DH відповідно до C2ME.\n\nЦе необхідно для запобігання проблемам із нестачею потоків за наявности C2ME.",
 
 
 
@@ -673,25 +763,32 @@
   "distanthorizons.config.common.logging.@tooltip":
     "Керує способом обробки журналу.",
 
-  "distanthorizons.config.common.logging.logWorldGenEvent":
-    "Події генератора світу",
-  "distanthorizons.config.common.logging.logWorldGenPerformance":
-    "Продуктивність генератора світу",
-  "distanthorizons.config.common.logging.logWorldGenLoadEvent":
-    "Завантаження подій генератора світу",
-  "distanthorizons.config.common.logging.logRendererBufferEvent":
-    "Події буфера промальовування",
-  "distanthorizons.config.common.logging.logRendererGLEvent":
-    "Події OpenGL",
-  "distanthorizons.config.common.logging.logNetworkEvent":
-    "Події мережі",
+  "distanthorizons.config.common.logging.globalFileMaxLevel":
+    "Загальний максимум файлу",
+  "distanthorizons.config.common.logging.globalChatMaxLevel":
+    "Загальний максимум чату",
+
+  "distanthorizons.config.common.logging.logWorldGenEventToFile":
+    "Події генерації світу — Файл",
+  "distanthorizons.config.common.logging.logWorldGenChunkLoadEventToFile":
+    "Події завантаження генерації світу — Файл",
+  "distanthorizons.config.common.logging.logRendererEventToFile":
+    "Події рендерера — Файл",
+  "distanthorizons.config.common.logging.logRendererGLEventToFile":
+    "Події OpenGL — Файл",
+  "distanthorizons.config.common.logging.logRendererGLEventToChat":
+    "Події OpenGL — Чат",
+  "distanthorizons.config.common.logging.logNetworkEventToFile":
+    "Події мережі — Файл",
+  "distanthorizons.config.common.logging.logConnectionConfigChangesToFile":
+    "Зміни налаштування мережевого з'єднання — Файл",
 
   "distanthorizons.config.common.logging.warning":
     "Попередження",
   "distanthorizons.config.common.logging.warning.showLowMemoryWarningOnStartup":
     "Показувати попередження про брак пам’яті під час запуску",
   "distanthorizons.config.common.logging.warning.showPoolInsufficientMemoryWarning":
-    "Показати попередження про недостатню кількість пам’яті",
+    "Показувати попередження про недостатню кількість пам’яті",
   "distanthorizons.config.common.logging.warning.showPoolInsufficientMemoryWarning.@tooltip":
     "Якщо мод виявить, що об'єкти пулу збираються, це надішле попередження в чаті.",
   "distanthorizons.config.common.logging.warning.showHighVanillaRenderDistanceWarning":
@@ -700,8 +797,20 @@
     "Попередження про повторне відтворення",
   "distanthorizons.config.common.logging.warning.showUpdateQueueOverloadedChatWarning":
     "Попередження про перевантаження черги оновлення",
+  "distanthorizons.config.common.logging.warning.showSlowWorldGenSettingWarnings":
+    "Показувати попередження повільної генерації світу",
   "distanthorizons.config.common.logging.warning.showModCompatibilityWarningsOnStartup":
     "Попередження про сумісність модів",
+  "distanthorizons.config.common.logging.warning.showDeprecatedRendererWarningOnStartup":
+    "Показувати попередження про застарілий механізм візуалізації",
+  "distanthorizons.config.common.logging.warning.logGarbageCollectorWarning":
+    "Записувати в журнал попередження збирача сміття",
+  "distanthorizons.config.common.logging.warning.showGarbageCollectorWarning":
+    "Показувати попередження збирача сміття",
+  "distanthorizons.config.common.logging.warning.logExplicitGcDisabledWarning":
+    "Записувати в журнал попередження про вимкнення явного виклику GC",
+  "distanthorizons.config.common.logging.warning.showExplicitGcDisabledWarning":
+    "Показувати попередження про вимкнення явного виклику GC",
 
 
 
@@ -734,7 +843,7 @@
   "distanthorizons.config.server.enableRealTimeUpdates":
     "Оновлення в реальному часі",
   "distanthorizons.config.server.enableRealTimeUpdates.@tooltip":
-    "Якщо «true», клієнти отримуватимуть оновлення зони РД у реальному часі для чанків поза межами клієнтської\nдальности промальовування.",
+    "Якщо «Так», клієнти отримуватимуть оновлення зони РД у реальному часі для чанків поза межами клієнтської\nдальности промальовування.",
 
   "distanthorizons.config.server.realTimeUpdateDistanceRadiusInChunks":
     "Радіус оновлення в реального часу в чанках",
@@ -765,30 +874,19 @@
   "distanthorizons.config.server.globalBandwidthLimit.@tooltip":
     "Максимальна глобальна швидкість для завантаження зон РД на клієнти в КБ/с.\nЗначення 0 вимикає обмеження.",
   "distanthorizons.config.server.enableAdaptiveTransferSpeed":
-    "Увімкнути адаптивну швидкість передачі",
+    "Адаптивна швидкість передачі",
   "distanthorizons.config.server.enableAdaptiveTransferSpeed.@tooltip":
-    "Умикає адаптивну швидкість передачі на основі продуктивность клієнта.\nЯкщо встановлено значення «true», DH автоматично регулюватиме швидкість передачі, щоб\nмінімізувати затримку приєднання.\nЯкщо значення «false», швидкість передачі залишатиметься фіксованою.",
+    "Умикає адаптивну швидкість передачі на основі продуктивность клієнта.\nЯкщо «Так», DH автоматично регулюватиме швидкість передачі, щоб\nмінімізувати затримку приєднання.\nЯкщо «Ні», швидкість передачі залишатиметься фіксованою.",
 
 
-  "distanthorizons.config.server.experimental":
-    "Експерименти",
-
-  "distanthorizons.config.server.experimental.enableNSizedGeneration":
-    "Генерація розміру N",
-  "distanthorizons.config.server.experimental.enableNSizedGeneration.@tooltip":
-    "Якщо ввімкнено на клієнті, це дозволяє завантажувати нижчі рівні деталізації, якщо це\nнеобхідно для прискорення створення рельєфу.\nЦе також має бути ввімкнено на сервері; інакше це не матиме ефекту.\nДля кращої продуктивности під час перемикання рівнів деталізації зони\nРД рекомендується ввімкнути [upsampleLowerDetailLodsToFillHoles].",
 
 
-  
-  
-    
-    
-    
-    
-  
-  
-    
-   
+
+
+
+
+
+
   "distanthorizons.config.enum.EDhApiQualityPreset.CUSTOM":
     "Користувацький",
   "distanthorizons.config.enum.EDhApiQualityPreset.MINIMUM":
@@ -814,7 +912,7 @@
     "4. Агресивний",
   "distanthorizons.config.enum.EDhApiThreadPreset.I_PAID_FOR_THE_WHOLE_CPU":
     "5. На весь процесор",
-    
+
   "distanthorizons.config.enum.EDhApiMaxHorizontalResolution.BLOCK":
     "1. Блок",
   "distanthorizons.config.enum.EDhApiMaxHorizontalResolution.TWO_BLOCKS":
@@ -825,7 +923,7 @@
     "4. Півчанка",
   "distanthorizons.config.enum.EDhApiMaxHorizontalResolution.CHUNK":
     "5. Чанк",
-    
+
   "distanthorizons.config.enum.EDhApiMcRenderingFadeMode.NONE":
     "Нічого",
   "distanthorizons.config.enum.EDhApiMcRenderingFadeMode.SINGLE_PASS":
@@ -847,7 +945,7 @@
     "6. Ультра",
   "distanthorizons.config.enum.EDhApiVerticalQuality.PIXEL_ART":
     "7. Піксель-арт",
-    
+
   "distanthorizons.config.enum.EDhApiHorizontalQuality.LOWEST":
     "Найнижчий",
   "distanthorizons.config.enum.EDhApiHorizontalQuality.LOW":
@@ -858,33 +956,24 @@
     "Високий",
   "distanthorizons.config.enum.EDhApiHorizontalQuality.EXTREME":
     "Величезний",
-    
+
   "distanthorizons.config.enum.EDhApiTransparency.DISABLED":
     "ВИМК.",
-  "distanthorizons.config.enum.EDhApiTransparency.FAKE":
-    "Підроблений",
   "distanthorizons.config.enum.EDhApiTransparency.COMPLETE":
     "Завершений",
-    
-  "distanthorizons.config.enum.EDhApiFogDrawMode.USE_OPTIFINE_SETTING":
-    "Викор. модиф. налаштування",
-  "distanthorizons.config.enum.EDhApiFogDrawMode.FOG_ENABLED":
-    "УВІМК.",
-  "distanthorizons.config.enum.EDhApiFogDrawMode.FOG_DISABLED":
-    "ВИМК.",
 
   "distanthorizons.config.enum.EDhApiFogColorMode.USE_WORLD_FOG_COLOR":
     "Туман світу",
   "distanthorizons.config.enum.EDhApiFogColorMode.USE_SKY_COLOR":
     "Колір неба",
-    
+
   "distanthorizons.config.enum.EDhApiFogFalloff.LINEAR":
     "Лінійно",
   "distanthorizons.config.enum.EDhApiFogFalloff.EXPONENTIAL":
     "Експоненціально",
   "distanthorizons.config.enum.EDhApiFogFalloff.EXPONENTIAL_SQUARED":
     "Експоненціально у квадраті",
-    
+
   "distanthorizons.config.enum.EDhApiHeightFogMixMode.SPHERICAL":
     "Сферичне",
   "distanthorizons.config.enum.EDhApiHeightFogMixMode.CYLINDRICAL":
@@ -905,7 +994,7 @@
     "Зворотне множене додавання",
   "distanthorizons.config.enum.EDhApiHeightFogMixMode.AVERAGE":
     "Середнє",
-    
+
   "distanthorizons.config.enum.EDhApiHeightFogDirection.ABOVE_CAMERA":
     "Вище камери",
   "distanthorizons.config.enum.EDhApiHeightFogDirection.BELOW_CAMERA":
@@ -913,18 +1002,11 @@
   "distanthorizons.config.enum.EDhApiHeightFogDirection.ABOVE_AND_BELOW_CAMERA":
     "Вище і нище камери",
   "distanthorizons.config.enum.EDhApiHeightFogDirection.ABOVE_SET_HEIGHT":
-    "Установити вищу висоту",
+    "Вища висота",
   "distanthorizons.config.enum.EDhApiHeightFogDirection.BELOW_SET_HEIGHT":
-    "Установити нищу висоту",
+    "Нища висота",
   "distanthorizons.config.enum.EDhApiHeightFogDirection.ABOVE_AND_BELOW_SET_HEIGHT":
-    "Установити вищу і нищу висоту",
-    
-  "distanthorizons.config.enum.EDhApiVanillaOverdraw.NEVER":
-    "Ніколи",
-  "distanthorizons.config.enum.EDhApiVanillaOverdraw.DYNAMIC":
-    "Динамічно",
-  "distanthorizons.config.enum.EDhApiVanillaOverdraw.ALWAYS":
-    "Завжди",
+    "Вища й нища висота",
 
   "distanthorizons.config.enum.EDhApiDistantGeneratorMode.NONE":
     "Лише що існують",
@@ -940,7 +1022,16 @@
     "Особливості",
   "distanthorizons.config.enum.EDhApiDistantGeneratorMode.INTERNAL_SERVER":
     "Повне — збереження чанків",
-  
+
+  "distanthorizons.config.enum.EDhApiGeneratorPlan.SURFACE_THEN_CHUNKS":
+    "§aПоверхня потім чанки§r",
+  "distanthorizons.config.enum.EDhApiGeneratorPlan.SURFACE_ONLY":
+    "§aЛише поверхня§r",
+  "distanthorizons.config.enum.EDhApiGeneratorPlan.CHUNKS_ONLY":
+    "§aЛише чанки§r",
+  "distanthorizons.config.enum.EDhApiGeneratorPlan.DISABLED":
+    "§cВИМК.§r",
+
   "distanthorizons.config.enum.EDhApiDistantGeneratorProgressDisplayLocation.OVERLAY":
     "Накладання",
   "distanthorizons.config.enum.EDhApiDistantGeneratorProgressDisplayLocation.CHAT":
@@ -954,21 +1045,30 @@
     "Не стиснуто",
   "distanthorizons.config.enum.EDhApiDataCompressionMode.LZ4":
     "Швидко і багато — LZ4",
-  "distanthorizons.config.enum.EDhApiDataCompressionMode.Z_STD":
-    "Швидко і мало — Z_STD",
+  "distanthorizons.config.enum.EDhApiDataCompressionMode.Z_STD_BLOCK":
+    "Fastest/Small - Z_STD - Block",
+  "distanthorizons.config.enum.EDhApiDataCompressionMode.Z_STD_STREAM":
+    "Fast/Small - Z_STD - Stream",
   "distanthorizons.config.enum.EDhApiDataCompressionMode.LZMA2":
     "Повільно і мало — LZMA2",
-    
+
   "distanthorizons.config.enum.EDhApiWorldCompressionMode.MERGE_SAME_BLOCKS":
     "1. Об’єднати однакові блоки",
   "distanthorizons.config.enum.EDhApiWorldCompressionMode.VISUALLY_EQUAL":
     "2. Візуально рівні",
-    
+
   "distanthorizons.config.enum.EDhApiBlocksToAvoid.NONE":
     "Нічого",
   "distanthorizons.config.enum.EDhApiBlocksToAvoid.NON_COLLIDING":
     "Без зіткнень",
-    
+
+  "distanthorizons.config.enum.EDhApiDatabaseSyncMode.FULL":
+    "Повністю",
+  "distanthorizons.config.enum.EDhApiDatabaseSyncMode.NORMAL":
+    "Звично",
+  "distanthorizons.config.enum.EDhApiDatabaseSyncMode.OFF":
+    "ВИМК.",
+
   "distanthorizons.config.enum.EDhApiServerFolderNameMode.NAME_ONLY":
     "Лише назва",
   "distanthorizons.config.enum.EDhApiServerFolderNameMode.IP_ONLY":
@@ -976,84 +1076,51 @@
   "distanthorizons.config.enum.EDhApiServerFolderNameMode.NAME_IP":
     "Назва і IP",
   "distanthorizons.config.enum.EDhApiServerFolderNameMode.NAME_IP_PORT":
-    "Назва, IP, Порт",
+    "Назва, IP, порт",
   "distanthorizons.config.enum.EDhApiServerFolderNameMode.NAME_IP_PORT_MC_VERSION":
-    "Назва, IP, Порт, Версія",
-    
+    "Назва, IP, порт, версія",
+
   "distanthorizons.config.enum.EDhApiRendererMode.DEFAULT":
     "Усталено",
-  "distanthorizons.config.enum.EDhApiRendererMode.DEBUG":
-    "Налагодження",
+  "distanthorizons.config.enum.EDhApiRendererMode.DEBUG_TRIANGLE":
+    "Трикутник налагодження",
   "distanthorizons.config.enum.EDhApiRendererMode.DISABLED":
     "ВИМК.",
-    
+
   "distanthorizons.config.enum.EDhApiDebugRendering.OFF":
     "ВИМК.",
   "distanthorizons.config.enum.EDhApiDebugRendering.SHOW_DETAIL":
-    "Показати деталі",
+    "Деталі",
   "distanthorizons.config.enum.EDhApiDebugRendering.SHOW_GENMODE":
-    "Показати режим генерації",
+    "Режим генерації",
   "distanthorizons.config.enum.EDhApiDebugRendering.SHOW_BLOCK_MATERIAL":
-    "Показати матеріали",
+    "Матеріали",
   "distanthorizons.config.enum.EDhApiDebugRendering.SHOW_OVERLAPPING_QUADS":
-    "Показати перекриті квадрати",
+    "Перекриті квадрати",
   "distanthorizons.config.enum.EDhApiDebugRendering.SHOW_RENDER_SOURCE_FLAG":
-    "Показати позначку джерела промальовування",
-    
+    "Позначка джерела промальовування",
+
   "distanthorizons.config.enum.EDhApiGLErrorHandlingMode.IGNORE":
     "Ігнорувати",
   "distanthorizons.config.enum.EDhApiGLErrorHandlingMode.LOG":
     "Журнал",
   "distanthorizons.config.enum.EDhApiGLErrorHandlingMode.LOG_THROW":
     "Кинутий журнал",
-    
-  "distanthorizons.config.enum.EDhApiGlProfileMode.CORE":
-    "Ядро",
-  "distanthorizons.config.enum.EDhApiGlProfileMode.COMPAT":
-    "Компактно",
-  "distanthorizons.config.enum.EDhApiGlProfileMode.ANY":
-    "Будь-який",
-    
-  "distanthorizons.config.enum.EDhApiLoggerMode.DISABLED":
-    "ВИМК.",
-  "distanthorizons.config.enum.EDhApiLoggerMode.LOG_ALL_TO_FILE":
-    "Файл: усі; Чат: ВИМК.",
-  "distanthorizons.config.enum.EDhApiLoggerMode.LOG_ERROR_TO_CHAT":
-    "Файл: усі; Чат: помилка",
-  "distanthorizons.config.enum.EDhApiLoggerMode.LOG_WARNING_TO_CHAT":
-    "Файл: усі; Чат: попередження",
-  "distanthorizons.config.enum.EDhApiLoggerMode.LOG_INFO_TO_CHAT":
-    "Файл: усі; Чат: інфо",
-  "distanthorizons.config.enum.EDhApiLoggerMode.LOG_DEBUG_TO_CHAT":
-    "Файл: усі; Чат: налагодження",
-  "distanthorizons.config.enum.EDhApiLoggerMode.LOG_ALL_TO_CHAT":
-    "Файл: усі; Чат: усі",
-  "distanthorizons.config.enum.EDhApiLoggerMode.LOG_ERROR_TO_CHAT_AND_FILE":
-    "Файл: помилка; Чат: помилка",
-  "distanthorizons.config.enum.EDhApiLoggerMode.LOG_WARNING_TO_CHAT_AND_FILE":
-    "Файл: попередження; Чат: попередження",
-  "distanthorizons.config.enum.EDhApiLoggerMode.LOG_INFO_TO_CHAT_AND_FILE":
-    "Файл: інфо; Чат: інфо",
-  "distanthorizons.config.enum.EDhApiLoggerMode.LOG_DEBUG_TO_CHAT_AND_FILE":
-    "Файл: налагодження; Чат: налагодження",
-  "distanthorizons.config.enum.EDhApiLoggerMode.LOG_WARNING_TO_CHAT_AND_INFO_TO_FILE":
-    "Файл: інфо; Чат: попередження",
-  "distanthorizons.config.enum.EDhApiLoggerMode.LOG_ERROR_TO_CHAT_AND_INFO_TO_FILE":
-    "Файл: інфо; Чат: помилка",
-  "distanthorizons.config.enum.EDhApiLoggerMode.LOG_ERROR_TO_CHAT_AND_WARNING_TO_FILE":
-    "Файл: попердження; Чат: помилка",
-    
-  "distanthorizons.config.enum.EDhApiGpuUploadMethod.AUTO":
-    "Авто",
-  "distanthorizons.config.enum.EDhApiGpuUploadMethod.BUFFER_STORAGE":
-    "Сховище буфера",
-  "distanthorizons.config.enum.EDhApiGpuUploadMethod.SUB_DATA":
-    "Піддані",
-  "distanthorizons.config.enum.EDhApiGpuUploadMethod.BUFFER_MAPPING":
-    "Мапування буфера",
-  "distanthorizons.config.enum.EDhApiGpuUploadMethod.DATA":
-    "Дані",
-    
+
+  "distanthorizons.config.enum.EDhApiLoggerLevel.ALL":
+    "1. Усі",
+  "distanthorizons.config.enum.EDhApiLoggerLevel.DEBUG":
+    "2. Налагодження",
+  "distanthorizons.config.enum.EDhApiLoggerLevel.INFO":
+    "3. Інформація",
+  "distanthorizons.config.enum.EDhApiLoggerLevel.WARN":
+    "4. Попередження",
+  "distanthorizons.config.enum.EDhApiLoggerLevel.ERROR":
+    "5. Помилка",
+  "distanthorizons.config.enum.EDhApiLoggerLevel.DISABLED":
+    "6. ВИМК.",
+
+
   "distanthorizons.config.enum.EDhApiLodShading.AUTO":
     "Авто",
   "distanthorizons.config.enum.EDhApiLodShading.ENABLED":
@@ -1075,9 +1142,16 @@
   "distanthorizons.config.enum.EDhApiGrassSideRendering.AS_DIRT":
     "Як ґрунт",
 
+  "distanthorizons.config.enum.EDhApiRenderingEngine.AUTO":
+    "Авто",
+  "distanthorizons.config.enum.EDhApiRenderingEngine.OPEN_GL":
+    "OpenGL",
+  "distanthorizons.config.enum.EDhApiRenderingEngine.BLAZE_3D":
+    "Blaze3D",
 
-  "modmenu.descriptionTranslation.distanthorizons":
-    "Цей мод генерує та промальовує спрощений рельєф за межі звичайної відстані огляду з низькою вартістю продуктивности. Дозволяє вам бачити набагато далі, не перетворюючи гру на слайд-шоу.",
-  "fml.menu.mods.info.description.distanthorizons":
-    "Цей мод генерує та промальовує спрощений рельєф за межі звичайної відстані огляду з низькою вартістю продуктивности. Дозволяє вам бачити набагато далі, не перетворюючи гру на слайд-шоу."
+
+
+  "modmenu.descriptionTranslation.distanthorizons": "Цей мод генерує та промальовує спрощений рельєф за межі звичайної відстані огляду з низькою вартістю продуктивности. Дозволяє вам бачити набагато далі, не перетворюючи гру на слайд-шоу.",
+  "fml.menu.mods.info.description.distanthorizons": "Цей мод генерує та промальовує спрощений рельєф за межі звичайної відстані огляду з низькою вартістю продуктивности. Дозволяє вам бачити набагато далі, не перетворюючи гру на слайд-шоу.",
+  "neoforge.screen.mods.info.description.distanthorizons": "Цей мод генерує та промальовує спрощений рельєф за межі звичайної відстані огляду з низькою вартістю продуктивности. Дозволяє вам бачити набагато далі, не перетворюючи гру на слайд-шоу."
 }
