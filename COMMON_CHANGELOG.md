@@ -2,7 +2,7 @@
 
 ### Оновлення #81
 
-Перекладено [Paragliders](https://modrinth.com/mod/paragliders), [Bathymetry](https://modrinth.com/mod/bathymetry), [Bee's Nectar](https://modrinth.com/mod/bees-nectar), [Modest Magic](https://modrinth.com/mod/modest-magic)
+Перекладено [Paragliders](https://modrinth.com/mod/paragliders), [Bathymetry](https://modrinth.com/mod/bathymetry), [Bee's Nectar](https://modrinth.com/mod/bees-nectar), [Modest Magic](https://modrinth.com/mod/modest-magic), [Simple Backpacks](https://modrinth.com/mod/simple-backpacks-by-jupresson)
 
 Повернено переклад
 
