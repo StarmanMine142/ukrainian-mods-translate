@@ -1,7 +1,0 @@
-{
-    "name": "Нові ефекти",
-	"parent": "apotheosis:potion/potion",
-    "description": "У цьому розділі детально описано нові ефекти зілля, додані Apotheosis.",
-    "icon": "minecraft:experience_bottle",
-	"flag": "apotheosis:potion"
-}
