@@ -1,0 +1,56 @@
+# Entities
+betterbattletowers.golem.name=Ґолем
+betterbattletowers.golem.desc=Потужний ворог, який дрімає на вершинах стародавніх веж.
+betterbattletowers.aggro_zombie_pigman.name=Жорстока зомбосвинолюдина
+betterbattletowers.aggro_zombie_pigman.desc=Зомбосвинолюди з'являються в проклятих вежах. Вони вороже спровоковані.
+
+# Golem sounds
+betterbattletowers.subtitles.mob.golem=Ґолем гарчить
+betterbattletowers.subtitles.mob.golem.awaken=Ґолем пробуджується
+betterbattletowers.subtitles.mob.golem.death=Ґолем гине
+betterbattletowers.subtitles.mob.golem.hurt=Ґолема поранено
+betterbattletowers.subtitles.mob.golem.special=Ґолем атакує
+
+# Blocks
+tile.betterbattletowers.chest.tower.name=Скриня вежі
+tile.betterbattletowers.chest.tower.desc=Стара міцна скриня, розміщена в стародавніх вежах. Занадто важка, аби підняти.
+# Tinted
+tile.betterbattletowers.prison.bar.name=Тонована залізна клітка
+tile.betterbattletowers.prison.bar.desc=Залізна клітка, яка блокує все світло.
+tile.betterbattletowers.prison.fence.name=Тоновані залізні ґрати
+tile.betterbattletowers.prison.fence.desc=Декоративний паркан, врятований з тонованих залізних кліток.
+# Crumbling
+tile.betterbattletowers.crumbling.stone.name=Побитий полірований камінь
+tile.betterbattletowers.crumbling.stone.desc=Цей старий блок довго не протримається.
+tile.betterbattletowers.bridle.stone.name=Потрісканий полірований камінь
+tile.betterbattletowers.bridle.stone.desc=Цей старий блок ось-ось розіб'ється!
+tile.betterbattletowers.slab.crumbling.stone.name=Плита з побитого полірованого каменю
+tile.betterbattletowers.slab.crumbling.stone.desc=Плита побитого полірованого каменю.
+tile.betterbattletowers.slab.bridle.stone.name=Плита з потрісканого полірованого каменю
+tile.betterbattletowers.slab.bridle.stone.desc=Плита потрісканого полірованого каменю!
+tile.betterbattletowers.stairs.crumbling.stone.name=Сходи з побитого полірованого каменю
+tile.betterbattletowers.stairs.crumbling.stone.desc=Полірований камінь для швидкого вертикального руху.
+tile.betterbattletowers.stairs.bridle.stone.name=Сходи з потрісканого полірованого каменю
+tile.betterbattletowers.stairs.bridle.stone.desc=Полірований камінь для швидкого вертикального руху.
+# Runic
+tile.betterbattletowers.runic.stone.name=Рунічний камінь
+tile.betterbattletowers.runic.stone.desc=Рунічний камінь, створений для ув'язнення жителя вежі.
+tile.betterbattletowers.runic.chiseled.stone.name=Різьблений рунічний камінь 
+tile.betterbattletowers.runic.chiseled.stone.desc=Різьблений рунічний камінь, гарне нагадування про його призначення.
+tile.betterbattletowers.runic.glyph.stone.name=Гліфовий рунічний камінь
+tile.betterbattletowers.runic.glyph.stone.desc=Сяйний рунічний камінь, що не випромінює світло.
+tile.betterbattletowers.pillar.runic.name=Рунічна колона
+tile.betterbattletowers.pillar.runic.desc=У нас вдома є бойова вежа.
+# Obsidian
+tile.betterbattletowers.carved.obsidian.name=Тесаний обсидіан
+tile.betterbattletowers.carved.obsidian.desc=Обсидіан з лініями, висіченими посередині.
+tile.betterbattletowers.slab.obsidian.name=Обсидіанова плита
+tile.betterbattletowers.slab.obsidian.desc=Плита обсидіану.
+tile.betterbattletowers.stairs.obsidian.name=Обсидіанові сходи
+tile.betterbattletowers.stairs.obsidian.desc=Обсидіан для швидкого вертикального руху.
+
+# Model viewer
+model.category.entity.golem.state.dormant=Стан: Дрімучий.
+model.category.entity.golem.state.awake=Стан: Пробуджений.
+model.category.entity.golem.placeholder.text=Тип:
+model.category.entity.golem.placeholder=Тип ґолема

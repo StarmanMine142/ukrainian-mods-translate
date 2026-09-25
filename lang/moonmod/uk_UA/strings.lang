@@ -1,0 +1,13 @@
+moonmod.worldtype.moon.name=Місяць
+moonmod.worldtype.moon.desc=Безплідний і плаский супутник далеко від дому.
+
+biome.moon.plains=Місячні рівнини
+
+dimension.moon.name=Місяць
+
+subtitles.alien.idle=Місячанин щебече
+subtitles.alien.hurt=Місячанина поранено
+subtitles.alien.death=Місячанин гине
+
+guidebook.section.mob.ufo.name=НЛО
+guidebook.section.mob.ufo.desc=Химерна форма життя, яка зазвичай зустрічається на Місяці, видає дивний звук радости.

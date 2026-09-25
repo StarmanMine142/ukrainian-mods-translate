@@ -1,0 +1,133 @@
+Spring Crops=Весняні культури
+
+tile.stardew.crops.carrot.name=Урожай моркви
+tile.stardew.crops.carrot.desc=Ціла морква, зірвана з землі.
+
+
+tile.stardew.crops.blueberry.name=Урожай чорниці
+tile.stardew.crops.blueberry.desc=Чорничний кущ, зірваний з землі.
+
+
+tile.stardew.crops.pineapple.name=Урожай ананаса
+tile.stardew.crops.pineapple.desc=Ананасова грядка, зірвана з землі.
+
+
+
+Summer Crops=Літні культури
+
+tile.stardew.crops.tomato.name=Урожай томатів
+tile.stardew.crops.tomato.desc=Лози томатів, зірвані з землі.
+
+
+tile.stardew.crops.potato.name=Урожай картоплі
+tile.stardew.crops.potato.desc=Коріння картоплі, зірвані з землі.
+
+
+tile.stardew.crops.strawberry.name=Урожай полуниці
+tile.stardew.crops.strawberry.desc=Полуниці, зірвані з землі.
+
+
+tile.stardew.crops.watermelon.name=Урожай кавуна
+tile.stardew.crops.watermelon.desc=Дозрівальний кавун, зірваний з землі.
+
+tile.stardew.watermelon.name=Кавун
+tile.stardew.watermelon.desc=Соковитий фрукт із твердою шкіркою, вирощений із лози.
+
+
+
+Fall Crops=Осінні культури
+
+tile.stardew.log.apple.name=Яблунева колода
+tile.stardew.log.apple.desc=Колода яблуні.
+
+tile.stardew.leaves.apple.name=Яблуневе листя
+tile.stardew.leaves.apple.desc=Листя яблуні.
+tile.stardew.leaves.apple.flowering.name=Квітучо-яблуневе листя
+tile.stardew.leaves.apple.flowering.desc=Листя яблуні, яке розпускаються плодами.
+
+tile.stardew.sapling.apple.name=Паросток яблуні
+tile.stardew.sapling.apple.desc=Посадіть, щоб виростити яблуню.
+
+
+tile.stardew.log.apple.golden.name=Золото-яблунева колода
+tile.stardew.log.apple.golden.desc=Колода золотої яблуні.
+
+tile.stardew.leaves.apple.golden.name=Золото-яблуневе листя
+tile.stardew.leaves.apple.golden.desc=Листя золотої яблуні.
+tile.stardew.leaves.apple.golden.flowering.name=Квітучо-золото-яблуневе листя
+tile.stardew.leaves.apple.golden.flowering.desc=Листя золотої яблуні, яке розпускаються плодами.
+
+tile.stardew.sapling.apple.golden.name=Паросток золотої яблуні
+tile.stardew.sapling.apple.golden.desc=Посадіть, щоб виростити золоту яблуню.
+
+
+tile.stardew.crops.corn.bottom.name=Низ урожаю кукурудзи
+tile.stardew.crops.corn.bottom.desc=Нижня половина стебла кукурудзи, зірвана із землі.
+
+tile.stardew.crops.corn.top.name=Верх урожаю кукурудзи
+tile.stardew.crops.corn.top.desc=Верхня половина стебла кукурудзи, зірвана із землі.
+
+
+tile.stardew.pie.name=Гарбузовий пиріг
+tile.stardew.pie.desc=Я вже просто пиріг хочу.
+
+
+tile.stardew.crops.grape.bottom.name=Низ урожаю винограду
+tile.stardew.crops.grape.bottom.desc=Нижня половина стебла винограду, зірвана з землі.
+
+tile.stardew.crops.grape.top.name=Верх урожай винограду
+tile.stardew.crops.grape.top.desc=Верхня половина стебла винограду, зірвана з землі.
+
+
+
+Winter Crops=Зимові культури
+
+tile.stardew.crops.cauliflower.name=Урожай цвітної капусти
+tile.stardew.crops.cauliflower.desc=Дозрівальна цвітна капусиа, зірвана із землі
+
+tile.stardew.cauliflower.name=Цвітна капустина
+tile.stardew.cauliflower.desc=Великий листовий овоч із горбистою м'якоттю.
+
+
+
+
+tile.stardew.crops.cranberries.name=Урожай журавлини
+tile.stardew.crops.cranberries.desc=Стиглий кущ журавлини, зірваний прямо з землі.
+
+tile.stardew.bush.name=Кущ
+tile.stardew.bush.desc=Дикий кущ, який скидає насіння залежно від сезону.
+
+tile.stardew.beehive.name=Вулик
+tile.stardew.beehive.desc=Створене людиною гніздо для бджіл для вироблення солодкого та липкого нектару.
+
+tile.stardew.beehive.idle.name=Активний вулик
+tile.stardew.beehive.idle.desc=Створене людиною гніздо для бджіл для вироблення солодкого та липкого нектару.
+
+tile.stardew.beehive.honey.name=Заповненний вулик
+tile.stardew.beehive.honey.desc=Створене людиною гніздо для бджіл для вироблення солодкого та липкого нектару.
+
+tile.stardew.block.honey.name=Медовий блок
+tile.stardew.block.honey.desc=Липкий і солодкий, згорнутий у блок.
+
+tile.stardew.pizza.name=Піца
+tile.stardew.pizza.desc=Хочеш шматочок мене?
+
+tile.stardew.candle.name=Воскова свічка
+tile.stardew.candle.desc=Воскове джерело світла з меду!
+tile.stardew.candle.active.name=Запалена воскова свічка
+tile.stardew.candle.active.desc=Воскове джерело світла з меду! Наразі горить.
+
+tile.stardew.plant.stake.name=Опора
+tile.stardew.plant.stake.desc=Палиця, встромлена в землю для підтримки певних культур.
+
+tile.stardew.crops.beans.bottom.name=Низ урожаю бобів
+tile.stardew.crops.beans.bottom.desc=Нижня урожаю стебла бобів, зірвана з землі.
+
+tile.stardew.crops.beans.top.name=Верх урожай бобів
+tile.stardew.crops.beans.top.desc=Верхня половина стебла бобів, зірвана з землі.
+
+tile.stardew.mushroom.truffle.name=Трюфель
+tile.stardew.mushroom.truffle.desc=Смачний чорний гриб. Чудово підходить для рагу!
+
+tile.stardew.thatch.name=Тетч
+tile.stardew.thatch.desc=Зв'язані волокна та палиці, ідеальні для покрівлі.

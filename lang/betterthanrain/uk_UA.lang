@@ -1,0 +1,42 @@
+subtitles.btr.test=Тестовий звук
+subtitles.btr.rain_sounds_metal=Дощ падає на метал
+subtitles.btr.rain_sounds_metal_muffled=Дощ приглушено падає на метал
+subtitles.btr.rain_sounds_metal_thin=Дощ падає на тонкий метал
+subtitles.btr.rain_sounds_fabric=Дощ падає на тканину
+subtitles.btr.rain_sounds_fabric_muffled=Дощ приглушено падає на тканину
+subtitles.btr.rain_sounds_fabric_thin=Дощ падає на тонку тканину
+subtitles.btr.rain_sounds_glass=Дощ падає на скло
+subtitles.btr.rain_sounds_glass_muffled=Дощ приглушено падає на скло
+subtitles.btr.rain_sounds_foliage=Дощ падає на рослинність
+subtitles.btr.rain_sounds_water=Дощ падає на воду
+subtitles.btr.rain_sounds_stone=Дощ падає на камінь
+subtitles.btr.rain_sounds_stone_muffled=Дощ приглушено падає на камінь
+subtitles.btr.rain_sounds_wood_muffled=Дощ приглушено падає на дерево
+subtitles.btr.rain_sounds_plastic=Дощ падає на пластик
+subtitles.btr.rain_sounds_amethyst=Дощ падає на аметист
+subtitles.btr.rain_sounds_noteblock=Дощ падає на нотний блок
+subtitles.btr.rain_sounds_lava=Дощ падає на лаву
+subtitles.btr.thunder_close=Гроза поблизу
+subtitles.btr.thunder_distant=Гроза здалека
+subtitles.btr.rain_light=Слабкий дощ
+subtitles.btr.rain_medium=Середній дощ
+
+# Settings page
+betterthanrain.options.title=Better than Rain
+betterthanrain.options.master=Загальна гучність
+betterthanrain.options.materials=Гучність матеріалів
+
+# Volume settings (with options. prefix for BTA)
+options.betterthanrain.masterRainVolume=Загальна гучність дощу
+options.betterthanrain.muffledVolume=Гучність приглушених звуків
+options.betterthanrain.useWeatherSounds=Використвувати категорію звуків світу
+options.betterthanrain.metalRainVolume=Гучність падання дощу на метал
+options.betterthanrain.glassRainVolume=Гучність падання дощу на скло
+options.betterthanrain.fabricRainVolume=Гучність падання дощу на тканину
+options.betterthanrain.stoneRainVolume=Гучність падання дощу на камінь
+options.betterthanrain.woodRainVolume=Гучність падання дощу на дерево
+options.betterthanrain.plasticRainVolume=Гучність падання дощу на пластик
+options.betterthanrain.lavaRainVolume=Гучність падання дощу на лаву
+options.betterthanrain.foliageRainVolume=Гучність падання дощу на рослинність
+options.betterthanrain.waterRainVolume=Гучність падання дощу на воду
+options.betterthanrain.noteblockRainVolume=Гучність падання дощу на нотний блок

@@ -1,0 +1,158 @@
+# Death messages
+
+# Passive
+guidebook.section.mob.aerbunny.name.death_message = …як це взагалі сталося?
+
+# Hostile
+guidebook.section.mob.swet.name.death_message = [PLAYER] став желе.
+guidebook.section.mob.swet.gold.name.death_message = [PLAYER] розчинився в золоті.
+guidebook.section.mob.cockatrice.name.death_message = [PLAYER] перетворено на подушечку для голок.
+guidebook.section.mob.aechorplant.name.death_message = [PLAYER] занадто сильно понюхав квітку.
+guidebook.section.mob.tempest.name.death_message = [PLAYER] здуло поривом вітру.
+guidebook.section.mob.mimic.name.death_message = <[PLAYER]> Дякую вам темні душі.
+guidebook.section.mob.sentry.name.death_message = [PLAYER] пройшов над живою шахтою.
+guidebook.section.mob.valkyrie.name.death_message = [PLAYER] програв чесний поєдинок.
+guidebook.section.mob.fireminion.name.death_message = [PLAYER] обійняв вогонь.
+
+# Bosses
+guidebook.section.mob.slider.name.death_message_0 = Могутній [BOSS] розгромив [PLAYER]!
+guidebook.section.mob.slider.name.death_message_1 = Могутній [BOSS] добув [PLAYER]!
+guidebook.section.mob.slider.name.death_message_2 = Могутній [BOSS] кинув [PLAYER]!
+guidebook.section.mob.slider.name.death_message_3 = Могутній [BOSS] кинув [PLAYER]!
+guidebook.section.mob.slider.name.death_message_4 = Могутній [BOSS] розплющив [PLAYER]!
+guidebook.section.mob.slider.name.death_message_5 = Могутній [BOSS] перекинув [PLAYER]!
+guidebook.section.mob.slider.name.death_message_6 = Могутній [BOSS] прибрав з реальности [PLAYER]!
+guidebook.section.mob.slider.name.death_message_7 = Могутній [BOSS] жонглював [PLAYER] між вартовими!
+guidebook.section.mob.slider.name.death_message_8 = Могутній [BOSS] подав [PLAYER] на срібному блюдці!
+
+guidebook.section.mob.valkyrie.queen.name.death_message_0 = [PLAYER] вражений. А [BOSS], ні!
+guidebook.section.mob.valkyrie.queen.name.death_message_1 = [PLAYER] добре бився. [BOSS] билася краще!
+guidebook.section.mob.valkyrie.queen.name.death_message_2 = [PLAYER] зазнає поразку. [BOSS] ніколи не зазнавала поразки!
+guidebook.section.mob.valkyrie.queen.name.death_message_3 = [PLAYER] підняв клинок. [BOSS] здобула перемогу!
+guidebook.section.mob.valkyrie.queen.name.death_message_4 = [PLAYER] відчув грім. [BOSS] — це голос грому!
+guidebook.section.mob.valkyrie.queen.name.death_message_5 = [PLAYER] сильно вдарив. [BOSS] ударила сильніше!
+guidebook.section.mob.valkyrie.queen.name.death_message_6 = [PLAYER] втратив слід. [BOSS] неможливо відстежити!
+guidebook.section.mob.valkyrie.queen.name.death_message_7 = [PLAYER] запропонував медалі. [BOSS] вимагала більше!
+guidebook.section.mob.valkyrie.queen.name.death_message_8 = [PLAYER] вважав себе гідними. [BOSS] довела, що ви неправі!
+guidebook.section.mob.valkyrie.queen.name.death_message.projectile_lightning = [ГРАВЕЦЬ] шокований. [BOSS] потішена!
+
+guidebook.section.mob.sunspirit.name.death_message_0 = [PLAYER] ігнорував іскри, що танцювали навколо! Я, [BOSS], попередив його!
+guidebook.section.mob.sunspirit.name.death_message_1 = [PLAYER] безрозсудно кинувся в моє полум'я! Я, [BOSS], попередив його!
+guidebook.section.mob.sunspirit.name.death_message_2 = [PLAYER] думав, що вони можуть витримати спеку! Я, [BOSS], попередив його!
+guidebook.section.mob.sunspirit.name.death_message_3 = [PLAYER] натрапив на небезпеку! Я, [BOSS], попередив його!
+guidebook.section.mob.sunspirit.name.death_message_4 = [PLAYER] проігнорував мої попередження! Я, [BOSS], попередив його!
+guidebook.section.mob.sunspirit.name.death_message_5 = [PLAYER] недооцінив полум'я! Я, [BOSS], попередив його!
+guidebook.section.mob.sunspirit.name.death_message_6 = [PLAYER] намагався пограти з вогнем! Я, [BOSS], попередив його!
+guidebook.section.mob.sunspirit.name.death_message_7 = [PLAYER] потягнувся до сонця! Я, [BOSS], попередив його!
+guidebook.section.mob.sunspirit.name.death_message_8 = [PLAYER] звільнено! Я, [BOSS], попередив його!
+guidebook.section.mob.sunspirit.name.death_message.projectile_fire = [PLAYER] жонглював забагато полум'я! Я, [BOSS], попередив його!
+guidebook.section.mob.sunspirit.name.death_message.projectile_ice = [PLAYER] прийняв виклик із відра льоду! Я, [BOSS], попередив його!
+
+
+# Valkyrie Interact
+valkyrie.show_medal.1=Ну… у вас там гарна купа медалей…
+valkyrie.show_medal.2=Це досить вражаюче, але ти мене не переможеш.
+valkyrie.show_medal.3=Ви думаєте, що ви крути хлопець? Ну давай!
+
+valkyrie.interact.1=Що це? Ви хочете битися? Ого, яка маленька мила людина.
+valkyrie.interact.2=Ви не збираєтеся битися з великою, сильною валькірією?
+valkyrie.interact.3=Я не думаю, що ви повинні мене турбувати, ви можете отримати серйозну травму.
+
+valkyrie.duel_start.1=Я не ставлюся до тебе легко!
+valkyrie.duel_start.2=Ти пошкодуєш про це!
+valkyrie.duel_start.3=Тепер ти в цьому!
+valkyrie.submit.1=Візьміть свою медаль, ви її заслужили.
+valkyrie.submit.2=Не випробовуйте удачу і візьміть свою медаль.
+valkyrie.submit.3=Колись настане день, візьміть медаль.
+valkyrie.attacked.1=Ви хочете медаль? Медалей за участь немає.
+valkyrie.attacked.2=Ти не такий гарний мертвим, ніж коли живий.
+valkyrie.attacked.3=Можливо, якогось іншого дня.
+
+# color codes pls don't remove or back it up I cannot for the love of god remember what §e is!
+#WHITE               -> 0
+#ORANGE              -> 1
+#MAGENTA             -> 2
+#LIGHT_BLUE          -> 3
+#YELLOW              -> 4
+#LIME                -> 5
+#PINK                -> 6
+#GRAY                -> 7
+#LIGHT_GRAY          -> 8
+#CYAN                -> 9
+#PURPLE              -> a
+#BLUE                -> b
+#BROWN               -> c
+#GREEN               -> d
+#RED                 -> e
+#BLACK               -> f
+#OBFUSCATED          -> g
+#BOLD                -> h
+#STRIKETHROUGH       -> i
+#UNDERLINE           -> j
+#ITALIC              -> k
+#RESET               -> l
+
+# Bosses
+aether.entity.boss_slider.id=boss_slider
+guidebook.section.mob.slider.name.title=%s, Моноліт
+
+boss_slider.hit_fai=Хм. Можливо, мені потрібно атакувати це кайлом?
+
+aether.entity.boss_valkyrie.id=boss_valkyrie
+aether.entity.boss_valkyrie.title=%s, Королева валькірій
+
+boss_valkyrie.duel_start = Добре, нападай на мене, коли хочеш почати.
+boss_valkyrie.condition = Покажи мені 10 переможних медалей, і я буду битися з вами.
+boss_valkyrie.duel = Якщо ти хочеш кинути мені виклик, завдайте удару будь-коли.
+boss_valkyrie.peaceful = У мене немає часу на таких жалюгідних людей, як ти.
+boss_valkyrie.dies = Ти справді… могутній воїн…
+boss_valkyrie.weakling = Вибач, я не борюся зі слабкими.
+boss_valkyrie.fight_weaklings = Спробуй спочатку перемогти кілька слабших валькірій.
+boss_valkyrie.collect_medals = Збери 10 медалей, перш ніж спробувати це.
+boss_valkyrie.target = Це буде твоя остання битва!
+
+aether.entity.boss_sunspirit.id=boss_sunspirit
+aether.entity.boss_sunspirit.title=%s, Дух сонця
+
+boss_sunspirit.chat_0= Ти, безсумнівно, смілива душа, щоб увійти в цю кімнату.
+boss_sunspirit.chat_1= Будь людиною, ти тут ні до чого.
+boss_sunspirit.chat_2= Твоя присутність мене дратує. Ти не боїшся моєї вогняної аури?
+boss_sunspirit.chat_3= Мені нічого тобі запропонувати, дурню. Залиште мене в спокої.
+boss_sunspirit.chat_4= Можливо, ти невіглас. Ти хочеш знати хто я?
+boss_sunspirit.chat_5= Я дух сонця, втілення вічного денного світла Етеру.
+boss_sunspirit.chat_5_1= Поки я живий, сонце ніколи не зайде в цьому світі.
+boss_sunspirit.chat_6= Моє тіло горить гнівом тисячі звірів.
+boss_sunspirit.chat_6_1= Жодна людина, герой чи лиходій не може завдати мені шкоди. Ти не виняток.
+boss_sunspirit.chat_7= ти бажаєш кинути виклик могутності сонця? Ти божевільний.
+boss_sunspirit.chat_7_1= Не ображай мене далі, інакше відчуєш мій гнів.
+boss_sunspirit.chat_8= Це ваше останнє попередження. Ідіть зараз, або готуйтеся згоріти.
+boss_sunspirit.fight.start= Як ти бажаєш, ваша смерть буде повільною та болісною.
+boss_sunspirit.fight.repeat= Чи твоя попередня смерть не задовольнила твою цікавість, людино?
+boss_sunspirit.dies= Такий лютий мороз… це відчуття… болю?
+boss_sunspirit.peaceful_0= Ви точно … боягуз.
+boss_sunspirit.peaceful_1= Геть … боягуз!
+boss_sunspirit.peaceful_2= Ваша присутність мене дратує.
+boss_sunspirit.peaceful_3= Залиште мене в спокої.
+
+# Misc
+aether.entity.arrow_flaming.death_message.suicide = [PLAYER] сам шашлик
+aether.entity.dart.death_message.suicide = [PLAYER] став подушечкою
+aether.entity.dart_enchanted.death_message.suicide = [PLAYER] відчайдушно намагався вилікуватися
+aether.entity.hammer_head.death_message.suicide = [PLAYER] отримав удар
+aether.entity.knife_lightning.death_message.suicide = [PLAYER] виявив електрику
+aether.entity.needle.death_message.suicide = [ГРАВЕЦЬ] отримав удар в Ахіллесову п'яту
+
+aether.entity.arrow_flaming.death_message.player = [KILLER] перетворив [PLAYER] на барбекю
+aether.entity.dart.death_message.player = [KILLER] улучив у яблучко [PLAYER]
+aether.entity.dart_enchanted.death_message.player = [KILLER] вилікував [PLAYER] від життя
+aether.entity.hammer_head.death_message.player = [KILLER] показав [PLAYER] молот
+aether.entity.knife_lightning.death_message.player = [KILLER] поранив [PLAYER].
+aether.entity.needle.death_message.player = [KILLER] перестарався з акупунктурою [PLAYER]
+
+# currently unused
+aether.entity.projectile_fire.death_message.suicide = [PLAYER] жонглював занадто багато полум'я!
+aether.entity.projectile_ice.death_message.suicide = [PLAYER] прийняв виклик із відром льоду!
+aether.entity.projectile_lightning.death_message.suicide = [PLAYER] шокований.
+aether.entity.projectile_fire.death_message.player = [KILLER] гравець з вогнем. [PLAYER] обгорів.
+aether.entity.projectile_ice.death_message.player = [KILLER] повністю заморозив [PLAYER]!
+aether.entity.projectile_lightning.death_message.player = [KILLER] має необмежену силу! [PLAYER] шокований.

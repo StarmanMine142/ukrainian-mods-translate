@@ -1,0 +1,37 @@
+attribute.catalyst.effectDuration.name=Тривалість ефекту
+attribute.catalyst.effectDuration.desc=Змінює загальну тривалість усіх ефектів.
+
+effect.catalyst.durationBoost.name=Підвищення тривалости
+
+gui.options.page.controls.category.catalyst-effects=
+gui.options.page.catalyst-effect=Catalyst: Ефекти
+options.catalyst-effects.displayEffectsIn=Показувати ефекти в
+options.catalyst-effects.displayEffectsIn.inventory=Інвентарі
+options.catalyst-effects.displayEffectsIn.hud=HUD
+options.catalyst-effects.displayEffectsIn.both=Обидва
+
+options.catalyst-effects.displayExtraHealthAs=Показувати додаткове здоров'я як
+options.catalyst-effects.displayExtraHealthAs.extra_bars=Додаткові серця
+options.catalyst-effects.displayExtraHealthAs.multiplier=Числа
+
+error.catalyst-effects.invalidEffect=Надано недійсну назву ефекту!
+error.catalyst-effects.incompatibleEntity=Спроба додати ефекти до несумісної сутности!
+
+command.catalyst-effects.add.extra_health.success_single_entity=Додано %s додаткового здоров'я до %s
+command.catalyst-effects.set.extra_health.success_single_entity=Установлено %s додаткового здоров'я на %s
+command.catalyst-effects.get.extra_health.success_single_entity=Додаткове здоров'я %s становить %s
+
+# для @a
+command.catalyst-effects.add.extra_health.success_multiple_entities=Додано %s додаткового здоров'я гравцям
+command.catalyst-effects.set.extra_health.success_multiple_entities=Установлено додаткове здоров'я гравців на %s
+command.catalyst-effects.get.extra_health.success_multiple_entities=Колективне додаткове здоров'я гравців становить %s
+
+command.catalyst-effects.effects.add.poison.success_single_entity=Додано %s для %s
+command.catalyst-effects.effects.add.poison.success_multiple_entity=Додано %s для %s сутностей
+
+command.catalyst-effects.effects.add.remed..success_single_entity=Додано %s для %s.
+command.catalyst-effects.effects.add.remedy.success_multiple_entity=Додано %s для %s сутностей
+
+command.catalyst-effects.effects.clear.success_single_entity=Очищено всі ефекти %s.
+command.catalyst-effects.effects.clear.success_multiple_entity=Очищено всі ефекти %s сутностей
+

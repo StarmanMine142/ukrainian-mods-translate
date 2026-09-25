@@ -1,0 +1,64 @@
+messages.player_joined=%1$s приєднався до гри
+messages.player_left=%1$s покинув гру
+messages.player_kicked=%1$s покинув гру
+
+messages.illegal_characters=[СЕРВЕР] Хибні символи в повідомленні чату
+
+messages.sleep.succeed=%1$s ляг спати. Солодких снів!
+messages.sleep.enter_bed=%1$s ляг у ліжко.
+messages.sleep.exit_bed=%1$s устав з ліжка.
+messages.sleep.more_required=%1$s потрібно більше гравці для пропуску ночі.
+messages.sleep.more_required.singular=%1$s потрібен гравець для пропуску ночі.
+
+messages.bed.occupied=Це ліжко зайняте
+messages.bed.noSleep=Ви можете спати лише вночі та під час грози
+messages.bed.setSpawn=Установлено точку відродження
+messages.bed.notValid=У вас або немає ліжка або воно недоступне
+messages.bed.noAllowSleeping=Сон вимкнено
+messages.bed.unsafeToSleep=Тут небезпечно спати
+
+messages.wand.wrongmode=Ви повинні бути у режимі творчости, щоб використати цей предмет!
+
+messages.flag.full=У вас занадто багато прапорів на цій мапі!
+messages.flag.overwrite=Не можна перезаписати наявний шаблон
+messages.flag.copied=Шаблон прапора скопійовано
+
+messages.death.mob.generic=%1$s помер
+messages.death.mob.lava=%1$s спробував поплавати в лаві
+messages.death.mob.acid=%1$s занурився в кислоту
+messages.death.mob.spikes=%1$s проткнуто
+messages.death.mob.fall=%1$s зламав свої ноги
+messages.death.mob.drowned=%1$s задихнувся
+messages.death.mob.fire=%1$s спалено
+messages.death.mob.killed_by=%2$s убив %1$s
+
+messages.death.player.generic=%1$s таємничо помер
+messages.death.player.lava=%1$s загубився в усьому цьому
+messages.death.player.acid=%1$s бліьше не суцільний
+messages.death.player.spikes=%1$s упав на пастку
+messages.death.player.fall=%1$s забуі зав'язати шнурівки
+messages.death.player.drowned=%1$s заснув з рибами
+messages.death.player.fire=%1$s засмажився до готовності
+messages.death.player.tnt=Popbob убив %1$s
+messages.death.player.lightning=%1$s заземлено
+messages.death.player.herobrine=геробрін убив %1$s
+messages.death.player.killed_by=%2$s ударив %1$s у спину
+messages.death.player.killed_by.zombie=%1$s зустрів зомбі
+messages.death.player.killed_by.zombie_pig=%1$s дізнався принципів мобів
+messages.death.player.killed_by.creeper=%1$s більше не хоче бачити кріперів
+messages.death.player.killed_by.skeleton=%1$s став жертвою аймбота
+messages.death.player.killed_by.spider=%1$s витратив забагато часу в павутині
+messages.death.player.killed_by.ghast=%1$s не повернув відправнику
+messages.death.player.killed_by.slime=%1$s поглинутий слизом
+messages.death.player.killed_by.wolf=%1$s отримав по заслугах
+messages.death.player.killed_by.giant=Хто-хто убив %1$s?!
+messages.death.player.killed_by.pig=%1$s *дуже* погано грає в Minecraft
+messages.death.player.killed_by.arrow=%1$s став подушечкою для голок
+messages.death.player.killed_by.arrow_player=%2$s дав 360-градусний ноускоп %1$s
+messages.death.player.killed_by.arrow_suicide=%1$s різрав у смертельну рулетку
+messages.death.player.killed_by.arrow_golden=%1$s став швейцраським сиром
+messages.death.player.killed_by.arrow_golden_player=%2$s пронизив %1$s
+messages.death.player.killed_by.arrow_golden_suicide=%1$s отримав золото в очі
+messages.death.player.killed_by.cannonball=%1$s віддалено вибухнув
+messages.death.player.killed_by.cannonball_player=%2$s розбив %1$s
+messages.death.player.killed_by.cannonball_suicide=%1$s стрибнув занадто високо

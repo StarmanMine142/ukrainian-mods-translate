@@ -1,0 +1,12 @@
+commandly.command.grow=Вирощено %s рослин
+commandly.commandly.treecapitator.inactive=Спочатку увімкніть SMART_TREECAPITATOR у налаштуваннях
+commandly.commandly.veinminer.inactive=Спочатку увімкніть SMART_VEINMINER у налаштуваннях
+commandly.all.inactive=Спочатку увімкніть один або обидва SMART_TREECAPITATOR і SMART_VEINMINER у налаштуваннях
+commandly.protected.fail=Жодного нового блоку не було захищено
+commandly.protected.active=%d блоків додано для захисту
+commandly.protected.tolarge=Неможливо виконати команду, вибрана область занадто велика
+commandly.descend.down=Спустіться поверхом вниз
+commandly.descend.fail=Немає нижнього поверху, на який можна спуститися
+commandly.ascend.up=Підніміться поверхом вгору
+commandly.ascend.fail=Немає вищого поверху, на який можна піднятися
+commadly.protected.toolarge=Вибрана область занадто велика, будь ласка, виберіть меншу область

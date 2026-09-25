@@ -1,0 +1,38 @@
+#Dimension
+dimension.aether.name=Етер
+dimension.aether.desc=Ворожий Рай
+
+#Worldtype
+worldType.aether.default.name=Етер
+worldType.aether.default.descДосвід, подібний усталеному моду.
+worldType.aether.extended.name=Розширений
+worldType.aether.extended.desc=Передбачуваний досвід для\nBWA, що містить більші біоми та\nменші світи.
+worldType.aether.skyblock.name=Острів в небі
+worldType.aether.skyblock.desc=Гардкорне виживання на крихітному\nострівці в небі.
+worldType.aether.retro.name=Старий
+worldType.aether.retro.desc=Як усталений, але з оригінальними текстурами.
+
+#Record
+record.aether=Мелодія Етеру
+record.morning=Ранкове бажання
+record.dawn=Висхідна зоря
+record.nether=Меню Незеру
+
+
+#Container
+container.enchanter.name=Зачаровувач
+container.freezer.name=Заморожувач
+container.incubator.name=Інкубатор
+
+container.chest.trapped.name=Мімік
+
+damagetype.lightning=Блискавка
+damagetype.holy=Святість
+
+
+#Btwaila support
+aether.tooltip.enchanter.progress= Зачарування:
+aether.tooltip.freezer.progress= Замороження:
+aether.tooltip.incubator.progress= Інкубація:
+
+aether.tooltip.machine.energy=Час енергії: %sсек.

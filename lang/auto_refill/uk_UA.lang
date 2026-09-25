@@ -1,0 +1,10 @@
+AutoRefill = Автопоповнення
+options.playRefillSound=Звук автопоповнення
+options.refillSoundVolume=Гучність автопоповнення
+options.useRefillForDropping=Автопоповнення при викидання
+options.useAnyRefill=Автопоповнення всього
+options.useRefillForTools=Автопоповнення інструментів
+options.useRefillForFood=Автопоповнення їжі
+options.useRefillOnItems=Автопоповнення предметів тощо
+
+item.auto_refill.debug.name=Предмет налагодження

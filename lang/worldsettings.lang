@@ -1,0 +1,12 @@
+world_settings.values.on=УВІМК.
+world_settings.values.off=ВИМК.
+
+world_settings.world_height.bottom.name=Висота світу знизу
+world_settings.world_height.ocean.name=Висота океану
+world_settings.world_height.top.name=Межа будування згори
+world_settings.single_season.enabled.name=Один океан
+world_settings.single_season.value.name=
+world_settings.starting_biome.enabled.name=Початковий біом
+world_settings.starting_biome.value.name=
+world_settings.single_biome.enabled.name=Початковий біом
+world_settings.single_biome.value.name=

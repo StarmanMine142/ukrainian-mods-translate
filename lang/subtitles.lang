@@ -1,0 +1,123 @@
+subtitles.mob.sheep=Вівця бекає
+subtitles.mob.chicken=Курка кудкудакає
+subtitles.mob.chicken.hurt=Курку поранено
+subtitles.mob.chicken.plop=Курка зносить яйце
+subtitles.mob.pig=Свиня хрюкає
+subtitles.mob.pig.death=Свиня помирає
+subtitles.mob.wolf.howl=Вовк виє
+subtitles.mob.wolf.panting=Вовк пихтить
+subtitles.mob.wolf.hurt=Вовка поранено
+subtitles.mob.wolf.bark=Вовк гавкає
+subtitles.mob.wolf.growl=Вовк гарчить
+subtitles.mob.wolf.death=Вовк гине
+subtitles.mob.wolf.whine=Вовк скиглить
+subtitles.mob.wolf.shake=Вовк трясеться
+subtitles.mob.cow.hurt=Корову поранено
+subtitles.mob.cow=Корова мукає
+subtitles.mob.zombie=Зомбі стогне
+subtitles.mob.zombie.hurt=Зомбі поранено
+subtitles.mob.zombie.death=Зомбі гине
+subtitles.mob.zombiepig.zpighurt=Зомбосвинолюдину поранено
+subtitles.mob.zombiepig.zpig=Зомбосвинолюдина стогне
+subtitles.mob.zombiepig.zpigdeath=Зомбосвинолюдина помирає
+subtitles.mob.zombiepig.zpigangry=Зомбосвинолюдина розлючена
+subtitles.mob.skeleton=Скелет бряжчить кістками
+subtitles.mob.skeleton.death=Скелет гине
+subtitles.mob.skeleton.hurt=Скелета поранено
+subtitles.mob.ghast.fireball=Вогняна куля ґаста
+subtitles.mob.ghast.moan=Ґаст стогне
+subtitles.mob.ghast.death=Ґаст помирає
+subtitles.mob.ghast.scream=Ґаст кричить
+subtitles.mob.ghast.affectionate_scream=Ґаст ласкаво кричить
+subtitles.mob.creeper=Кріпер шипить
+subtitles.mob.creeper.death=Кріпер гине
+subtitles.mob.creeper.fuse=Кріпер запалюється
+subtitles.mob.spider.death=Павук гине
+subtitles.mob.spider=Павук шипить
+subtitles.mob.ghast.charge=Ґаст заряджається
+subtitles.mob.slime.attack=Слизень атакує
+subtitles.mob.slime=Слимак ділиться
+subtitles.mob.player.death=Гравець гине
+subtitles.mob.player.hurt=Гравця поранено
+
+subtitles.fall.small=Мале падіння
+subtitles.damage.fall.big=Велике падіння
+
+subtitles.liquid.water=Вода тече
+subtitles.liquid.lava.pop=Лава булькає
+subtitles.liquid.lava=Лава вирує
+subtitles.liquid.splash=Плескіт води
+
+subtitles.portal.portal=Звуки порталу
+subtitles.portal.trigger=Портал телепортує
+subtitles.portal.travel=Мандрівка через портал
+
+subtitles.item.pickup=Предмет піднято
+
+subtitles.random.fizz=Шипіння
+subtitles.random.drr=Стріла влучає
+subtitles.random.fuse=Запальничка запалює
+subtitles.random.skate=Катання на ковзанах
+subtitles.random.pop=Булькання
+subtitles.random.glass=Скло
+subtitles.random.door_open=Двері відчинено
+subtitles.random.door_close=Двері зачинено
+subtitles.random.explode=Вибух
+subtitles.random.bow=Постріл з лука
+subtitles.random.hurt=Поранено
+subtitles.random.splash=Плескіт
+subtitles.random.breath=Дихання
+subtitles.random.bite=Гравець їсть
+subtitles.random.equip=Одягання обладунків
+subtitles.random.stone_scrape=Камінь шкребе
+
+subtitles.note.snare=Нота барабан
+subtitles.note.harp=Нота арфа
+subtitles.note.bass=Нота бас
+subtitles.note.bd=Ноту зіграно
+subtitles.note.pling=Нота електропіаніно
+subtitles.note.hat=Нота капелюх
+subtitles.note.bassattack=Нота басової атаки
+subtitles.note.chant=Нота спів
+subtitles.note.drum_steel=Нота сталевий барабан
+subtitles.note.chip_triangle=Нота трикутної хвилі
+subtitles.note.guitar_electric=Нота електрогітари
+subtitles.note.celesta=Нота челеста
+subtitles.note.wood_block=Нота дерев'яний блок
+
+subtitles.ambient.weather.thunder=Грім
+subtitles.ambient.cave=Звуки печер
+subtitles.ambient.weather.rain=Дощ
+
+subtitles.tile.piston.out=Поршень рухається
+subtitles.tile.piston.in=Поршень рухається
+subtitles.tile.piston.detached=Поршень від'єднано
+subtitles.tile.piston.attached=Поршень приєднано
+subtitles.tile.piston.detached.out=Поршень не зміг висунутися
+subtitles.tile.piston.detached.in=Поршень не зміг утягнутися
+
+subtitles.tile.tnt.fuse=Динаміт запалено
+subtitles.tile.sensor_block.sense=Моба виявлено
+subtitles.tile.mobspawner.spawn=Моб з'явився
+
+subtitles.tile.dispenser.click=Роздавач клацнув
+subtitles.tile.dispenser.eject=Роздавач викинув
+subtitles.tile.dispenser.fire=Роздавач вистрілив
+
+subtitles.tile.activator.click=Використовувач клацнув
+subtitles.tile.activator.use=Використовувач використав
+
+subtitles.tile.crystal=Кристал дзеньчіть
+
+subtitles.tile.scrape=Статуя шкребе
+
+subtitles.tile.deepcrumble=Глибоке розбиття
+subtitles.tile.deepboom=Глибокий гуркіт
+subtitles.tile.crumble=Розбиття
+subtitles.tile.acidbubble=Кислотні більбашки
+subtitles.tile.deepquietboom=Глибокий та тихий гуркіт
+
+subtitles.hurt.flesh=Поранена плоть
+
+subtitles.fire.ignite=Вогонь запалено
+subtitles.fire.fire=Вогонь тріщить

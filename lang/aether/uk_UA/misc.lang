@@ -1,0 +1,15 @@
+#Effects
+effect.aether.poison.name=Отруєння
+effect.aether.remedy.name=Лікування
+effect.aether.invisibility.name=Невидимість
+effect.aether.swetty.name=Солодкість
+
+#Music
+aether_tune=Мелодія Етеру
+a_morning_wish=Ранкове бажання
+ascending_dawn=Висхідна зоря
+nether_menu=Меню Незеру
+
+aether.download_resources=Завантаження ресурсів Етеру… [%d | %d]
+
+

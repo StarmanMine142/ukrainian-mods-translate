@@ -1,0 +1,6 @@
+options.dynamicProjectorMode=Динамічне світло
+
+gui.options.dynamicProjectorMode.fast=Швидко
+gui.options.dynamicProjectorMode.realtime=Реальрий час
+gui.options.dynamicProjectorMode.off=ВИМК.
+

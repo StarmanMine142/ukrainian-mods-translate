@@ -1,0 +1,257 @@
+tile.cavecliff.amethyst.name=Блок аметиста
+tile.cavecliff.amethyst.desc=Суцільний блок аметиста.
+
+tile.cavecliff.amethyst.budding.name=Родючий аметист
+tile.cavecliff.amethyst.budding.desc=Унікальний тип аметиста, на якому можуть рости зародки та друзи.
+
+tile.cavecliff.amethyst.cluster.small.name=Малий зародок аметиста
+tile.cavecliff.amethyst.cluster.small.desc=Малий шматок ростучого кристала аметиста.
+tile.cavecliff.amethyst.cluster.medium.name=Середній зародок аметиста
+tile.cavecliff.amethyst.cluster.medium.desc=Середній шматок ростучого кристала аметиста.
+tile.cavecliff.amethyst.cluster.large.name=Великий зародок аметиста
+tile.cavecliff.amethyst.cluster.large.desc=Великий шматок ростучого кристала аметиста.
+tile.cavecliff.amethyst.cluster.name=Аметистова друза
+tile.cavecliff.amethyst.cluster.desc=Аметист, що повністю виріс.
+
+tile.cavecliff.tuff.name=Туф
+tile.cavecliff.tuff.desc=Гірська порода осадового походження.
+
+tile.cavecliff.calcite.name=Кальцит
+tile.cavecliff.calcite.desc=Кристал карбонату кальцію.
+
+tile.cavecliff.ore.copper.stone.name=Кам'яна мідна руда
+tile.cavecliff.ore.copper.stone.desc=Шматок міді, закладений у камінь.
+
+tile.cavecliff.ore.copper.basalt.name=Базальтова мідна руда
+tile.cavecliff.ore.copper.basalt.desc=Шматок міді, закладений у базальт.
+
+tile.cavecliff.ore.copper.limestone.name=Вапнякова мідна руда
+tile.cavecliff.ore.copper.limestone.desc=Шматок міді, закладений у вапняк.
+
+tile.cavecliff.ore.copper.granite.name=Гранітна мідна руда
+tile.cavecliff.ore.copper.granite.desc=Шматок міді, закладений у граніт.
+
+tile.cavecliff.ore.copper.permafrost.name=Обледеніла кам'яна мідна руда
+tile.cavecliff.ore.copper.permafrost.desc=Шматок міді, закладений в обледенілий камінь.
+
+tile.cavecliff.block.copper.clean.name=Блок міді
+tile.cavecliff.block.copper.clean.desc=Суцільний блок міді.
+tile.cavecliff.block.copper.exposed.name=Наражена мідь
+tile.cavecliff.block.copper.exposed.desc=Суцільний блок нараженої міді.
+tile.cavecliff.block.copper.weathered.name=Окиснена мідь
+tile.cavecliff.block.copper.weathered.desc=Суцільний блок вивітреної міді.
+tile.cavecliff.block.copper.oxidized.name=Окиснена мідь
+tile.cavecliff.block.copper.oxidized.desc=Суцільний блок окисненої міді.
+
+tile.cavecliff.brick.copper.clean.name=Мідна цегла
+tile.cavecliff.brick.copper.clean.desc=Цегла з міді.
+tile.cavecliff.brick.copper.exposed.name=Наражена мідна цегла
+tile.cavecliff.brick.copper.exposed.desc=Цегла з нараженої міді.
+tile.cavecliff.brick.copper.weathered.name=Вивітрений мідна цегла
+tile.cavecliff.brick.copper.weathered.desc=Цегла з вивітреної міді.
+tile.cavecliff.brick.copper.oxidized.name=Окиснений мідна цегла
+tile.cavecliff.brick.copper.oxidized.desc=Цегла з окисненої міді.
+
+tile.cavecliff.lightning.rod.name=Блискавковідвід
+tile.cavecliff.lightning.rod.desc=Мідь, використана для відводу блискавок.
+
+tile.cavecliff.block.snow.powder.name=Сипкий сніг
+tile.cavecliff.block.snow.powder.desc=Пухкий сніг, упакований у гірко-холодну брилу.
+
+tile.cavecliff.candle.name=Свічка
+tile.cavecliff.candle.desc=Вогняне джерело світла, виготовлене з паперового воску.
+tile.cavecliff.candle.lit.name=Запалена свічка
+tile.cavecliff.candle.lit.desc=Вогняне джерело світла, виготовлене з паперового воску. Світиться.
+
+tile.cavecliff.dripstone.name=Загострений сталактит
+tile.cavecliff.dripstone.desc=Гострий блок, при падінні на який ви отримуєте більшу шкоду та падає, якщо згори немає опори.
+
+tile.cavecliff.leaves.azalea.name=Азалієве листя
+tile.cavecliff.leaves.azalea.desc=Листя з азалії.
+
+tile.cavecliff.leaves.azalea.flowering.name=Квітучо-азалієве листя
+tile.cavecliff.leaves.azalea.flowering.desc=Листя з азалії, заросле квітами.
+
+tile.cavecliff.sapling.azalea.name=Паросток азалії
+tile.cavecliff.sapling.azalea.desc=Посадіть, з часом виросте азалія.
+
+tile.cavecliff.sapling.azalea.flowering.name=Паросток квітучої азалії
+tile.cavecliff.sapling.azalea.flowering.desc=Посадіть, з часом виросте квітуча азалія.
+
+tile.cavecliff.log.azalea.name=Азалієва колода
+tile.cavecliff.log.azalea.desc=Колода з азалії.
+
+tile.cavecliff.block.moss.name=Мох
+tile.cavecliff.block.moss.desc=Велика грудка зелені.
+
+tile.cavecliff.moss.layer.name=Моховий покрив
+tile.cavecliff.moss.layer.desc=Пласка грудка моху.
+
+tile.cavecliff.dirt.rooted.name=Кореневий ґрунт
+tile.cavecliff.dirt.rooted.desc=Ґрунт, зарослий корінням.
+
+tile.cavecliff.block.raw.iron.name=Блок необробленого заліза
+tile.cavecliff.block.raw.iron.desc=Суцільний блок необробленого заліза.
+
+tile.cavecliff.block.raw.gold.name=Блок необробленого золота
+tile.cavecliff.block.raw.gold.desc=Суцільний блок необробленого золота.
+
+tile.cavecliff.block.raw.copper.name=Блок необробленої міді
+tile.cavecliff.block.raw.copper.desc=Суцільний блок необробленої міді.
+
+tile.cavecliff.vines.name=Лози
+tile.cavecliff.vines.desc=Довга, висяча лоза, на якій можна лазити та ростуть сяйні ягоди.
+
+tile.cavecliff.vines.glowing.name=Квітучі лози
+tile.cavecliff.vines.glowing.desc=Довга, висяча лоза, на якій можна лазити та ростуть сяйні ягоди.
+
+tile.cavecliff.lichen.name=Світлолишайник
+tile.cavecliff.lichen.desc=Блідо-зелені водорості, що світяться.
+
+tile.cavecliff.flower.spore.name=Спороцвіт
+tile.cavecliff.flower.spore.desc=Унікальна квітка, що випускає пилок.
+
+tile.cavecliff.dripleaf.big.name=Великий краплелист
+tile.cavecliff.dripleaf.big.desc=Стебло рослини з великим листом.
+
+tile.cavecliff.dripleaf.small.name=Малий краплелист
+tile.cavecliff.dripleaf.small.desc=Стебло рослини з 4 листками.
+
+tile.cavecliff.roots.name=Висяче коріння
+tile.cavecliff.roots.desc=Висячі коріння, які звисають зверху.
+
+item.cavecliff.amethyst.name=Аметистовий уламок
+item.cavecliff.amethyst.desc=Яскравий фіолетовий кристал, який, здається, вібрує.
+
+item.cavecliff.ingot.copper.name=Мідний злиток
+item.cavecliff.ingot.copper.desc=Металевий брусок міді, який використовується для виготовлення блоків.
+
+item.cavecliff.ore.raw.copper.name=Необроблена мідь
+item.cavecliff.ore.raw.copper.desc=Шматок необробленої міді. Можна перетопити у мідний злиток.
+
+item.cavecliff.food.berries.name=Сяйні ягоди
+item.cavecliff.food.berries.desc=Жовті сяйні ягоди, які йдуть парами.
+
+item.cavecliff.record.otherside.name=Платівка
+item.cavecliff.record.otherside.desc=§9other§5side
+
+item.cavecliff.horn.goat.name=Козячий ріг
+item.cavecliff.horn.goat.desc=Використовується для відтворення дивного звуку, має малу затримку.
+
+item.cavecliff.inksac.glow.name=Сяйний чорнильний мішок
+item.cavecliff.inksac.glow.desc=Можна використовувати для створення блакитного барвника та світлолишайника.
+
+tile.cavecliff.candle.colored.name=Кольорова свічка
+tile.cavecliff.candle.colored.desc=Свічка, пофарбована.
+tile.cavecliff.candle.colored.white.name=Біла свічка
+tile.cavecliff.candle.colored.white.desc=Свічка, пофарбована в білий.
+tile.cavecliff.candle.colored.orange.name=Помаранчева свічка
+tile.cavecliff.candle.colored.orange.desc=Свічка, пофарбована в помаранчевий.
+tile.cavecliff.candle.colored.magenta.name=Пурпурова свічка
+tile.cavecliff.candle.colored.magenta.desc=Свічка, пофарбована в пурпуровий.
+tile.cavecliff.candle.colored.red.name=Червона свічка
+tile.cavecliff.candle.colored.red.desc=Свічка, пофарбована в червоний.
+tile.cavecliff.candle.colored.yellow.name=Жовта свічка
+tile.cavecliff.candle.colored.yellow.desc=Свічка, пофарбована в жовтий.
+tile.cavecliff.candle.colored.lime.name=Лаймова свічка
+tile.cavecliff.candle.colored.lime.desc=Свічка, пофарбована в лаймовий.
+tile.cavecliff.candle.colored.green.name=Зелена свічка
+tile.cavecliff.candle.colored.green.desc=Свічка, пофарбована в зелений.
+tile.cavecliff.candle.colored.cyan.name=Бірюзова свічка
+tile.cavecliff.candle.colored.cyan.desc=Свічка, пофарбована в бірюзовий.
+tile.cavecliff.candle.colored.lightblue.name=Блакитна свічка
+tile.cavecliff.candle.colored.lightblue.desc=Свічка, пофарбована в блакитний.
+tile.cavecliff.candle.colored.blue.name=Синя свічка
+tile.cavecliff.candle.colored.blue.desc=Свічка, пофарбована в синій.
+tile.cavecliff.candle.colored.purple.name=Фіолетова свічка
+tile.cavecliff.candle.colored.purple.desc=Свічка, пофарбована в фіолетовий.
+tile.cavecliff.candle.colored.pink.name=Рожева свічка
+tile.cavecliff.candle.colored.pink.desc=Свічка, пофарбована в рожевий.
+tile.cavecliff.candle.colored.brown.name=Коричнева свічка
+tile.cavecliff.candle.colored.brown.desc=Свічка, пофарбована в коричневий.
+tile.cavecliff.candle.colored.gray.name=Сіра свічка
+tile.cavecliff.candle.colored.gray.desc=Свічка, пофарбована в сірий.
+tile.cavecliff.candle.colored.silver.name=Світло-сіра свічка
+tile.cavecliff.candle.colored.silver.desc=Свічка, пофарбована в світло-сірий.
+tile.cavecliff.candle.colored.black.name=Чорна свічка
+tile.cavecliff.candle.colored.black.desc=Свічка, пофарбована в чорний.
+
+tile.cavecliff.candle.colored.lit.name=Запалена кольорова свічка
+tile.cavecliff.candle.colored.lit.desc=Свічка, пофарбована. Світиться.
+tile.cavecliff.candle.colored.lit.white.name=Запалена біла свічка
+tile.cavecliff.candle.colored.lit.white.desc=Свічка, пофарбована в білий. Світиться.
+tile.cavecliff.candle.colored.lit.orange.name=Запалена помаранчева свічка
+tile.cavecliff.candle.colored.lit.orange.desc=Свічка, пофарбована в помаранчевий. Світиться.
+tile.cavecliff.candle.colored.lit.magenta.name=Запалена пурпурова свічка
+tile.cavecliff.candle.colored.lit.magenta.desc=Свічка, пофарбована в пурпуровий. Світиться.
+tile.cavecliff.candle.colored.lit.red.name=Запалена червона свічка
+tile.cavecliff.candle.colored.lit.red.desc=Свічка, пофарбована в червоний. Світиться.
+tile.cavecliff.candle.colored.lit.yellow.name=Запалена жовта свічка
+tile.cavecliff.candle.colored.lit.yellow.desc=Свічка, пофарбована в жовтий. Світиться.
+tile.cavecliff.candle.colored.lit.lime.name=Запалена лаймова свічка
+tile.cavecliff.candle.colored.lit.lime.desc=Свічка, пофарбована в лаймовий. Світиться.
+tile.cavecliff.candle.colored.lit.green.name=Запалена зелена свічка
+tile.cavecliff.candle.colored.lit.green.desc=Свічка, пофарбована в зелений. Світиться.
+tile.cavecliff.candle.colored.lit.cyan.name=Запалена бірюзова свічка
+tile.cavecliff.candle.colored.lit.cyan.desc=Свічка, пофарбована в бірюзовий. Світиться.
+tile.cavecliff.candle.colored.lit.lightblue.name=Запалена блакитна свічка
+tile.cavecliff.candle.colored.lit.lightblue.desc=Свічка, пофарбована в блакитний. Світиться.
+tile.cavecliff.candle.colored.lit.blue.name=Запалена синя свічка
+tile.cavecliff.candle.colored.lit.blue.desc=Свічка, пофарбована в синій. Світиться.
+tile.cavecliff.candle.colored.lit.purple.name=Запалена фіолетова свічка
+tile.cavecliff.candle.colored.lit.purple.desc=Свічка, пофарбована в фіолетовий. Світиться.
+tile.cavecliff.candle.colored.lit.pink.name=Запалена рожева свічка
+tile.cavecliff.candle.colored.lit.pink.desc=Свічка, пофарбована в рожевий. Світиться.
+tile.cavecliff.candle.colored.lit.brown.name=Запалена коричнева свічка
+tile.cavecliff.candle.colored.lit.brown.desc=Свічка, пофарбована в коричневий. Світиться.
+tile.cavecliff.candle.colored.lit.gray.name=Запалена сіра свічка
+tile.cavecliff.candle.colored.lit.gray.desc=Свічка, пофарбована в сірий. Світиться.
+tile.cavecliff.candle.colored.lit.silver.name=Запалена світло-сіра свічка
+tile.cavecliff.candle.colored.lit.silver.desc=Свічка, пофарбована в світло-сірий. Світиться.
+tile.cavecliff.candle.colored.lit.black.name=Запалена чорна свічка
+tile.cavecliff.candle.colored.lit.black.desc=Свічка, пофарбована в чорний. Світиться.
+
+
+tile.cavecliff.slab.brick.copper.name=Плита з мідної цегли
+tile.cavecliff.slab.brick.copper.desc=Плита мідної цегли.
+tile.cavecliff.slab.brick.copper.clean.name=Плита з мідної цегли
+tile.cavecliff.slab.brick.copper.clean.desc=Плита мідної цегли.
+tile.cavecliff.slab.brick.copper.oxidized.name=Плита з окисненої мідної цегли
+tile.cavecliff.slab.brick.copper.oxidized.desc=Плита окисненої мідної цегли.
+tile.cavecliff.slab.brick.copper.weathered.name=Плита з вивітреної мідної цегли
+tile.cavecliff.slab.brick.copper.weathered.desc=Плита вивітреної мідної цегли.
+tile.cavecliff.slab.brick.copper.exposed.name=Плита з нараженої мідної цегли
+tile.cavecliff.slab.brick.copper.exposed.desc=Плита нараженої мідної цегли.
+
+tile.cavecliff.stairs.brick.copper.name=Сходи з мідної цегли
+tile.cavecliff.stairs.brick.copper.desc=Мідна цегла для швидкого вертикального руху.
+tile.cavecliff.stairs.brick.copper.clean.name=Сходи з мідної цегли
+tile.cavecliff.stairs.brick.copper.clean.desc=Мідна цегла для швидкого вертикального руху.
+tile.cavecliff.stairs.brick.copper.exposed.name=Сходи з нараженої мідної цегли
+tile.cavecliff.stairs.brick.copper.exposed.desc=Наражена мідна цегла для швидкого вертикального руху.
+tile.cavecliff.stairs.brick.copper.weathered.name=Сходи з вивітреної мідної цегли
+tile.cavecliff.stairs.brick.copper.weathered.desc=Вивітрена мідна цегла для швидкого вертикального руху.
+tile.cavecliff.stairs.brick.copper.oxidized.name=Сходи з окисненої мідної цегли
+tile.cavecliff.stairs.brick.copper.oxidized.desc=Окиснена мідна цегла для швидкого вертикального руху.
+
+
+cavecliff.entity.goat=Коза
+guidebook.section.mob.goat.name=Коза
+guidebook.section.mob.goat.desc=Кози — єдине джерело рогів, які можна використовувати для створення звуків.\nЇх можна знайти в гірських біомах.
+subtitles.mob.goat.scream=Коза кричить 
+subtitles.mob.goat.idle=Коза мекає
+subtitles.mob.goat.hurt=Козу поранено
+subtitles.mob.goat.death=Коза гине
+
+subtitles.goathorn=Козячий ріг грає
+
+cavecliff.entity.glowsquid=Сяйний кальмар
+guidebook.section.mob.squid.glow.name=Сяйний кальмар
+guidebook.section.mob.squid.glow.desc=Сяйні кальмари є джерелом сяйних чорнильних мішків, які можна використовувати для фарбування вовни.\nЇх можна знайти в озерах і океанах.
+
+cavecliff.entity.axolotl=Аксолотль
+guidebook.section.mob.axolotl.name=Аксолотль
+guidebook.section.mob.axolotl.desc=Аксолотлі можуть стати чудовим супутником у воді, якщо їх годувати рибою.\nЇх можна зустріти в озерах і океанах.
+subtitles.mob.axolotl.idle=Аксолотль щебече
+subtitles.mob.axolotl.hurt=Аксолотля поранено
+subtitles.mob.axolotl.death=Аксолотль гине

@@ -1,0 +1,138 @@
+item.potatotech.potato.name=Картопля
+item.potatotech.potato.desc=Не вб'є вас уві сні:)
+
+item.potatotech.wrench.name=Гайковий ключ
+item.potatotech.wrench.desc=Не дає вам ліцензію сантехніка.
+
+item.potatotech.wood_crushing_hammer.name = Дерев'яний дробильний молот
+item.potatotech.wood_crushing_hammer.desc = Спробуйте подробити пісок!
+
+item.potatotech.stone_crushing_hammer.name = Кам'яний дробильний молот
+item.potatotech.stone_crushing_hammer.desc = Спробуйте подробити пісок!
+
+item.potatotech.iron_crushing_hammer.name = Залізний дробильний молот
+item.potatotech.iron_crushing_hammer.desc = Спробуйте подробити пісок!
+
+item.potatotech.diamond_crushing_hammer.name = Діамантовий дробильний молот
+item.potatotech.diamond_crushing_hammer.desc = Спробуйте подробити пісок! Дорогий!
+
+item.potatotech.steel_crushing_hammer.name = Сталевий дробильний молот
+item.potatotech.steel_crushing_hammer.desc = Спробуйте подробити пісок!
+
+item.potatotech.potato_knish.name=Картопляний Книш
+item.potatotech.potato_knish.desc=Можна довіряти.
+
+tile.potatotech.chute.name=Жолоб
+tile.potatotech.chute.desc=Автоматизує збір предметів, надає життю сенс.
+
+item.potatotech.energy_connector.name=НН Енергетичний роз'єм
+item.potatotech.energy_connector.desc=Забезпечує енергією ваші машини
+
+tile.potatotech.energy_connector.name=Конектор енергії
+tile.potatotech.energy_connector.desc=Забезпечує енергією ваші машини
+
+item.potatotech.wire_spool.name=Котушка дроту НН
+item.potatotech.wire_spool.desc=Використовується для з'єднання двох роз'ємів.
+
+item.potatotech.redstone_alloy.name=Редстоуновий сплав
+item.potatotech.redstone_alloy.desc=Кому взагалі потрібна мідь?
+
+item.potatotech.redstone_iron_mix.name=Редстоуново-залізний композит
+item.potatotech.redstone_iron_mix.desc=Спробуйте перетопити це!
+
+tile.potatotech.potato.name=Блок картоплі
+tile.potatotech.potato.desc=Не варто довіряти!
+
+item.potatotech.iron_gear.name=Залізна  шестірня
+item.potatotech.iron_gear.desc=Це обердається.
+
+item.potatotech.steel_gear.name=Сталева шестірня
+item.potatotech.steel_gear.desc=Це обертається краще.
+
+item.potatotech.crushed_iron_ore.name=Дроблене залізо
+item.potatotech.crushed_iron_ore.desc=Спробуйте перетопити це.
+
+tile.potatotech.clay_iron.name=Глиняне залізо
+tile.potatotech.clay_iron.desc=Дробіть це.
+
+item.potatotech.crushed_gold_ore.name=Дроблене золото
+item.potatotech.crushed_gold_ore.desc=Спробуйте перетопити це.
+
+tile.potatotech.clay_gold.name=Глиняне золото
+tile.potatotech.clay_gold.desc=Дробіть це.
+
+tile.potatotech.pipe.name=Труба
+tile.potatotech.pipe.desc=Не містить зони переміщення.
+
+tile.potatotech.gold_pipe.name=Золота труба
+tile.potatotech.gold_pipe.desc=Швидша.
+
+tile.potatotech.diamond_pipe.name=Діамантова труба
+tile.potatotech.diamond_pipe.desc=Швидкіша.
+
+tile.potatotech.filter.name=Фільтр
+tile.potatotech.filter.desc=Робить те, що ви повинні робити зі своєю кімнатою.
+
+tile.potatotech.directional_pipe.name=Спрямована труба
+tile.potatotech.directional_pipe.desc=Блискуча.
+
+tile.potatotech.block_crusher.name=Подрібнювач блоків
+tile.potatotech.block_crusher.desc=Подрібнює блоки, не солодкий.
+
+tile.potatotech.block_placer.name=Розміщувач блоків
+tile.potatotech.block_placer.desc=Це замінить тебе в будівництві.
+
+tile.potatotech.tree_chopper.name=Дереворуб
+tile.potatotech.tree_chopper.desc=Для тих, кому ліньки рубати дерева.
+
+tile.potatotech.iron_machine_block.name=Залізний машинний блок
+tile.potatotech.iron_machine_block.desc=Базовий будівельний блок для простих машин.
+
+tile.potatotech.steel_machine_block.name=Сталевий машинний блок
+tile.potatotech.steel_machine_block.desc=Базовий будівельний блок для більш просунутих машин.
+
+tile.potatotech.mining_drill.name=Добувний бур
+tile.potatotech.mining_drill.desc=ЦЕ НЕ БУР!
+
+tile.potatotech.advanced_dispenser.name=Розширений роздавач
+tile.potatotech.advanced_dispenser.desc=Може використовувати кісткове порошно.
+
+tile.potatotech.furnace_burner.name=Пальник печі
+tile.potatotech.furnace_burner.desc=Тут стає спекотно!
+
+tile.potatotech.furnace_burner_on.name=Пальник печі
+tile.potatotech.furnace_burner_on.desc=Тут стає спекотно!
+
+tile.potatotech.stirling_engine_lv.name=Двигун Стірлінга НН
+tile.potatotech.stirling_engine_lv.desc=Від гарячого до кінетичного, весела вечірка!
+
+tile.potatotech.stirling_engine_mv.name=Двигун Стірлінга СН
+tile.potatotech.stirling_engine_mv.desc=Веселіша вечірка!
+
+tile.potatotech.coil.name=Котушка НН
+tile.potatotech.coil.desc=Перетворює кінетичну енергію в електричну.
+
+tile.potatotech.crafter.name=Майструвач
+tile.potatotech.crafter.desc=Назва все сама за себе каже.
+
+tile.potatotech.test_area_maker.name=Створювач тестової области
+tile.potatotech.test_area_maker.desc=Робить ваш шматок ідеальною тестовою областю, видаляє всі блоки вище.
+
+tile.potatotech.block_crafter.name=Майструвач
+tile.potatotech.block_crafter.desc=Ні, у нього немає обличчя, ви обманюєтеся.
+
+tile.potatotech.capacitor.name=Конденсатор НН
+tile.potatotech.capacitor.desc=Зберігає до 100000 EU.
+
+tile.potatotech.heater.name=Нагрівач
+tile.potatotech.heater.desc=Нагріває піч за рахунок EU.
+
+tile.potatotech.dust.name=Аил
+tile.potatotech.dust.desc=Не ангел, не споживається.
+
+container.filter.name=Фільтр
+tile.potatotech.pipe_stack.name=Стосова труба
+
+key.potatotech.wrenchMode=Режим гайкового ключа
+gui.options.page.potatotech=Potato Logistics
+gui.options.page.controls.category.potatotech=Potato Logistics

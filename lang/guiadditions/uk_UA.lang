@@ -1,0 +1,16 @@
+guiadditions.options=Доповнення
+guiadditions.category.visuals=Візуальні елементи
+options.guiadditions.showBackground=Тло
+options.guiadditions.hotbarSelectorStyle=Стиль вибору панелі швидкого доступу
+options.guiadditions.slotSelectorStyle=Стиль вибору слота
+guiadditions.hotbar.default=Звичайний
+guiadditions.hotbar.ornate=Прикрашений
+guiadditions.hotbar.outline=Контур
+guiadditions.hotbar.arrows=Стрілки
+guiadditions.hotbar.fantasy=Фантазія
+guiadditions.hotbar.worm=Черв'як
+guiadditions.hotbar.lovely=Чудово
+guiadditions.hotbar.diamond_rush=Діамантова лихоманка
+guiadditions.slot.default=Усталено
+guiadditions.slot.corner=Кути
+guiadditions.slot.thick=Товстий

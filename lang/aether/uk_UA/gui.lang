@@ -1,0 +1,23 @@
+aether.menu.boss_bar.preview_name=John Doe, The Three-headed Render Preview
+
+aether.gui.incubator.title=Інкубатор
+aether.gui.enchanter.title=Зачаровувач
+aether.gui.freezer.title=Заморожувач
+
+aether.gui.un_missing_warn.body=§e«%s»§r Не має даних §lUselessNumerical§r!§r\n\n\n Завантаження цього світу, ймовірно, призведе до пошкодження!\nПеревстановіть Better with Aether 0.5.1, а потім перезавантажте світ з установленим §lUselessNumerical§r.
+aether.gui.un_missing_warn.proceed_0=Грати у вибраному світі
+aether.gui.un_missing_warn.proceed_1=Так, грати у вибраному світі!
+aether.gui.un_missing_warn.proceed_2=§eЯ ПОГОДЖУЮСЯ ПРОДОВЖИТИ.§r
+aether.gui.un_missing_warn.proceed_3=Продовжити
+
+model.category.entity.sheepuff.slider.color=Колір: %s
+model.category.entity.sheepuff.slider.wool_state=Стан: %s
+
+model.category.entity.mimic.placeholder.text=Т:
+model.category.entity.mimic.placeholder=Маріанти міміка
+
+model.category.entity.sentry.slider.state=Стан: %s
+
+model.category.entity.slider.slider.state=Стан: %s
+
+gui.main_menu.label.splash.aether_birthday=З днем народження, Етер!

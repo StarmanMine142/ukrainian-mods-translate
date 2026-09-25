@@ -1,0 +1,203 @@
+Spring Crops=Весняні культури
+
+item.stardew.seeds.carrot.name=Насіння моркви
+item.stardew.seeds.carrot.desc=Насіння, яке можна посадити у рілля та з нього виросте морква.
+
+item.stardew.food.carrot.name=Морква
+item.stardew.food.carrot.desc=Помаранчевий овоч відомий як довгий і хрусткий.
+
+
+item.stardew.seeds.blueberry.name=Насіння чорниці
+item.stardew.seeds.blueberry.desc=Насіння, яке можна посадити у рілля та з нього виросте чорниця.
+
+item.stardew.food.blueberry.name=Чорниця
+item.stardew.food.blueberry.desc=Малий та солодкий кущ ягід.
+
+
+item.stardew.seeds.pineapple.name=Насіння ананаса
+item.stardew.seeds.pineapple.desc=Насіння, яке можна посадити у рілля та з нього виросте ананас.
+
+item.stardew.food.pineapple.name=Ананас
+item.stardew.food.pineapple.desc=Порізаний на шматочки для смачного частування.
+
+
+Summer Crops=Літні культури
+
+item.stardew.seeds.tomato.name=Насіння томатів
+item.stardew.seeds.tomato.desc=Насіння, яке можна посадити у рілля та з нього виростуть томати.
+
+item.stardew.food.tomato.name=Помідор
+item.stardew.food.tomato.desc=Це не овоч! Це фрукт!
+
+
+item.stardew.seeds.potato.name=Насіння картоплі
+item.stardew.seeds.potato.desc=Насіння, яке можна посадити у рілля та з нього виросте картопля.
+
+item.stardew.food.potato.name=Картопля
+item.stardew.food.potato.desc=Коричневий горбкуватий овоч, покритий брудом.
+
+
+item.stardew.seeds.strawberry.name=Насіння полуниці
+item.stardew.seeds.strawberry.desc=Насіння, яке можна посадити у рілля та з нього виросте полуниця.
+
+item.stardew.food.strawberry.name=Полуниця
+item.stardew.food.strawberry.desc=Стиглий червоний плід розпускається з насінням і смаком.
+
+
+item.stardew.seeds.watermelon.name=Насіння кавуна
+item.stardew.seeds.watermelon.desc=Насіння, яке можна посадити у рілля та з нього виросте кавун.
+
+
+
+Fall Crops=Осінні культури
+
+item.stardew.seeds.corn.name=Насіння кукурудзи
+item.stardew.seeds.corn.desc=Насіння, яке можна посадити у рілля та з нього виросте кукурудза.
+
+item.stardew.food.corn.name=Качан кукурудзи
+item.stardew.food.corn.desc=Також відомий як папшоя!
+
+
+item.stardew.food.pie.name=Гарбузовий пиріг
+item.stardew.food.pie.desc=Гарбузовий десерт із заварним кремом.
+
+
+item.stardew.seeds.grapes.name=Насіння винограду
+item.stardew.seeds.grapes.desc=Насіння, яке можна посадити у рілля та з нього виросте виноград.
+
+item.stardew.food.grapes.name=Гроно винограду
+item.stardew.food.grapes.desc=Пучок фіолетових ягід, наповнених соком.
+
+
+
+Winter Crops=Зимові культури
+
+item.stardew.seeds.cauliflower.name=Насіння цвітної капусти
+item.stardew.seeds.cauliflower.desc=Насіння, яке можна посадити у рілля та з нього виросте цвітна капуста.
+
+
+
+item.stardew.seeds.cranberries.name=Насіння журавлини
+item.stardew.seeds.cauliflower.desc=Насіння, яке можна посадити у рілля та з нього виросте журавлина.
+
+item.stardew.food.cranberries.name=Гроно журавлини
+item.stardew.food.cranberries.desc=Пучок терпко-кислуватих, але трохи солодких ягід.
+
+
+
+item.stardew.food.dough.name=Тісто
+item.stardew.food.dough.desc=Сире та липке, чудове для спечення!
+
+item.stardew.food.egg.cooked.name=Яєчня
+item.stardew.food.egg.cooked.desc=Приготована.
+
+item.stardew.egg.duck.name=Качине яйце
+item.stardew.egg.duck.desc=Яйцево.
+
+item.egg.chicken.name=Куряче яйце
+
+item.stardew.food.cheese.name=Сир
+item.stardew.food.cheese.desc=Ферментоване молоко, добре для кісток.
+
+item.stardew.food.stew.vegetable.name=Тушковані овочі
+item.stardew.food.stew.vegetable.desc=Мммм… овочево.
+
+item.stardew.food.stew.cheese.name=Тушкована цвітуна капумта з сиром
+item.stardew.food.stew.cheese.desc=Мммм…. сирно.
+
+item.stardew.food.stew.fruit.name=Фруктовий салат
+item.stardew.food.stew.fruit.desc=Мммм… фруктово.
+
+item.stardew.food.stew.truffle.name=Тушкований трюфель
+item.stardew.food.stew.truffle.desc=Мммм… земляно.
+
+item.stardew.food.cake.chocolate.name=Шоколадний торт
+item.stardew.food.cake.chocolate.desc=Tорт брехня.
+
+item.stardew.food.honey.name=Мед
+item.stardew.food.honey.desc=Мед, зібраний з вулика.
+
+item.stardew.food.jam.name=Банка варення
+item.stardew.food.jam.desc=Змішані фрукти у банці.
+
+item.stardew.food.pizza.name=Піца
+item.stardew.food.pizza.desc=Пласка основа з тіста покрита помідорами та сиром.
+
+item.stardew.tool.wateringcan.name=Лійка
+item.stardew.tool.wateringcan.desc=Зручний інструмент для поливу культур і замочування блоків.
+
+item.stardew.tool.wateringcan.steel.name=Сталева лійка
+item.stardew.tool.wateringcan.steel.desc=Довговічніший варіант звичайної лійки.
+
+item.tool.fishingrod.name=Дерев'яна вудка
+
+item.stardew.tool.fishingrod.stone.name=Кам'яна вудка
+item.stardew.tool.fishingrod.stone.desc=Закиньте товстий поплавок та спіймайте велику рибу!
+
+item.stardew.tool.fishingrod.iron.name=Залізна вудка
+item.stardew.tool.fishingrod.iron.desc=Закиньте жорсткий поплавок та спіймайте велику рибу!
+
+item.stardew.tool.fishingrod.gold.name=Золота вудка
+item.stardew.tool.fishingrod.gold.desc=Закиньте магічний поплавок та спіймайте велику рибу!
+
+item.stardew.tool.fishingrod.diamond.name=Діамантова вудка
+item.stardew.tool.fishingrod.diamond.desc=Закиньте швидкий поплавок та спіймайте велику рибу!
+
+item.stardew.tool.fishingrod.steel.name=Сталева вудка
+item.stardew.tool.fishingrod.steel.desc=Закиньте міцний поплавок та спіймайте велику рибу!
+
+item.stardew.worm.name=Черв'як
+item.stardew.worm.desc=У основному використовується як наживка.
+
+item.stardew.armor.canofworms.name=Банка черв'яків
+item.stardew.armor.canofworms.desc=Тримайте свої черв'яків стильно.
+
+item.stardew.armor.canofworms.gold.name=Золота банка черв'яків
+item.stardew.armor.canofworms.gold.desc=Надає нескінченну кількість черв'яків.
+
+item.stardew.wax.name=Віск
+item.stardew.wax.desc=Клейка жовтувата формувана речовина, що виділяється з меду.
+
+item.stardew.food.salmon.raw.name=Сирий лосось
+item.stardew.food.salmon.raw.desc=Можна приготувати для отримання смачної страви.
+item.stardew.food.salmon.cooked.name=Смажений лосось
+item.stardew.food.salmon.cooked.desc=Смачна риба!
+
+item.stardew.food.bass.raw.name=Сирий окунь
+item.stardew.food.bass.raw.desc=Можна приготувати для отримання смачної страви.
+item.stardew.food.bass.cooked.name=Смажений окунь
+item.stardew.food.bass.cooked.desc=Смачна риба!
+
+item.stardew.food.snapper.raw.name=Сирий луціан
+item.stardew.food.snapper.raw.desc=Можна приготувати для отримання смачної страви.
+item.stardew.food.snapper.cooked.name=Смажений луціан
+item.stardew.food.snapper.cooked.desc=Смачна риба!
+
+item.stardew.fish.lavaeel.name=Лавовий вугор
+item.stardew.fish.lavaeel.desc=One of the legendary fishes, found in lava lakes.
+
+item.stardew.fish.sword.name=Риба-меч
+item.stardew.fish.sword.desc=Одна з легендарних риб, що водяться в штормових морях.
+
+item.stardew.fish.ghost.name=Риба-привид
+item.stardew.fish.ghost.desc=Одна з легендарних риб, знайдена під час туманної ночі.
+
+item.stardew.fish.stone.name=Риба-камінь
+item.stardew.fish.stone.desc=Одна з легендарних риб, знайдених під землею.
+
+item.stardew.record.pink.name=Платівка
+item.stardew.record.pink.desc=§6axolotl
+
+item.stardew.bean.coffee.name=Зерно кави
+item.stardew.bean.coffee.desc=Пахне кавою… Можна використовувати для приготування напою.
+
+item.stardew.food.coffee.name=Відро кави
+item.stardew.food.coffee.desc=Смачний напій, який дає вам короткий приріст швидкости!
+
+item.stardew.food.seeds.roasted.name=Смажене насіння
+item.stardew.food.seeds.roasted.desc=Зварене та приправлене насіння.
+
+item.stardew.fiber.name=Клітковина
+item.stardew.fiber.desc=Пучок сухих волокон, отриманих із трав'яних рослин.
+
+stardew.ingredients=Інгредієнти

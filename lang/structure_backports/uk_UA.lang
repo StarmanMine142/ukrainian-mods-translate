@@ -1,0 +1,48 @@
+tile.structure_backports.brick.fortress.name=Фортецева цегла
+tile.structure_backports.brick.fortress.desc=Ця цегла походять із страшної фортеці.
+
+tile.structure_backports.slab.brick.fortress.name=Плита з фортецевої цегли
+tile.structure_backports.slab.brick.fortress.desc=Плита фортецевої цегли.
+
+tile.structure_backports.stairs.brick.fortress.name=Сходи з фортецевої цегли
+tile.structure_backports.stairs.brick.fortress.desc=Фортецева цегла для швидкого вертикального руху.
+
+tile.structure_backports.fence.brick.fortress.name=Паркан з фортецевої цегли
+tile.structure_backports.fence.brick.fortress.desc=Паркан з… цегли? Це дивно.
+
+tile.structure_backports.brick.fortress.red.name=Багряна фортецева цегла
+tile.structure_backports.brick.fortress.red.desc=Ця червона цегла походять із страшної фортеці.
+
+tile.structure_backports.slab.brick.fortress.red.name=Плита з багряної фортецевої цегли
+tile.structure_backports.slab.brick.fortress.red.desc=Плита червоної фортецевої цегли.
+
+tile.structure_backports.stairs.brick.fortress.red.name=Сходи з багряної фортецевої цегли
+tile.structure_backports.stairs.brick.fortress.red.desc=Багряна фортецева цегла для швидкого вертикального руху.
+
+tile.structure_backports.fence.brick.fortress.red.name=Паркан з багряної фортецевої цегли
+tile.structure_backports.fence.brick.fortress.red.desc=Паркан з… червоної цегли? Це дивно.
+
+tile.structure_backports.brick.fortress.black.name=Почорніла фортецева цегла
+tile.structure_backports.brick.fortress.black.desc=Ця чорна цегла походять із страшної фортеці.
+
+tile.structure_backports.slab.brick.fortress.black.name=Плита з почорнілої фортецевої цегли
+tile.structure_backports.slab.brick.fortress.black.desc=Плита червоної фортецевої цегли.
+
+tile.structure_backports.stairs.brick.fortress.black.name=Сходи з почорнілої фортецевої цегли
+tile.structure_backports.stairs.brick.fortress.black.desc=Почорніла фортецева цегла для швидкого вертикального руху.
+
+tile.structure_backports.fence.brick.fortress.black.name=Паркан з почорнілої фортецевої цегли
+tile.structure_backports.fence.brick.fortress.black.desc=Паркан з… чорної цегли? Це дивно.
+
+mob.structure_backports.blaze.name=Пломінь
+mob.structure_backports.blaze.desc=Пломені — це істоти, які живуть у великих фортецях у Нетері. Вони можуть стріляти вогняними кулями і літати!
+
+mob.structure_backports.cave_spider.name=Печерний павук
+mob.structure_backports.cave_spider.desc=Цими крихітні павуками кишать стародавні шахтами. Незважаючи на невеликі розміри, вони небезпечні.
+
+mob.structure_backports.fort_skeleton.name=Вартовий фортеці
+mob.structure_backports.fort_skeleton.desc=Почорнілі скелети, які були прокляті вічно захищати пекельну фортецю.
+
+subtitles.mob.blaze.breathe=Пломінь дихає
+subtitles.mob.blaze.hit=Пломеня поранено
+subtitles.mob.blaze.death=Пломінь гине

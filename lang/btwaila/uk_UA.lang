@@ -1,0 +1,93 @@
+# --Options--
+btwaila.options.title=Better Than Waila!
+btwaila.options.category=Налаштування Better Than Waila
+btwaila.options.category.general=Загальні
+btwaila.options.category.block=Інформація блока
+btwaila.options.category.entity=Інформація сутности
+btwaila.options.category.keybinds=Призначення клавіш
+btwaila.options.category.keybinds.explicit=Better Than Waila
+
+options.blockTooltips=Підказки блока
+options.entityTooltips=Підказки сутности
+options.blockAdvancedTooltips=Розширені підказки блока
+options.entityAdvancedTooltips=Розширені підказки сутности
+options.smallHealthBar=Рядків здоров'я
+options.rowAmount={x} рядків
+options.showBlockId=ID блока
+options.showBlockDesc=Опис блока
+options.showHarvestText=Текст збирання
+options.tooltipFormatting=Форматування тексту
+options.tooltipFormatting.left=Ліво
+options.tooltipFormatting.centered=Центр
+options.tooltipFormatting.right=Право
+options.barStyle=Стиль шкали
+options.barStyle.probe2=The One Probe 2
+options.barStyle.probe=The One Probe
+options.barStyle.plain=Рівнина
+options.barStyle.lava=Лава
+
+# --Keys--
+btwaila.key.menu=Відкрити меню
+btwaila.key.democycle=Цикл демо
+
+# --Gui--
+btwaila.component.harvest.info.harvestable=Можна добути
+btwaila.component.harvest.info.notharvestable=Неможна добути
+btwaila.component.harvest.info.harvesting={progress}%
+
+# These are used as templates to measure theoretical string sizes, changing them could result in spacing issues
+btwaila.util.template.values={current}/{max}
+btwaila.util.template.percentage=({value}%)
+
+btwaila.tooltip.general.entity.null=Нічого
+
+# --Tooltips--
+btwaila.tooltip.minecart.passenger=Вершник: {name}
+btwaila.tooltip.minecart.storage=Зберігає преметів: {current}/{max}
+btwaila.tooltip.minecart.fuel=Паливо: {fuel}
+
+btwaila.tooltip.chicken.egg=Наступне яйце: {timer}сек
+
+btwaila.tooltip.painting.title=Назва: {id}
+btwaila.tooltip.painting.artist=Художник: {id}
+
+btwaila.tooltip.basket.storage=Зберігає преметів: {current}/{max}
+
+btwaila.tooltip.boat.passenger=Вершник: {name}
+
+btwaila.tooltip.pig.passenger=Вершник: {name}
+
+btwaila.tooltip.flag.owner=Власник: {name}
+btwaila.tooltip.flag.owner.none=Нічого
+btwaila.tooltip.flag.color=Колір {id}:
+btwaila.tooltip.flag.empty=Немає предметів
+
+btwaila.tooltip.furnace.progress=Прогрес: §r
+btwaila.tooltip.furnace.burntime=Час горіння: {current}t
+
+btwaila.tooltip.inventory.storage=Зберігає преметів: {current}/{max}
+
+btwaila.tooltip.spawner.bound=Породжує: {name}
+btwaila.tooltip.spawner.canspawn=Може породити: {flag}
+btwaila.tooltip.spawner.spawndelay=Породить через: {delay}т
+btwaila.tooltip.spawner.name.default=Нічого
+
+btwaila.tooltip.noteblock.pitch=Висота ноти: #{note}
+btwaila.tooltip.noteblock.modifier=Модифікатор блок: {modifier}
+btwaila.tooltip.noteblock.material.stone=Камінь
+btwaila.tooltip.noteblock.material.sand=Пісок
+btwaila.tooltip.noteblock.material.glass=Скло
+btwaila.tooltip.noteblock.material.wood=Деревина
+btwaila.tooltip.noteblock.material.none=Нічого
+
+btwaila.tooltip.jukebox.disc=ID платівки: {id}
+
+btwaila.tooltip.sign.owner=Власник: {id}
+btwaila.tooltip.sign.owner.none=Нічого
+
+btwaila.tooltip.trommel.progress=Прогрес: §r
+
+btwaila.tooltip.seat.passenger=Вершник: {name}
+
+btwaila.tooltip.jar.planted=Посаджено: {name}
+btwaila.tooltip.jar.item.none=Нічого

@@ -1,0 +1,25 @@
+tile.catalyst-multipart.multipart.name=Багаточастинний
+tile.catalyst-multipart.multipart.desc=Блок, зроблений з частин інших блоків.
+
+tile.catalyst-multipart.workbench.carpenter.name=Столярський верстак
+tile.catalyst-multipart.workbench.carpenter.desc=Спеціальний верстак, який може розрізати блоки на кілька частин.
+
+item.catalyst-multipart.multipart.name=Невідомий багаточастинний
+item.catalyst-multipart.multipart.desc=Певний розділ певного блока.
+
+multipart.foil.name=Фольга
+multipart.cover.name=Обкладинка
+multipart.panel.name=Панель
+multipart.slab.name=Плита
+multipart.antifoil.name=Антифольга
+multipart.anticover.name=Антиобкладинка
+multipart.antipanel.name=Антипанель
+multipart.hollow_foil.name=Порожниста фольга
+multipart.hollow_cover.name=Порожня обкладинка
+multipart.hollow_panel.name=Порожниста панель
+multipart.hollow_slab.name=Порожниста плита
+multipart.pillar.name=Колона
+
+options.catalyst-multipart.showMultipartsInTMB=Показати багаточастини у TMB (вимагає перезавантаження)
+
+container.catalyst-multipart.carpenterWorkbench.name=Столярський верстак

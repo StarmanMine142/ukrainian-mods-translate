@@ -1,0 +1,11 @@
+tile.tinychunkloader.chunkloader.name=Завантажувач чанків
+tile.tinychunkloader.chunkloader.desc=Потужна річ, що забезпечує завантаження територія 3х3 чанків навколо себе за відсутности гравця.
+
+chat.tinychunkloader.chunkloader_status.status=Цей завантажувач чанків — %s
+chat.tinychunkloader.chunkloader_status.player_loaded=Гравець %s зберігає %s завантажених блоків із %s
+chat.tinychunloader.chunkloader_status.total_loaded=Загальна кількість завантажених чанків: %s з %s
+
+general.tinychunloader.activated=Активовано
+general.tinychunloader.deactivated=Деактивовано
+
+upgrade.computercraft.chunkloader.adjective=Чанковий

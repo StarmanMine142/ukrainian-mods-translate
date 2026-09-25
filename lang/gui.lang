@@ -1,0 +1,480 @@
+gui.achievement.label.get=Досягнення здобуто!
+gui.achievement.label.unlicensed.1=Better than Adventure! %s Неліцензована копія :(
+gui.achievement.label.unlicensed.2=(Або ввійшли з іншого місця)
+gui.achievement.label.unlicensed.3=Придбати в minecraft.net
+
+gui.achievements.button.done=Готово
+gui.achievements.label.title=Досягнення
+gui.achievements.label.taken=Здобуто!
+gui.achievements.label.requires=Потребує «%1$s»
+gui.achievements.label.secret=???
+gui.achievements.label.secret.desc=???
+gui.achievements.label.completion=%1$s завершено!
+
+gui.achievements.page.vanilla.name=Усталена гра
+gui.achievements.page.vanilla.desc=Досягнення з «Better than Adventure!»
+gui.achievements.page.overworld.name=Верхній світ
+gui.achievements.page.overworld.desc=Досягнення з початкового виміру!
+gui.achievements.page.nether.name=Незер
+gui.achievements.page.nether.desc=Досягнення з пекла!
+
+gui.add_server.label.title=Додати сервер
+gui.add_server.button.save=Зберегти
+gui.add_server.button.cancel=Скасувати
+gui.add_server.button.show_ip=Показати IP: %s
+gui.add_server.button.show_ip.on=УВІМК.
+gui.add_server.button.show_ip.off=ВИМК.
+gui.add_server.label.server_name=Назва сервера
+gui.add_server.label.ip_address=IP-адрес
+
+gui.bad_java_arch.label.title=Виявлено 32-розрядну Java!
+gui.bad_java_arch.label.body.1=Схоже, ви використовуєте «Better than Adventure!» на 32-розрядній Java.
+gui.bad_java_arch.label.body.2=Це може спричинити проблеми з розподілом пам'яті, включаючи різкі затримки
+gui.bad_java_arch.label.body.3=і потенційний вихід з ладу.
+gui.bad_java_arch.label.body.4=Будь ласка, подумайте про завантаження 64-розрядної JRE, такої як Eclipse Temurin.
+gui.bad_java_arch.button.download=Завантажити
+gui.bad_java_arch.button.continue=Продовжити
+
+gui.no_jce.label.title=Java Cryptography Extension (JCE) немає!
+gui.no_jce.label.body.1=Здається, ви запускаєте «Better than Adventure!» без JCE.
+gui.no_jce.label.body.2=Це порушить роботу деяких мережевих функцій, таких як завантаження
+gui.no_jce.label.body.3=звуків та чату гри!
+gui.no_jce.label.body.4=Будь ласка, подумайте про завантаження більш актуальної JRE
+gui.no_jce.label.body.5=з уключеним розширенням, таким як Eclipse Temurin.
+gui.no_jce.label.body.intel.disclaimer.1=Через проблеми апаратної сумісности на апаратному забезпеченні Intel Graphics,
+gui.no_jce.label.body.intel.disclaimer.2=ймовірно, вам доведеться виправити інсталяцію Java на
+gui.no_jce.label.body.intel.disclaimer.3=ввімкнене розширення JCE.
+gui.no_jce.button.download.recommended=Завантажити Java (рекомендовано!)
+gui.no_jce.button.download=Завантажити Java
+gui.no_jce.button.upgrade=Патч JCE
+gui.no_jce.button.upgrade.recommended=Патч JCE (рекомендовано!)
+gui.no_jce.button.back=Головне меню
+gui.no_jce.button.continue=Продовжити
+
+gui.no_minecraft.label.title=Відсутній Minecraft Beta 1.7.3!
+gui.no_minecraft.label.body.1=Здається, ви запускаєте «Better than Adventure!» без Minecraft Beta 1.7.3.
+gui.no_minecraft.label.body.2=«Better than Adventure!» має бути встановлено з офіційною копією
+gui.no_minecraft.label.body.3=Minecraft Beta 1.7.3 для належної роботи.
+gui.no_minecraft.label.body.4=Ця проблема зазвичай виникає, якщо ви зробили помилку в процесі установлення.
+gui.no_minecraft.label.body.5=Будь ласка, перегляньте посібник зі встановлення, посилання на яке наведене нижче.
+gui.no_minecraft.button.guide=Посібник зі встановлення
+gui.no_minecraft.button.quit=Вийти з гри
+
+
+gui.conflict_warning.label.title=Безпечний конфлікт світів
+gui.conflict_warning.label.body.1=Minecraft виявив конфлікт у даних збереження світу.
+gui.conflict_warning.label.body.2=Це може бути викликано двома копіями гри
+gui.conflict_warning.label.body.3=з доступом до того самого світу.
+gui.conflict_warning.label.body.4=Щоб запобігти пошкодженню світу, поточну гру було закрито.
+gui.conflict_warning.button.back=Назад до головного меню
+
+gui.connect_failed.label.title=Не вдалося приєднатися до сервера
+gui.connect_failed.button.back=Назад до головного меню
+
+gui.connect_to_ip.button.connect=Приєднатися
+gui.connect_to_ip.button.cancel=Скасувати
+gui.connect_to_ip.label.title=Приєднатися через IP
+gui.connect_to_ip.label.enter_ip=Уведіть IP-адресу сервера для приєднання до нього:
+
+gui.connecting.button.cancel=Скасувати
+gui.connecting.label.connecting=Приєднання до сервера…
+gui.connecting.label.logging_in=Вхід…
+
+gui.controller_setup.button.back=Назад
+gui.controller_setup.label.no_controller_selected=Контролер не вибрано!
+
+gui.crafting.label.crafting=Майстрування
+gui.crafting.label.inventory=Інвентар
+
+gui.create_world.label.title=Створити новий світ
+gui.create_world.label.world_name=Назва світу
+gui.create_world.label.seed=Зерно
+gui.create_world.button.create_new_world=Створити
+gui.create_world.button.cancel=Скасувати
+gui.create_world.button.gamemode=Режим: %s
+gui.create_world.button.cheats=Команди: %s
+gui.create_world.button.cheats.on=УВІМК.
+gui.create_world.button.cheats.off=ВИМК.
+gui.create_world.button.world_settings=Налаштування світу
+gui.create_world.label.new_world=Новий світ
+
+gui.world_settings.label.title=Налаштування світу…
+gui.world_settings.button.done=Готово
+gui.world_settings.page.game_rules.title=Ігрові правила
+gui.world_settings.page.world_settings.title=Налаштування світу
+gui.world_settings.page.world_settings.category.overworld=Верхній світ
+gui.world_settings.page.world_settings.category.nether=Незер
+gui.world_settings.page.game_rules.button.on=УВІМК.
+gui.world_settings.page.game_rules.button.off=ВИМК.
+gui.world_settings.page.mob_spawning.title=Поява мобів
+gui.world_settings.page.mob_spawning.button.on=УВІМК.
+gui.world_settings.page.mob_spawning.button.off=ВИМК.
+gui.world_settings.page.mob_spawning.hostile=Поява ворожих
+gui.world_settings.page.mob_spawning.passive=Поява мирних
+gui.world_settings.label.starting_biome=Початковий біом
+gui.world_settings.page.starting_biome.biome.none=Будь-який
+gui.world_settings.label.select_world_type=Вибрати тип світу
+gui.world_settings.label.world_type=Тип світу
+
+gui.select_server.page.internet.title=Інтернет
+gui.select_server.page.favorites.title=Улюблені
+gui.select_server.page.history.title=Історія
+gui.select_server.page.lan.title=Локальна мережа
+gui.select_server.page.direct_connect.title=Пряме приєднання
+
+gui.dispenser.label.dispenser=Роздавач
+gui.dispenser.label.inventory=Інвентар
+
+gui.activator.label.activator=Використовувач
+gui.activator.label.inventory=Інвентар
+
+gui.downloading_terrain.label.title=Завантаження місцевости…
+
+gui.edit_flag.label.inventory=Інвентар
+
+gui.edit_label.label.title=Редагувати текст мітки:
+gui.edit_label.button.done=Готово
+
+gui.edit_sign.label.title=Редагувати повідомлення таблички:
+gui.edit_sign.button.done=Готово
+
+gui.exception.label.exception_occurred=Стався виняток!
+gui.exception.label.fatal_error=Сталася фатальна помилка!
+gui.exception.label.startup_error=Minecraft не вдалося запустити!
+gui.exception.button.copy_error=Копіювати
+gui.exception.button.copy_error_and_quit=Скопіювати помилку та вийти
+gui.exception.button.back=Головне меню
+
+gui.furnace.label.furnace=Піч
+gui.furnace.blast.label.blast_furnace=Домна
+gui.furnace.label.inventory=Інвентар
+
+gui.game_over.label.title=Ви загинули!
+gui.game_over.label.score=Рахунок: %s
+gui.game_over.button.respawn=Відродитися
+gui.game_over.button.respawn.spectator=Спостерігати за світом
+gui.game_over.button.title_screen=Головне меню
+
+gui.guidebook.label.title=Посібник
+
+gui.ingame.label.now_playing=Зараз грають: %s
+
+gui.ingame_menu.label.title=Ігрове меню
+gui.ingame_menu.label.score=Рахунок: %s
+gui.ingame_menu.label.saving=Збереження світу
+gui.ingame_menu.button.save_and_quit=Зберегти та вийти
+gui.ingame_menu.button.disconnect=Вийти
+gui.ingame_menu.button.back_to_game=Повернутися до гри
+gui.ingame_menu.button.options=Налаштування…
+gui.ingame_menu.button.photo_mode=Фоторежим…
+gui.ingame_menu.button.achievements=Досягнення
+gui.ingame_menu.button.statistics=Статистика
+
+gui.inventory.label.crafting=Майстрування
+gui.inventory.creative.label.search=Пошук…
+
+gui.loading.label.generating=Створення світу…
+gui.loading.label.loading=Завантаження світу…
+gui.loading.label.entering=Вхід %s…
+gui.loading.label.leaving=Вихід %s…
+
+gui.main_menu.label.splash.jonkadelic_birthday=З днем народження, Jonkadelic!
+gui.main_menu.label.splash.maggandgeez_birthday=З днем народження, MaggAndGeez!
+gui.main_menu.label.splash.minecraft_birthday=З днем народження, Minecraft!
+gui.main_menu.label.splash.bta_birthday=З днем народження, Better than Adventure!
+gui.main_menu.label.splash.xmas=Веселого Різдва!
+gui.main_menu.label.splash.halloween=Веселого Геловіну!
+gui.main_menu.label.splash.new_year=Щасливого Нового Року!
+gui.main_menu.label.disclaimer.1=Copyright Mojang Studios. Не офіційний продукт Minecraft.
+gui.main_menu.label.disclaimer.2=Не затверджено і не асоціюється з Mojang Studios або Microsoft.
+gui.main_menu.label.downloading_resources.1=Завантаження ресурсів
+gui.main_menu.label.downloading_resources.2=Під час цього процесу звуки можуть не відтворюватися!
+gui.main_menu.label.downloading_resources.connection.error=Невдалося завантажити звуки!
+gui.main_menu.button.singleplayer=Гра наодинці
+gui.main_menu.button.multiplayer=Гра в мережі
+gui.main_menu.button.multiplayer.disabled=Гра в мережі (ще не готова!)
+gui.main_menu.button.asset_packs=Пакети ресурсів
+gui.main_menu.button.options=Налаштування…
+gui.main_menu.button.quit_game=Вийти з гри
+gui.main_menu.button.discord=Discord
+gui.main_menu.button.youtube=YouTube
+gui.main_menu.button.website=Вебсайт
+gui.main_menu.button.credits=Згадки
+
+gui.out_of_memory.label.title=Нестача пам'яті!
+gui.out_of_memory.label.body.1=Minecraft запущено з нестачею пам'яті.
+gui.out_of_memory.label.body.2=Це може бути спричинено помилкою в грі або програмою
+gui.out_of_memory.label.body.3=Віртуальній машині Java недостатньо виділено
+gui.out_of_memory.label.body.4=пам'яті.
+gui.out_of_memory.label.body.5=Щоб запобігти пошкодженню світу, поточну гру було закрито.
+gui.out_of_memory.label.body.6=Будь ласка, перезапустіть гру.
+
+gui.options.title=Налаштування
+gui.options.button.done=Готово
+gui.options.label.select_page=Вибрати сторінку
+gui.options.label.picking_keybinding=Натисніть клавішу або кнопку миші, щоб призначити до «%s».
+
+gui.options.page.general.title=Загальні
+gui.options.page.general.button.open_worlds_folder=Відкрити теку світів
+gui.options.page.general.button.open_screenshots_folder=Відкрити теку знімків екрана
+gui.options.page.general.button.edit_hud=Редагувати HUD…
+gui.options.page.general.category.gameplay=Гра
+gui.options.page.general.category.user_interface=Користувацький інтерфейс
+gui.options.page.general.category.miscellaneous=Різне
+
+gui.options.page.player.title=Гравець
+gui.options.page.player.category.player=Гравець
+
+gui.options.page.audio.title=Звуки
+gui.options.page.audio.category.audio=Звуки
+gui.options.page.audio.category.debug=Налагодження
+gui.options.page.audio.reload=Перезавантажити звуковий рушій
+
+gui.options.page.accessibility.title=Доступність
+gui.options.page.accessibility.category.accessibility=Доступність
+
+gui.options.page.video.title=Відео
+gui.options.page.video.category.display=Показ
+gui.options.page.video.category.visuals=Вигляд
+gui.options.page.video.category.post_processing=Після обробка
+gui.options.page.video.category.performance=Продуктивність
+
+gui.options.page.controls.title=Керування
+gui.options.page.controls.button.controller_setup=Налаштування контролера…
+gui.options.page.controls.button.key.unbound=Немає зв'язку
+gui.options.page.controls.category.mouse=Миша
+gui.options.page.controls.category.keyboard=Клавіатура
+gui.options.page.controls.category.controller=Контролер
+gui.options.page.controls.category.interactions=Взаємодія
+gui.options.page.controls.category.movement=Рух
+gui.options.page.controls.category.user_interface=Користувацький інтерфейс
+gui.options.page.controls.category.hud_editor=Редактор HUD
+gui.options.page.controls.category.hotbar=Панель гарячого доступу
+gui.options.page.controls.category.view=Погляд
+gui.options.page.controls.category.miscellaneous=Різне
+
+gui.options.page.asset_packs.title=Пакети ресурсів
+gui.options.page.asset_packs.category.textures=Текстури
+gui.options.page.asset_packs.category.asset_packs.available=Доступні
+gui.options.page.asset_packs.category.asset_packs.selected=Вибрані
+gui.options.page.asset_packs.button.open_folder=Відкрити теку
+gui.options.page.asset_packs.button.apply=Застосувати пакети
+gui.options.page.asset_packs.label.no_packs=Пакети ресурсів не знайдено :(
+gui.options.page.asset_packs.label.outdated_pack.1=Застарілий пакет!
+gui.options.page.asset_packs.label.outdated_pack.2=Цей пакет не створений для поточної версії BTA!
+
+gui.options.page.language_packs.title=Пакети мов
+gui.options.page.language_packs.category.language_packs=Мови
+gui.options.page.language_packs.button.open_folder=Відкрити теку
+
+gui.options.page.debug.title=Меню налагодження
+gui.options.page.debug.category.controls=Налагодження керування
+gui.options.page.debug.category.utility=Утиліти
+gui.options.page.debug.category.settings=Налаштування
+gui.options.page.debug.category.test=Тестування
+gui.options.page.debug.button.open.model_viewer=Відкрити переглядач моделей
+gui.options.page.debug.button.open.biome_finder=Відкрити переглядач зерна
+gui.options.page.debug.button.open.datadumper=Запустити збереження даних
+gui.options.page.debug.button.dump.wiki=Зберегти форматовані дані вікі
+gui.options.page.debug.button.dump.invsprite=Зберегти InvSprites PNG
+gui.options.page.debug.button.dump.invsprite_apng=Зберегти InvSprites анімованих PNG
+gui.options.page.debug.button.dump.invsprite.tooltip=Завантажити перший світ: \n Лише кольори біому та пори року промальовано у світі.
+gui.options.page.debug.button.open.sound_test=Відкрити тестування звуку
+gui.options.page.debug.button.open.texture_viewer=Відкрити переглядач текстур
+gui.options.page.debug.button.open.font_tester=Відкрити тест шрифту
+gui.options.page.debug.button.open.nbt_tester=NBT-редактор тексту
+gui.options.page.debug.button.open.achievements=Відкрити досягнення
+gui.options.page.debug.button.wipestats=Видалити статистику
+gui.options.page.debug.button.unlockedall=Розблокувати всю статистику
+gui.options.page.debug.button.cheat=Увімкнути команди
+gui.options.page.debug.button.crash.soft=М'який збій
+gui.options.page.debug.button.crash.hard=Жорсткий збій
+gui.options.page.debug.button.music.skip=Примусова навколишня музика
+gui.options.page.debug.button.garbage_collect=Запустити збірник сміття
+gui.options.page.debug.button.reload_commands=Перезавантажити команди
+gui.options.page.debug.button.reset_hud_onboarding=Скинути ознайомлення редактора HUD
+
+gui.options.page.hidden.title=Приховані налаштування
+gui.options.page.hidden.category.general=Загальні
+gui.options.page.hidden.category.general.userinterface=Інтерфейс
+
+gui.options.page.search.title=Пошук
+
+gui.options.difficultylock.button.no=Ні
+gui.options.difficultylock.button.yes=Так
+gui.options.difficultylock.warning.1=Ви впевнені, що бажаєте
+gui.options.difficultylock.warning.2=заблокувати складність світу?
+gui.options.difficultylock.warning.3=(Це не можна скасувати)
+
+gui.options.hudeditor.onboarding.welcome=Вітаємо в редакторі HUD!
+gui.options.hudeditor.onboarding.select=Натисніть «%1$s», щоб вибрати елемент
+gui.options.hudeditor.onboarding.drag=Тягніть при втримуванні «%1$s», щоб рухати елемент
+gui.options.hudeditor.onboarding.context=Натисніть «%1$s», навівшись на елемент, для контекстних налаштувань
+gui.options.hudeditor.onboarding.nudge=Натисніть «%1$s», щоб підсунути вибраний елемент
+gui.options.hudeditor.onboarding.nudge_fast=Устримайте «%1$s», щоб підсунути швидше
+gui.options.hudeditor.onboarding.reset=Натисніть «%1$s», щоб скинути розкладку до устаноленої
+gui.options.hudeditor.onboarding.exit=Натисніть «%1$s», щоб вийти з редактора HUD
+gui.options.hudeditor.onboarding.reopen=Натисніть «%1$s», щою побачити цей екран знову!
+gui.options.hudeditor.onboarding.begin=Натисніть будь-де, щоб почати
+gui.options.hudeditor.snap_to_fill=Прив’язка до заповнення
+gui.options.hudeditor.scale=Розмір інтерфейсу
+gui.options.hudeditor.chat_width=Шириша чату
+gui.options.hudeditor.chat_height=Висота чату
+gui.options.hudeditor.chat_full_width_backdrop=Повна ширина тла чату
+
+gui.sound_test.label.title=Тестування звуку
+gui.sound_test.label.repo=Сховище звуку: %s
+gui.sound_test.label.id=ID: %s
+gui.sound_test.label.subtitle=Субтитри: %s | %s
+gui.sound_test.label.url=URL: %s
+gui.sound_test.label.select_repo=Виберіть сховище:
+gui.sound_test.label.select_entry=Виберіть запис:
+gui.sound_test.button.done=Готово
+gui.sound_test.button.play=Грати
+gui.sound_test.button.play_stream=Відтворити потік
+gui.sound_test.button.reload=Перезавантажити
+gui.sound_test.button.stop=Зупинити
+
+gui.texture_viewer.label.title=Переглядач текстур
+
+gui.photo_mode.label.mouse_hint=Натисніть і перетягніть, щоб перемістити та повернути.
+gui.photo_mode.button.take_screenshot=Зробити знімок
+gui.photo_mode.button.center_camera=Центр камери
+gui.photo_mode.button.show_player=Показ гравця: %s
+gui.photo_mode.button.show_player.on=УВІМК.
+gui.photo_mode.button.show_player.off=ВИМК.
+gui.photo_mode.button.time_of_day=Час дня: %s
+gui.photo_mode.button.time_of_day.default=Усталено
+gui.photo_mode.button.season=Пора року: %s
+gui.photo_mode.button.season.default=Усталено
+gui.photo_mode.button.fog=Туман: %s
+gui.photo_mode.button.tilt=Нахил: %s
+gui.photo_mode.button.tilt.default=Усталено
+gui.photo_mode.button.shader=Шейдер: %s
+gui.photo_mode.button.shader.none=Немає
+gui.photo_mode.button.intensity=Інтенсивність: %s
+
+gui.select_server.label.title=Виберати сервер
+gui.select_server.label.delete_title=Видалити сервер
+gui.select_server.label.delete_confirm.1=Ви впевнені що хочете видалити сервер
+gui.select_server.label.delete_confirm.2=«%s» буде втрачено назавжди! (Довго!)
+gui.select_server.label.edit.1=Редагувати сервер
+gui.select_server.label.edit.2=Назва сервера
+gui.select_server.label.edit.3=Адреса сервера
+gui.select_server.label.down=УПАВ
+gui.select_server.label.outdated=ЗАСТАРІВ
+gui.select_server.button.join_server=Приєднатися
+gui.select_server.button.direct_connect=Пряме приєднання
+gui.select_server.button.add_server=Додати сервер
+gui.select_server.button.edit=Редагувати
+gui.select_server.button.delete=Видалити
+gui.select_server.button.refresh=Оновити
+gui.select_server.button.cancel=Скасувати
+gui.select_server.button.done=Готово
+gui.select_server.button.show_ip=Показати IP: %s
+gui.select_server.button.show_ip.on=УВІМК.
+gui.select_server.button.show_ip.off=ВИМК.
+gui.select_server.button.no_jce.warning=§l§eJCE відсутній!
+
+gui.select_server.popup.add.prompt.name=Назва сервера:
+gui.select_server.popup.add.prompt.ip=IP-адреса:
+gui.select_server.popup.add.button.save=Зберегти
+gui.select_server.popup.add.button.cancel=Скасувати
+gui.select_server.popup.add.showip.on=Показ IP: УВІМК.
+gui.select_server.popup.add.showip.off=Показ IP: ВИМК.
+
+gui.select_server.popup.edit.prompt.name=Назва сервера:
+gui.select_server.popup.edit.prompt.ip=IP-адреса:
+gui.select_server.popup.edit.button.save=Зберегти
+gui.select_server.popup.edit.button.cancel=Скасувати
+gui.select_server.popup.edit.showip.on=Показ IP: УВІМК.
+gui.select_server.popup.edit.showip.off=Показ IP: ВИМК.
+
+gui.select_server.popup.direct.prompt.ip=IP-адреса:
+gui.select_server.popup.direct.button.connect=Приєднатися
+gui.select_server.popup.direct.button.cancel=Скасувати
+
+gui.select_world.label.title=Вибрати світ
+gui.select_world.label.world=Світ %s
+gui.select_world.label.must_be_converted=Треба конвертувати!
+gui.select_world.label.dimension_corrupted=Помилка, вимір пошкоджено!
+gui.select_world.label.outdated=Застарілий — неможливо завантажити (поки!)
+gui.select_world.label.delete_title=Видалити світ
+gui.select_world.label.delete_confirm.1=Ви впевнені, що хочете видалити цей світ?
+gui.select_world.label.delete_confirm.2=«%s» буде втрачено назавжди! (Довго!)
+gui.select_world.label.rename_title=Перейменувати світ
+gui.select_world.label.world_name=Назва світу
+gui.select_world.label.cheats=Команди
+gui.select_world.label.unknown=НЕВІДОМО
+gui.select_world.button.play_selected_world=Грати
+gui.select_world.button.rename=Переймен.
+gui.select_world.button.create_new_world=Створити новий світ
+gui.select_world.button.delete=Видалити
+gui.select_world.button.cancel=Скасувати
+
+gui.sleeping.leave_bed=Устати з ліжка
+gui.sleeping.multiplayer.leave_bed=Устати з ліжка
+
+gui.statistics.label.title=Статистика
+gui.statistics.label.times_used=Разів використано
+gui.statistics.label.times_mined=Разів добуто
+gui.statistics.label.times_depleted=Разів підібрано
+gui.statistics.label.times_crafted=Разів створено
+gui.statistics.button.done=Готово
+gui.statistics.button.general=Загальні
+gui.statistics.button.blocks=Блоки
+gui.statistics.button.items=Предмети
+
+gui.trommel.label.trommel=Грохот
+gui.trommel.label.inventory=Інвентар
+
+gui.hud_designer.button.done=Готово
+
+gui.pick_monster.label.title=Виберіть моба для виклику
+
+gui.model_viewer.slider.variant=Варіант: %d
+gui.model_viewer.slider.meta=Мета: %d
+gui.model_viewer.button.tickprogress=Запущено тактів: %s
+gui.model_viewer.button.bulk_render=Пакетне промальовування
+gui.model_viewer.button.rotate=Обертати мітку: %s
+gui.model_viewer.button.reload_textures=Перезавантажити текстури
+gui.model_viewer.button.category=Категорія
+
+model.category.entity.info=Сутність: %s
+model.category.entity.name=Сутність
+model.category.entity.tnt.slider.fuse=Запобіжник: %d
+model.category.entity.sheep.slider.color=Колір: %s
+model.category.entity.painting.slider.motif=Картина: %s
+model.category.entity.fireflycluster.slider.size=Розмір: %d
+model.category.entity.fireflycluster.button.cycle=Колір: %s
+model.category.entity.item.button.cycle=Цикл предмет
+model.category.entity.item.slider.size=Розмір: %d
+model.category.entity.sand.button.cycle=Цикл блока
+model.category.entity.creeper.button.charged=Заряджений: %s
+model.category.entity.armored_zombie.button.sword=Меч: %s
+model.category.entity.wolf.button.tamed=Приручений: %s
+model.category.entity.wolf.button.sitting=Сидить: %s
+model.category.entity.wolf.button.angry=Розлючений: %s
+model.category.entity.wolf.button.armor=Обладунки: %s
+model.category.entity.wolf.button.item=Предмет: %s
+model.category.entity.boat.button.flag=Прапор: %s
+model.category.entity.boat.button.wind=Вітер: %s ступенів
+model.category.entity.slime.slider.size=Слимак: %s
+model.category.entity.minecart.button.cycle=Цикл вагонетки
+model.category.entity.minecart.slider.color=Колів: %s
+
+model.category.block.name=Блок
+model.category.block.info=Блок: %s
+model.category.block.basket.slider.fill=Заповнити: %s
+model.category.block.spawner.button.id=Моб: %s
+
+model.category.particle.name=Частинка
+model.category.particle.info=Частинка: %s
+model.category.particle.radius.slider=Радіус: %s
+model.category.particle.note.slider=Примітка: %s
+model.category.particle.block.side=Сторона: %s
+
+gui.credits.button.done=Готово
+gui.credits.label.title=Згадки
+
+gui.tooltip.prompt.description=%s, щоб показати більше…

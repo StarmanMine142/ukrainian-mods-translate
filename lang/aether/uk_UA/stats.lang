@@ -1,0 +1,66 @@
+aether.name=Етер
+achievements.page.aether.desc=Досягнення Етеру
+
+achievement.aether.hostile_paradise=Ворожий Рай
+achievement.aether.hostile_paradise.desc=Увійдіть в Етер
+
+achievement.aether.poison=Сп'яніння
+achievement.aether.poison.desc=Отруїться
+achievement.aether.remedy=Антиепідемія
+achievement.aether.remedy.desc=Вилікуйте свою отруту
+
+achievement.aether.shooter=Прицілитися
+achievement.aether.shooter.desc=Створіть дихальну трубу
+achievement.aether.zephyr=Улучний стрілок
+achievement.aether.zephyr.desc=Збийте зефіра дротиками
+
+achievement.aether.bounce=У нескінченності і далі!
+achievement.aether.bounce.desc=Підстрибніть на блакитну повітряну хмару
+achievement.aether.gold_cloud=Як подушка
+achievement.aether.gold_cloud.desc=Отримайте золоту повітряну хмару
+achievement.aether.parachute=Парашутист
+achievement.aether.parachute.desc=Використайте хмарний парашут
+
+achievement.aether.phyg=Коли фіґи літають
+achievement.aether.phyg.desc=Політайте на фіґі
+achievement.aether.moa=Тепер ви сім'я
+achievement.aether.moa.desc=Вилупіть моа
+
+achievement.aether.enchanter=Ви вірите в магію?
+achievement.aether.enchanter.desc=Змайструйте зачаровувач
+
+achievement.aether.sentry_deployed=Вартовий розгорнутий
+achievement.aether.sentry_deployed.desc=Пройдіть через пастку вартових
+achievement.aether.bronze=Як Босару!
+achievement.aether.bronze.desc=Подолайте бронзового боса підземелля
+
+achievement.aether.its_a_trap=Це пастка!
+achievement.aether.its_a_trap.desc=Потрапте в пастку міміка
+achievement.aether.silver=Скиданання
+achievement.aether.silver.desc=Подолайте срібного боса підземелля
+
+achievement.aether.ice_deflect=Повернення до я!
+achievement.aether.ice_deflect.desc=Улучте в дух сонця відхиленим пострілом
+achievement.aether.gold=Погашено
+achievement.aether.gold.desc=Подолайте золотого боса підземелля
+
+achievement.aether.skyroot=Час добувати! Знову!
+achievement.aether.skyroot.desc=Використовуйте небокорінне дерево, щоб змайструвати кайло
+achievement.aether.ambrosium=Паливо богів
+achievement.aether.ambrosium.desc=З'їжте шматок амброзію
+achievement.aether.healing_stone=Чарівна їжа
+achievement.aether.healing_stone.desc=Змайструйте лікувальний камінь
+achievement.aether.gravitite=Рожевий — це новий синій
+achievement.aether.gravitite.desc=Змайструйте гравітитовий інструмент
+
+achievement.aether.all_music_discs=Платівкошукач
+achievement.aether.all_music_discs.desc=Зберіть усі платівки Етеру
+
+achievement.aether.all_accessory_types=Майстер на всі руки
+achievement.aether.all_accessory_types.desc=Носіть аксесуари у всіх 4 слотах
+
+achievement.aether.max_life=Живучість
+achievement.aether.max_life.desc=Досягніть максимуму свого здоров'я
+
+achievement.aether.weve_got_hostiles=У нас є вороги!
+achievement.aether.weve_got_hostiles.desc=Знайдіть підземелля

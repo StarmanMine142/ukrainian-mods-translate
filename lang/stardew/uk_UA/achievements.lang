@@ -1,0 +1,45 @@
+
+
+stardew.name=Stardew Farming
+achievements.page.stardew.desc=Досягнення
+
+achievement.stardew.stardew=Stardew Farming
+achievement.stardew.stardew.desc=Почніть власну ферму
+
+
+achievement.stardew.fruit=Фруктовий кошик
+achievement.stardew.fruit.desc=Зберіть усі фруктові культури
+
+achievement.stardew.vegetable=Ріг достатку
+achievement.stardew.vegetable.desc=Зберіть усі овочеві культури
+
+achievement.stardew.egg=Колекціонер коробок
+achievement.stardew.egg.desc=Зберіть обидва типа яєць
+
+
+achievement.stardew.beehive=Медовий бізнес
+achievement.stardew.beehive.desc=Зберіть мед із вулика
+
+achievement.stardew.candle=Освітлення
+achievement.stardew.candle.desc=Зробіть свічку з воску
+
+
+achievement.stardew.apple=Джонні Яблучне Зерня
+achievement.stardew.apple.desc=Отримайте паросток яблуні
+
+achievement.stardew.gapple=Дерево життя
+achievement.stardew.gapple.desc=Створіть золотий паросток яблуні
+
+
+achievement.stardew.amateur.fisher=Любитель-риболов
+achievement.stardew.amateur.fisher.desc=Спіймайте всі поширені види риби
+
+achievement.stardew.master.fisher=Майстер-риболов
+achievement.stardew.master.fisher.desc=Спіймайте всі легендарні види риб
+
+
+guidebook.section.mob.duck.name=Дональд?
+guidebook.section.mob.duck.desc=Качки є хорошим джерелом яєць, які корисні для приготування їжі, їх рідко можна знайти в більшості біомів
+
+guidebook.section.mob.goat.name=Коза
+guidebook.section.mob.goat.desc=Кози — це гучний моб, який функціонує як вівця та корова\nЇх рідко можна зустріти в більшості біомів

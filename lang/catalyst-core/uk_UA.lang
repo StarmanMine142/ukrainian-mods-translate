@@ -1,0 +1,9 @@
+gui.options.page.catalyst=Catalyst
+gui.options.page.catalyst.category.core=Основне
+gui.options.page.catalyst.category.fluids=Рідини
+gui.options.page.catalyst.category.energy=Енергія
+gui.options.page.catalyst.category.multiblocks=Багатоблоки
+gui.options.page.catalyst.category.effects=Ефекти
+gui.options.page.catalyst.category.multipart=Багаточастини
+
+options.catalyst-core.showNetworkRender=Показати промальовування мережі

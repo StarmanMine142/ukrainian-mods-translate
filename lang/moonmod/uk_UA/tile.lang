@@ -1,0 +1,49 @@
+tile.moonmod.regolith.name=Реголіт
+tile.moonmod.regolith.desc=Фрагментований і неконсолідований шар місячної породи.
+
+tile.moonmod.cheese.name=Блок сиру
+tile.moonmod.cheese.desc=Суцільний блок сиру з молока.
+
+tile.moonmod.portal.moon.name=Портал місяця
+tile.moonmod.portal.moon.desc=Портал до Місяця.
+
+tile.moonmod.wool.reinforced.name=Укріплена вовна
+tile.moonmod.wool.reinforced.desc=Вовна і тканина з золотою підкладкою для захисту від ультрафіолету.
+tile.moonmod.wool.reinforced.white.name=Біла укріплена вовна
+tile.moonmod.wool.reinforced.white.desc=Вовна і тканина з золотою підкладкою для захисту від ультрафіолету, пофарбовано в білий.
+tile.moonmod.wool.reinforced.orange.name=Помаранчева укріплена вовна
+tile.moonmod.wool.reinforced.orange.desc=Вовна і тканина з золотою підкладкою для захисту від ультрафіолету, пофарбовано в помаранчевий.
+tile.moonmod.wool.reinforced.magenta.name=Пурпурова укріплена вовна
+tile.moonmod.wool.reinforced.magenta.desc=Вовна і тканина з золотою підкладкою для захисту від ультрафіолету, пофарбовано в пурпуровий.
+tile.moonmod.wool.reinforced.lightblue.name=Блакитна укріплена вовна
+tile.moonmod.wool.reinforced.lightblue.desc=Вовна і тканина з золотою підкладкою для захисту від ультрафіолету, пофарбовано в блакитний.
+tile.moonmod.wool.reinforced.yellow.name=Жовта укріплена вовна
+tile.moonmod.wool.reinforced.yellow.desc=Вовна і тканина з золотою підкладкою для захисту від ультрафіолету, пофарбовано в жовтий.
+tile.moonmod.wool.reinforced.lime.name=Лаймова укріплена вовна
+tile.moonmod.wool.reinforced.lime.desc=Вовна і тканина з золотою підкладкою для захисту від ультрафіолету, пофарбовано в лаймовий.
+tile.moonmod.wool.reinforced.pink.name=Рожева укріплена вовна
+tile.moonmod.wool.reinforced.pink.desc=Вовна і тканина з золотою підкладкою для захисту від ультрафіолету, пофарбовано в рожевий.
+tile.moonmod.wool.reinforced.gray.name=Сіра укріплена вовна
+tile.moonmod.wool.reinforced.gray.desc=Вовна і тканина з золотою підкладкою для захисту від ультрафіолету, пофарбовано в сірий.
+tile.moonmod.wool.reinforced.silver.name=Світло-сіра укріплена вовна
+tile.moonmod.wool.reinforced.silver.desc=Вовна і тканина з золотою підкладкою для захисту від ультрафіолету, пофарбовано в світло-сірий.
+tile.moonmod.wool.reinforced.cyan.name=Бірюзова укріплена вовна
+tile.moonmod.wool.reinforced.cyan.desc=Вовна і тканина з золотою підкладкою для захисту від ультрафіолету, пофарбовано в бірбзовий.
+tile.moonmod.wool.reinforced.purple.name=Фіолетова укріплена вовна
+tile.moonmod.wool.reinforced.purple.desc=Вовна і тканина з золотою підкладкою для захисту від ультрафіолету, пофарбовано в фіолетовий.
+tile.moonmod.wool.reinforced.blue.name=Синя укріплена вовна
+tile.moonmod.wool.reinforced.blue.desc=Вовна і тканина з золотою підкладкою для захисту від ультрафіолету, пофарбовано в синій.
+tile.moonmod.wool.reinforced.brown.name=Коричнева укріплена вовна
+tile.moonmod.wool.reinforced.brown.desc=Вовна і тканина з золотою підкладкою для захисту від ультрафіолету, пофарбовано в коричневий.
+tile.moonmod.wool.reinforced.green.name=Зелена укріплена вовна
+tile.moonmod.wool.reinforced.green.desc=Вовна і тканина з золотою підкладкою для захисту від ультрафіолету, пофарбовано в зелений.
+tile.moonmod.wool.reinforced.red.name=Червона укріплена вовна
+tile.moonmod.wool.reinforced.red.desc=Вовна і тканина з золотою підкладкою для захисту від ультрафіолету, пофарбовано в червоний.
+tile.moonmod.wool.reinforced.black.name=Чорна укріплена вовна
+tile.moonmod.wool.reinforced.black.desc=Вовна і тканина з золотою підкладкою для захисту від ультрафіолету, пофарбовано в чорний.
+
+tile.moonmod.lamp.name=Місячна лампа
+tile.moonmod.lamp.desc=Редстоунова лампа, що випромінює світло.
+
+tile.moonmod.lantern.firefly.white.name=Білий світильник
+tile.moonmod.lantern.firefly.white.desc=Скляна банка наповнена білими світляками.

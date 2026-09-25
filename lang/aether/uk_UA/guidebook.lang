@@ -1,0 +1,80 @@
+aether.guidebook.section.enchanter=Зачаровувач
+aether.guidebook.section.freezer=Заморожувач
+aether.guidebook.section.incubator=Інкубатор
+
+aether.guidebook.section.incubator.undiscovered=Як ця істота вилуплюється, не виявлено.
+aether.guidebook.section.incubator.chicken=Що було раніше, курка чи яйце?
+aether.guidebook.section.incubator.slime=Зверніть увагу, вони бувають різних розмірів.
+
+aether.guidebook.section.incubator.moa_blue=Міцний скакун, здатний на 3 стрибки в повітрі.
+aether.guidebook.section.incubator.moa_white=Сильний  скакун, здатний на 5 стрибків у повітрі.
+aether.guidebook.section.incubator.moa_black=Потужний скакун, здатний на 7 стрибків у повітрі.
+
+aether.guidebook.section.incubator.swet_gold=Чудове вороже гарне створіння.
+aether.guidebook.section.incubator.swet=Ворожа желатинова істота.
+
+guidebook.section.mob.phyg.name=Фіґ
+guidebook.section.mob.phyg.desc=Фіґи є поширеним, але цінним джерелом їжі, пір'я та транспорту. Їх можна знайти будь-де в Етері.
+
+guidebook.section.mob.sheepuff.name=Етерова вівця
+guidebook.section.mob.sheepuff.desc=Етерові вівці дають багато вовни, вони більш пухнасті та пружні. Їх можна знайти будь-де в Етері.
+
+guidebook.section.mob.phow.name=Фоу
+guidebook.section.mob.phow.desc=Фоу є корисним джерелом шкіри, пір'я та транспорту. Їх можна знайти будь-де в Етері.
+
+guidebook.section.mob.aerbunny.name=Небокролик
+guidebook.section.mob.aerbunny.desc=Симпатичний і зручний джерело ниток, їх можна брати і носити на голові для додаткових стрибків. Їх можна знайти будь-де в Етері.
+
+guidebook.section.mob.moa.blue.name=Синій моа
+guidebook.section.mob.moa.blue.desc=Ніжний і слухняний птах, якого можна осідлати та їздити верхи. Сині варіанти мають 3 стрибки в повітрі.
+
+guidebook.section.mob.moa.white.name=Білий моа
+guidebook.section.mob.moa.white.desc=Ніжний і слухняний птах, якого можна осідлати та їздити верхи. Білі варіанти мають 5 стрибки в повітрі.
+
+guidebook.section.mob.moa.black.name=Чорний моа
+guidebook.section.mob.moa.black.desc=Ніжний і слухняний птах, якого можна осідлати та їздити верхи. Чорні варіанти мають 3 стрибки в повітрі.
+
+guidebook.section.mob.aerwhale.name=Небокит
+guidebook.section.mob.aerwhale.desc=Небокити — давні та миролюбні істоти, відомі тим, що дрейфують у небі.
+
+guidebook.section.mob.swet.name=Синє желе
+guidebook.section.mob.swet.desc=Сині желе можуть бути небезпечними, якщо їм вдасться схопити вас. Їх рідко можна знайти будь-де в Етері.
+
+guidebook.section.mob.swet.gold.name=Золоте желе
+guidebook.section.mob.swet.gold.desc=Золоті желе можуть бути небезпечними, якщо їм вдасться схопити вас. Їх рідко можна знайти будь-де в Етері.
+
+guidebook.section.mob.cockatrice.name=Кокатріс
+guidebook.section.mob.cockatrice.desc=Злий і ворожий птах, якого можна знайти в темних місцях. Вони стріляють отруйними голками з рота.
+
+guidebook.section.mob.aechorplant.name=Ехорова рослина
+guidebook.section.mob.aechorplant.desc=Ехорові рослини є унікальною фауною, яка зазвичай з’являється в Етері. Вони стріляють отруйними голками, щоб не дати їм наблизитися.
+
+guidebook.section.mob.zephyr.name=Зефір
+guidebook.section.mob.zephyr.desc=Звичайне роздратування літає по всьому Етеру, вони стріляють сніжками, які змушують вас летіти.
+
+guidebook.section.mob.whirly.name=Вихор
+guidebook.section.mob.whirly.desc=Незвичайний моб, знайдений в Етері, викидає предмети, але може розлютитися.
+
+guidebook.section.mob.tempest.name=Буря
+guidebook.section.mob.tempest.desc=Неймовірно добре завдає шкоди від блискавки.
+
+guidebook.section.mob.mimic.name=Мімік
+guidebook.section.mob.mimic.desc=Культова пастка для мандрівників, яку знаходять у срібних підземеллях, змішаних зі звичайними скринями.
+
+guidebook.section.mob.sentry.name=Вартовий
+guidebook.section.mob.sentry.desc=Автоматони, поховані в підлозі бронзових підземель, вистрибують, коли по них ходять.
+
+guidebook.section.mob.valkyrie.name=Валькірія
+guidebook.section.mob.valkyrie.desc=Гарний солдат, який може телепортуватися навколо вас, знайдений у срібних підземеллях.
+
+guidebook.section.mob.fireminion.name=Вогняний міньйон
+guidebook.section.mob.fireminion.desc=Прояв, викликаний духом сонця, швидкий і смертоносний.
+
+guidebook.section.mob.slider.name=Мололіт
+guidebook.section.mob.slider.desc=Блоковий і міцний бос, якого можна перемогти лише за допомогою шахтарського інструмента, знайденого в бронзових підземеллях.
+
+guidebook.section.mob.valkyrie.queen.name=Королева валькірій
+guidebook.section.mob.valkyrie.queen.desc=Елегантний воїн, який може телепортуватися та кидати блискавку, знайдений у срібних підземеллях.
+
+guidebook.section.mob.sunspirit.name=Дух Сонця
+guidebook.section.mob.sunspirit.desc=Нищівний вогняний бог, який атакує вогнем і льодом, знайдений у золотих підземеллях.

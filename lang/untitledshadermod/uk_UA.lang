@@ -1,0 +1,31 @@
+untitledshadermod.options=USM
+
+untitledshadermod.options.category.common=Звичайні
+untitledshadermod.options.category.tone_map=Мапа тонів
+untitledshadermod.options.category.dither=Змішування
+
+options.untitledshadermod.option.tone_mapping=Зіставлення тонів
+options.untitledshadermod.option.red_bits=Червоні біти
+options.untitledshadermod.option.green_bits=Зелені біти
+options.untitledshadermod.option.blue_bits=Сині біти
+options.untitledshadermod.option.tone_map.falloff=Спадання
+options.untitledshadermod.option.tone_map.falloff_start=Початок спадання
+options.untitledshadermod.option.tone_map.falloff_end=Кінець спадання
+
+options.untitledshadermod.option.dithering=Змішування
+options.untitledshadermod.option.bayer_matrix=Матриця Байєра
+options.untitledshadermod.option.bayer_brightness=Яскравість Байєра
+options.untitledshadermod.option.pixel_size=Розмір пікселя
+options.untitledshadermod.option.dither.falloff=Спадання
+options.untitledshadermod.option.dither.falloff_start=Початок спадання
+options.untitledshadermod.option.dither.falloff_end=Кінець спадання
+
+options.untitledshadermod.option.falloff_type=Тип спадання
+options.untitledshadermod.option.adaptive_brightness=Адаптивна яскравість
+
+untitledshadermod.key.error=ПОМИЛКА
+untitledshadermod.key.normal=Звичайний
+untitledshadermod.key.inverted=Інвертований
+untitledshadermod.key.spherical=Сферичний
+untitledshadermod.key.linear=Лінійний
+untitledshadermod.key.automatic=Автоматичний
