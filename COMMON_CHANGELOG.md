@@ -7,7 +7,7 @@
 Повернено переклад
 
 Покращено переклад  <br>
-Оновлено переклад [JourneyMap](https://modrinth.com/plugin/journeymap), [Aquamirae](https://modrinth.com/mod/aquamirae), [Iron's Arms 'n Artifice](https://modrinth.com/mod/irons-artifice), [NeoForge](https://neoforged.net/), [Ohmega](https://modrinth.com/mod/ohmega), [BedrockIfy](https://modrinth.com/mod/bedrockify) <br>
+Оновлено переклад [JourneyMap](https://modrinth.com/plugin/journeymap), [Aquamirae](https://modrinth.com/mod/aquamirae), [Iron's Arms 'n Artifice](https://modrinth.com/mod/irons-artifice), [NeoForge](https://neoforged.net/), [Ohmega](https://modrinth.com/mod/ohmega), [BedrockIfy](https://modrinth.com/mod/bedrockify), [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) <br>
 Оновлено і покращено переклад [Sodium Extra](https://modrinth.com/mod/sodium-extra), [Distant Horizons](https://modrinth.com/mod/distanthorizons)
 
 Видалено переклад  оскільки додано в самі моди
