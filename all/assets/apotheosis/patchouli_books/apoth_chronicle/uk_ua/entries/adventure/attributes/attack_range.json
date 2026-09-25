@@ -1,0 +1,13 @@
+{
+    "name": "Дальність атаки",
+    "icon": "minecraft:skeleton_skull",
+    "category": "apotheosis:adventure/attributes",
+	"flag": "apotheosis:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Дальність атаки$() — це максимальна відстань, на якій ви можете атакувати цілі холодною зброєю.$(p)Звичайно зустрічається на зброї."
+        }
+	]
+}

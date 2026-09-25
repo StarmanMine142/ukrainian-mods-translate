@@ -1,0 +1,25 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Вітаємо в магнетичних печерах…
+    • {Вступ|magnetic_caves/general.json}
+    • {Ресурси|magnetic_caves/resources.json}
+    • Мешканці
+        • {Телетор|magnetic_caves/teletor.json}
+        • {Магнетрон|magnetic_caves/magnetron.json}
+        • {Стрибоїд|magnetic_caves/boundroid.json}
+        • {Металослимак|magnetic_caves/ferrouslime.json}
+        • {Нотор|magnetic_caves/notor.json}
+    • {Приладдя|magnetic_caves/utilities.json}

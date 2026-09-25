@@ -1,0 +1,21 @@
+{
+  "stickynotes": "StickyNotes",
+  "modmenu.summaryTranslation.stickynotes": "StickyNotes",
+  "modmenu.descriptionTranslation.stickynotes": "Ставте мітки у світі.",
+  "stickynotes.open_list": "Відкрити список міток",
+  "stickynotes.world_notes_list": "Список міток світів",
+  "stickynotes.world_notes_list.copy": "Копіювати",
+  "stickynotes.world_notes_list.copy.tooltip": "Копіювати список мітки з вибраного світу у поточний.",
+  "stickynotes.world_notes_list.edit": "Редагувати",
+  "stickynotes.world_notes_list.delete": "Видалити",
+  "stickynotes.notes_list": "Мітки",
+  "stickynotes.add_note": "Додати мітку",
+  "stickynotes.other_worlds_notes": "Мітки інших світів",
+  "stickynotes.edit_note": "Редагувтаи мітку",
+  "stickynotes.note_name": "Назва:",
+  "stickynotes.note_desc": "Опис:",
+  "stickynotes.note_pos": "Позиція:",
+  "stickynotes.move_to_player": "Перемістити до гравця",
+  "stickynotes.move_to_look_pos": "Переміститися до точки на яку дивитися",
+  "stickynotes.note_see_through": "Бачити через місцевість: %s"
+}

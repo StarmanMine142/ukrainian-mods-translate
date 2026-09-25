@@ -1,0 +1,17 @@
+{
+    "name": "Незламний амулет",
+    "icon": "minecraft:enchanting_table",
+    "category": "apotheosis:potion/charms",
+	"flag": "&apotheosis:potion,apotheosis:enchanting",
+	"sortnum": -1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "За допомогою $(l:apotheosis:enchanting/table/infusion)вливаного зачарування$() амулет можна зробити незламним.$(p)Завдяки цьому ви можете мати необмежену тривалість будь-якого ефекту зілля."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "Рецепт вливання незламного амулета досить складний.$(p)Вам знадобиться чітке розуміння $(l:apotheosis:enchanting/table/stats) характеристик зачарування$(), щоб завершити його."
+        }
+	]
+}

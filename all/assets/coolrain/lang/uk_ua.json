@@ -1,0 +1,16 @@
+{
+  "sounds.coolrain.rain_sounds_metal": "Дощ падає на метал",
+  "sounds.coolrain.rain_sounds_lava": "Лава шипить від дощу",
+  "sounds.coolrain.rain_sounds_fabric": "Дощ падає на вовну",
+  "sounds.coolrain.rain_sounds_foliage": "Дощ падає на листя",
+  "sounds.coolrain.rain_sounds_glass": "Дощ падає на скло",
+  "sounds.coolrain.rain_sounds_water": "Дощ падає на воду",
+  "sounds.coolrain.rain_sounds_amethyst": "Аметист дзвенить від дощу",
+  "sounds.coolrain.rain_sounds_noteblock": "Нотний блок дзвенить від дощу",
+
+  "sounds.coolrain.rain_sounds_metal_muffled": "Дощ приглушено падає на метал",
+  "sounds.coolrain.rain_sounds_fabric_muffled": "Дощ приглушено падає на вовну",
+  "sounds.coolrain.rain_sounds_glass_muffled": "Дощ приглушено падає на скло",
+
+  "modmenu.descriptionTranslation.coolrain": "Круті звуки падання дощу на блоки."
+}

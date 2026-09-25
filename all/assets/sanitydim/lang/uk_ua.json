@@ -1,0 +1,36 @@
+{
+	"entity.sanitydim.rotting_stalker": "Гнилий переслідувач",
+	"entity.sanitydim.sneaking_terror": "Потаємний жах",
+	
+	"commands.sanity.set.success.single": "Установлено глузд %s на %s",
+	"commands.sanity.set.success.multiple": "Установлено глузд на %s для %s гравців",
+	"commands.sanity.add.success.single": "Додано %s глузду %s",
+	"commands.sanity.add.success.multiple": "Додано %s глузду %s гравцям",
+	"commands.sanity.config.reload": "Налаштування вимірів успішно перезавантажено",
+	
+	"gui.sanitydim.hint00": "Що це за звуки?",
+	"gui.sanitydim.hint01": "Я почуваюся трохи не в собі",
+	"gui.sanitydim.hint02": "Що це було?",
+	"gui.sanitydim.hint03": "Яке дивне відчуття…",
+	"gui.sanitydim.hint04": "Мені це не подобається…",
+	"gui.sanitydim.hint05": "Га?",
+	"gui.sanitydim.hint06": "Хммм?",
+	"gui.sanitydim.hint07": "Що?",
+	"gui.sanitydim.hint08": "Що там?",
+	"gui.sanitydim.hint09": "Це був я?",
+	"gui.sanitydim.hint010": "Дивно…",
+	"gui.sanitydim.hint011": "Я щойно щось бачив?",
+	"gui.sanitydim.hint10": "ХТОСЬ ПОЗАДУ МЕНЕ",
+	"gui.sanitydim.hint11": "Один, два, три, чотири…",
+	"gui.sanitydim.hint12": "…п’ять, шість, сім, вісім…",
+	"gui.sanitydim.hint13": "ВОНИ В МОЇЙ ГОЛОВІ",
+	"gui.sanitydim.hint14": "ЗАЛИШ МЕНЕ В СКОПОЇ",
+	"gui.sanitydim.hint15": "ГЕТЬ З МОЄЇ ГОЛОВИ",
+	"gui.sanitydim.hint16": "ЧОМУ ВОНИ НЕ ЙДУТЬ?!",
+	"gui.sanitydim.hint17": "НАДТО ГУЧНО, НАДТО ГУЧНО",
+	"gui.sanitydim.hint18": "ГОЛОСИ… Я НЕ МОЖУ…",
+
+	"item.sanitydim.tooltip.press_shift": "§7Натисніть §9Shift§7 для подробиць",
+	"item.sanitydim.garland": "Вінок",
+	"item.sanitydim.garland.tooltip": "§7Щось, що допоможе заспокоїти нерви.\n\nПовільно відновлює ваш глузд та робить вас трохи стійкішими до стресу."
+}

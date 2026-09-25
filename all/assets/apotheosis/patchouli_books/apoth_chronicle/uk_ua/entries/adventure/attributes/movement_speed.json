@@ -1,0 +1,13 @@
+{
+    "name": "Швидкість",
+    "icon": "minecraft:leather_boots",
+    "category": "apotheosis:adventure/attributes",
+	"flag": "apotheosis:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Швидкість$() — це швидкість, з якою ви рухаєтеся, порівняно зі звичайною швидкістю ходьби гравця.$(p)Цю характеристику може надати майже будь-який предмет."
+        }
+	]
+}

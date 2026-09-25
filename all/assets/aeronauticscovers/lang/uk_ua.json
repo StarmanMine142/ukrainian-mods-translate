@@ -1,0 +1,14 @@
+{
+  "item.aeronauticscovers.cover": "Покриття",
+  "item.aeronauticscovers.directional_cover": "Напрямне покриття",
+  "aeronauticscovers.creative_tab": "Aeronautics Covers",
+  "aeronauticscovers.cover.name_prefix": "Покриття — ",
+  "aeronauticscovers.cover.empty": "Покриття — Порожньо",
+  "aeronauticscovers.directional_cover.name_prefix": "Напрямне покриття — ",
+  "aeronauticscovers.directional_cover.empty": "Напрямне покриття — Порожньо",
+  "aeronauticscovers.cover.tooltip.line1": "Виживає. Створюйте пристосування та збирайте фізичні кораблі.",
+  "aeronauticscovers.cover.tooltip.line2": "Не звичайні покриття.",
+  "aeronauticscovers.jei.empty": "Будь-який блок",
+  "aeronauticscovers.jei.cover_empty": "Покриття — Будь-який блок",
+  "fml.menu.mods.info.description.aeronauticscovers": "Підтримка Cable Facades для пристосувань і фізичних кораблів Aeronautics/Simulated."
+}

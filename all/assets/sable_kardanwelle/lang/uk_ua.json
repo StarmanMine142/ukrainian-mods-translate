@@ -1,0 +1,18 @@
+{
+  "block.sable_kardanwelle.cardan_connector": "Карданний з'єднувач",
+  "item.sable_kardanwelle.cardan_connector": "Карданний з'єднувач",
+  "itemGroup.sable_kardanwelle.create_cardan_shafts": "Create Cardan Shafts",
+  "subtitles.sable_kardanwelle.cardan_connect": "Карданний вал з'єднується",
+  "subtitles.sable_kardanwelle.cardan_wind_click": "Карданний вал потріскує",
+  "message.sable_kardanwelle.link_started": "Перша точка готова. Виберіть другу точку.",
+  "message.sable_kardanwelle.link_cancelled": "З'єднання карданного валу скасовано.",
+  "message.sable_kardanwelle.link_finished": "Карданний вал з'єднано.",
+  "message.sable_kardanwelle.link_failed.generic": "Помилка з'єднання.",
+  "message.sable_kardanwelle.link_failed.busy": "Помилка з'єднання: одна кінцева точка вже з'єднана.",
+  "message.sable_kardanwelle.link_failed.dimension": "Помилка з'єднання: обидві точки мають бути в одному вимірі.",
+  "message.sable_kardanwelle.link_failed.distance": "Помилка з'єднання: точки надто далеко одна від одної (макс. %s блоків).",
+  "message.sable_kardanwelle.link_failed.need_pair": "Вам потрібно принаймні два карданних з'єднувачі в слоті.",
+  "message.sable_kardanwelle.link_failed.self": "Помилка з'єднання: ви не можете з'єднувати вал до нього самого.",
+  "message.sable_kardanwelle.link_failed.missing": "Помилка з'єднання: перша точка більше не існує.",
+  "fml.menu.mods.info.description.sable_kardanwelle": "Додає сумісні з Create з’єднувачі карданного валу для передачі обертання між рухомими підрівнями Sable із налаштовуваними обмеженнями довжини та анімованим відгуком про розміщення."
+}

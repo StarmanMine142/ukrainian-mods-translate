@@ -1,0 +1,13 @@
+{
+	"item.ring_of_repair.ring_of_repair": "Кільце лагодження",
+
+	"item.ring_of_repair.ring_of_repair.tip1": "Повільно лагодить пошкоджені предмети в інвентарі гравця",
+	"item.ring_of_repair.ring_of_repair.tip2": "Працює, поки кільце знаходиться в інвентарі гравця або в скрині",
+
+	"tag.item.ring_of_repair.ring_repair_blacklist": "Список предметів, які не слід лагодити",
+
+	"itemGroup.ring_of_repair.ring_repair_group": "Ring of Repair",
+
+	"modmenu.descriptionTranslation.ring_of_repair": "Повільно лагодить предмети в інвентарі.",
+	"fml.menu.mods.info.description.ring_of_repair": "Повільно лагодить предмети в інвентарі."
+}

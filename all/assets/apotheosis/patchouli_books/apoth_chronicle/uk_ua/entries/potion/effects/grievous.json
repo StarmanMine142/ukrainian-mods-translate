@@ -1,0 +1,17 @@
+{
+    "name": "Тяжкі рани",
+    "icon": "apothic_attributes:textures/mob_effect/grievous.png",
+    "category": "apotheosis:potion/effects",
+	"flag": "apotheosis:potion",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Зілля $(c)тяжких ран$() є негативним ефектом.$(p)Під час його дії все отримане зцілення зменшується."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "Зменшення зцілення дорівнює 40% за рівень.$(p)На рівні III або вище будь-яке зцілення безкорисне."
+        }
+	]
+}

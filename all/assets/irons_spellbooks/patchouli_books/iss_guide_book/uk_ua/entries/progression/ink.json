@@ -1,0 +1,38 @@
+{
+  "name": "Чорнила",
+  "icon": "irons_spellbooks:epic_ink",
+  "category": "irons_spellbooks:root",
+  "sortnum": 4,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "irons_spellbooks:common_ink",
+      "text": "Найпоширеніші з чорнил (тобто назва), звичайні чорнила можуть створювати заклинання найнижчого рівня. Якщо найнижчий рівень заклинання вище звичайного, його не можна створити звичайним чорнилом. Те саме стосується всіх інших чорнил."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "irons_spellbooks:uncommon_ink",
+      "text": "Менш поширений, ніж звичайний, він може створити трохи потужніші заклинання."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "irons_spellbooks:rare_ink",
+      "text": "Рідкісне чорнило можна буде регулярно знаходити в магічних скринях зі скарбами або вбиваючи заклинаючих мобів."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "irons_spellbooks:epic_ink",
+      "text": "Найкраще місце для епічного чорнила та всіх інших рідкісних чорнил — це магічний скарб або вбивство чарівників."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "irons_spellbooks:legendary_ink",
+      "text": "Найрідкісніше чорнило, воно створить найпотужніші заклинання. Майте на увазі, деякі заклинання мають кілька легендарних рівнів, для отримання яких потрібно використовувати Арканське ковадло."
+    },
+    {
+      "type": "patchouli:empty",
+      "draw_filler": false
+    }
+  ]
+}

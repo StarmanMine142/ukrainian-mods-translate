@@ -1,0 +1,5 @@
+{
+  "item.glowinkbrush.glow_ink_brush": "Сяйна щітка",
+  "item.tooltip.glowinkbrush.glow_ink_brush.not_found": "Відбітків не знайдено.",
+  "modmenu.descriptionTranslation.glowinkbrush": "Додає сяйну щітку, що показує хто востаннє взаємодіяв з блоком."
+}

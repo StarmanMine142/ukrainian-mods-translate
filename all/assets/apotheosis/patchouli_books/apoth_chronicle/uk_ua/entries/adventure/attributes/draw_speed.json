@@ -1,0 +1,13 @@
+{
+    "name": "Швидкість зарядки",
+    "icon": "minecraft:bow",
+    "category": "apotheosis:adventure/attributes",
+	"flag": "apotheosis:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Швидкість заряджання$() це швидкість, з якою ви можете витягнути зброю дальнього бою відносно початкової швидкости. 1 = 100%, 2 = 200% тощо.$(p)Знайдено на зброї дальнього бою."
+        }
+	]
+}

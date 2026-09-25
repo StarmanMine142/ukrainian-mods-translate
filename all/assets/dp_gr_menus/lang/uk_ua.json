@@ -1,0 +1,23 @@
+{
+  "packrulemenus.config.askPackConfirmation": "Запитувати перед перезавантаженням пакетів даних",
+  "packrulemenus.config.askPackConfirmation.tooltip": "Це також дасть вам можливість елегантно перезапустити світ",
+  "packrulemenus.config.buttonlocation": "Розміщення кнопок",
+  "packrulemenus.config.buttonlocation.none": "Ніде",
+  "packrulemenus.config.buttonlocation.none.tooltip": "Кнопки будуть доступні лише через ModMenu",
+  "packrulemenus.config.buttonlocation.options_body": "Основа налаштувань",
+  "packrulemenus.config.buttonlocation.options_body.tooltip": "Кнопки будуть над основними кнопками у налаштуваннях.",
+  "packrulemenus.config.buttonlocation.options_header": "Заголовок налаштувань",
+  "packrulemenus.config.buttonlocation.options_header.tooltip": "Кнопки будуть прямо під кнопкою складности у налаштуваннях.",
+  "packrulemenus.gui.main.title": "Налаштування Datapack/Gamerule Menus",
+  "packrulemenus.gui.worldoptions.title": "Налаштування світу",
+  "packrulemenus.warning.featureflag.title": "Позначки функцій",
+  "packrulemenus.warning.featureflag.message": "Ви намагаєтесь увімкнути або вимкнути один або кілька позначок функції. Щоб застосувати ці зміни, потрібно перезапустити світ",
+  "packrulemenus.warning.featureflag.checkbox": "Я знаю, що роблю; покиньте світ зараз",
+  "packrulemenus.warning.packConfirmation.title": "Перезавантажити пакет даних",
+  "packrulemenus.warning.packConfirmation.message": "Перезавантажити, використовуючи вибраний пакет даних?\n\nЗауважте, що, починаючи з 1.21, деякі пакети даних можуть вимагати перезавантаження світу, щоб набули чинности",
+  "packrulemenus.warning.packConfirmation.checkbox": "(Необов'язково) Вийти зі світу перед перезавантаженням",
+  "packrulemenus.warning.vanillapack.title": "Усталені пакети даних",
+  "packrulemenus.warning.vanillapack.message": "Ви намагаєтесь вимкнути усталені пакети даних. ЦЕ МОЖЕ СИЛЬНО ЗЛАМАТИ СВІТ. Ви СПРАВДІ ВПЕВНЕНІ, що хочете продовжити?",
+  "packrulemenus.warning.vanillapack.checkbox": "Я готовий зіткнутися з наслідками",
+  "modmenu.descriptionTranslation.packrule-menus": "Робить меню пакетів даних і ігрових правил доступними у світах гри наодинці."
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Вічний сагайдак",
+    "icon": "minecraft:enchanted_book",
+    "category": "apotheosis:enchanting/enchantments",
+	"flag": "apotheosis:enchanting",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(2)Вічний сагайдак$() — це майстерне зачарування для луків.$(p)Під час стрільби з лука стріли не витрачаються, незалежно від типу.$(p)Це вважається прямим оновленням $(9)нескінченности$()."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "Це зачарування може зробити нескінченними навіть стріли з інших модів."
+        }
+	]
+}

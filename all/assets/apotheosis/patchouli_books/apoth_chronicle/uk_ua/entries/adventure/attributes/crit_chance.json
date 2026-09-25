@@ -1,0 +1,17 @@
+{
+    "name": "Шанс крит. удару",
+    "icon": "minecraft:netherite_sword",
+    "category": "apotheosis:adventure/attributes",
+	"flag": "apotheosis:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Шанс критичного удару$() — це ймовірність того, що будь-яка завдана вами шкода стане критичним ударом. Значення, що перевищують 100%, дозволяють виконувати мультикритичні дії.$(p)Знайдено на зброї."
+        },
+		{
+			"type": "patchouli:text",
+			"text": "Сума шкоди, яку завдають критичні удари, залежить від вас $(l:apotheosis:adventure/attributes/crit_damage)шкоди критичного удару$()."
+		}
+	]
+}

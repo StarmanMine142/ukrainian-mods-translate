@@ -1,0 +1,212 @@
+{
+    "apothic_attributes.gui.attributes": "Атрибути",
+    "apothic_attributes.gui.base": "Базово: %s",
+    "apothic_attributes.gui.min": "Мін.: %s",
+    "apothic_attributes.gui.max": "Макс.: %s",
+    "apothic_attributes.gui.modifiers": "Модифікатори",
+    "apothic_attributes.gui.add_value": "Додатково: %s",
+    "apothic_attributes.gui.add_multiplied_base": "Базовий множник: %s",
+    "apothic_attributes.gui.add_multiplied_total": "Загальний множник: %s",
+    "apothic_attributes.gui.press_shift": "Утримуйте Shift для подробиць.",
+    "apothic_attributes.gui.current": "Наразі: %s",
+    "apothic_attributes.gui.show_attributes": "Показати атрибути",
+    "apothic_attributes.gui.dynamic": "(динамічно)",
+    "apothic_attributes.gui.formula": "Формула модифікатора",
+    "apothic_attributes.gui.formula.base": "Базова",
+    "apothic_attributes.gui.formula.value": "Значення",
+    "apothic_attributes.gui.no_modifiers": "Без модифікатора",
+
+    "attribute.name.generic.armor.desc": "Збільшує зменшення фізичної шкоди.",
+    "attribute.name.generic.armor_toughness.desc": "Зменшує ефективність зменшення захисту ворога.",
+    "attribute.name.generic.attack_damage.desc": "Фізична шкода завдана повністю зарядженою атакою.",
+    "attribute.name.generic.attack_knockback.desc": "Як далеко ваші атаки ближнього бою відкидають ворогів, у півблоках.",
+    "attribute.name.generic.attack_speed.desc": "Скільки повністю заряджених атак ви можете виконати за секунду.",
+    "attribute.name.generic.knockback_resistance.desc": "Скільки відкатів ви ігноруєте.",
+    "attribute.name.generic.luck.desc": "Підвищує ймовірність хороших речей.",
+    "attribute.name.generic.max_health.desc": "Скільки очок життя ви можете мати.",
+    "attribute.name.generic.movement_speed.desc": "Швидкість руху під час ходьби.",
+
+    "neoforge.entity_reach.desc": "Як далеко ви можете взаємодіяти з сутностями, у блоках.",
+    "neoforge.entity_gravity.desc": "Прискорення до землі, у блоках/с²",
+    "neoforge.name_tag_distance.desc": "Наскільки далеко повинен бути інший гравець, щоб побачити ваше ім'я.",
+    "neoforge.block_reach.desc": "Як далеко ви можете взаємодіяти з блоками, у блоках.",
+    "neoforge.step_height.desc": "На скільки блоків ви можете піднятися, не стрибаючи.",
+    "neoforge.swim_speed.desc": "Як швидко ви пливете відносно нормального.",
+
+    "button.apothic_attributes.hide_unchanged": "Приховати незаряджені атрибути",
+    "text.apothic_attributes.hide_unchanged": "Приховати незаряджені",
+
+    "apothic_attributes:draw_speed": "швидкости зарядження",
+    "apothic_attributes:draw_speed.desc": "Як швидко ви використовуєте зброю далекого бою, як-от луки, арбалети чи тризубці.",
+
+    "apothic_attributes:crit_chance": "шансу критичного удару",
+    "apothic_attributes:crit_chance.desc": "Імовірність будь-якої критичної шкоди, яку ви завдаєте, завдає додаткової шкоди залежно від вашої критичної шкоди.",
+
+    "apothic_attributes:crit_damage": "шкоди критичного удару",
+    "apothic_attributes:crit_damage.desc": "Множник шкоди для критичних ударів, у тому числі критичних стрибків.",
+
+    "apothic_attributes:cold_damage": "шкоди від холоду",
+    "apothic_attributes:cold_damage.desc": "Додаткова магічна шкода, що наноситься на атаки ближнього бою, і сповільнює ворогів, які потрапили під удар.",
+
+    "apothic_attributes:fire_damage": "шкоди від вогню",
+    "apothic_attributes:fire_damage.desc": "Додаткова магічна шкода, що наноситься на атаки ближнього бою, і спалює ворогів.",
+
+    "apothic_attributes:life_steal": "вампіризму",
+    "apothic_attributes:life_steal.desc": "Відсоток пошкоджень після пом'якшення, які зцілять вас.",
+
+    "apothic_attributes:current_hp_damage": "шкоди поточного здоров'я",
+    "apothic_attributes:current_hp_damage.desc": "Додаткова фізична шкода, що наноситься на атаки ближнього бою, залежно від здоров'я цілі.",
+
+    "apothic_attributes:overheal": "надлікування",
+    "apothic_attributes:overheal.desc": "Відсоток шкоди після пом’якшення, який надасть вам поглинаотний щит.",
+
+    "apothic_attributes:ghost_health": "примарного здоров'я",
+    "apothic_attributes:ghost_health.desc": "Ще не реалізовано.",
+
+    "apothic_attributes:mining_speed": "швидкости добування",
+    "apothic_attributes:mining_speed.desc": "Швидкість добування блоків порівняно зі звичайною.",
+
+    "apothic_attributes:arrow_damage": "шкоди від стріл",
+    "apothic_attributes:arrow_damage.desc": "Множник шкоди для стріл. Тризубці — це стріли.",
+
+    "apothic_attributes:arrow_velocity": "швидкости стріл",
+    "apothic_attributes:arrow_velocity.desc": "Множник швидкости для стріл. Швидкість шкоди від стріли змінюється.",
+
+    "apothic_attributes:experience_gained": "отримання досвіду",
+    "apothic_attributes:experience_gained.desc": "Множник того, скільки досвіду ви отримуєте, ламаючи блоки та вбиваючи мобів.",
+
+    "apothic_attributes:healing_received": "отримання зцілення",
+    "apothic_attributes:healing_received.desc": "Множник усіх вхідних зцілень.",
+
+    "apothic_attributes:armor_pierce": "пробивання захисту",
+    "apothic_attributes:armor_pierce.desc": "Рівне зменшення до значення захитсу цілі.",
+
+    "apothic_attributes:armor_shred": "дроблення обладунків",
+    "apothic_attributes:armor_shred.desc": "Зменшення у відсотках захисту цілі.",
+
+    "apothic_attributes:projectile_damage": "шкоди снарядів",
+    "apothic_attributes:projectile_damage.desc": "Коефіцієнт шкоди для всіх вихідних снарядів.",
+
+    "apothic_attributes:prot_pierce": "пробивання захисту",
+    "apothic_attributes:prot_pierce.desc": "Плавне зменшення до загальної кількості очок захисту цілі.",
+
+    "apothic_attributes:prot_shred": "дроблення захисту",
+    "apothic_attributes:prot_shred.desc": "Зменшення у відсотках загальної кількости балів захисту цілі.",
+
+    "apothic_attributes:dodge_chance": "шансу ухилення",
+    "apothic_attributes:dodge_chance.desc": "Шанс ухилитися від атаки ближнього бою або снаряда.",
+
+    "apothic_attributes:elytra_flight": "політ елітр",
+    "apothic_attributes:elytra_flight.desc": "Якщо ви можете літати так, ніби з елатрами.",
+
+    "apothic_attributes:creative_flight": "політ творчости",
+    "apothic_attributes:creative_flight.desc": "Якщо ви можете літати, наче в режимі творчости.",
+
+    "comment_id": "MobFx — описи дублюються для підтримки JEED.",
+
+    "effect.apothic_attributes.knowledge": "Стародавні знання",
+    "effect.apothic_attributes.vitality": "Бурхлива життєздатність",
+    "effect.apothic_attributes.grievous": "Тяжкі рани",
+    "effect.apothic_attributes.flying": "Політ",
+
+    "effect.apothic_attributes.sundering": "Розкол",
+    "effect.apothic_attributes.sundering.desc": "Збільшує отриману шкоду.",
+    "effect.apothic_attributes.sundering.description": "Збільшує отриману шкоду.",
+
+    "effect.apothic_attributes.bleeding": "Кровотеча",
+    "effect.apothic_attributes.bleeding.desc": "Завдає шкоди кожні дві секунди.",
+    "effect.apothic_attributes.bleeding.description": "Завдає шкоди кожні дві секунди.",
+
+    "effect.apothic_attributes.detonation": "Полум'яна детонація",
+    "effect.apothic_attributes.detonation.desc": "Після закінчення завдає шкоди на основі залишків вогняних тактів.",
+    "effect.apothic_attributes.detonation.description": "Після закінчення завдає шкоди на основі залишків вогняних тактів.",
+
+    "effect.minecraft.night_vision.desc": "Дозволяє бачити в темряві.",
+    "effect.minecraft.invisibility.desc": "Робить вас невидимим, за винятком спорядження.",
+    "effect.minecraft.jump_boost.desc": "Збільшує висоту стрибка.",
+    "effect.minecraft.fire_resistance.desc": "Дає імунітет до вогню.",
+    "effect.minecraft.water_breathing.desc": "Призводить до того, що ви не можете потонути.",
+    "effect.minecraft.instant_health.desc": "Миттєво відновлює ваше здоров'я.",
+    "effect.minecraft.instant_damage.desc": "Миттєво завдає трохи магічної шкоди.",
+    "effect.minecraft.poison.desc": "Періодично завдає нелетальної шкоди.",
+    "effect.minecraft.regeneration.desc": "Примушує вас відновлювати здоров'я з часом.",
+
+    "comment_id": "Джерела шкоди",
+
+    "death.attack.apothic_attributes:bleeding": "%1$s знекровлено",
+    "death.attack.apothic_attributes:bleeding.item": "%2$s знекровив через %1$s за допомогою: %3$s",
+    "death.attack.apothic_attributes:bleeding.player": "%1$s знекровлено під час спроби втекти від %2$s",
+
+    "death.attack.apothic_attributes:detonation": "%1$s здетонував через полум'я",
+    "death.attack.apothic_attributes:detonation.item": "%1$s здетонував через полум'я",
+    "death.attack.apothic_attributes:detonation.player": "%1$s здетонував через полум'я",
+
+    "death.attack.apothic_attributes:current_hp_damage": "%1$s збито",
+    "death.attack.apothic_attributes:current_hp_damage.item": "%2$s збив %1$s за допомогою: %3$s",
+    "death.attack.apothic_attributes:current_hp_damage.player": "%1$s збито під час бою з %2$s",
+
+    "death.attack.apothic_attributes:fire_damage": "%1$s спалено до тла",
+    "death.attack.apothic_attributes:fire_damage.item": "%2$s спалив %1$s до тла зад допомогою %3$s",
+    "death.attack.apothic_attributes:fire_damage.player": "%1$s спалено до тла під час бою з %2$s",
+
+    "death.attack.apothic_attributes:cold_damage": "%1$s заморожено до смерти",
+    "death.attack.apothic_attributes:cold_damage.item": "%2$s заморозив %1$s до смерти зад допомогою %3$s",
+    "death.attack.apothic_attributes:cold_damage.player": "%1$s заморожено до смерти під час бою з %2$s",
+
+    "item.minecraft.potion.effect.minecraft.resistance": "Зілля стійкости",
+    "item.minecraft.splash_potion.effect.minecraft.resistance": "Вибухове зілля стійкости",
+    "item.minecraft.lingering_potion.effect.minecraft.resistance": "Осідальне зілля стійкости",
+    "item.minecraft.tipped_arrow.effect.minecraft.resistance": "Стріла стійкости",
+
+    "item.minecraft.potion.effect.minecraft.absorption": "Зілля поглинання",
+    "item.minecraft.splash_potion.effect.minecraft.absorption": "Вибухове зілля поглинання",
+    "item.minecraft.lingering_potion.effect.minecraft.absorption": "Осідальне зілля поглинання",
+    "item.minecraft.tipped_arrow.effect.minecraft.absorption": "Стріла поглинання",
+
+    "item.minecraft.potion.effect.minecraft.haste": "Зілля квапливости",
+    "item.minecraft.splash_potion.effect.minecraft.haste": "Вибухове зілля квапливости",
+    "item.minecraft.lingering_potion.effect.minecraft.haste": "Осідальне зілля квапливости",
+    "item.minecraft.tipped_arrow.effect.minecraft.haste": "Стріла квапливости",
+
+    "item.minecraft.potion.effect.minecraft.mining_fatigue": "Зілля втоми",
+    "item.minecraft.splash_potion.effect.minecraft.mining_fatigue": "Вибухове зілля втоми",
+    "item.minecraft.lingering_potion.effect.minecraft.mining_fatigue": "Осідальне зілля втоми",
+    "item.minecraft.tipped_arrow.effect.minecraft.mining_fatigue": "Стріла втоми",
+
+    "item.minecraft.potion.effect.minecraft.wither": "Зілля висушування",
+    "item.minecraft.splash_potion.effect.minecraft.wither": "Вибухове зілля висушування",
+    "item.minecraft.lingering_potion.effect.minecraft.wither": "Осідальне зілля висушування",
+    "item.minecraft.tipped_arrow.effect.minecraft.wither": "Стріла висушування",
+
+    "item.minecraft.potion.effect.minecraft.levitation": "Зілля левітації",
+    "item.minecraft.splash_potion.effect.minecraft.levitation": "Вибухове зілля левітації",
+    "item.minecraft.lingering_potion.effect.minecraft.levitation": "Осідальне зілля левітації",
+    "item.minecraft.tipped_arrow.effect.minecraft.levitation": "Стріла левітації",
+
+    "item.minecraft.potion.effect.apothic_attributes.sundering": "Зілля розколу",
+    "item.minecraft.splash_potion.effect.apothic_attributes.sundering": "Вибухове зілля розколу",
+    "item.minecraft.lingering_potion.effect.apothic_attributes.sundering": "Осідальне зілля розколу",
+    "item.minecraft.tipped_arrow.effect.apothic_attributes.sundering": "Стріла розколу",
+
+    "item.minecraft.potion.effect.apothic_attributes.knowledge": "Зілля стародавніх знань",
+    "item.minecraft.splash_potion.effect.apothic_attributes.knowledge": "Вибухове зілля стародавніх знань",
+    "item.minecraft.lingering_potion.effect.apothic_attributes.knowledge": "Осідальне зілля стародавніх знань",
+    "item.minecraft.tipped_arrow.effect.apothic_attributes.knowledge": "Стріла стародавніх знань",
+
+    "item.minecraft.potion.effect.apothic_attributes.vitality": "Зілля плиплив зцілення",
+    "item.minecraft.splash_potion.effect.apothic_attributes.vitality": "Вибухове зілля плиплив зцілення",
+    "item.minecraft.lingering_potion.effect.apothic_attributes.vitality": "Осідальне зілля плиплив зцілення",
+    "item.minecraft.tipped_arrow.effect.apothic_attributes.vitality": "Стріла плиплив зцілення",
+
+    "item.minecraft.potion.effect.apothic_attributes.grievous": "Зілля зменшення зцілення",
+    "item.minecraft.splash_potion.effect.apothic_attributes.grievous": "Вибухове зілля зменшення зцілення",
+    "item.minecraft.lingering_potion.effect.apothic_attributes.grievous": "Осідальне зілля зменшення зцілення",
+    "item.minecraft.tipped_arrow.effect.apothic_attributes.grievous": "Стріла зменшення зцілення",
+
+    "item.minecraft.potion.effect.apothic_attributes.flying": "Зілля польоту",
+    "item.minecraft.splash_potion.effect.apothic_attributes.flying": "Вибухове зілля польоту",
+    "item.minecraft.lingering_potion.effect.apothic_attributes.flying": "Осідальне зілля польоту",
+    "item.minecraft.tipped_arrow.effect.apothic_attributes.flying": "Стріла польоту",
+
+    "fml.menu.mods.info.description.apothic_attributes": "Бібліотека, що надає атрибути та пов’язані речі."
+}

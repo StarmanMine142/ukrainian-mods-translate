@@ -1,0 +1,13 @@
+{
+    "name": "Висота кроку",
+    "icon": "minecraft:iron_boots",
+    "category": "apotheosis:adventure/attributes",
+	"flag": "apotheosis:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Висота кроку$() змінює, наскільки високо ви можете автоматично підвищувати блоки.$(p)Знаходиться лише на чоботах."
+        }
+	]
+}

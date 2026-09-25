@@ -1,0 +1,17 @@
+{
+    "name": "Стародавні знання",
+    "icon": "minecraft:experience_bottle",
+    "category": "apotheosis:potion/effects",
+	"flag": "apotheosis:potion",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Зілля $(9)стародавніх знань$() має благотворний ефект.$(p) Під час його впливу будь-який досвід, отриманий від мобів, яких ви вбиваєте, збільшиться."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "На рівні I він збільшує кількість досвіду в чотири рази.$(p)На рівні II у 8."
+        }
+	]
+}

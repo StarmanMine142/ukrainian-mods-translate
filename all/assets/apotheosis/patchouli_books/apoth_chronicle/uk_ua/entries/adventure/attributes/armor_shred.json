@@ -1,0 +1,13 @@
+{
+    "name": "Дробл. обладунків",
+    "icon": "apothic_attributes:textures/mob_effect/sundering.png",
+    "category": "apotheosis:adventure/attributes",
+	"flag": "apotheosis:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Дроблення обладунків$() дозволяє ігнорувати відсоток зазисту вашої цілі під час атаки.$(p)$(9)Дроблення обладунків$() застосовується перед $(9)пробиванням обладунків$()."
+        }
+	]
+}

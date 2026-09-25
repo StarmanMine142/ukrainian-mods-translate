@@ -1,0 +1,11 @@
+{
+	"item.ring_of_unseen.ring_of_unseen": "Кільце небаченого",
+
+	"item.ring_of_unseen.ring_of_unseen.tip1": "Дозволяє гравцю бути непоміченим для багатьох мобів при триманні в основній руці",
+	"item.ring_of_unseen.ring_of_unseen.tip2": "Також працює в інвентарі гравця",
+
+	"itemGroup.ring_of_unseen.ring_of_unseen": "Ring of Unseen",
+
+	"modmenu.descriptionTranslation.ring_of_unseen": "Надає предмет, який робить гравця непомітним для деяких мобів.",
+	"fml.menu.mods.info.description.ring_of_unseen": "Надає предмет, який робить гравця непомітним для деяких мобів."
+}

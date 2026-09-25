@@ -1,0 +1,39 @@
+name: Zip and Release
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Create ZIP archive
+        run: |
+          zip -r ukrainian-mods-translate.zip all/
+
+      - name: Read CHANGELOG
+        id: changelog
+        run: |
+          TITLE=$(sed -n '3p' RELEASE_CHANGELOG.md | sed 's/^### //')
+          echo "title=$TITLE" >> $GITHUB_OUTPUT
+          
+          echo "body<<EOF" >> $GITHUB_OUTPUT
+          cat RELEASE_CHANGELOG.md >> $GITHUB_OUTPUT
+          echo "" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+          
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: v${{ github.run_number }}
+          name: ${{ steps.changelog.outputs.title }}
+          body: ${{ steps.changelog.outputs.body }}
+          files: ukrainian-mods-translate.zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

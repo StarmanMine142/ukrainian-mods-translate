@@ -1,0 +1,13 @@
+{
+    "name": "Швидкість добутку",
+    "icon": "minecraft:netherite_pickaxe",
+    "category": "apotheosis:adventure/attributes",
+	"flag": "apotheosis:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Збільшує $(9)швидкість добування$() блоків. При базовому значенні 1,0 ви ламаєте блоки як зазвичай.$(p)Знайдено на кайлах і лопатах."
+        }
+	]
+}

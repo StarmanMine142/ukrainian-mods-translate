@@ -1,0 +1,22 @@
+{
+  "legacyskins.menu.select_skin": "Виберіть скін",
+  "legacyskins.menu.cancel": "Скасувати",
+  "legacyskins.menu.favorite": "Додати улюблений",
+  "legacyskins.menu.unfavorite": "Видалити улюблений",
+  "legacyskins.menu.navigate": "Навігація",
+  "legacyskins.skins.favorite": "Улюблені скіни",
+  "skin_pack.legacyskins.default": "Без пакету: Усталений скін",
+  "skin_pack.legacyskins.favorites": "Улюблені скіни",
+  "skin_pack.legacyskins.dev": "Творці пакета",
+  "skin_pack.legacyskins.creditors": "Творці пакета",
+  "legacyskins.packType.skin": "Пакет скінів",
+  "legacyskins.packType.mashup": "Змішаний пакет",
+  "legacyskins.packType.dev": "Пакет розробки",
+  "skin_pack.legacyskins.dev.0.desc": "Створено нові усталення та інтерфейс",
+  "skin_pack.legacyskins.dev.1.desc": "Створено код §kabjjc§r і зворотні порти",
+  "skin_pack.legacyskins.dev.2.desc": "Творець Legacy4J",
+  "skin_pack.legacyskins.dev.3.desc": "Творець CPM",
+  "skin_pack.legacyskins.dev.4.desc": "Допоміг з портуванням пакетів",
+  "skin_pack.legacyskins.dev.5.desc": "Багато скінів перенесено на CPM",
+  "skin_pack.legacyskins.dev.6.desc": "Багато скінів перенесено на CPM"
+}

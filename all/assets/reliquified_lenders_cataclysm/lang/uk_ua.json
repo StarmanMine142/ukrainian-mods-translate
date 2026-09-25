@@ -1,0 +1,48 @@
+{
+  "item.reliquified_lenders_cataclysm.scouring_eye": "Протирання очей",
+  "tooltip.relics.scouring_eye.description": "Око, вирване з орбіти одного з легендарних монстрів Енду. Незважаючи на минулі роки, воно все ще живе та шукає ціль для наступної битви…",
+  "tooltip.relics.scouring_eye.ability.glowing_scour": "Переслідування",
+  "tooltip.relics.scouring_eye.ability.glowing_scour.description": "Запам'ятовує останню ціль, атакувану гравцем, протягом %2$s секунд. Коли здібність активована, гравець телепортується за запам'ятану ціль, і здібність переходить на відновлення на %1$s секунд.",
+  "tooltip.relics.scouring_eye.ability.glowing_scour.predicate.target": "Вибрана ціль",
+  "tooltip.relics.scouring_eye.ability.glowing_scour.predicate.tp_allowed": "Виконано умови телепортації",
+  "tooltip.relics.scouring_eye.leveling_source.glowing_scour.title": "Переслідування",
+  "tooltip.relics.scouring_eye.leveling_source.glowing_scour.description": "+%1$s очок досвіду за кожну телепортацію до цілі за допомогою здібности %2$s.",
+
+  "item.reliquified_lenders_cataclysm.void_vortex_in_bottle": "Торнадо порожнечі в пляшці",
+  "tooltip.relics.void_vortex_in_bottle.description": "Домашнє завдання учня сумнозвісної магічної школи, де учні стикаються зі смертельними випробуваннями, ловлячи блискавки, хмари чи торнадо в банках…",
+  "tooltip.relics.void_vortex_in_bottle.ability.spawn_vortex": "Торнадо порожнечі",
+  "tooltip.relics.void_vortex_in_bottle.ability.spawn_vortex.description": "Після вбивства цілі викликає вихор порожнечі %1$s, який блокує висоту, яка притягує ближні цілі та переходить у режим відновлення на %3$s секунд. Через 5 секунд вихор вибухає, завдаючи %2$s шкоди всім ближнім цілям. Якщо слабше або рівне торнадо знаходиться поруч, він поглинає його, збільшуючись у розмірах і подовжуючи свою тривалість.",
+  "tooltip.relics.void_vortex_in_bottle.leveling_source.spawn_vortex.title": "Торнадо порожнечі",
+  "tooltip.relics.void_vortex_in_bottle.leveling_source.spawn_vortex.description": "+%1$s очок досвіду за кожен вихор порожнечі, створений здібністю %2$s.",
+
+  "item.reliquified_lenders_cataclysm.void_cloak": "Мантія порожнечі",
+  "tooltip.relics.void_cloak.description": "Матія мага, який, згідно з легендою, жив під скелею будь-якого відомого світу. Там він оволодів небаченою раніше магією рун порожнечі та переміг величезного звіра Енду, чиє око все ще блукає в пошуках битви.",
+  "tooltip.relics.void_cloak.ability.void_invulnerability": "Невразливість",
+  "tooltip.relics.void_cloak.ability.void_invulnerability.description": "Надає повний імунітет до шкоди порожнечі.",
+  "tooltip.relics.void_cloak.ability.void_rune": "Поклик порожнечі",
+  "tooltip.relics.void_cloak.ability.void_rune.description": "Кожні %1$s секунди викликає руну порожнечі під випадковою ціллю поруч, завдаючи %2$s шкоди.",
+  "tooltip.relics.void_cloak.ability.seismic_zone": "Останній крик",
+  "tooltip.relics.void_cloak.ability.seismic_zone.description": "Після смерти гравця або керованої ним істоти викликає сейсмічну зону в місці смерті з радіусом %1$s блоків, активуючи руни порожнечі до %2$s разів, кожна з яких завдає %3$s шкоди.",
+  "tooltip.relics.void_cloak.leveling_source.void_rune.title": "Поклик порожнечі",
+  "tooltip.relics.void_cloak.leveling_source.void_rune.description": "+%1$s очок досвіду  за кожну активацію здібности %2$s.",
+  "tooltip.relics.void_cloak.leveling_source.seismic_zone.title": "Останній крик",
+  "tooltip.relics.void_cloak.leveling_source.seismic_zone.description": "+%1$s очок досвіду за кожну активацію здібности %2$s.",
+
+  "item.reliquified_lenders_cataclysm.vacuum_glove": "Вакуумна рукавичка",
+  "tooltip.relics.vacuum_glove.description": "Один із найбрудніших інструментів, яким володіють не воїни чи маги, а «м'ясники». Його авра розріджує повітря навколо нього, перешкоджаючи рухам і розуму.",
+  "tooltip.relics.vacuum_glove.ability.vacuum_slowdown": "Край",
+  "tooltip.relics.vacuum_glove.ability.vacuum_slowdown.description": "Створює область навколо гравця з радіусом %2$s блоків, яка сповільнює всі цілі, які намагаються втекти від неї, на %1$s%% на краю. Сповільнення збільшується, чим ближче ціль до межі.",
+  "tooltip.relics.vacuum_glove.leveling_source.vacuum_slowdown.title": "Край",
+  "tooltip.relics.vacuum_glove.leveling_source.vacuum_slowdown.description": "+%1$s очок досвіду за кожні 10 секунд уповільнення від здібности %2$s.",
+
+  "item.reliquified_lenders_cataclysm.void_bubble": "Бульбашка порожнечі",
+  "tooltip.relics.void_bubble.description": "Крихкий, але міцний пристрій, який захищає голову, тіло та розум одночасно.",
+  "tooltip.relics.void_bubble.ability.protective_bubble": "Захисна бульбашка",
+  "tooltip.relics.void_bubble.ability.protective_bubble.description": "Охоплює голову гравця захисною бульбашкою, повністю усуваючи потребу в повітрі. Бульбашка також блокує до %1$s вхідних атак перед вибухом, розкидаючи %2$s осколків у всіх напрямках, кожен завдаючи %3$s шкоди. Потім вона відновлюється через %4$s секунд.",
+  "tooltip.relics.void_bubble.leveling_source.protective_bubble.title": "Захисна бульбашка",
+  "tooltip.relics.void_bubble.leveling_source.protective_bubble.description": "+%1$s очок досвіду за кожну атаку, заблоковану здібністю %2$s.",
+
+  "explosion.sub": "Вибух",
+
+  "fml.menu.mods.info.description.reliquified_lenders_cataclysm": "Доповнення сумісности між Relics та L_Ender 's Cataclysm."
+}

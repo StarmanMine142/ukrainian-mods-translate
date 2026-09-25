@@ -1,0 +1,20 @@
+{
+  "entity.connectiblechains.chain_knot" : "Ланцюговий вузол",
+  "message.connectiblechains.connectible_chain" : "Сумісність поєднання [Shift]",
+  "message.connectiblechains.connectible_chain_detailed": "Натисніть по паркану/стіні, щоб створити поєднання!",
+  "entity.connectiblechains.chain_collision": "Колізія ланцюга",
+  "text.autoconfig.connectiblechains.option.chainHangAmount": "Звичання ланцюга",
+  "text.autoconfig.connectiblechains.option.maxChainRange": "Макс. відстань ланцюга",
+  "text.autoconfig.connectiblechains.option.quality" : "Якість ланцюга",
+  "text.autoconfig.connectiblechains.option.chainHangAmount.@Tooltip[0]": "Керує тим, на скільки звисає ланцюг.",
+  "text.autoconfig.connectiblechains.option.chainHangAmount.@Tooltip[1]" : "Менші числа дорівнюють більшій кривій.",
+  "text.autoconfig.connectiblechains.option.chainHangAmount.@Tooltip[2]": "Колізія оновлюватиметься після нових ланцюгів або завантаження світу.",
+  "text.autoconfig.connectiblechains.option.showToolTip" : "Показати спливну підказку сумісности поєднання",
+  "text.autoconfig.connectiblechains.option.showToolTip.@Tooltip" : "Показує спливну підказку над предметом ланцюга, які сумісні з цим модом.",
+  "text.autoconfig.connectiblechains.option.maxChainRange.@Tooltip[0]": "Керує довжиною ланцюга.",
+  "text.autoconfig.connectiblechains.option.maxChainRange.@Tooltip[1]" : "§nПопередження§r: довгі ланцюги іноді можуть стати невидимими!",
+  "text.autoconfig.connectiblechains.option.quality.@Tooltip": "Керує візуальною якістю ланцюгів.",
+  "text.autoconfig.connectiblechains.title": "Налаштування Connectible Chains",
+  "tag.item.connectiblechains.catenary_items": "Предмети поєднання",
+  "modmenu.descriptionTranslation.connectiblechains": "З'єднайте свої паркани декоративним ланцюгом."
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Шкода поточ. здор.",
+    "icon": "minecraft:dragon_head",
+    "category": "apotheosis:adventure/attributes",
+	"flag": "apotheosis:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Шкода поточного здоров'я$() є різновидом шкоди при ударі. За кожен удар ви завдасте відсоток поточного здоров’я цілі як додаткову фізичну шкоду.$(p)Ця характеристика доступна лише для важкої зброї."
+        }
+	]
+}

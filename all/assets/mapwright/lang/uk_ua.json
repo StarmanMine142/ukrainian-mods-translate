@@ -1,0 +1,21 @@
+{
+  "item.mapwright.spyglass.use_tooltip": "ЛКМ при приближенні, щоб поставити позначку",
+  "key.categories.mapwright": "Mapwright",
+  "key.mapwright.brush": "Вибрати щітку",
+  "key.mapwright.eraser": "Вибрати стирачку",
+  "key.mapwright.hand": "Вибрати руку",
+  "key.mapwright.map": "Відкрити мапу",
+  "key.mapwright.pen": "Вибрати олівець",
+  "key.mapwright.redo": "Повторити",
+  "key.mapwright.swap": "Вибрати попередній інструмент",
+  "key.mapwright.undo": "Скасувати",
+  "mapwright.tool.brush": "Щітка",
+  "mapwright.tool.copy": "Копіювати",
+  "mapwright.tool.eraser": "Стирачка",
+  "mapwright.tool.pan": "Скасувати вибір інструмента",
+  "mapwright.tool.pen": "Олівець",
+  "mapwright.tool.pin": "Позначка",
+  "mapwright.tool.stamp": "Мішечок марок",
+  "modmenu.descriptionTranslation.mapwright": "[[Подорож]] ЦЕ [[ШМАТИ]] ТО !! ЧОМУ Б НЕ [підкріпити свої жарти ділом] Є 4 ТА СТВОРИТИ СВІЙ ВЛАСНИЙ",
+  "fml.menu.mods.info.description.mapwright": "[[Подорож]] ЦЕ [[ШМАТИ]] ТО !! ЧОМУ Б НЕ [підкріпити свої жарти ділом] Є 4 ТА СТВОРИТИ СВІЙ ВЛАСНИЙ"
+}

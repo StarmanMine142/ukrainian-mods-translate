@@ -1,0 +1,12 @@
+{
+    "name": "Зачаровуваність",
+    "icon": "minecraft:golden_sword",
+    "category": "apotheosis:enchanting/table",
+	"flag": "apotheosis:enchanting",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Зазвичай можливість зачарування предмета впливає на $(#CC00CC)фінальну потужність$()$(p)Apotheosis змінює це, щоб натомість забезпечити пряме посилення $(#A800A8)аркани$().$(p)$(#A800A8)Аркана$() збільшується на 50% від зачаровуваности предмета."
+        }
+	]
+}

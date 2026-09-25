@@ -1,0 +1,16 @@
+{
+  "entity.flares.flare": "Спалах",
+  "flares.configuration.bloom_intensity": "Сила світіння",
+  "flares.configuration.bloom_intensity.tooltip": "Не встановлюйте це на 11",
+  "flares.configuration.do_bloom": "Увімкнути світіння",
+  "flares.configuration.do_bloom.tooltip": "",
+  "flares.configuration.do_dynamic_lights": "Увімкнути динамічне світло",
+  "flares.configuration.do_dynamic_lights.tooltip": "Я лінивий, тому це вплине лише не новостворені спалахи",
+  "item.flares.flare_gun": "Пістолет спалахів",
+  "item.flares.illumination_flare": "Освітлювальний спалаху",
+  "item.flares.illumination_flare_shell": "Оболонка освітлювального спалаху",
+  "item.flares.signalling_flare": "Сигнальний спалах",
+  "item.flares.signalling_flare_shell": "Оболонка сигнального спалаху",
+  "itemGroup.flares": "Flare Guns",
+  "fml.menu.mods.info.description.flares": "маленький дурний мод, який додає спалахи, які освітлюють печери та видно здалека."
+}

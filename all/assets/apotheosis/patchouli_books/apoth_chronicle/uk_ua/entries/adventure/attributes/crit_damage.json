@@ -1,0 +1,13 @@
+{
+    "name": "Шкода крит. удару",
+    "icon": "minecraft:netherite_axe",
+    "category": "apotheosis:adventure/attributes",
+	"flag": "apotheosis:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Шкода критичного удару$() — це модифікатор шкоди для ваших критичних ударів.$(p)Критичні удари при стрибку також використовують ваше значення замість звичайного півторикратного множника.$(p)Знайдено на зброї."
+        }
+	]
+}

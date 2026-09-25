@@ -1,0 +1,13 @@
+{
+    "name": "Пробив обладунків",
+    "icon": "apothic_attributes:textures/mob_effect/sundering.png",
+    "category": "apotheosis:adventure/attributes",
+	"flag": "apotheosis:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Пробивання обладунків$() дозволяє ігнорувати постійну кількість захисту вашої цілі під час атаки.$(p)Додаткове пробивання обладунків може призвести до того, що ваша ціль матиме негативний захист."
+        }
+	]
+}

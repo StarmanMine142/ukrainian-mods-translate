@@ -1,0 +1,70 @@
+{
+  "name": "Кінцева гра",
+  "icon": "irons_spellbooks:arcane_anvil",
+  "category": "irons_spellbooks:root",
+  "sortnum": -1,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Магічне ковадло",
+      "text": "Рідкісні матеріали",
+      "text": "Щоб продовжити прогрес, слідкуйте за рунокамінням в магічних структурах. Рунокамінь використовується для створення ще потужніших обладунків. Маги класу завжди скидають руну своєї школи.",
+      "recipe": "irons_spellbooks:netherite_spell_book"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:dragonskin_spell_book",
+      "text": "Дракон Енду скидає луску дракона."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:cryomancer_helmet",
+      "recipe2": "irons_spellbooks:pyromancer_helmet",
+      "title": "Обладунки школи"
+    },
+    {
+      "type": "patchouli:entity",
+      "name": "Приклад: Кріомант",
+      "entity": "minecraft:armor_stand{ArmorItems:[{id:'irons_spellbooks:cryomancer_boots',Count:1b},{id:'irons_spellbooks:cryomancer_leggings',Count:1b},{id:'irons_spellbooks:cryomancer_chestplate',Count:1b},{id:'irons_spellbooks:cryomancer_helmet',Count:1b}],NoBasePlate:1b}",
+      "text": "Обладунки школи створюються з таємничої тканини та певної руни школи за цим шаблоном."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "irons_spellbooks:upgrade_orb",
+      "title": "Покращення",
+      "text": "Оновлення є остаточною формою прогресу. Усталено можна покращити будь-які обладунки, а також книги заклинань.$(br2)Сфери покращення певного атрибута створюються з базової сфери покращення та 8 рун потрібного атрибута."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:upgrade_orb",
+      "recipe2": "irons_spellbooks:fire_upgrade_orb"
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name": "Покращення матеріалів",
+      "enable_visualize": false,
+      "multiblock": {
+        "pattern": [
+          [
+            " D S ",
+            "DA0PF"
+          ]
+        ],
+        "mapping": {
+          "D": "minecraft:deepslate",
+          "A": "irons_spellbooks:deepslate_mithril_ore",
+          "P": "irons_spellbooks:armor_pile",
+          "S": "minecraft:soul_sand",
+          "F": "minecraft:soul_fire"
+        }
+      },
+      "text": "Мітріл — рідкісна руда Верхнього світу, можна знайти нижче y = -38 і не піддається впливу повітря. Для цього потрібна незеритове кайло."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "irons_spellbooks:citadel_keeper",
+      "text": "Тлінний субстрат випадає зі стародавніх лицарів, яких можна пробудити, зламавши купу обалдунків в підземних."
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "block.porkchop_express.explosive_poultry": "Вибуховий птах",
+  "block.porkchop_express.red_poultry": "Злий птах",
+  "block.porkchop_express.splitting_poultry": "Роздільний птах",
+  "item.porkchop_express.angry_swine": "Червона свиня",
+  "item.porkchop_express.burnt_swine": "Згоріла свиня",
+  "item.porkchop_express.hurt_swine": "Постраждала свиня",
+  "item.porkchop_express.remote_detonator": "Віддалений детонатор",
+  "item.porkchop_express.wretched_disc": "Платівка",
+  "item.porkchop_express.wretched_disc.desc": "Ільмарі Гаккола — Bad Piggies",
+  "item.porkchop_express.wretched_swine": "Нещастна свиня",
+  "itemGroup.porkchop_express": "The Porkchop Express"
+}

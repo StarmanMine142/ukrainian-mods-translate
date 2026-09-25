@@ -1,0 +1,18 @@
+{
+  "item.helg.helg_shard": "Гелґовий уламок",
+  "item.helg.helg_ingot": "Гелґовий злиток",
+
+  "item.helg.helgerite_helmet": "Гелґеритовий шолом",
+  "item.helg.helgerite_chestplate": "Гелґеритовий нагрудник",
+  "item.helg.helgerite_leggings": "Гелґеритові наголінники",
+  "item.helg.helgerite_boots": "Гелґеритові чоботи",
+
+  "item.helg.helgerite_spawn_egg": "Яйце виклику гелґериту",
+
+
+  "block.helg.helg_ore": "Гелґова руда",
+  "block.helg.helg_block": "Блок гелґу",
+
+  "entity.helg.helgerite": "Гелґерит",
+  "modmenu.descriptionTranslation.helg": "Додає новий тип руди — гелґ."
+}

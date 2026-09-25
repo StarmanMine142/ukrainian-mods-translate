@@ -1,0 +1,17 @@
+{
+    "name": "Стабільні кроки",
+    "icon": "minecraft:enchanted_book",
+    "category": "apotheosis:enchanting/enchantments",
+	"flag": "apotheosis:enchanting",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Стабільні кроки$() є зачаруванням для чоботів.$(p)Змінює покарання за швидкість розриву для польоту.$(p)Це включає всі покарання за те, щоб не стояти на землі."
+        },
+		{
+			"type": "patchouli:text",
+			"text": "У поєднанні з $(9)рідністю води$() ви можете мати повну швидкість під час плавання."
+		}
+	]
+}

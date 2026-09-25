@@ -1,0 +1,17 @@
+{
+  "visualkeys": "Налаштування VisualKeys",
+  "modmenu.summaryTranslation.visualkeys": "Показує клавіатуру з призначеннями клавіш",
+  "modmenu.descriptionTranslation.visualkeys": "Показує клавіатуру з призначеннями клавіш",
+  "visualkeys.open_keyboard": "Відкрити клавіатуру",
+  "visualkeys.keyboard": "Клавіатура",
+  "visualkeys.keyboard_settings": "Налаштування клавіатури",
+  "visualkeys.enabled": "Показати в HUD: %s",
+  "visualkeys.save_enabled_state": "Збереження ввімкнено в стані HUD: %s",
+  "visualkeys.keyboard_x": "HUD клавіатура X: %s",
+  "visualkeys.keyboard_y": "HUD клавіатура Y: %s",
+  "visualkeys.keyboard_scale": "HUD розмір клавіатури: %s",
+  "visualkeys.function_keys_visible": "Показ функціонал. призначень у HUD: %s",
+  "visualkeys.mid_keys_visible": "Показ серед. призначень у HUD: %s",
+  "visualkeys.numpad_keys_visible": "Показ призначень цифр. клав. у HUD: %s",
+  "visualkeys.keyboard_textured": "Текстуровані клавіші: %s"
+}

@@ -1,0 +1,68 @@
+{
+  "debug.noxesium_settings.help": "F3 + W = Відкрити налаштування Noxesium",
+  "debug.warning.option.disabled": "Цей параметр налагодження вимкнено.",
+  "debug.warning.option.disabled_by_server": "Сервер, на якому ви граєте, вимкнув цей параметр налагодження.",
+
+
+  "debug.fps_overlay": "%s кадрів/с",
+  "debug.game_time_overlay": "%s st, %s gt",
+
+  "noxesium.options.game_time_overlay.name": "Накладення ігрового часу",
+  "noxesium.options.game_time_overlay.tooltip": "Додає невелике накладення, що показує поточний ігровий час.\n\n§cПризначено для розробки шейдерів.",
+  "noxesium.options.pages.noxesium": "Noxesium",
+  "noxesium.options.screen.noxesium": "Налаштування Noxesium",
+  "noxesium.options.fps_overlay.name": "Показник частоти кадрів",
+  "noxesium.options.fps_overlay.tooltip": "Якщо ввімкнено, у лівому верхньому куті екрана з'явиться невелике накладення, що показує поточну частоту кадрів.",
+  "noxesium.options.reset_toggle_keys.name": "Скидання натиснутих клавіш при смерти",
+  "noxesium.options.reset_toggle_keys.tooltip": "Чи слід скидати натиснуті клавіші (біг/присідання) при відроджені. Увімкнено у звичайній грі.",
+  "noxesium.options.render_maps_as_ui.name": "Показувати мапу на інтерфейсі",
+  "noxesium.options.render_maps_as_ui.tooltip": "Якщо ввімкнено, то мапа у руці, буде показана у верхньому лівому/правому куті екрана, а не в руці.\n\nЯкщо вибрано «Питати сервер», то сервер, на якому ви граєте, може вмикати/вимикати цю функцію сам.",
+  "noxesium.options.ui_map_size.name": "Розмір мапи",
+  "noxesium.options.ui_map_size.tooltip": "Змінює розмір мапи на інтерфейсі, що контролюється параметром «Показувати мапу у інтерфейсі».",
+  "noxesium.options.ui_map_location.name": "Розташування мапи",
+  "noxesium.options.ui_map_location.tooltip": "Змінює розташування мапи на інтерфейсі, що контролюється параметром «Показувати мапу у інтерфейсі».",
+
+  "noxesium.options.dump_incoming_packets.name": "Журналюв. вх. пакетів",
+  "noxesium.options.dump_incoming_packets.tooltip": "Умикає журналювання пакетів Noxesium, які опрацьовує клієнт.\n\n§cПризначено для розробників серверів, які працюють з інтеграцією Noxesium.",
+  "noxesium.options.dump_outgoing_packets.name": "Журналюв. вих. пакетів",
+  "noxesium.options.dump_outgoing_packets.tooltip": "Умикає журналювання пакетів Noxesium, надісланих серверу.\n\n§cПризначено для розробників серверів, які працюють з інтеграцією Noxesium.",
+  "noxesium.options.qib_debug_visuals.name": "Налагодження системи Qib",
+  "noxesium.options.qib_debug_visuals.tooltip": "Показує на інтерфейсі інформацію для налагодження системи qib.\n\n§cПризначено для розробників серверів, які працюють з інтеграцією Noxesium.",
+  "noxesium.options.extended_packet_logging.name": "Розш. журналюв. помилок",
+  "noxesium.options.extended_packet_logging.tooltip": "Додає додаткову інформацію до помилок різних типів виключень, при опрацюванні пакетів.\n\n§cПризначено для розробників серверів.",
+  "noxesium.options.enable_glowing_keybinds.name": "Клавіші світіння команд",
+  "noxesium.options.enable_glowing_keybinds.tooltip": "Додає гарячі клавіші, які перемикають світіння гравців, залежно від їхньої команди. Потребує перезапуску гри!\n\n§cГарячі клавіші працюють лише у режимі спостерігача.",
+  "noxesium.options.debug_scoreboard_teams.name": "Налагодження табло команди",
+  "noxesium.options.debug_scoreboard_teams.tooltip": "Показує додаткову інформацію про налагодження в журналах клієнта щодо команд табло. Це може допомогти серверам налагодити помилки протоколу.\n\n§cПризначено для допомоги розробникам серверів налагодити помилки.",
+  "noxesium.options.show_culling_boxes.name": "Показати оптиміз. гітбоксів сутностей",
+  "noxesium.options.show_culling_boxes.tooltip": "Замінює гітбокси, показані за допомогою F3+B, на оптимізовані гітбокси, які контролюють, чи має сутність залишатися показаною. Це показує налаштовану ширину та висоту показаних сутностей.\n\n§cПризначено для розробників серверів, які налагоджують оптимізацію сутностей.",
+
+  "noxesium.options.enum.default": "Питати сервер",
+  "noxesium.options.enum.true": "Завжди",
+  "noxesium.options.enum.false": "Ніколи",
+
+  "noxesium.options.enum.top": "Верхній кут",
+  "noxesium.options.enum.bottom": "Нижній кут",
+  "noxesium.options.enum.top_flipped": "Навпроти верхнього куту",
+  "noxesium.options.enum.bottom_flipped": "Навпроти нижнього куту",
+  
+  "itemGroup.noxesium.server_items": "Блоки сервера",
+
+  "category.noxesium": "Noxesium",
+  
+  "key.noxesium.glow.red": "Червоне світіння спостерігачів",
+  "key.noxesium.glow.orange": "Помаранчеве світіння спостерігачів",
+  "key.noxesium.glow.yellow": "Жовте світіння спостерігачів",
+  "key.noxesium.glow.lime": "Лаймове світіння спостерігачів",
+  "key.noxesium.glow.green": "Зелене світіння спостерігачів",
+  "key.noxesium.glow.cyan": "Бірюзове світіння спостерігачів",
+  "key.noxesium.glow.aqua": "Блакитне світіння спостерігачів",
+  "key.noxesium.glow.blue": "Синє світіння спостерігачів",
+  "key.noxesium.glow.purple": "Фіолетове світіння спостерігачів",
+  "key.noxesium.glow.pink": "Рожеве світіння спостерігачів",
+
+  "key.noxesium.glow.all": "УВІМК. кольори світіння спостерігачів",
+  "key.noxesium.glow.none": "ВИМК. кольори світіння спостерігачів",
+
+  "modmenu.descriptionTranslation.noxesium": "Покращує продуктивність клієнта та покращує досвід гри на великих серверах."
+}

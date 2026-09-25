@@ -1,0 +1,8 @@
+{
+  "block.smartlogistics.horizontal_item_pusher": "Поземний жолоб",
+  "container.smartlogistics.horizontal_item_pusher": "Поземний жолоб",
+  "itemGroup.smartlogistics": "Create: Smart Logistics",
+  "jade.smartlogistics.filter": "Фільтр: ",
+  "config.jade.plugin_smartlogistics.horizontal_item_pusher": "Поземний жолоб",
+  "fml.menu.mods.info.description.smartlogistics": "Мод, що додає поземне переміщення предметів."
+}

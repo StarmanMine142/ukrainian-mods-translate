@@ -1,0 +1,7 @@
+{
+    "name": "Предмети-прилади",
+    "description": "У цьому розділі описано всі випадкові інструменти, які використовуються для полегшення зачарування.",
+    "icon": "apothic_enchanting:library",
+	"flag": "apotheosis:enchanting",
+	"parent": "apotheosis:enchanting/enchanting"
+}

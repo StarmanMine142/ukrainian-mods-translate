@@ -1,0 +1,155 @@
+{
+  "itemGroup.modular_backpacks": "Modular Backpacks",
+  "item.modular_backpacks.backpack": "Рюкзак",
+  "tooltip.modular_backpacks.backpack.1": "| ПКМ в слоті вашої скрині, щоб відкрити",
+  "tooltip.modular_backpacks.backpack.2": "| Утримує предмети та модулі",
+
+  "item.modular_backpacks.pouch": "Сумка",
+  "item.modular_backpacks.latched_pouch": "Засувна сумка",
+  "item.modular_backpacks.studded_pouch": "Шипована сумка",
+  "tooltip.modular_backpacks.pouch.1": "Модуль рюкзака",
+  "tooltip.modular_backpacks.pouch.2": "| ПКМ в слоті модуля, щоб відкрити",
+  "tooltip.modular_backpacks.pouch.3": "| Устримує предмети",
+
+  "item.modular_backpacks.echo_pouch": "Сумка відлуння",
+  "tooltip.modular_backpacks.echo_pouch.1": "Модуль рюкзака",
+  "tooltip.modular_backpacks.echo_pouch.2": "| ПКМ в слоті модуля, щоб відкрити",
+  "tooltip.modular_backpacks.echo_pouch.3": "| Утримує предмети, але не інші модулі",
+  "tooltip.modular_backpacks.echo_pouch.4": "| Усі сумки відлуння дає доступ до таких самих спільних інветарів",
+
+  "item.modular_backpacks.farming_pot": "Фермерський горщик",
+  "item.modular_backpacks.gilded_farming_pot": "Позолочений фермерський горщик",
+  "tooltip.modular_backpacks.farming.1": "Модуль рюкзака",
+  "tooltip.modular_backpacks.farming.2": "| ПКМ в слоті модуля, щоб відкрити",
+  "tooltip.modular_backpacks.farming.3": "| Пасивно вирожує врожай",
+  "tooltip.modular_backpacks.farming.4": "| Вода має шанс використатися кожного циклу росту",
+
+  "item.modular_backpacks.quiver": "Сагайдак",
+  "item.modular_backpacks.gilded_quiver": "Позолочений сагайдак",
+  "tooltip.modular_backpacks.quiver.1": "Модуль рюкзака",
+  "tooltip.modular_backpacks.quiver.2": "| ПКМ в слоті модуля, щоб відкрити",
+  "tooltip.modular_backpacks.quiver.3": "| Устримує стріли на феєрверки",
+  "tooltip.modular_backpacks.quiver.4": "| Підозрілу юшку можна використати для оброблення стріл",
+
+  "item.modular_backpacks.cooking_pot": "Горщик готування",
+  "tooltip.modular_backpacks.cooking.1": "Модуль рюкзака",
+  "tooltip.modular_backpacks.cooking.2": "| ПКМ в слоті модуля, щоб відкрити",
+  "tooltip.modular_backpacks.cooking.3": "| Повільно топить предмети без палива",
+
+  "item.modular_backpacks.buckler": "Кулачний щит",
+  "tooltip.modular_backpacks.buckler.1": "Модуль рюкзака",
+  "tooltip.modular_backpacks.buckler.2": "| ПКМ в слоті модуля, щоб відкрити",
+  "tooltip.modular_backpacks.buckler.3": "| Надає 2 одиниці захисту, коли в слоті модуля",
+  "tooltip.modular_backpacks.buckler.4": "| Захист кулачного щита обмежений 4 одиницями",
+
+  "item.modular_backpacks.reinforced_buckler": "Укріплений кулачний щит",
+  "tooltip.modular_backpacks.reinforced_buckler.1": "Модуль рюкзака",
+  "tooltip.modular_backpacks.reinforced_buckler.2": "| ПКМ в слоті модуля, щоб відкрити",
+  "tooltip.modular_backpacks.reinforced_buckler.3": "| Надає 3 одиниці захисту, коли в слоті модуля",
+  "tooltip.modular_backpacks.reinforced_buckler.4": "| Захист кулачного щита обмежений 6 одиницями",
+
+  "item.modular_backpacks.sack": "Мішок",
+  "item.modular_backpacks.phantom_stitch_sack": "Фантомний мішок",
+  "tooltip.modular_backpacks.sack.1": "Модуль рюкзака",
+  "tooltip.modular_backpacks.sack.2": "| ПКМ в слоті модуля, щоб відкрити",
+  "tooltip.modular_backpacks.sack.3": "| Зберігає лише 1 тип предмета",
+
+  "item.modular_backpacks.climbing_gear": "Кігті для лазання",
+  "tooltip.modular_backpacks.climbing_gear.1": "Модуль рюкзака",
+  "tooltip.modular_backpacks.climbing_gear.2": "| Дозволябть стрибати на та зі стін при натисканні пробілу",
+  "tooltip.modular_backpacks.climbing_gear.3": "| Ви обмежені лише 2 стрибками, після стрибка на іншу стіну, ви можете стрибати знову",
+  "tooltip.modular_backpacks.climbing_gear.4": "| Дозволяють ходити по сипкому снігу",
+
+  "container.modular_backpacks.backpack": "Рюкзак",
+  "tooltip.modular_backpacks.backpack_module": "Модуль рюкзака",
+
+  "tooltip.modular_backpacks.hold_shift": "Утримуйте Shift для подробиць",
+
+  "enchantment.modular_backpacks.linking": "Зв'язок",
+  "tooltip.modular_backpacks.linking": "Запобігає зникненню спорядженого рюкзака після смерти",
+
+  "enchantment.modular_backpacks.backprotection": "Захист спини",
+  "tooltip.modular_backpacks.backprotection": "Забезпечує значний захист ззаду",
+
+  "enchantment.modular_backpacks.packing": "Упакування",
+  "tooltip.modular_backpacks.packing": "Дозволяє рюкзаку більш ефективно зберігати речі",
+
+  "enchantment.modular_backpacks.rationing": "Нормування",
+  "tooltip.modular_backpacks.rationing": "Додатковий голод, який не використовується, зберігається та повертається вам, коли ви поза небезпекою",
+
+  "key.categories.modular_backpacks": "Modular Backpacks",
+  "key.modular_backpacks.open_backpack": "Перемкнути рюкзак",
+  "key.modular_backpacks.cycle_module_cw": "Наступний модуль",
+  "key.modular_backpacks.cycle_module_ccw": "Попередній модуль",
+  "key.modular_backpacks.clear_module": "Очистити активний модуль",
+  "key.modular_backpacks.spyglass": "Використати модуль підзорної труби",
+  
+  "advancement.modular_backpacks.root.title": "Modular Backpacks",
+  "advancement.modular_backpacks.root.description": "Рюкзак з модульним сховищем",
+
+  "advancement.modular_backpacks.heavy_load.title": "Важке навантаження",
+  "advancement.modular_backpacks.heavy_load.description": "Змайструйте свій перший рюкзак",
+
+  "advancement.modular_backpacks.what_a_colorful_world.title": "Який барвистий світ!",
+  "advancement.modular_backpacks.what_a_colorful_world.description": "Забарвте аш рбкзак в новий колір",
+
+  "advancement.modular_backpacks.looking_spiffy.title": "Вишуканий вигляд",
+  "advancement.modular_backpacks.looking_spiffy.description": "Застосуйте шаблон до вашого рюкзака",
+
+  "advancement.modular_backpacks.enchantments.magic_storage.title": "Чарівне сховище",
+  "advancement.modular_backpacks.enchantments.magic_storage.description": "Отримайте рюкзак з будь-яким зачаруванням",
+
+  "advancement.modular_backpacks.enchantments.linking.title": "Посилання",
+  "advancement.modular_backpacks.enchantments.linking.description": "Зачаруйте рюкзак на зачарування «Зв'язок»",
+
+  "advancement.modular_backpacks.enchantments.back_protection.title": "Захист спини",
+  "advancement.modular_backpacks.enchantments.back_protection.description": "Зачаруйте рюкзак на зачарування «Захист спини»",
+
+  "advancement.modular_backpacks.enchantments.packing.title": "Упаковка",
+  "advancement.modular_backpacks.enchantments.packing.description": "Зачаруйте рюкзак на зачарування «Упакування»",
+
+  "advancement.modular_backpacks.enchantments.rationing.title": "Нормування",
+  "advancement.modular_backpacks.enchantments.rationing.description": "Зачаруйте рюкзак на зачарування «Нормування»",
+
+  "advancement.modular_backpacks.pouch.deep_pockets.title": "Глибокі кишені",
+  "advancement.modular_backpacks.pouch.deep_pockets.description": "Змайструйте сумку, щоб збільшити сховище",
+
+  "advancement.modular_backpacks.pouch.deeper_pockets.title": "Глибші кишені",
+  "advancement.modular_backpacks.pouch.deeper_pockets.description": "Покращте сумку, щоб збільшити сховище",
+
+  "advancement.modular_backpacks.pouch.deepest_pockets.title": "Найглибші кишені",
+  "advancement.modular_backpacks.pouch.deepest_pockets.description": "Покращте засувну сумку, щоб ще більше збільшити ваше сховище",
+
+  "advancement.modular_backpacks.pouch.deeperer_pockets.title": "Найглибші? Кишені",
+  "advancement.modular_backpacks.pouch.deeperer_pockets.description": "Покращте засувну сумку, щоб зберігати речі в усіх рюкзаках",
+
+  "advancement.modular_backpacks.sack.bulk_storage.title": "Масове зберігання",
+  "advancement.modular_backpacks.sack.bulk_storage.description": "Змайструйте мішок для зберігання багатьох речей одного типу",
+
+  "advancement.modular_backpacks.sack.massive_storage.title": "Масивне сховище",
+  "advancement.modular_backpacks.sack.massive_storage.description": "Покращте мішок, щоб вмістити ще більше речей одного типу",
+
+  "advancement.modular_backpacks.farming.portable_farming.title": "Портативне землеробство",
+  "advancement.modular_backpacks.farming.portable_farming.description": "Змайструйте фермерський горщик, щоб вирощувати культури переносно",
+
+  "advancement.modular_backpacks.farming.pot_improvement.title": "Поліпшення горщика",
+  "advancement.modular_backpacks.farming.pot_improvement.description": "Покращте фермерський горщик, щоб вирощувати більше врожаю переносно",
+
+  "advancement.modular_backpacks.cooking.portable_cooking.title": "Портативне приготування їжі",
+  "advancement.modular_backpacks.cooking.portable_cooking.description": "Змайструйте горщик готування, щоб топити предмети",
+
+  "advancement.modular_backpacks.quiver.back_reserves.title": "Повернені резерви",
+  "advancement.modular_backpacks.quiver.back_reserves.description": "Змайструйте сагайдак для зберігання стріл і феєрверків",
+
+  "advancement.modular_backpacks.quiver.improved_reserves.title": "Покращені резерви",
+  "advancement.modular_backpacks.quiver.improved_reserves.description": "Покращте сагайдак, щоб утримувати ще більше стріл і феєрверків",
+
+  "advancement.modular_backpacks.buckler.light_protection.title": "Захист від світла",
+  "advancement.modular_backpacks.buckler.light_protection.description": "Змайструйте кулачний щит, щоб захистити ваші груди",
+
+  "advancement.modular_backpacks.buckler.heavy_protection.title": "Важкий захист",
+  "advancement.modular_backpacks.buckler.heavy_protection.description": "Покращте кулачний щит, щоб покращити його захист",
+
+  "advancement.modular_backpacks.climbing.movement_enthusiast.title": "Ентузіаст руху",
+  "advancement.modular_backpacks.climbing.movement_enthusiast.description": "Змайструйте кігті для лазання для лазання по стінам"
+}

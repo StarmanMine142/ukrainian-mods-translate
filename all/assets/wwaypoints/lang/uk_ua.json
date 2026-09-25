@@ -1,0 +1,17 @@
+{
+	"key.wwaypoints.open_menu": "Відкрити меню маршрутних точок",
+	"key.wwaypoints.open_settings": "Відкрити налаштування wWaypoints",
+	"key.wwaypoints.toggle_sneak": "Переменути крадучість",
+	"key.wwaypoints.hide_waypoints": "Приховати маршрутні точки",
+	"key.wwaypoints.clear_unlocked": "Очистити розблоковані маршрутні точки",
+	"key.wwaypoints.sign_gui_popup_toggle": "Перемикач спливного вікна мітки",
+	"key.categories.wwaypoints": "wWaypoints",
+	"key.categories.wwaypoints_extras": "wWaypoints — Додатково",
+	"key.category.wwaypoints.wwaypoints": "wWaypoints",
+	"key.category.wwaypoints.create_waypoint": "wWaypoint — Створення",
+	"key.category.wwaypoints.extras": "wWaypoint — Додатково",
+	"wwaypoints.setting.zoom_with_fov": "Приближення з полем зору",
+	"wwaypoints.setting.zoom_with_fov.tip": "Дозволяє модам для масштабування наближати зображення на мітках. Використовує фіксоване базове значення поля зору.",
+	"key.wwaypoints.create_waypoint": "Створити швидку маршрутну точку",
+	"modmenu.descriptionTranslation.wwaypoints": "Унутрішньоігрові мітки з можливістю групування та зручним редактором."
+}

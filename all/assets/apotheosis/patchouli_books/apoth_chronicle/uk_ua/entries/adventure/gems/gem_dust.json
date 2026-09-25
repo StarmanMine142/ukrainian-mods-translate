@@ -1,0 +1,21 @@
+{
+    "name": "Самоцвітний пил",
+    "icon": "apotheosis:gem_dust",
+    "category": "apotheosis:adventure/gems",
+	"flag": "apotheosis:adventure",
+	"sortnum": 2,
+    "pages": [
+		{
+            "type": "patchouli:spotlight",
+			"item": "apotheosis:gem_dust",
+			"link_recipe": true,
+            "text": "Усі апотичні самоцвіти можна подрібнити до$(br)$(9)самоцвітного пилу$() шляхом подрібнення.$(p)Один із методів — подрібнити їх ковадлом$(br)у світі."
+        },
+		{
+            "type": "patchouli:crafting",
+			"recipe": "apotheosis:salvaging_table",
+			"title": "Відновлення самоцвітів",
+            "text": "Після того, як ви подробили кілька самоцвітів ковадлом, ви можете замість цього створити та використовувати $(9)стіл відновлення$()."
+        }
+	]
+}

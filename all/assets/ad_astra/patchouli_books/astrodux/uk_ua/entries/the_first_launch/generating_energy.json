@@ -1,0 +1,18 @@
+{
+  "name": "Генерація енергії",
+  "icon": "ad_astra:coal_generator",
+  "sortnum": 0,
+  "category": "ad_astra:the_first_launch",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "Вугільний генератор",
+      "item": "ad_astra:coal_generator",
+      "text": "Енергія є основним ресурсом Ad Astra. Він використовується в усіх машинах і потрібний для всього. Існує кілька способів вироблення енергії, найпростішим способом є вугільний генератор. Він використовує горючі ресурси, такі як деревина або вугілля, для виробництва енергії."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "ad_astra:coal_generator"
+    }
+  ]
+}

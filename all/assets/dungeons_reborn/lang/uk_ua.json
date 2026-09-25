@@ -1,0 +1,86 @@
+{
+  "block.dungeons_reborn.midnight_mossy_cobblestone": "Опівнічний моховитий кругляк",
+  "item.dungeons_reborn.ancient_gold_ingot": "Злиток стародавнього золота",
+  "block.dungeons_reborn.ancient_gold_block": "Блок стародавнього золота",
+  "block.dungeons_reborn.pop_flower": "Попцвіт",
+  "block.dungeons_reborn.highland_moss_block": "Височинний моховий блок",
+  "block.dungeons_reborn.highland_moss_carpet": "Височинний моховий покрив",
+  "block.dungeons_reborn.sour_berry_bush": "Кущ кислих ягід",
+  "item.dungeons_reborn.sour_berries": "Кислі ягоди",
+  "block.dungeons_reborn.midnight_moss_block": "Опівнічний мховий блок",
+  "block.dungeons_reborn.midnight_moss_carpet": "Опівнічний моховий покрив",
+  "block.dungeons_reborn.midnight_sprouts": "Опівнічні паростки",
+  "block.dungeons_reborn.mossy_oak_planks": "Моховиті дубові дошки",
+  "block.dungeons_reborn.mossy_spruce_planks": "Моховиті смерекові сходи",
+
+  "tooltip.dungeons_reborn.minecraft_dungeons_header": "Опис Minecraft Dungeons:",
+
+  "item.dungeons_reborn.artifact_iron_hide_amulet": "Амулет із залізної шкури",
+  "tooltip.dungeons_reborn.artifact.iron_hide_amulet": "Амулет із залізної шкури є водночас стародавнім і\nвічним. Пісок таємничим чином і нескінченно\nпрослизає крізь щілини в залізі.",
+
+  "item.dungeons_reborn.artifact_death_cap_mushroom": "Шапочник смерти",
+  "tooltip.dungeons_reborn.artifact.death_cap_mushroom": "З'їдений сміливими воїнами перед боєм.\nШапочник смерти приводить бійців у божевілля.",
+
+  "item.dungeons_reborn.twin_bow": "Дволук",
+  "tooltip.dungeons_reborn.twin_bow": "Дволук перемагає героя,\nякий опиняється чисельно переважаним і самотнім.",
+
+  "item.dungeons_reborn.auto_crossbow": "Автоарбалет",
+  "tooltip.dungeons_reborn.auto_crossbow": "Архірозбійник сказав, що проєкт цього\nпотужного арбалета прийшов до нього у видінні.",
+
+  "item.dungeons_reborn.heavy_crossbow": "Важкий лук",
+  "tooltip.dungeons_reborn.heavy_crossbow": "Важкий арбалет є загрозою,\nщо завдає шкоди, і справжньою загрозою з дальньої відстані.",
+
+  "item.dungeons_reborn.rough_diamond_sword": "Грубий діамантовий меч",
+  "tooltip.dungeons_reborn.rough_diamond_sword": "Грубий діамантовий меч є справжньою ознакою\nгероя та досвідченого авантюриста.",
+
+  "item.dungeons_reborn.rough_diamond_pickaxe": "Грубе діамантове кайло",
+  "tooltip.dungeons_reborn.rough_diamond_pickaxe": "Діамант є одним із найміцніших матеріалів,\nщо робить його чудовим вибором для кайла.",
+
+  "item.dungeons_reborn.steel_mace": "Сталева булава",
+  "tooltip.dungeons_reborn.steel_mace": "Сталева булава — це жорстоке знаряддя бою, якому\nбракує вишуканости; вона компенсує потужність.",
+
+  "item.dungeons_reborn.suns_grace": "Сонячна благодать",
+  "tooltip.dungeons_reborn.suns_grace": "Ця булава, вигравірувана таємними рунами\nзцілення, надає потужні сили відновлення.",
+
+  "item.dungeons_reborn.claymore": "Клеймор",
+  "tooltip.dungeons_reborn.claymore": "Великий меч, який здається неймовірно важким,\nале легко лежить у руках справедливого воїна.",
+
+  "item.dungeons_reborn.heartstealer": "Викрадач сердець",
+  "tooltip.dungeons_reborn.heartstealer": "Подарований одному з найвидатніших генералів архірозбійників\nпід час завоювання узбережжя кальмарів\n— Це рунічне лезо пронизаний темним чаклунством.",
+
+  "item.dungeons_reborn.broadsword": "Широкий меч",
+  "tooltip.dungeons_reborn.broadsword": "Лише ті, хто володіє силою чемпіона та\nсерцем героя, можуть нести цей величезне лезо.",
+
+  "tooltip.dungeons_reborn.rarity": "Рідкість",
+  "mcdRarity.dungeons_reborn.common": "§r[§7звичайний§r]",
+  "mcdRarity.dungeons_reborn.rare": "§r[§aрідкісний§r]",
+  "mcdRarity.dungeons_reborn.unique": "§r[§6унікальний§r]",
+  "mcdRarity.dungeons_reborn.unknown": "§r[§7???§r]",
+  "mcdRarity.extended.dungeons_reborn.custom": "§r[§5власний§r]",
+  "mcdRarity.extended.dungeons_reborn.gilded": "§r[§eпозолочений§r]",
+  "mcdRarity.extended.dungeons_reborn.gifted": "§r[§aобдарований§r]",
+
+  "tooltip.dungeons_reborn.special_resource": "Спеціальний ресурс",
+
+  "enchantment.dungeons_reborn.primitiveness_curse": "Прокляття примітивности",
+
+  "ability.dungeons_reborn.bonus_shot": "Бонусний вистріл",
+  "ability.dungeons_reborn.accelerate": "Прискорю",
+  "ability.dungeons_reborn.prospector": "Старатель",
+  "ability.dungeons_reborn.leeching": "Кровопивця",
+  "ability.dungeons_reborn.radiance": "Світиться",
+
+  "ability.dungeons_reborn.built_in": "Убудовано: ",
+  "ability.dungeons_reborn.powerful_combo": "Потужне комбо",
+  "ability.dungeons_reborn.powerful_pushback": "Потужний відштовх",
+  "ability.dungeons_reborn.heavy_crossbow": "Велика шкода за рахунок швидкости перезавантаження",
+  "ability.dungeons_reborn.artifact.iron_hide_amulet": "Забезпечує потужне посилення захисту на короткий час",
+  "ability.dungeons_reborn.artifact.death_cap_mushroom": "Значно збільшує шкоду від атаки та швидкість руху",
+
+  "toggle.dungeons_reborn.target_players": "Цільові гравці",
+  "toggle.dungeons_reborn.teammate_only": "Лише члени команди",
+
+  "command.dungeons_reborn.resetgamerules": "Скинуто %s ігрових правил Dungeons Reborn до усталених значень",
+
+  "modmenu.descriptionTranslation.": "Зручний мод, який додає до гри вміст у стилі Minecraft Dungeons."
+}

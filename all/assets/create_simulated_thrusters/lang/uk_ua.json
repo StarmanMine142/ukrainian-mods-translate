@@ -1,0 +1,21 @@
+{
+  "itemGroup.create_simulated_thrusters": "Create Simulated Thrusters",
+  "block.create_simulated_thrusters.redstone_thruster": "Редстоуновий рушій",
+  "block.create_simulated_thrusters.blaze_thruster": "Рушій пломеня",
+  "create_simulated_thrusters.gui.goggles.redstone_thruster": "Редстоуновий рушій",
+  "create_simulated_thrusters.gui.goggles.blaze_thruster": "Рушій пломеня",
+  "create_simulated_thrusters.gui.goggles.status": "Стан",
+  "create_simulated_thrusters.gui.goggles.status.working": "Працює",
+  "create_simulated_thrusters.gui.goggles.status.not_powered": "Немає редстоунового сигналу",
+  "create_simulated_thrusters.gui.goggles.status.not_rotating": "Немає обертів",
+  "create_simulated_thrusters.gui.goggles.status.overstressed": "Перенавантажено",
+  "create_simulated_thrusters.gui.goggles.status.no_fuel": "Немає палива",
+  "create_simulated_thrusters.gui.goggles.redstone_power": "Редстоуновий сигнал",
+  "create_simulated_thrusters.gui.goggles.fuel_type": "Тип палива",
+  "create_simulated_thrusters.gui.goggles.fuel_type.low": "Погане",
+  "create_simulated_thrusters.gui.goggles.fuel_type.high": "Стандартне",
+  "create_simulated_thrusters.gui.goggles.fuel_type.blue": "Перегріте",
+  "create_simulated_thrusters.gui.goggles.fuel_remaining": "Залишилося палива",
+  "create_simulated_thrusters.gui.goggles.thrust": "Тяга",
+  "create_simulated_thrusters.gui.goggles.airflow": "Повітряна тяга"
+}

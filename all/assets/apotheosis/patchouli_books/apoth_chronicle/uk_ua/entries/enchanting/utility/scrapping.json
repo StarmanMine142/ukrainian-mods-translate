@@ -1,0 +1,29 @@
+{
+    "name": "Том злому",
+    "icon": "apothic_enchanting:scrap_tome",
+    "category": "apotheosis:enchanting/utility",
+	"flag": "apotheosis:enchanting",
+	"sortnum": 4,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Том злому — це спосіб отримати зачарування з предмета.$(p)Поєднання одного з іншим предметом у ковадлі знищить інший предмет і створить книгу з деякими зачаруваннями випадковим чином."
+        },
+		{
+            "type": "patchouli:crafting",
+			"recipe": "apothic_enchanting:scrap_tome",
+			"text": "Ви завжди отримуватимете половину зачарувань (округлених у більшу сторону).$(p)Вибрані зачарування базуються на вашому $(l:apotheosis:enchanting/table/seed)зерні зачарування$()."
+		},
+		{
+            "type": "patchouli:spotlight",
+			"title": "Висока якість злому",
+			"item": "apothic_enchanting:improved_scrap_tome",
+			"text": "$(9)Том вищого злому$() є оновленою версією тому злому.$(p)Він вилучає всі чари на предметі, а не половину."
+		},
+		{
+            "type": "patchouli:spotlight",
+			"item": "apothic_enchanting:extraction_tome",
+			"text": "$(9)Том вилучення$() є вдосконаленою версією тому злому.$(p)Він вилучає всі чари з предмета, а не руйнує предмет під час процесу."
+		}
+	]
+}

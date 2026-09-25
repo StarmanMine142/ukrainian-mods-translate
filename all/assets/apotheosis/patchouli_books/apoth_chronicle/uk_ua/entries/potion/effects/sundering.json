@@ -1,0 +1,17 @@
+{
+    "name": "Розкол",
+    "icon": "apothic_attributes:textures/mob_effect/sundering.png",
+    "category": "apotheosis:potion/effects",
+	"flag": "apotheosis:potion",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Зілля $(c)розколу$() є негативним ефектом.$(p) Під час його дії вся отримана шкода збільшується на 20% за рівень."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "Він служить як пряма протидія стійкости та доповнюється стійкістю.$(p) Якби у вас були розкол II і стійкість II, ви отримували б нормальну шкоду."
+        }
+	]
+}

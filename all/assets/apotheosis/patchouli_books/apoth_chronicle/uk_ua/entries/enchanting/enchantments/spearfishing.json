@@ -1,0 +1,13 @@
+{
+    "name": "Списорибалка",
+    "icon": "minecraft:enchanted_book",
+    "category": "apotheosis:enchanting/enchantments",
+	"flag": "apotheosis:enchanting",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Списорибалка$() — це зачарування тризубця.$(p)Це дає вбивствам із кинутим тризубом шанс 3,5% за рівень викинути кілька випадкових риб."
+        }
+	]
+}

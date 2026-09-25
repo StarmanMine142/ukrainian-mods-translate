@@ -1,0 +1,25 @@
+{
+  "overpacked": "Overpacked",
+
+  "item.overpacked.giant_backpack": "Величезний рюкзак",
+  "item.overpacked.white_giant_backpack": "Білий величезний рюкзак",
+  "item.overpacked.orange_giant_backpack": "Помаранчевий величезний рюкзак",
+  "item.overpacked.magenta_giant_backpack": "Пурпуровий величезний рюкзак",
+  "item.overpacked.light_blue_giant_backpack": "Блакитний величезний рюкзак",
+  "item.overpacked.yellow_giant_backpack": "Жовтий величезний рюкзак",
+  "item.overpacked.lime_giant_backpack": "Лаймовий величезний рюкзак",
+  "item.overpacked.pink_giant_backpack": "Рожевий величезний рюкзак",
+  "item.overpacked.gray_giant_backpack": "Сірий величезний рюкзак",
+  "item.overpacked.light_gray_giant_backpack": "Світло-сірий величезний рюкзак",
+  "item.overpacked.cyan_giant_backpack": "Бірюзовий величезний рюкзак",
+  "item.overpacked.purple_giant_backpack": "Фіолетовий величезний рюкзак",
+  "item.overpacked.blue_giant_backpack": "Синій величезний рюкзак",
+  "item.overpacked.brown_giant_backpack": "Коричневий величезний рюкзак",
+  "item.overpacked.green_giant_backpack": "Зелений величезний рюкзак",
+  "item.overpacked.red_giant_backpack": "Червоний величезний рюкзак",
+  "item.overpacked.black_giant_backpack": "Чорний величезний рюкзак",
+
+  "entity.overpacked.giant_backpack": "Величезний рюкзак",
+
+  "fml.menu.mods.info.description.overpacked": "Цей мод створили чудові хлопці з команди Nycto. Якщо у вас виникнуть запитання або ви знайдете помилку, обов’язково повідомте нам про це на сервері спільноти Discord. Слідкуйте за майбутніми оновленнями та насолоджуйтесь модом."
+}

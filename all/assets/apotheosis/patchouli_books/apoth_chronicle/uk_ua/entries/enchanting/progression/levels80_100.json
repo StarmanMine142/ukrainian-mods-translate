@@ -1,0 +1,32 @@
+{
+    "name": "Рівні 81–100",
+    "icon": "apothic_enchanting:endshelf",
+    "category": "apotheosis:enchanting/progression",
+	"flag": "apotheosis:enchanting",
+    "pages": [
+		{
+            "type": "patchouli:spotlight",
+			"title": "Рівень 90",
+			"item": "apothic_enchanting:infused_breath",
+			"text": "Щоб отримати доступ до передостаннього рівня, потрібен стіл рівня 80 і доступ до $(9)дихання дракона$().$(p) Завдяки цьому ви можете створити $(9)влите дихання дракона$(), основний компонент $(9)полиці Енду$()."
+		},
+		{
+            "type": "patchouli:crafting",
+			"title": "Рівень 90",
+			"recipe": "apothic_enchanting:endshelf",
+			"recipe2": "apothic_enchanting:pearl_endshelf"
+		},
+		{
+            "type": "patchouli:spotlight",
+			"title": "Рівень 100",
+			"item": "minecraft:dragon_head",
+			"text": "Найвищий рівень, якого може досягти стіл зачарування — це рівень 100, але лише одна полиця може забезпечити таку потужність.$(p) Щоб створити таку полицю, потрібно піти в зовнішній Енд, щоб отримати $(9)голову дракона$()."
+		},
+		{
+            "type": "patchouli:crafting",
+			"title": "Рівень 100",
+			"recipe": "apothic_enchanting:draconic_endshelf",
+			"text": "Одна $(9)драконяча полиця$() дає достатньо сили, щоб підвищити стіл з 90-го рівня до 100-го рівня.$(p)Однак вона не дає інших бонусів характеристики."
+		}
+	]
+}

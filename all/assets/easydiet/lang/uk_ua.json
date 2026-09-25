@@ -1,0 +1,14 @@
+{
+  "itemGroup.tharidia_easydiet": "Tharidia: Easy Diet",
+  
+  "diet.category.grain": "Зерна",
+  "diet.category.protein": "Білки",
+  "diet.category.vegetable": "Овочі",
+  "diet.category.fruit": "Фрукти",
+  "diet.category.sugar": "Вуглеводи",
+  "diet.category.water": "Вода",
+  
+  "diet.tooltip.header": "Значення раціону:",
+
+  "fml.menu.mods.info.description.tharidia_easydiet": "Комплексний раціон та система харчування для середньовічного рольового сервера Tharidia.\nЧастина проєкту Tharidia — впровадження ефектної механіки в Minecraft."
+}

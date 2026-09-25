@@ -1,0 +1,21 @@
+{
+  "schematicpreview.config": "Налаштування SchematicPreview — %s",
+  "schematicpreview.hotkeys.category.hotkeys": "Гарячі клавіші SchematicPreview",
+  "schematicpreview.config.tab.generic": "Загальні",
+  "schematicpreview.config.tab.menu": "Меню",
+  "schematicpreview.config.tab.preview": "Попередній перегляд",
+  "config.comment.schematicpreviewEnabled": "Перемикач увімкнення мода.",
+  "config.comment.schematicpreviewConfigMenuHotkey": "Гаряча клавіша для відкритя цього меню.",
+  "config.comment.schematicpreviewEntryGapX": "Проміжок осі X запису списку.",
+  "config.comment.schematicpreviewEntryGapY": "Проміжок осі Y запису списку.",
+  "config.comment.schematicpreviewType": "Вибраний тип запису браузера.",
+  "config.comment.schematicpreviewMaxVolume": "Максимальний обсяг схематики в попередньому перегляді списку.",
+  "config.comment.schematicpreviewRenderTile": "Перемикач промальовування блоків-сутностей.",
+  "config.comment.schematicpreviewFov": "Поле зору 3D попереднього перегляду.",
+  "config.comment.schematicpreviewRotationY": "Оберт Y 3D попереднього перегляду.",
+  "config.comment.schematicpreviewRotationX": "Оберт X 3D попереднього перегляду.",
+  "button.schematicpreview.enable": "Увімкнено %s",
+  "button.schematicpreview.disable": "Вимкнено %s",
+  "button.schematicpreview.fullscreen": "Повний екран",
+  "button.schematicpreview.freecam": "Вільна камера"
+}

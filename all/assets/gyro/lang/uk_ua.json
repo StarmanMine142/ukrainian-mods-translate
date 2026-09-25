@@ -1,0 +1,10 @@
+{
+  "itemGroup.gyro": "Gyro",
+  "block.gyro.gyroscope": "Гіроскоп",
+  "tooltip.gyro.gyroscope.header": "Гіроскоп:",
+  "tooltip.gyro.gyroscope.speed": "Швидкість",
+  "tooltip.gyro.gyroscope.speed_dots": "..... ",
+  "tooltip.gyro.gyroscope.output": "Вивід",
+  "tooltip.gyro.gyroscope.output_dots": ".... ",
+  "fml.menu.mods.info.description.gyro": "Додає гіроскоп до Create Aeronautics."
+}

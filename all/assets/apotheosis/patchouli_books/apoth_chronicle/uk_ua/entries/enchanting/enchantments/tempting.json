@@ -1,0 +1,13 @@
+{
+    "name": "Спокуса",
+    "icon": "minecraft:enchanted_book",
+    "category": "apotheosis:enchanting/enchantments",
+	"flag": "apotheosis:enchanting",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Спокуса$() — це зачарування мотики.$(p)Якщо тримати мотику з цим зачаруванням, усі тварини будуть слідувати за вами, ніби тримають свій улюблений предмет."
+        }
+	]
+}
