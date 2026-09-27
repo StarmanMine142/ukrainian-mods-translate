@@ -1,0 +1,171 @@
+# block name and description
+tile.betterwithenchanting.enchantment.table.name=Стіл зачарування
+tile.betterwithenchanting.enchantment.table.desc=Це так магічно, чарівно.
+
+betterwithenchanting.contianer.enchantment.table.name=Стіл зачарування
+
+tile.betterwithenchanting.enchanted.bookshelf.active.name=Зачарована книжкова полиця
+tile.betterwithenchanting.enchanted.bookshelf.active.desc=Ховає так багато таємниць.
+tile.betterwithenchanting.enchanted.bookshelf.name=Оздоблема книжкова полиця
+tile.betterwithenchanting.enchanted.bookshelf.desc=Використовується, щоб ховати так багато таємниць.
+
+# item name and description
+item.betterwithenchanting.bottle.score.name=Пляшка рахунків
+item.betterwithenchanting.bottle.score.desc=Пийте, щоб збільшити рахунок.
+item.betterwithenchanting.book.enchanted.unid.name=Недосліджена зачарована книга
+item.betterwithenchanting.book.enchanted.unid.desc=Цікаво, яку таємницю воно приховує..
+item.betterwithenchanting.book.enchanted.nameЗачарована книга
+item.betterwithenchanting.book.enchanted.desc=Використовується, щоб зачарувати на покращати зачаровані предмети.
+
+# enchantment names
+enchantment.betterwithenchanting.bait.name=Приманка
+enchantment.betterwithenchanting.bait.desc=Збільшує шанс приманювання риби.
+enchantment.betterwithenchanting.buckhot.name=Картеч
+enchantment.betterwithenchanting.buckhot.desc=Випускає кілька стріл віялом.
+enchantment.betterwithenchanting.catalyst.name=Каталізатор
+enchantment.betterwithenchanting.catalyst.desc=Збільшує шанс знаходження лазуриту.
+enchantment.betterwithenchanting.crit.name=Критичний удар
+enchantment.betterwithenchanting.crit.desc=Збільшує шкоду при падінні, на основі висоти падіння.
+enchantment.betterwithenchanting.crush.name=Розбиття
+enchantment.betterwithenchanting.crush.desc=Поршні розбивають добуті блоки.
+enchantment.betterwithenchanting.explosive.name=Вибух
+enchantment.betterwithenchanting.explosive.desc=Збільшує силу вибуху ручної гармати.
+enchantment.betterwithenchanting.felling.name=Опадання
+enchantment.betterwithenchanting.felling.desc=Добуває все дерево цілком.
+enchantment.betterwithenchanting.flame.name=Полум'я
+enchantment.betterwithenchanting.flame.desc=Підпалює цілей, ріаень збільшує тривалість.
+enchantment.betterwithenchanting.filling.name=Заповнення
+enchantment.betterwithenchanting.filling.desc=Збільшує кількість здоров'я, яке відновлює їжа.
+enchantment.betterwithenchanting.foraging.name=Збирання
+enchantment.betterwithenchanting.foraging.desc=Збільшує шанс отримати плаиці, листя та паростки з листя.
+enchantment.betterwithenchanting.fortune.name=Удача
+enchantment.betterwithenchanting.fortune.desc=Збільшує шанс знаходження блискучок при добуванні.
+enchantment.betterwithenchanting.haste.name=Квапливість
+enchantment.betterwithenchanting.haste.desc=Збільшує швидкість добування інструментом.
+enchantment.betterwithenchanting.haul.name=Улов
+enchantment.betterwithenchanting.haul.desc=Збільшує щанс виловити додаткову рибу.
+enchantment.betterwithenchanting.insight.name=Просвітлення
+enchantment.betterwithenchanting.insight.desc=Збільшує кількість отриманого рахунку при добуванні.
+enchantment.betterwithenchanting.incendiary.name=Підпад
+enchantment.betterwithenchanting.incendiary.desc=Вибухи від річної гармати підпалюють землю навколо.
+enchantment.betterwithenchanting.knockback.name=Відкидання
+enchantment.betterwithenchanting.knockback.desc=Збільшує відкидання від меча.
+enchantment.betterwithenchanting.lasting.name=Тривалість
+enchantment.betterwithenchanting.lasting.desc=Зменшує шанс споживання їжі.
+enchantment.betterwithenchanting.lifesteal.name=Життєкрад
+enchantment.betterwithenchanting.lifesteal.desc=Удар відновлює незчану кількість здоров'я.
+enchantment.betterwithenchanting.looting.name=Грабунок
+enchantment.betterwithenchanting.looting.desc=Збульшує шанс отримання додаткової здобичі з мобів.
+enchantment.betterwithenchanting.multishot.name=Мультипостріл
+enchantment.betterwithenchanting.multishot.desc=Випускає кілька стріл одна за одною..
+enchantment.betterwithenchanting.nourishment.name=Живлення
+enchantment.betterwithenchanting.nourishment.desc=Зменшує затримку між регенерації їжі.
+enchantment.betterwithenchanting.precise.name=Точність
+enchantment.betterwithenchanting.precise.desc=Дозволяє ручній гармати влучати в сутностей.
+enchantment.betterwithenchanting.power.name=Сила
+enchantment.betterwithenchanting.power.desc=Збільшує швидкість стріли з лука.
+enchantment.betterwithenchanting.quickswing.name=Швидкий помах
+enchantment.betterwithenchanting.quickswing.desc=Збільшує швидкість махання інструментами.
+enchantment.betterwithenchanting.searing.name=Випалювання
+enchantment.betterwithenchanting.searing.desc=Добуті предмети миттєво топляться.
+enchantment.betterwithenchanting.scavenge.name=Збирання
+enchantment.betterwithenchanting.scavenge.desc=Добуті предмети миттєво просіюються.
+enchantment.betterwithenchanting.score.name=Рахунок
+enchantment.betterwithenchanting.score.desc=Збільшує рахунок гравця при використанні.
+enchantment.betterwithenchanting.silktouch.name=Шовковий дотик
+enchantment.betterwithenchanting.silktouch.desc=Добуті блоки випадають так, ніби їх добуто золотим кайлом.
+enchantment.betterwithenchanting.slayer.name=Мисливець
+enchantment.betterwithenchanting.slayer.desc=Збільшує шкоду, завдану ворогам.
+enchantment.betterwithenchanting.unbreaking.name=Міцність
+enchantment.betterwithenchanting.unbreaking.desc=Інструменти мають шанс зберегти свою міцність.
+enchantment.betterwithenchanting.volatile.name=Вибуховість
+enchantment.betterwithenchanting.volatile.desc=Викликає вибух, що пошкоджує оточення.
+
+# currently not sure how this infomation is to be displayed
+enchantment.betterwithenchanting.glitch.name=Помилка
+enchantment.betterwithenchanting.glitch.desc=Поточне зачарування вимкнено.
+disabled.name=Помилка
+disabled.desc=Поточне зачарування вимкнено.
+
+# command messasges
+enchantment.command.not.applicable=Команда незастосовувана для цього предмета
+enchantment.command.invalid=Хибне зачарування
+enchantment.command.list.all=Доступні зачарування:
+enchantment.command.list.applicable.single=Застосовуване зачарування:
+enchantment.command.list.applicable.multi=Застосовувані зачарування:
+enchantment.command.none=Тут немає доступних застосовуваних зачарувань
+enchantment.command.cannot=Цей предмет не можна зачарувати
+enchantment.command.not.enchanted=Цей предмет %s не можна зачарувати
+enchantment.command.not.fit=Цей предмет %1$s не можна зачарувати на %2$s.
+enchantment.command.remove.single=Видалено зачарування «%s»
+enchantment.command.remove.all=Видалено %1$d зачарувань з об'єднаними рівнями %$2d
+enchantment.command.remove.cannot=Цей предмет не зачарований на «%s»
+enchantment.command.add=Додано зачарування «%s»
+enchantment.command.max=Максимальний рівень зачарування — %d
+enchantment.command.min=Мінімальний рівень зачарування — %d
+enchantment.command.increased=Збільшено рівень «%1$s» з %2$d до %3$d
+enchantment.command.decreased=Зменшено рівень «%1$s» з %2$d до %3$d
+enchantment.command.no.change=Рівень не змінено
+enchantment.command.enchant=Зачаровано %s
+enchantment.command.info.upgrading=У червоному рівні покращення
+enchantment.command.info.locked=Спершу отримайте досягнення «%s»
+enchantment.command.upgrading.name=Покращення
+enchantment.command.upgrading.desc=Деяких рівнів можна досягти лише шляхом отримання кількох копій одного й того самого зачарування під час процесу накладання зачарувань. Ці копії підвищують рівень зачарування на один рівень вище за найвищий із уже досягнутих рівнів.
+
+score.command.not.applicable=Команда незастосовувана до цієї сутности
+score.command.cannot=Хибна ціль
+score.command.add=Додано %2$d рахунку %1$s
+score.command.remove=Віднято %2$d з %1$s
+score.command.info=%1$s має рахунок %2$d
+score.command.set=Установлено %1$s рахунку %2$d
+
+# enchantment targets descriptons
+enchanment.target.all=Усі зачаровувані предмети
+enchantment.target.weapon=Зброя та предмети, що вважаються зброєю	
+enchantment.target.ranged=Зброя та предмети, що вважаються далекобійними
+enchantment.target.tool=Інструменти та предмети, що вважаються інстрментами
+enchantment.target.melee=Зброя та предмети, що вважаються близьклбійними
+enchantment.target.damageable=Усі пошкоджувані предмети
+enchantment.target.consumable=Усі споживні предмети
+enchantment.target.none=Нічого
+# target weapons
+enchantment.target.bow=Луки
+enchantment.target.handcannon=Ручні гармати
+enchantment.target.sword=Мечі
+# target tools
+enchantment.target.pickaxe=Кайла
+enchantment.target.axe=Сокири
+enchantment.target.shovel=Лопати
+enchantment.target.hoe=Мотики
+enchantment.target.rod=Вудки
+enchantment.target.shears=Ножиці
+# target consumable
+enchantment.target.food=Їжа
+
+# achievements
+achievement.craft.enchantmenttable=Час навчання!
+achievement.craft.enchantmenttable.desc=Змайтсруйте стіл зачарування
+achievement.enchant.item=Це дещо магічне
+achievement.enchant.item.desc=Зачаруйте предмет
+achievement.enchant.item.full=Ідеальна сила
+achievement.enchant.item.full.desc=Зачаруйте предмет усіма доступними зачаруваннями.
+achievement.enchant.item.high.level=Просвітлення
+achievement.enchant.item.high.level.desc=Покращте зачарування для вищого рівня зачарування
+achievement.enchant.food=Смачна магія
+achievement.enchant.food.desc=Зачаруйте трохи їжі
+achievement.score=У яблучно!
+achievement.score.desc=З'їжте зачаровану їжу
+achievement.lost.knowlegde=Час знань!
+achievement.lost.knowlegde.desc=Зачаруйте предмет за допомогою зачарованих книг
+
+#Hud
+options.verticalScore=Вертикально
+options.hideScore=Приховати
+
+# ------------------------------------- currently not ingame -----------------------------------------------------------
+# enchantment that sounded cool but werent all that great
+enchantment.betterwithenchanting.thorn.name=Шипи
+enchantment.betterwithenchanting.speed.name=Швидкість 
+enchantment.betterwithenchanting.vault.name=Сховище
+enchantment.betterwithenchanting.gills.name=Зябра
+

@@ -95,13 +95,13 @@ gui.create_world.button.gamemode=Режим: %s
 gui.create_world.button.cheats=Команди: %s
 gui.create_world.button.cheats.on=УВІМК.
 gui.create_world.button.cheats.off=ВИМК.
-gui.create_world.button.world_settings=Налаштування світу
+gui.create_world.button.world_settings=Налаштування світу…
 gui.create_world.label.new_world=Новий світ
 
-gui.world_settings.label.title=Налаштування світу…
+gui.world_settings.label.title=Налаштування світу
 gui.world_settings.button.done=Готово
 gui.world_settings.page.game_rules.title=Ігрові правила
-gui.world_settings.page.world_settings.title=Налаштування світу
+gui.world_settings.page.world_settings.title=Світ
 gui.world_settings.page.world_settings.category.overworld=Верхній світ
 gui.world_settings.page.world_settings.category.nether=Незер
 gui.world_settings.page.game_rules.button.on=УВІМК.
