@@ -1,0 +1,59 @@
+{
+  "block.alloy_forgery.bricks_forge_controller": "Цегляний контродер кузні",
+  "block.alloy_forgery.stone_bricks_forge_controller": "Цегляний контродер кузні з каменю",
+  "block.alloy_forgery.deepslate_bricks_forge_controller": "Цегляний контродер кузні з глибосланцю",
+  "block.alloy_forgery.end_stone_bricks_forge_controller": "Цегляний контродер кузні з каменю Енду",
+  "block.alloy_forgery.polished_blackstone_forge_controller": "Чорнокам'яний контродер кузні",
+  "block.alloy_forgery.prismarine_bricks_forge_controller": "Цегляний контродер кузні з призмарину",
+
+  "tooltip.alloy_forgery.forge_tier": "Рівень: %d",
+  "tooltip.alloy_forgery.fuel_capacity": "Місткість палива: %d",
+  "tooltip.alloy_forgery.invalid_tier": "Рецепт потребує контролер кузні %d рівня",
+
+  "tooltip.alloy_forgery.slot_toggle_enable": "Вимкнути перемикання слота",
+  "tooltip.alloy_forgery.slot_toggle_disable": "Вимкнути перемикання слота",
+
+  "tooltip.alloy_forgery.enabled_slot": "Натисніть, щоб увімкнути",
+  "tooltip.alloy_forgery.disabled_slot": "Натисніть, щоб вимкнути",
+
+  "container.alloy_forgery.forge_controller": "Кузня стопів",
+
+  "container.alloy_forgery.rei.title": "Кузня стопів",
+  "container.alloy_forgery.rei.min_tier": "Потрібний рівень: %d",
+  "container.alloy_forgery.rei.fuel_per_tick": "Палива на так: %d",
+  "container.alloy_forgery.rei.button": "Перевизначення рівнів циклу",
+
+  "message.alloy_forgery.invalid_multiblock": "Хибний багатоблок",
+  "itemGroup.alloy_forgery.alloy_forgery": "Alloy Forgery",
+  "itemGroup.alloy_forgery.alloy_forgery.button.discord": "Discord",
+  "itemGroup.alloy_forgery.alloy_forgery.button.curseforge": "CurseForge",
+  "itemGroup.alloy_forgery.alloy_forgery.button.modrinth": "Modrinth",
+  "itemGroup.alloy_forgery.alloy_forgery.button.github": "GitHub",
+
+  "emi.category.alloy_forgery.alloy_forge": "Стоплення",
+
+  "tag.item.c.copper_ores": "Мідні руди",
+  "tag.item.c.iron_ores": "Залізні руди",
+  "tag.item.c.gold_ores": "Золоті руди",
+  "tag.item.c.raw_copper_blocks": "Блоки необробленої міді",
+  "tag.item.c.raw_iron_blocks": "Блоки необробленого заліза",
+  "tag.item.c.raw_gold_blocks": "Блоки необробленого золота",
+
+  "text.config.alloy_forgery.title": "Налаштування Alloy Forgery",
+  "text.config.alloy_forgery.section.blasting_adaption": "Адаптація топлення",
+
+  "text.config.alloy_forgery.option.allowHigherTierOutput": "Дозволити вивід вищого рівня",
+  "text.config.alloy_forgery.option.allowHigherTierOutput.tooltip": "Перемикає отримання виводу вищого рівня через адаптацію топлення для всіх рецептів.",
+
+  "text.config.alloy_forgery.option.allowBlastingFurnaceAdaption": "Дозволити адаптацію рецептів для домни",
+  "text.config.alloy_forgery.option.allowBlastingFurnaceAdaption.tooltip": "Перемикає адаптацію для всіх рецептів домни.",
+
+  "text.config.alloy_forgery.option.baseInputAmount": "Базова кількість вхідних матеріалів",
+  "text.config.alloy_forgery.option.baseInputAmount.tooltip": "Керує базовою кількістю вхідних матеріалів для адаптованих рецептів.",
+
+  "text.config.alloy_forgery.option.higherTierOutputIncrease": "Додатковий вихідний обсяг для вищих рівнів",
+  "text.config.alloy_forgery.option.higherTierOutputAmount.tooltip": "Керує додатковою кількістю, що додається при досягненні 3 рівня.",
+
+  "modmenu.descriptionTranslation.alloy_forgery": "Налаштовувані, керовані даними кузні стопів — для всіх ваших потреб.",
+  "fml.menu.mods.info.descriptionalloy_forgery.": "Налаштовувані, керовані даними кузні стопів — для всіх ваших потреб."
+}
