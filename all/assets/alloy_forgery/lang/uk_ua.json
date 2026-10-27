@@ -1,10 +1,10 @@
 {
-  "block.alloy_forgery.bricks_forge_controller": "Цегляний контродер кузні",
-  "block.alloy_forgery.stone_bricks_forge_controller": "Цегляний контродер кузні з каменю",
-  "block.alloy_forgery.deepslate_bricks_forge_controller": "Цегляний контродер кузні з глибосланцю",
-  "block.alloy_forgery.end_stone_bricks_forge_controller": "Цегляний контродер кузні з каменю Енду",
-  "block.alloy_forgery.polished_blackstone_forge_controller": "Чорнокам'яний контродер кузні",
-  "block.alloy_forgery.prismarine_bricks_forge_controller": "Цегляний контродер кузні з призмарину",
+  "block.alloy_forgery.bricks_forge_controller": "Цегляний контролер кузні",
+  "block.alloy_forgery.stone_bricks_forge_controller": "Цегляний контролер кузні з каменю",
+  "block.alloy_forgery.deepslate_bricks_forge_controller": "Цегляний контролер кузні з глибосланцю",
+  "block.alloy_forgery.end_stone_bricks_forge_controller": "Цегляний контролер кузні з каменю Енду",
+  "block.alloy_forgery.polished_blackstone_forge_controller": "Чорнокам'яний контролер кузні",
+  "block.alloy_forgery.prismarine_bricks_forge_controller": "Цегляний контролер кузні з призмарину",
 
   "tooltip.alloy_forgery.forge_tier": "Рівень: %d",
   "tooltip.alloy_forgery.fuel_capacity": "Місткість палива: %d",
