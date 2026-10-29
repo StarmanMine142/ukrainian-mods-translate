@@ -31,7 +31,7 @@
     "block.apothic_enchanting.sightshelf": "Оглядова пекельна полиця",
     "block.apothic_enchanting.sightshelf_t2": "Оглядова майстернапекельна полиця",
     
-    "block.apothic_enchanting.filtering_shelf": "Морська полиця водяного вільтрування",
+    "block.apothic_enchanting.filtering_shelf": "Морська полиця водяного фільтрування",
     "block.apothic_enchanting.treasure_shelf": "Глибополиця таємничих скарбів",
     "block.apothic_enchanting.geode_shelf": "Жеодова полиця стабільности",
 
@@ -46,7 +46,7 @@
     "gui.apothic_enchanting.enchant.eterna": "Етерна",
     "gui.apothic_enchanting.enchant.quanta": "Кванта",
     "gui.apothic_enchanting.enchant.arcana": "Аркана",
-    "gui.apothic_enchanting.enchant.stability": "Квантічна стабільність",
+    "gui.apothic_enchanting.enchant.stability": "Квантічна стабільність ",
     "info.apothic_enchanting.ench_stats": "Характеристики зачарування:",
     "info.apothic_enchanting.eterna": " — Етерна: %s",
     "info.apothic_enchanting.quanta": " — Кванта: %s%%",
@@ -255,7 +255,7 @@
     "info.apothic_enchanting.xp_cost": "Необроблена вартість досвіду: %s (%s рівнів)",
     "info.apothic_enchanting.power_range": "Діапазон потужности: від %s до %s",
     "info.apothic_enchanting.item_ench": "Можливість зачаровувати предмет: %s",
-    "info.apothic_enchanting.num_clues": "Чарівні підказки: %s",
+    "info.apothic_enchanting.num_clues": "Підказки чарів: %s",
     "info.apothic_enchanting.infusion_failed": "Критерії вливання не відповідають",
     "info.apothic_enchanting.anvil_at": "Кування на рівні %s",
     "info.apothic_enchanting.anvil_xp_cost": "Необроблена вартість досвіду: %s",
@@ -302,7 +302,7 @@
     "advancements.apothic_enchanting.upgrade_hellshelf.desc": "Оновіть влиту пекельну полицю",
     
     "advancements.apothic_enchanting.deepshelf": "Заглиблення в темряву",
-    "advancements.apothic_enchanting.deepshelf.desc": "Активуте дрімучу глибополицю",
+    "advancements.apothic_enchanting.deepshelf.desc": "Пробудіть дрімучу глибополицю",
     
     "advancements.apothic_enchanting.sculkshelf": "Обіймаючи скалк",
     "advancements.apothic_enchanting.sculkshelf.desc": "Змайструйте скалкполицю за допомогою вусика боронителя",
