@@ -1,0 +1,7 @@
+{
+  "block.kaboom.combustion_table": "Піротехнічний стіл",
+  "item.kaboom.dynamite": "Динамітна шашка",
+  "itemgroup.kaboom.kaboom_items": "Kaboom",
+  "entity.minecraft.villager.kaboom.pyrotechnist": "Піротехнік",
+  "modmenu.descriptionTranslation.kaboom": "Вибухові речовини."
+}
