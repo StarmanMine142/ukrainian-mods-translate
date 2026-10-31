@@ -25,12 +25,12 @@
     "attribute.name.generic.luck.desc": "Підвищує ймовірність хороших речей.",
     "attribute.name.generic.max_health.desc": "Скільки очок життя ви можете мати.",
     "attribute.name.generic.movement_speed.desc": "Швидкість руху під час ходьби.",
+    "attribute.name.player.entity_interaction_range.desc": "How far you can interact with entities, in blocks.",
+    "attribute.name.generic.gravity.desc": "Прискорення в напрямку землі, у блоках/с²",
 
-    "neoforge.entity_reach.desc": "Як далеко ви можете взаємодіяти з сутностями, у блоках.",
-    "neoforge.entity_gravity.desc": "Прискорення до землі, у блоках/с²",
     "neoforge.name_tag_distance.desc": "Наскільки далеко повинен бути інший гравець, щоб побачити ваше ім'я.",
-    "neoforge.block_reach.desc": "Як далеко ви можете взаємодіяти з блоками, у блоках.",
-    "neoforge.step_height.desc": "На скільки блоків ви можете піднятися, не стрибаючи.",
+    "attribute.name.player.block_interaction_range.desc": "Відстань, на якій можна взаємодіяти з блоками.",
+    "attribute.name.generic.step_height.desc": "Висота, на яку можна піднятися, не стрибаючи.",
     "neoforge.swim_speed.desc": "Як швидко ви пливете відносно нормального.",
 
     "button.apothic_attributes.hide_unchanged": "Приховати незаряджені атрибути",
@@ -102,7 +102,10 @@
     "apothic_attributes:creative_flight": "політ творчости",
     "apothic_attributes:creative_flight.desc": "Якщо ви можете літати, наче в режимі творчости.",
 
-    "comment_id": "MobFx — описи дублюються для підтримки JEED.",
+    "apothic_attributes:cooldown_reduction": "зменшення затримки",
+    "apothic_attributes:cooldown_reduction.desc": "Зменшує час відновлення активованих здібностей та ефектів. Затримка використовує символ ⌛.",
+
+    "comment_id": "Джерела шкоди",
 
     "effect.apothic_attributes.knowledge": "Стародавні знання",
     "effect.apothic_attributes.vitality": "Бурхлива життєздатність",
@@ -134,8 +137,8 @@
     "comment_id": "Джерела шкоди",
 
     "death.attack.apothic_attributes:bleeding": "%1$s знекровлено",
-    "death.attack.apothic_attributes:bleeding.item": "%2$s знекровив через %1$s за допомогою: %3$s",
-    "death.attack.apothic_attributes:bleeding.player": "%1$s знекровлено під час спроби втекти від %2$s",
+    "death.attack.apothic_attributes:bleeding.item": "%2$s знекровив %1$s за допомогою: %3$s",
+    "death.attack.apothic_attributes:bleeding.player": "%2$s знекровив %1$s",
 
     "death.attack.apothic_attributes:detonation": "%1$s здетонував через полум'я",
     "death.attack.apothic_attributes:detonation.item": "%1$s здетонував через полум'я",
@@ -143,15 +146,15 @@
 
     "death.attack.apothic_attributes:current_hp_damage": "%1$s збито",
     "death.attack.apothic_attributes:current_hp_damage.item": "%2$s збив %1$s за допомогою: %3$s",
-    "death.attack.apothic_attributes:current_hp_damage.player": "%1$s збито під час бою з %2$s",
+    "death.attack.apothic_attributes:current_hp_damage.player": "%2$s збив %1$s",
 
     "death.attack.apothic_attributes:fire_damage": "%1$s спалено до тла",
     "death.attack.apothic_attributes:fire_damage.item": "%2$s спалив %1$s до тла зад допомогою %3$s",
-    "death.attack.apothic_attributes:fire_damage.player": "%1$s спалено до тла під час бою з %2$s",
+    "death.attack.apothic_attributes:fire_damage.player": "%2$s спалив %1$s до тла",
 
     "death.attack.apothic_attributes:cold_damage": "%1$s заморожено до смерти",
     "death.attack.apothic_attributes:cold_damage.item": "%2$s заморозив %1$s до смерти зад допомогою %3$s",
-    "death.attack.apothic_attributes:cold_damage.player": "%1$s заморожено до смерти під час бою з %2$s",
+    "death.attack.apothic_attributes:cold_damage.player": "%2$s заморозив %1$s до смерти",
 
     "item.minecraft.potion.effect.minecraft.resistance": "Зілля стійкости",
     "item.minecraft.splash_potion.effect.minecraft.resistance": "Вибухове зілля стійкости",
@@ -208,5 +211,5 @@
     "item.minecraft.lingering_potion.effect.apothic_attributes.flying": "Осідальне зілля польоту",
     "item.minecraft.tipped_arrow.effect.apothic_attributes.flying": "Стріла польоту",
 
-    "fml.menu.mods.info.description.apothic_attributes": "Бібліотека, що надає атрибути та пов’язані речі."
+    "fml.menu.mods.info.description.apothic_attributes": "Бібліотека, що надає атрибути та пов'язані речі."
 }

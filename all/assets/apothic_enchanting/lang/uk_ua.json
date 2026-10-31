@@ -1,13 +1,21 @@
 {
     "creative_tab.apothic_enchanting.all": "Apothic Enchanting",
 
+    "apothic_enchanting:max_eterna": "Максимальна етерна",
+    "apothic_enchanting:max_eterna.desc": "Максимальна кількість етерни, які ви можете використати в столі зачарування.",
+
+    "block.apothic_enchanting.apothic_enchanting_table": "Апотичний стіл зачарування",
+    "block.apothic_enchanting.apothic_enchanting_table.desc": "Стилізований стіл зачарування.",
+    "block.apothic_enchanting.raven_enchanting_table": "Стіл зачарування ворона",
+    "block.apothic_enchanting.raven_enchanting_table.desc": "Дозволяє вручну налаштувати характеристики зачарування.",
+    "block.apothic_enchanting.basic_bookshelf": "Книжкова полиця",
     "block.apothic_enchanting.hellshelf": "Пекельна полиця",
-    "block.apothic_enchanting.infused_hellshelf": "Влита пекельна полиця",
+    "block.apothic_enchanting.infused_hellshelf": "Улита пекельна полиця",
     "block.apothic_enchanting.blazing_hellshelf": "Пломенева пекельна полиця",
     "block.apothic_enchanting.glowing_hellshelf": "Світлова пекельна полиця",
 
     "block.apothic_enchanting.seashelf": "Морська полиця",
-    "block.apothic_enchanting.infused_seashelf": "Влита морська полиця",
+    "block.apothic_enchanting.infused_seashelf": "Улита морська полиця",
     "block.apothic_enchanting.crystal_seashelf": "Кристалічна морська полиця",
     "block.apothic_enchanting.heart_seashelf": "Серцева морська полиця",
 
@@ -15,12 +23,12 @@
     "block.apothic_enchanting.deepshelf": "Глибополиця",
     "block.apothic_enchanting.echoing_deepshelf": "Глибополиця відлуння",
     "block.apothic_enchanting.soul_touched_deepshelf": "Глибополиця душ",
-    
+
     "block.apothic_enchanting.echoing_sculkshelf": "Скалкполиця відлуння",
     "block.apothic_enchanting.soul_touched_sculkshelf": "Скалкполиця душ",
 
     "block.apothic_enchanting.endshelf": "Полиця Енду",
-    "block.apothic_enchanting.infused_endshelf": "Влита полиця Енду",
+    "block.apothic_enchanting.infused_endshelf": "Улита полиця Енду",
     "block.apothic_enchanting.pearl_endshelf": "Перламутрова полиця Енду",
     "block.apothic_enchanting.draconic_endshelf": "Драконяча полиця Енду",
 
@@ -29,8 +37,8 @@
     "block.apothic_enchanting.stoneshelf": "Кам'яна полиця",
 
     "block.apothic_enchanting.sightshelf": "Оглядова пекельна полиця",
-    "block.apothic_enchanting.sightshelf_t2": "Оглядова майстернапекельна полиця",
-    
+    "block.apothic_enchanting.sightshelf_t2": "Оглядова майстерна пекельна полиця",
+
     "block.apothic_enchanting.filtering_shelf": "Морська полиця водяного фільтрування",
     "block.apothic_enchanting.treasure_shelf": "Глибополиця таємничих скарбів",
     "block.apothic_enchanting.geode_shelf": "Жеодова полиця стабільности",
@@ -39,20 +47,20 @@
     "block.apothic_enchanting.ender_library": "Олександрійська бібліотека",
 
     "info.apothic_enchanting.ench_power": "Надає %s потужности зачарування.",
-    "info.apothic_enchanting.masterwork": "Майстрений",
+    "info.apothic_enchanting.masterwork": "Майстерний",
     "info.apothic_enchanting.twisted": "Викручений",
     "info.apothic_enchanting.corrupted": "Негативний",
     "info.apothic_enchanting.enchanting": "Столи зачарування тепер можуть перевищувати 30 рівнів. Деякі зачарування можна побачити лише після 30 рівня.",
     "gui.apothic_enchanting.enchant.eterna": "Етерна",
     "gui.apothic_enchanting.enchant.quanta": "Кванта",
     "gui.apothic_enchanting.enchant.arcana": "Аркана",
-    "gui.apothic_enchanting.enchant.stability": "Квантічна стабільність ",
+    "gui.apothic_enchanting.enchant.stability": "Квантична стабільність ",
     "info.apothic_enchanting.ench_stats": "Характеристики зачарування:",
     "info.apothic_enchanting.eterna": " — Етерна: %s",
     "info.apothic_enchanting.quanta": " — Кванта: %s%%",
     "info.apothic_enchanting.arcana": " — Аркана: %s%%",
     "info.apothic_enchanting.clues": " — Підказки зачарування: %s",
-    "info.apothic_enchanting.allows_treasure": " — Дозволяє скарбні зачарування",
+    "info.apothic_enchanting.allows_treasure": " — Додає скарбні зачарування",
     "info.apothic_enchanting.provides_stability": " — Надає квантичну стабільність",
     "info.apothic_enchanting.filter": "Фільтр зачарувань:",
     "info.apothic_enchanting.eterna.p": " — Етерна: +%s (Макс. %s)",
@@ -66,6 +74,8 @@
     "gui.apothic_enchanting.enchant.eterna.desc": " — Магічна енергія",
     "gui.apothic_enchanting.enchant.eterna.desc2": "Установлює макс. рівень зачарування.",
     "gui.apothic_enchanting.enchant.eterna.desc3": "Поточне значення: %s/%s",
+    "gui.apothic_enchanting.enchant.eterna.limited": "Обмежено до %s вашим максимальним атрибутом етерни",
+    "gui.apothic_enchanting.enchant.eterna.limited.world_tier": "Обмежено до %s вашим світовим рівнем (CTRL+T)",
     "gui.apothic_enchanting.enchant.quanta.desc": " — Чистий хаос",
     "gui.apothic_enchanting.enchant.quanta.desc2": "Збільшує основну випадковість,",
     "gui.apothic_enchanting.enchant.quanta.desc3": "зменшує негативні ефекти.",
@@ -88,7 +98,7 @@
     "info.apothic_enchanting.percent_at_most": "Але не більше ніж: %s%%",
     "info.apothic_enchanting.eterna_exact": "Потрібно точно: %s/%s",
     "info.apothic_enchanting.percent_exact": "Потрібно точно: %s%%",
-    "recipes.apothic_enchanting.infusion": "Вливання зачарування",
+    "recipes.apothic_enchanting.infusion": "Уливання зачарування",
     "info.apothic_enchanting.book_range": "Дальність потужности: [%s, %s]",
     "info.apothic_enchanting.discoverable": "Досліджуване",
     "info.apothic_enchanting.discoverable.not": "Не досліджуване",
@@ -102,9 +112,9 @@
     "info.apothic_enchanting.filtering_shelf2": "Надає етерну та аркану залежно від кількости вставлених книг.",
     "info.apothic_enchanting.limit": "[Ліміт: %s]",
 
-    "enchantment.apothic_enchanting.infusion": "Вливання",
+    "enchantment.apothic_enchanting.infusion": "Уливання",
     "enchantment.apothic_enchanting.infusion.desc": "Заповнювач для створення чар.",
-    
+
     "enchantment.apothic_enchanting.mounted_strike": "Кінний удар",
     "enchantment.apothic_enchanting.mounted_strike.desc": "Завдає додаткової шкоди на коні.",
 
@@ -122,7 +132,7 @@
 
     "enchantment.apothic_enchanting.icy_thorns": "Льодяні шипи",
     "enchantment.apothic_enchanting.icy_thorns.desc": "Уповільнює нападників.",
-    
+
     "enchantment.apothic_enchanting.bane_of_illagers": "Загибель розбійників",
     "enchantment.apothic_enchanting.bane_of_illagers.desc": "Збільшує шкоду проти розбійників.",
 
@@ -146,7 +156,7 @@
     "item.apothic_enchanting.improved_scrap_tome": "Том вищого злому",
     "item.apothic_enchanting.extraction_tome": "Том вилучення",
     "item.apothic_enchanting.warden_tendril": "Вусик боронителя",
-    "item.apothic_enchanting.infused_breath": "Влите дихання дракона",
+    "item.apothic_enchanting.infused_breath": "Улите дихання дракона",
     "item.apothic_enchanting.flimsy_ender_lead": "Надуманий повідець Енду",
     "item.apothic_enchanting.flimsy_ender_lead.desc": "Може захоплювати та транспортувати тварин.",
     "item.apothic_enchanting.ender_lead": "Повідець Енду",
@@ -166,7 +176,7 @@
     "jukebox_song.apothic_enchanting.arcana": "Фірел — Arcana",
     "subtitle.apothic_enchanting.music_disc.arcana": "Фірел — Arcana",
 
-    "info.apothic_enchanting.tome_error": "Підроблений предмет — натисність ПКМ в повітрі, щоб перетворити на зачаровану книгу.",
+    "info.apothic_enchanting.tome_error": "Підроблений предмет — натисніть ПКМ в повітрі, щоб перетворити на зачаровану книгу.",
     "info.apothic_enchanting.other_tome": "Приймає різноманітні зачарування.",
     "info.apothic_enchanting.helmet_tome": "Приймає зачарування шолома.",
     "info.apothic_enchanting.chestplate_tome": "Приймає зачарування нагрудника.",
@@ -198,7 +208,7 @@
     "enchantment.apothic_enchanting.berserkers_fury": "Лють берсерка",
     "enchantment.apothic_enchanting.berserkers_fury.desc": "Входьте в гнів, коли отримуєте шкоду. [⌛ ​​0:45]",
 
-    "enchantment.apothic_enchanting.knowledge_of_the_ages": "Знання викидів",
+    "enchantment.apothic_enchanting.knowledge_of_the_ages": "Знання віків",
     "enchantment.apothic_enchanting.knowledge_of_the_ages.desc": "Здобич ворогів безпосередньо перетворюються на досвід.",
 
     "enchantment.apothic_enchanting.natures_blessing": "Благо природи",
@@ -209,7 +219,7 @@
 
     "enchantment.apothic_enchanting.magic_protection": "Окультна відраза",
     "enchantment.apothic_enchanting.magic_protection.desc": "Магічна шкода, завдана користувачеві, зменшена.",
-    
+
     "enchantment.apothic_enchanting.crescendo_of_bolts": "Дублювання",
     "enchantment.apothic_enchanting.crescendo_of_bolts.desc": "Ваш арбалет може стріляти додатково за одне перезавантаження.",
 
@@ -230,11 +240,11 @@
 
     "enchantment.apothic_enchanting.spearfishing": "Списорибалка",
     "enchantment.apothic_enchanting.spearfishing.desc": "Убивство кинутим тризубцем може зловити рибу.",
-    
+
     "enchantment.apothic_enchanting.endless_quiver": "Вічний сагайдак",
     "enchantment.apothic_enchanting.endless_quiver.desc": "Робить усі стріли нескінченними.",
 
-    "menu.apothic_enchanting.library": "Бібліолтека зачарування",
+    "menu.apothic_enchanting.library": "Бібліотека зачарування",
     "tooltip.enchlib.capacity": "Місткість рівня: %s",
     "tooltip.enchlib.max_lvl": "Макс. рівнів доступно: %s",
     "tooltip.enchlib.points": "Одиниць містить: %s/%s",
@@ -260,17 +270,17 @@
     "info.apothic_enchanting.anvil_at": "Кування на рівні %s",
     "info.apothic_enchanting.anvil_xp_cost": "Необроблена вартість досвіду: %s",
 
-    "menu.apothic_enchanting.enchanting_info": "Достіпні зачарування",
+    "menu.apothic_enchanting.enchanting_info": "Доступні зачарування",
     "info.apothic_enchanting.slider_power": "Потужність: %s",
-    "info.apothic_enchanting.enchinfo_level": "Рівенб: %s",
+    "info.apothic_enchanting.enchinfo_level": "Рівень: %s",
     "info.apothic_enchanting.enchinfo_weight": "Вага: %s (%s)",
     "info.apothic_enchanting.enchinfo_chance": "Шанс: %s",
     "info.apothic_enchanting.enchinfo_slot": "Слот зачарування %s",
     "info.apothic_enchanting.enchinfo_minpow": "Мін. потужність: %s",
     "info.apothic_enchanting.enchinfo_maxpow": "Макс. потужність: %s",
-    
+
     "rarity.apothic_enchanting.common": "Звичайна",
-    "rarity.apothic_enchanting.uncommon": "незвичайна",
+    "rarity.apothic_enchanting.uncommon": "Незвичайна",
     "rarity.apothic_enchanting.rare": "Рідкісна",
     "rarity.apothic_enchanting.very_rare": "Дуже рідкісна",
 
@@ -279,49 +289,49 @@
 
     "advancements.apothic_enchanting.enchantment": "Таємниця зачарування",
     "advancements.apothic_enchanting.enchantment.desc": "Отримайте стіл зачарування і починіть відкривати таємниці",
-    
+
     "advancements.apothic_enchanting.30ench": "Основи",
     "advancements.apothic_enchanting.30ench.desc": "Зачаруйте предмет на рівні 30",
-    
+
     "advancements.apothic_enchanting.60ench": "Опанування пекла та моря",
     "advancements.apothic_enchanting.60ench.desc": "Зачаруйте предмет на рівні 60",
-    
+
     "advancements.apothic_enchanting.80ench": "Зачарування із глибин",
     "advancements.apothic_enchanting.80ench.desc": "Зачаруйте предмет на рівні 80",
-    
+
     "advancements.apothic_enchanting.100ench": "Драконячі зачарування",
     "advancements.apothic_enchanting.100ench.desc": "Зачаруйте предмет на рівні 100",
-    
+
     "advancements.apothic_enchanting.bookshelf": "Місцевий бібліотекар",
     "advancements.apothic_enchanting.bookshelf.desc": "Змайструйте книжкову полицю",
-    
+
     "advancements.apothic_enchanting.hellshelf": "Хаос пекла",
     "advancements.apothic_enchanting.hellshelf.desc": "Отримайте пекельну полицю",
-    
+
     "advancements.apothic_enchanting.upgrade_hellshelf": "Опанування пекла",
-    "advancements.apothic_enchanting.upgrade_hellshelf.desc": "Оновіть влиту пекельну полицю",
-    
+    "advancements.apothic_enchanting.upgrade_hellshelf.desc": "Оновіть улиту пекельну полицю",
+
     "advancements.apothic_enchanting.deepshelf": "Заглиблення в темряву",
     "advancements.apothic_enchanting.deepshelf.desc": "Пробудіть дрімучу глибополицю",
-    
+
     "advancements.apothic_enchanting.sculkshelf": "Обіймаючи скалк",
     "advancements.apothic_enchanting.sculkshelf.desc": "Змайструйте скалкполицю за допомогою вусика боронителя",
-    
+
     "advancements.apothic_enchanting.endshelf": "Чарівник-дракоборець",
     "advancements.apothic_enchanting.endshelf.desc": "Отримайте влите дихання дракона і створіть полицю Енду",
-    
+
     "advancements.apothic_enchanting.upgrade_endshelf": "Кінцева полиця",
     "advancements.apothic_enchanting.upgrade_endshelf.desc": "Оновіть полицю Енду до драконячої полиці",
-    
+
     "advancements.apothic_enchanting.seashelf": "Чистота морів",
     "advancements.apothic_enchanting.seashelf.desc": "Отримати морську полицю",
-    
+
     "advancements.apothic_enchanting.infuse_seashelf": "Морське влиття",
     "advancements.apothic_enchanting.infuse_seashelf.desc": "Отримайте влиту морську полицю за допомогою влиття зачарування",
-    
+
     "advancements.apothic_enchanting.upgrade_seashelf": "Сон у холоді внизу",
     "advancements.apothic_enchanting.upgrade_seashelf.desc": "Покращте влиту морську полицю",
-    
+
     "advancements.apothic_enchanting.infuse_hellshelf": "Пекельне влиття",
     "advancements.apothic_enchanting.infuse_hellshelf.desc": "Отримайте влиту пекельну полицю за допомогою влиття зачарування",
 
@@ -329,7 +339,7 @@
     "advancements.apothic_enchanting.shieldench.desc": "Зачаруйте щит",
 
     "advancements.apothic_enchanting.altar": "Океанічне перетворення",
-    "advancements.apothic_enchanting.altar.desc": "Створіть вівтар морів, який може перетворити непотрібні зачаровані предмети на нову книгу",
+    "advancements.apothic_enchanting.altar.desc": "Змайструйте вівтар морів, який може перетворити непотрібні зачаровані предмети на нову книгу",
 
     "advancements.apothic_enchanting.splitting": "Подрібнювач зачарувань",
     "advancements.apothic_enchanting.splitting.desc": "Успішно опустіть ковадло, зачароване розщепленням, на зачаровану книгу, щоб розділити її на частини",
@@ -346,7 +356,7 @@
     "advancements.apothic_enchanting.quanta0": "Геть, Флюс",
     "advancements.apothic_enchanting.quanta0.desc": "Зачаруйте предмет на 0% кванти",
 
-    "advancements.apothic_enchanting.quanta50": "Introduction to Chaos",
+    "advancements.apothic_enchanting.quanta50": "Вступ до хаосу",
     "advancements.apothic_enchanting.quanta50.desc": "Зачаруйте предмет на 50% кванти",
 
     "advancements.apothic_enchanting.quanta100": "Кидання кубика",
@@ -367,12 +377,14 @@
     "advancements.apothic_enchanting.max_rectified": "Тільки найкраще",
     "advancements.apothic_enchanting.max_rectified.desc": "Зачарувати предмет за допомогою максимальних характеристик і кількісної стабільности",
 
-    "config.jade.plugin_apothic_enchanting.ench": "Апотичне зачарування",
+    "config.jade.plugin_apothic_enchanting.ench": "Apothic Enchanting",
 
     "rarity.enchantment.common": "Звичайне",
     "rarity.enchantment.uncommon": "Незвичайне",
     "rarity.enchantment.rare": "Рідкісне",
     "rarity.enchantment.very_rare": "Дуже рідкісне",
+
+    "text.apothic_enchanting.star_prefix": "🌟 ",
 
     "enchantment.level.0": "0",
     "enchantment.level.11": "XI",
