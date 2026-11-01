@@ -121,7 +121,7 @@
   "category": "ІНСТРУМЕНТИ",
 
   "quark_ponders.ponder.quark_skull_spike.header": "Наколотий череп",
-  "quark_ponders.ponder.quark_skull_spike.text_1": "Якщо розмістити череп скелета, голову зомбі або голову крипера над парканом, ви створите наколотий череп.",
+  "quark_ponders.ponder.quark_skull_spike.text_1": "Якщо розмістити череп скелета, голову зомбі або кріпера над парканом, ви створите наколотий череп.",
   "quark_ponders.ponder.quark_skull_spike.text_2": "Монстри поблизу в радіусі %s блоків та з прямої видимости помітять це та боягузливо втечуть.",
   "quark_ponders.ponder.quark_skull_spike.text_3": "Зауважте, що черепи візера-скелета та голова дракона для цього не підходять.",
   "quark_ponders.ponder.quark_skull_spike.text_4": "Боси та учасники набігу трохи хитріші й не попадуться на цей трюк.",
