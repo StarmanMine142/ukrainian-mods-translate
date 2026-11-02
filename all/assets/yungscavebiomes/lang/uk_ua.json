@@ -124,7 +124,7 @@
   "text.autoconfig.yungscavebiomes-fabric-1_20_1.option.config.frostedCaves.noiseParameters.offset": "Зміщення",
 
   "text.autoconfig.yungscavebiomes-fabric-1_20_1.option.config.other": "Інше",
-  "text.autoconfig.yungscavebiomes-fabric-1_20_1.option.config.other.vanillaBiomeModifications": "Модифікації ванілльного біому",
+  "text.autoconfig.yungscavebiomes-fabric-1_20_1.option.config.other.vanillaBiomeModifications": "Модифікації стандартного біому",
   "text.autoconfig.yungscavebiomes-fabric-1_20_1.option.config.other.vanillaBiomeModifications.dripstoneCaves": "Сталактитові печери",
   "text.autoconfig.yungscavebiomes-fabric-1_20_1.option.config.other.vanillaBiomeModifications.dripstoneCaves.temperatureMin": "Мінімальна температура",
   "text.autoconfig.yungscavebiomes-fabric-1_20_1.option.config.other.vanillaBiomeModifications.dripstoneCaves.temperatureMax": "Максимальна температура",
