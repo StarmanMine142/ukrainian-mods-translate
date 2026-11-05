@@ -1,6 +1,6 @@
 {
     "apothic_attributes.gui.attributes": "Атрибути",
-    "apothic_attributes.gui.base": "Базово: %s",
+    "apothic_attributes.gui.base": "Усталено: %s",
     "apothic_attributes.gui.min": "Мін.: %s",
     "apothic_attributes.gui.max": "Макс.: %s",
     "apothic_attributes.gui.modifiers": "Модифікатори",

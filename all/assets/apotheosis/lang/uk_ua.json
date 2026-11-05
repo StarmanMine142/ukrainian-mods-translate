@@ -388,16 +388,16 @@
     "affix.apotheosis:ranged/enchantment/prosperous": "Процвітний",
     "affix.apotheosis:ranged/enchantment/prosperous.suffix": "скарбошукач",
 
-    "affix.apotheosis:armor/dmg_reduction/deflective": "Відхиляння",
-    "affix.apotheosis:armor/dmg_reduction/deflective.suffix": "відхиляння",
+    "affix.apotheosis:armor/dmg_reduction/deflective": "Відбивний",
+    "affix.apotheosis:armor/dmg_reduction/deflective.suffix": "відбивання",
 
-    "misc.apotheosis.iron": "залізо",
-    "misc.apotheosis.diamond": "діамант",
-    "misc.apotheosis.netherite": "незерит",
+    "misc.apotheosis.iron": "заліза",
+    "misc.apotheosis.diamond": "діаманта",
+    "misc.apotheosis.netherite": "незериту",
 
     "affix.apotheosis:breaker/effect/omnetic": "Омнетичний",
     "affix.apotheosis:breaker/effect/omnetic.suffix": "синглярности",
-    "affix.apotheosis:breaker/effect/omnetic.desc": "Має %s ефективність проти всіх блоків.",
+    "affix.apotheosis:breaker/effect/omnetic.desc": "Має ефективність %s проти всіх блоків.",
 
     "misc.apotheosis.physical": "ударів",
     "misc.apotheosis.magic": "магії",
@@ -435,7 +435,7 @@
     "affix.apotheosis:melee/attribute/nullifying": "Обнулений",
     "affix.apotheosis:melee/attribute/nullifying.suffix": "магіламача",
 
-    "affix.apotheosis:melee/attribute/spellbreaking": "Заклинання",
+    "affix.apotheosis:melee/attribute/spellbreaking": "Заклинательний",
     "affix.apotheosis:melee/attribute/spellbreaking.suffix": "петрицитового ґолема",
 
     "affix.apotheosis:ranged/mob_effect/grievous": "Тяжкий",

@@ -28,7 +28,7 @@
     "stat.apothic_spawners.spawn_count": "Кількість породження",
     "stat.apothic_spawners.spawn_count.desc": "Кількість мобів, які породжуються одночасно.",
 
-    "stat.apothic_spawners.max_nearby_entities": "Макс. істот поруч",
+    "stat.apothic_spawners.max_nearby_entities": "Макс. мобів поруч",
     "stat.apothic_spawners.max_nearby_entities.desc": "Загальна кількість мобів, дозволених поруч.",
 
     "stat.apothic_spawners.req_player_range": "Дільність активації",
@@ -78,7 +78,7 @@
     "advancements.apothic_spawners.spawner.root": "Apothic Spawners",
     "advancements.apothic_spawners.spawner.root.desc": "Породжувачі можна збирати та модифікувати, дивіться JEI для деталей",
     "advancements.apothic_spawners.spawner": "Апотичні породжувачі",
-    "advancements.apothic_spawners.spawner.desc": "Зберіть породжувач мобів за допомогою шовкового дотику",
+    "advancements.apothic_spawners.spawner.desc": "Заберіть породжувач мобів за допомогою шовкового дотику",
     "advancements.apothic_spawners.capturing": "Захоплено!",
     "advancements.apothic_spawners.capturing.desc": "Отримайте яйце виклику з моба, використовуючи зачарування «Захоплення»",
     "advancements.apothic_spawners.modifier": "Трохи налаштувань…",
@@ -89,8 +89,8 @@
     "advancements.apothic_spawners.maxdelay.desc": "Зменшіть максимальну затримку породження до 20",
     "advancements.apothic_spawners.mindelay": "Я — швидкість",
     "advancements.apothic_spawners.mindelay.desc": "Зменшіть мінімальну затримку породження до 20",
-    "advancements.apothic_spawners.nearbyents": "Створення орди",
-    "advancements.apothic_spawners.nearbyents.desc": "Збільшіть максимальну кількість істот поруч до 32",
+    "advancements.apothic_spawners.nearbyents": "Породження орди",
+    "advancements.apothic_spawners.nearbyents.desc": "Збільшіть максимальну кількість мобів поруч до 32",
     "advancements.apothic_spawners.playerrange": "Далеко від бою",
     "advancements.apothic_spawners.playerrange.desc": "Збільшіть діапазон активації породжувача до 48",
     "advancements.apothic_spawners.spawnrange": "Моби на милі навколо",
@@ -106,10 +106,9 @@
     "advancements.apothic_spawners.noai": "Відкачка мізків",
     "advancements.apothic_spawners.noai.desc": "Вимкніть інтелект мобів для породжувача",
     "advancements.apothic_spawners.ultimate_spawner": "Абсолютний породжувач",
-    "advancements.apothic_spawners.ultimate_spawner.desc": "Створіть породжувач з мінімальними затримками, керуванням редстоуном, без інтелекту, що ігнорує умови породження та гравців",
+    "advancements.apothic_spawners.ultimate_spawner.desc": "Створіть породжувач з мінімальною затримкою, керуванням редстоуном, без інтелекту, що ігнорує умови породження та гравців",
 
     "enchantment.level.0": "0",
 
-    "emi.category.apothic_spawners.spawner": "Модифікація породжувача",
     "fml.menu.mods.info.description.apothic_spawners": "Модуль породжувачів Apotheosis, що дозволяє добувати шовковим дотиком та модифікувати."
 }
