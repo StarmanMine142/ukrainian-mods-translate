@@ -70,7 +70,7 @@
   "attribute.name.irons_lib.experience_gained": "отримання досвіду",
   "attribute.name.irons_lib.experience_gained.desc": "Відсоткове збільшення кількости досвіду, що випадає з мобів та блоків.",
   "attribute.name.irons_lib.arrow_damage": "шкоди від стріл",
-  "attribute.name.irons_lib.arrow_damage.desc": "Відсоткове збільшення шкоди від снарядів подбіних стрілам.",
+  "attribute.name.irons_lib.arrow_damage.desc": "Відсоткове збільшення шкоди від снарядів подібних стрілам.",
   "attribute.name.irons_lib.projectile_damage": "шкоди від снарядів",
   "attribute.name.irons_lib.projectile_damage.desc": "Відсоткове збільшення шкоди від усіх видів снарядів.",
   "attribute.name.irons_lib.crit_damage": "критичної шкода",
