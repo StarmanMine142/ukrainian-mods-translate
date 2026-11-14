@@ -31,7 +31,7 @@
   "block.irons_lib.player_statue.pose.at_guard": "На варті",
 
   "tooltip.irons_lib.shift_tooltip": "[%s] +",
-  "tooltip.irons_lib.transmog_title": "♦ Трансмог патрона: %s",
+  "tooltip.irons_lib.transmog_title": "♦ Трансмог петрона: %s",
   "tooltip.irons_lib.transmog_failure": "Відсутні права петрона",
   "tooltip.irons_lib.transmog_option.remove": "Видалити трансмог",
   "tooltip.irons_lib.transmog_option.title": "Трансмог петрона:",
