@@ -1,0 +1,34 @@
+{
+  "block.grounded.silt": "Мул",
+  "block.grounded.grassy_silt": "Трав'яний мул",
+  "block.grounded.silt_path": "Муляна стежка",
+  "block.grounded.coarse_silt": "Загрубілий мул",
+  "block.grounded.silty_farmland": "Муляна рілля",
+
+  "block.grounded.sandy_dirt": "Піщаний ґрунт",
+  "block.grounded.grassy_sandy_dirt": "Трав'яний піщаний ґрунт",
+  "block.grounded.sandy_dirt_path": "Стежка з піщаного ґрунту",
+  "block.grounded.coarse_sandy_dirt": "Загрубілий піщаний ґрунт",
+  "block.grounded.sandy_farmland": "Піщана рілля",
+
+  "block.grounded.earthen_clay": "Земляна глина",
+  "block.grounded.grassy_earthen_clay": "Трав'яна земляна глина",
+  "block.grounded.earthen_clay_path": "Стежка із земляної глини",
+  "block.grounded.coarse_earthen_clay": "Загрубіла земляна глина",
+  "block.grounded.earthen_clay_farmland": "Рілля із земляної глини",
+
+  "block.grounded.permafrost": "Вічна мерзлота",
+  "block.grounded.grassy_permafrost": "Трав'яна вічна мерзлота",
+  "block.grounded.coarse_permafrost": "Загрубіла вічна мерзлота",
+  "block.grounded.permafrost_path": "Стежка з вічної мерзлоти",
+
+  "block.grounded.loam": "Суглина",
+  "block.grounded.grassy_loam": "Трав'яна суглина",
+  "block.grounded.loamy_farmland": "Суглинове рілля",
+
+  "block.grounded.mulch_block": "Мульча",
+  "block.grounded.nulch_block": "Нульча",
+
+  "modmenu.descriptionTranslation.grounded": "Нові різновиди ґрунту, що урізноманітнять ваш світ.",
+  "fml.menu.mods.info.description.grounded": "Нові різновиди ґрунту, що урізноманітнять ваш світ."
+}
