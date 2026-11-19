@@ -8,7 +8,7 @@
 
 Покращено переклад  <br>
 Оновлено переклад <br>
-Оновлено і покращено переклад 
+Оновлено і покращено переклад [Iron's Spells 'n Spellbooks](https://modrinth.com/mod/irons-spells-n-spellbooks)
 
 Видалено переклад
 
