@@ -2,7 +2,7 @@
 
 ### Оновлення #83
 
-Перекладено
+Перекладено [UTDR Plushies](https://modrinth.com/mod/utdr-plushies)
 
 Повернено переклад
 
